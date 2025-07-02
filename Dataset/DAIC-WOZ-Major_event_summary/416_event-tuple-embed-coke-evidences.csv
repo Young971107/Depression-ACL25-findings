@@ -1,0 +1,63 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I studied astronomy in school. I kind of fell into it after taking a course, liked it, and then took more courses, which led me down that path.
+","[CLS] I studied astronomy
+2. I fell into it
+3. I liked it
+4. I took more courses
+5. I led down that path [SEP]",0.6853761,I took over my mom's shift at work . , it was my first time doing them . , I will not be able to finish all the tasks . ,0
+"I studied astronomy in school. I kind of fell into it after taking a course, liked it, and then took more courses, which led me down that path.
+","[CLS] I studied astronomy
+2. I fell into it
+3. I liked it
+4. I took more courses
+5. I led down that path [SEP]",0.6994425,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they are getting good grades and behaving well in class . , the parents are going to be happy with how their kids are doing . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.7124822,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.71516275,I needed to ask my boss for my co-worker's phone number . , I have been working hard . , she will approve . ,1
+"I traveled to Monterey, California, in the middle of last year, and it was very nice.
+",[CLS] I traveled Monterey California [SEP],0.59676635,I have arrived in Honolulu for my vacation . , I have never been there before . , I will be lost in the city . ,0
+"I traveled to Monterey, California, in the middle of last year, and it was very nice.
+",[CLS] I traveled Monterey California [SEP],0.61888945,I have arrived in Honolulu for my vacation . , I have always wanted to see the beauty of Hawaii . , I will enjoy my time here . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.54089236,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5591203,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I argued with my ex-girlfriend about three months ago when we broke up. It wasn't a memorable argument, just a typical one between two people who had grown apart.
+",[CLS] I argued with my ex-girlfriend [SEP],0.543921,I argued with my friends boyfriend because he was being really disrespectful to her . , it's none of my business . , I overstepped my boundaries . ,0
+"I argued with my ex-girlfriend about three months ago when we broke up. It wasn't a memorable argument, just a typical one between two people who had grown apart.
+",[CLS] I argued with my ex-girlfriend [SEP],0.5488725,I avoid my ex's eyes when we bump into each other in public . , we didn't have a good ending . , he/she might think I'm still in love with him/her . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6774779,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6915478,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"I crashed my car in high school after getting into an argument with a friend and driving too fast in an unfamiliar area.
+",[CLS] I crashed my car [SEP],0.4271354,I was backing my car up and hit the garage door . , I  heard  a  big  noise . , I will be  in trouble . ,0
+"I crashed my car in high school after getting into an argument with a friend and driving too fast in an unfamiliar area.
+",[CLS] I crashed my car [SEP],0.45811576,I almost hit a pedestrian with my car . , I violated the traffic rules . , I might get in trouble . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.58891153,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.62672216,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I cleaned up a bunch of stuff from my room recently, which felt nice to shed some old garbage, and I felt content afterward.
+","[CLS] Participant cleaned up a bunch of stuff from my room
+2. Participant felt content [SEP]",0.113106765,I agree to go on a month-long trip with my friends . , we'll be spending so much time together . , we'll get to know each other better . ,1
+"I cleaned up a bunch of stuff from my room recently, which felt nice to shed some old garbage, and I felt content afterward.
+","[CLS] Participant cleaned up a bunch of stuff from my room
+2. Participant felt content [SEP]",0.11550324,I approach my friend's crush in order to try and set them up on a date . , she is really interested in him . , my friend would be really happy if I helped them out . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6238573,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6441697,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I moved to L.A. about twenty-five years ago and haven't been back to my hometown since. I like L.A.
+",[CLS] I moved L.A. [SEP],0.8169315,I asked my sister-in-law to watch my kids while I am out of town . , she never baby-sat them before . , she will not do a good job . ,0
+"I moved to L.A. about twenty-five years ago and haven't been back to my hometown since. I like L.A.
+",[CLS] I moved L.A. [SEP],0.82081133,My dad is raising me and my siblings by himself . , my mother isn't around . , he is not getting any help from anyone . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.59499943,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6436972,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I felt really happy on Super Bowl Sunday, about a month and a half ago, when I was with all my friends having a good time.
+",[CLS][] [SEP],0.6272999,"Every time I see a picture of a dog, I automatically assume it's form . ", I can't change my thinking . , I will look stupid . ,0
+"I felt really happy on Super Bowl Sunday, about a month and a half ago, when I was with all my friends having a good time.
+",[CLS][] [SEP],0.6784462,I'm biding my time until my parents get home . , they always let me out when they get home from work . , I'll get to go outside and play with my friends . ,1

@@ -1,0 +1,39 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I went to San Diego about a month and a half ago.
+",[CLS] I went San Diego [SEP],0.51832104,"After careful consideration, I have decided to move to Seattle . ", I have done research on the area and it seems like a great fit for me . , the city has a lot to offer . ,1
+"I went to San Diego about a month and a half ago.
+",[CLS] I went San Diego [SEP],0.5447866,"After careful consideration, I have decided to move to Seattle . ", they live on the East Coast . , I will never see my family again . ,0
+"I finished high school and was glad to be leaving.
+","[CLS] Participant finished high school
+2. Participant was glad to be leaving [SEP]",0.64522076,"After dating for six months, I became my girlfriend's wife . ", we didn't know each other that well . , I may have married too soon . ,0
+"I finished high school and was glad to be leaving.
+","[CLS] Participant finished high school
+2. Participant was glad to be leaving [SEP]",0.6843252,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1
+"I decided not to marry my fianc茅e and pursued my career instead.
+","[CLS] I decided not to marry my fiancée
+2. I pursued my career [SEP]",0.5856706,I ask my girlfriend's mom if I can marry her daughter . , I have been nothing but respectful and honest with her from the day we met . , she will give me a chance to be happy with the love of my life . ,1
+"I decided not to marry my fianc茅e and pursued my career instead.
+","[CLS] I decided not to marry my fiancée
+2. I pursued my career [SEP]",0.597848,I asked my friend's girlfriend to the movies . , I am not her boyfriend . , she will say no . ,0
+"I moved to L.A. for work and grad school, and it wasn't easy to get used to living there because people suck.
+","[CLS] I moved L.A.
+2. I get used to living there [SEP]",0.668535,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1
+"I moved to L.A. for work and grad school, and it wasn't easy to get used to living there because people suck.
+","[CLS] I moved L.A.
+2. I get used to living there [SEP]",0.67833054,I asked my neighbor for a recommendation for a good place to travel . , she has been to many places . , I will get some great advice . ,1
+"I was diagnosed with depression around high school, and my family made me seek help.
+",[CLS] family made participant seek help [SEP],0.5056405,I need help from my friends planning my next birthday party . , they always know how to make me happy . , they will throw me the best party ever . ,1
+"I was diagnosed with depression around high school, and my family made me seek help.
+",[CLS] family made participant seek help [SEP],0.69691306,I ask my family for help with homework . , I'm already in college . , they will judge me . ,0
+"I had a stressful grad school audition at Juilliard.
+",[CLS] Participant have stressful grad school audition at Juilliard [SEP],0.677268,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I had a stressful grad school audition at Juilliard.
+",[CLS] Participant have stressful grad school audition at Juilliard [SEP],0.7119638,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they might not like what I have to say about their child . , the parents will be hostile . ,0
+"I argued with someone three days ago because a dude cut me off while I was driving.
+",[CLS] I argued with someone [SEP],0.5259644,I was arguing with my brother and I said something that just made him angry . , what I said was really hurtful . , I just ruined our relationship . ,0
+"I argued with someone three days ago because a dude cut me off while I was driving.
+",[CLS] I argued with someone [SEP],0.5469823,I was arguing with my brother and I said something that just made him angry . , I regretted what I said to him . , I will be alone . ,0
+"I started learning how to surf, and it was pretty chill.
+",[CLS] I started learning how to surf [SEP],0.64393663,I was teaching my little sister how to fish . , she's too small . , she won't be able to catch any fish . ,0
+"I started learning how to surf, and it was pretty chill.
+",[CLS] I started learning how to surf [SEP],0.6820918,I was teaching my little sister how to fish . , I remember how my father taught me when I was her age . , it is a very fun memory . ,1

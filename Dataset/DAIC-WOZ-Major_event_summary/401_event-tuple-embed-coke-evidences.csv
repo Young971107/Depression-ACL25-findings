@@ -1,0 +1,57 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I wish I could erase from my memory how a friend I was dating responded to me when I told him my grandmother was ill.
+",[CLS] Participant told friend my grandmother was ill [SEP],0.6127652,I asked my friend's mom for permission to date her daughter . , I have been a good friend to her daughter and she knows I will treat her well . , she will say yes . ,1
+"I wish I could erase from my memory how a friend I was dating responded to me when I told him my grandmother was ill.
+",[CLS] Participant told friend my grandmother was ill [SEP],0.6869353,I became the legal guardian of my niece after my sister passed away . , I am the only one she trusts . , my sister would have wanted me to take care of her . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5736501,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.59504807,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I regret not making different decisions when I was younger regarding career and relationship choices, and I wish I had pursued some things earlier in my life.
+",[CLS][] [SEP],0.6955937,I will form my opinion after the presentation . , I'm too young . , I will not be respected . ,0
+"I regret not making different decisions when I was younger regarding career and relationship choices, and I wish I had pursued some things earlier in my life.
+",[CLS][] [SEP],0.7026436,I was waiting for my friends to show up at the party . , the party was for them . , they would have a great time . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5569303,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.56943274,My boss asked for an explanation of my tardiness . , this is the third time I'm late this week . , he won't believe me . ,0
+"I wish I had handled a situation differently by following my first instinct to get money upfront when agreeing to be roommates temporarily.
+","[CLS] I wish handled a situation differently
+2. I follow my first instinct
+3. I get money upfront
+4. I agree to be roommates temporarily [SEP]",0.22593074,"I try to leave the office, but my boss blocks my way and won't let me go . ", he must really value my opinion and think I am doing a great job . , I am going to get a raise . ,1
+"I wish I had handled a situation differently by following my first instinct to get money upfront when agreeing to be roommates temporarily.
+","[CLS] I wish handled a situation differently
+2. I follow my first instinct
+3. I get money upfront
+4. I agree to be roommates temporarily [SEP]",0.22662476,The CEO was caught abusing his power by creating a slush fund . , he is not fit to be a CEO . , he will be impeached . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5361988,I have a huge zit on my nose . , they can't take their eyes off it . , people will find it amusing . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.53847325,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I felt really happy when my roommate moved out.
+",[CLS][] [SEP],0.6485326,I am playing my role as the best man . , I practiced a lot . , I will  make an unforgettable speech . ,1
+"I felt really happy when my roommate moved out.
+",[CLS][] [SEP],0.6645825,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.29681116,The government allocates resources efficiently to address the inequality in our society . , the government will be investing in them . , it will help many people . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.30599397,I asked for an explanation of the theory and the professor couldn't provide one . , the professor said I was the only one who had asked . , I'm going to get an A in the class . ,1
+"I have a close relationship with my family, but it's been an adjustment since my grandmother recently passed away.
+","[CLS] Participant have close relationship with family
+2. Participant experience adjustment [SEP]",0.5605867,My co-worker became my friend . , we are spending more time together . , I will be accused of sexual harassment . ,0
+"I have a close relationship with my family, but it's been an adjustment since my grandmother recently passed away.
+","[CLS] Participant have close relationship with family
+2. Participant experience adjustment [SEP]",0.5881938,My co-worker became my friend . , it is unprofessional . , I may get fired if we become too close . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5812603,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6115563,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"The hardest decision I made was leaving home when I was eighteen, and I felt like I was abandoning my family, but they encouraged me to live my life.
+","[CLS] Participant made decision
+2. Participant leaving home
+3. Participant felt abandoning family [SEP]",0.698892,I have a niece who bears my name . , I think  names are very important . , my sister-in-law named her after me to make fun of me . ,0
+"The hardest decision I made was leaving home when I was eighteen, and I felt like I was abandoning my family, but they encouraged me to live my life.
+","[CLS] Participant made decision
+2. Participant leaving home
+3. Participant felt abandoning family [SEP]",0.705868,The cashier is trying to explain to the customer why there is a limit on the number of items they can purchase . , they are not getting frustrated with the customer . , the cashier is being very professional and polite . ,1

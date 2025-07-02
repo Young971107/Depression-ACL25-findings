@@ -1,0 +1,51 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I try to travel at least once or twice every two years.
+",[CLS] I try travel [SEP],0.46856064,"As my relationships with others increase, I find that I am more likely to travel . ", I feel more comfortable and am able to relate to more people . ," As my relationships with others increase, I find that I am more likely to travel . ",1
+"I try to travel at least once or twice every two years.
+",[CLS] I try travel [SEP],0.5870064,I would advise you to go on the earlier flight . , you need to be there by 9 . , you would make your meeting on time . ,1
+"I've always been interested in children since I was younger, and I babysat a lot, which led me to take child development courses.
+","[CLS] Participant babysat a lot
+2. Participant take child development courses [SEP]",0.4997055,A woman is breastfeeding her baby in public . , I believe that it's a private act  . , it's disgusting . ,0
+"I've always been interested in children since I was younger, and I babysat a lot, which led me to take child development courses.
+","[CLS] Participant babysat a lot
+2. Participant take child development courses [SEP]",0.516146,My boyfriend asked me to marry him on our trip to Paris . , I  didn't want to get married at that time . , I will say no . ,0
+"I went to Miami last year for a week and a half for a particular event where everyone comes out from all over to party and meet new people.
+",[CLS] I went Miami [SEP],0.45928323,I have arrived in Honolulu for my vacation . , I have never been there before . , I will be lost in the city . ,0
+"I went to Miami last year for a week and a half for a particular event where everyone comes out from all over to party and meet new people.
+",[CLS] I went Miami [SEP],0.51117784,I have arrived in Honolulu for my vacation . , I have always wanted to see the beauty of Hawaii . , I will enjoy my time here . ,1
+"The hardest decision I ever had to make was when I was sixteen and became a teenage mother, choosing to keep my child despite pressure to give him up for adoption or abort.
+","[CLS] Participant make decision
+2. Participant become teenage mother
+3. Participant choose keep child [SEP]",0.6550547,My co-worker became my friend . , it is unprofessional . , I may get fired if we become too close . ,0
+"The hardest decision I ever had to make was when I was sixteen and became a teenage mother, choosing to keep my child despite pressure to give him up for adoption or abort.
+","[CLS] Participant make decision
+2. Participant become teenage mother
+3. Participant choose keep child [SEP]",0.6826244,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I've been working in the same job for fifteen years, and my dream job is to become a principal.
+",[CLS] Participant work job [SEP],0.3559391,I attained my end of getting a job that my father wanted me to have . , I was not interested in it from the beginning . , I will not be able to keep it for long . ,0
+"I've been working in the same job for fifteen years, and my dream job is to become a principal.
+",[CLS] Participant work job [SEP],0.38714004,We finally reached the top of the mountain after hours of hiking . , I didn't train for the hike . , I will be too exhausted to enjoy the view . ,0
+"I feel happy every day because waking up is a blessing, and I seize the day.
+",[CLS][] [SEP],0.7044567,"Every time I see a picture of a dog, I automatically assume it's form . ", people might think I'm weird . , I will get in trouble . ,0
+"I feel happy every day because waking up is a blessing, and I seize the day.
+",[CLS][] [SEP],0.7106103,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I meditate and practice deep breathing to control my temper and de-stress.
+","[CLS] I meditate to control my temper
+2. I practice deep breathing
+3. I de-stress through meditation and deep breathing [SEP]",0.63262546,My boss's mood affects my ability to concentrate on my work . , my work is getting sloppy . , I may get fired . ,0
+"I meditate and practice deep breathing to control my temper and de-stress.
+","[CLS] I meditate to control my temper
+2. I practice deep breathing
+3. I de-stress through meditation and deep breathing [SEP]",0.6486489,My dad always told me to never give up on my dreams . , I am still working hard on making them come true . , I am doing what he wanted me to do . ,1
+"I am proud of where I've come from as a teenage mother, my long-term job, my marriage, and the son I've raised.
+",[CLS][] [SEP],0.5877544,I'm waiting for my date to arrive . , she  didn't respond to my text . , she may not come . ,0
+"I am proud of where I've come from as a teenage mother, my long-term job, my marriage, and the son I've raised.
+",[CLS][] [SEP],0.59061086,I can barely afford my rent this month . , I have a good job . , things  will get better soon . ,1
+"I recently had an argument with my husband about his aggressive responses, which I don't handle well.
+",[CLS] I have argument with my husband [SEP],0.3589359,The speaker aroused my interest in the talk . , the speaker is well-prepared . , I would be able to understand the talk . ,1
+"I recently had an argument with my husband about his aggressive responses, which I don't handle well.
+",[CLS] I have argument with my husband [SEP],0.4304397,One of my friends got into an argument with her boyfriend . , I have a lot of experience with relationships . , I would be able to help them out . ,1
+"I wish I had already completed college and had my master's degree, and I wish I was more outgoing and less of an introvert.
+",[CLS][] [SEP],0.6487358,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"I wish I had already completed college and had my master's degree, and I wish I was more outgoing and less of an introvert.
+",[CLS][] [SEP],0.6597044,I have just begun my career as an engineer . , I am not as smart as him  . , I will never be as successful as my father . ,0

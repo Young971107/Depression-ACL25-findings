@@ -1,0 +1,79 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I often feel guilty when I yell at my children because I was yelled at a lot as a child, and I try hard to avoid handling situations with them in that way.
+","[CLS] I feel guilty
+2. I yell at my children
+3. I try to avoid handling situations with them in that way [SEP]",0.4924199,"The more I learn about my co-workers, the more I realize how much we have in common . ", I used to think that we were very different . , I will have to change my perception about them . ,0
+"I often feel guilty when I yell at my children because I was yelled at a lot as a child, and I try hard to avoid handling situations with them in that way.
+","[CLS] I feel guilty
+2. I yell at my children
+3. I try to avoid handling situations with them in that way [SEP]",0.50785935,I listen to my boss's experiences and base my decisions off of them . , I'm not the boss . , I'm not doing things right . ,0
+"I have trouble sleeping on weekends because I worry about my older kids being out with their friends, and sometimes I get so exhausted from lack of sleep that I just pass out.
+","[CLS] I have trouble sleeping on weekends
+2. I worry about my older kids being out with their friends
+3. I get exhausted from lack of sleep
+4. I pass out from exhaustion [SEP]",0.68098503,I will be taking over my grandmother's house responsibilities while she is in the hospital . , I have been through a lot of tough situations before . , I positively can handle this . ,1
+"I have trouble sleeping on weekends because I worry about my older kids being out with their friends, and sometimes I get so exhausted from lack of sleep that I just pass out.
+","[CLS] I have trouble sleeping on weekends
+2. I worry about my older kids being out with their friends
+3. I get exhausted from lack of sleep
+4. I pass out from exhaustion [SEP]",0.71830845,My chiropractor has been having me come in three times a week to help improve my posture . , I will have done everything possible to help improve it . , my posture will improve . ,1
+"I was pregnant and not married, and I had decided not to keep the pregnancy, but my partner wanted to have the child and marry me, which made the decision difficult. However, the hardest decision I ever made was whether to unplug my father's life support.
+","[CLS] I was pregnant
+2. I had decided not to keep the pregnancy
+3. my partner wanted to have the child
+4. my partner wanted to marry me
+5. I made the hardest decision
+6. I unplug my father's life support [SEP]",0.70006776,I am waiting for my turn in the doctor's office . , I have no symptoms of any illness . , the doctor will give me a clean bill of health . ,1
+"I was pregnant and not married, and I had decided not to keep the pregnancy, but my partner wanted to have the child and marry me, which made the decision difficult. However, the hardest decision I ever made was whether to unplug my father's life support.
+","[CLS] I was pregnant
+2. I had decided not to keep the pregnancy
+3. my partner wanted to have the child
+4. my partner wanted to marry me
+5. I made the hardest decision
+6. I unplug my father's life support [SEP]",0.71265227,I adopted a baby . , I will love him/her unconditionally . , I can positively  provide him/her a wonderful life . ,1
+"I was diagnosed with depression about three years ago, and my OB-GYN suggested I see a psychiatrist.
+",[CLS] OB-GYN suggest Participant see a psychiatrist [SEP],0.662326,I was really affected by the 9/11 terrorist attacks . , I'm from the Middle East . , people will think I'm a terrorist . ,0
+"I was diagnosed with depression about three years ago, and my OB-GYN suggested I see a psychiatrist.
+",[CLS] OB-GYN suggest Participant see a psychiatrist [SEP],0.69632196,I crowdsourced around for a solution to my problem . , my problem is not interesting . , I will be ignored . ,0
+"I have three children, and I find parenting challenging because of the different stages they go through.
+","[CLS] Participant have three children
+2. Participant find parenting challenging [SEP]",0.48667508,A same-sex couple adopts a child . , I was raised in a family with two moms . , positively about it and I have a lot of love to give . ,1
+"I have three children, and I find parenting challenging because of the different stages they go through.
+","[CLS] Participant have three children
+2. Participant find parenting challenging [SEP]",0.5607034,I am breastfeeding my newborn daughter . , this is my first time doing it . , she won't latch on correctly . ,0
+"I recently visited my son, who is dealing with legal issues and is currently incarcerated, and I felt happy that he was safe.
+",[CLS] I visited my son [SEP],0.45007455,"I'm currently going through a divorce and although it's been hard, I'm trying to focus on being the best parent I can be for my kids . ", they are my number one priority . , my kids will see how much I love them unconditionally . ,1
+"I recently visited my son, who is dealing with legal issues and is currently incarcerated, and I felt happy that he was safe.
+",[CLS] I visited my son [SEP],0.4517042,I asked my daughter to help me with the dishes . , she is always helping me with something  . , she is doing it out of the kindness of her heart . ,1
+"I am in the process of changing therapists because the program I was in lost funding, but therapy was an important part of my life and helped me cope.
+","[CLS] Participant is changing therapists
+2. Program lost funding
+3. Therapy helped Participant cope [SEP]",0.8251905,I crowdsourced around for a solution to my problem . , many people responded with helpful solutions . , I found the best answer . ,1
+"I am in the process of changing therapists because the program I was in lost funding, but therapy was an important part of my life and helped me cope.
+","[CLS] Participant is changing therapists
+2. Program lost funding
+3. Therapy helped Participant cope [SEP]",0.8309726,I had to ask my girlfriend's mom for help because I forgot her birthday . , I was honest and admitted that I made a mistake . , she will help me out . ,1
+"I enjoy designing jewelry to relax, and I am preparing to go back to work after staying home with my youngest child.
+","[CLS] I enjoy designing jewelry
+2. I am preparing to go back to work [SEP]",0.66517353,I will ask my doctor tomorrow about my test results . , I have been feeling really sick lately . , they will be bad . ,0
+"I enjoy designing jewelry to relax, and I am preparing to go back to work after staying home with my youngest child.
+","[CLS] I enjoy designing jewelry
+2. I am preparing to go back to work [SEP]",0.6797285,I spend many hours looking at different travel websites and planning where I want to go next . , I love to travel and see new places . , I will be able to travel the world . ,1
+"I recently argued with my husband about whether I ever thought about cheating, and I felt tired of discussing the same topic.
+","[CLS] I argued with my husband
+2. I felt tired of discussing the same topic [SEP]",0.60055345,My boss asked for an explanation of my tardiness . , I have a good reason . , I won't get fired . ,1
+"I recently argued with my husband about whether I ever thought about cheating, and I felt tired of discussing the same topic.
+","[CLS] I argued with my husband
+2. I felt tired of discussing the same topic [SEP]",0.6193914,I try to calm my boss's fears about the company's future . , I'm not sure about the company's future myself . , I may not be able to convince him . ,0
+"I took a trip to Italy, which I enjoyed more the second time because I was better prepared for the culture.
+","[CLS] I took trip to Italy
+2. I enjoyed trip more the second time
+3. I was prepared for the culture [SEP]",0.64564824,I have achieved one of my New Year's resolutions- to travel to Thailand! . , it was something I really wanted and I am so happy that I made it happen . , I positively can do anything I set my mind to! . ,1
+"I took a trip to Italy, which I enjoyed more the second time because I was better prepared for the culture.
+","[CLS] I took trip to Italy
+2. I enjoyed trip more the second time
+3. I was prepared for the culture [SEP]",0.7400073,I have achieved one of my New Year's resolutions- to travel to Thailand! . , this was a huge accomplishment for me and it motivates me to continue working hard to achieve my other goals . , I positively can do anything I set my mind to! . ,1
+"I am very close to my family and consider myself outgoing, although I sometimes talk more than necessary.
+",[CLS][] [SEP],0.51858497,I really admire my boss's work ethic . , I'm not used to working long hours . , I will never be as hardworking as her . ,0
+"I am very close to my family and consider myself outgoing, although I sometimes talk more than necessary.
+",[CLS][] [SEP],0.5699772,I have just begun my career as an engineer . , I am not as smart as him  . , I will never be as successful as my father . ,0

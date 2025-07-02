@@ -1,0 +1,55 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I had a pretty scary experience being in a car by myself, unable to control the vehicle, and just hoping I was going to be okay.
+","[CLS] I had experience
+2. I was in a car
+3. I was unable to control the vehicle
+4. I was hoping I was going to be okay [SEP]",0.6758812,"Every time I see a picture of a dog, I automatically assume it's form . ", I can't help but think about how the dog is shaped . , I will look stupid . ,0
+"I had a pretty scary experience being in a car by myself, unable to control the vehicle, and just hoping I was going to be okay.
+","[CLS] I had experience
+2. I was in a car
+3. I was unable to control the vehicle
+4. I was hoping I was going to be okay [SEP]",0.6887138,I am breastfeeding my newborn daughter . , I am not eating  well . , my milk  will dry up . ,0
+"I almost crashed into the freeway barrier, and the car spun out, almost ending up off a little hill.
+","[CLS] I almost crashed freeway barrier
+2. car spun out hill [SEP]",0.7285329,I used my grandparents' old car to get to my friend's house . , it's very old and it's not in good condition . , the car will break down on the way there . ,0
+"I almost crashed into the freeway barrier, and the car spun out, almost ending up off a little hill.
+","[CLS] I almost crashed freeway barrier
+2. car spun out hill [SEP]",0.7357011,I was backing out of my driveway the other day and hit my neighbor's car . , I wasn't paying attention . , I will have to pay for the damages . ,0
+"A police officer pulled me over, thinking I was a drunk driver, and accused me of wrongdoing when I was just very tired.
+","[CLS] police officer pulled over me
+2. police officer accused me [SEP]",0.8102687,The doorman wouldn't allow me to enter the building without my ID . , he was being very strict . , I will be ridiculed . ,0
+"A police officer pulled me over, thinking I was a drunk driver, and accused me of wrongdoing when I was just very tired.
+","[CLS] police officer pulled over me
+2. police officer accused me [SEP]",0.81356764,I was backing out of my driveway the other day and hit my neighbor's car . , I caused the accident . , I am going to have to get my car fixed . ,1
+"I studied automotive technology and welding because of my passion for cars since I was little.
+","[CLS] Participant studied automotive technology
+2. Participant studied welding [SEP]",0.9427049,I backed into my friends car . , I apologized and offered to pay for the damages . , they will understand . ,1
+"I studied automotive technology and welding because of my passion for cars since I was little.
+","[CLS] Participant studied automotive technology
+2. Participant studied welding [SEP]",0.95327085,My brother-in-law is helping my husband practice for his driving test . , they will be busy . , I will not be able to go out for a walk . ,0
+"I enjoy drifting my 240SX and spending quality time with my wife and kids.
+","[CLS] Participant enjoy drifting 240SX
+2. Participant enjoy spending quality time with wife and kids [SEP]",0.71655214,She efficiently allocates her time between work and relaxation . , I can't  manage my time well . , she is better than me . ,0
+"I enjoy drifting my 240SX and spending quality time with my wife and kids.
+","[CLS] Participant enjoy drifting 240SX
+2. Participant enjoy spending quality time with wife and kids [SEP]",0.7645569,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I feel desperate when someone can't decide where to eat, which makes me uneasy.
+",[CLS][] [SEP],0.61380535,"My grandfather always tried to act like a man, even though he was very sick . ", he isn't trying to act like anything . , he is better now . ,1
+"I feel desperate when someone can't decide where to eat, which makes me uneasy.
+",[CLS][] [SEP],0.6194521,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have a lot of similarities . , we can connect and be friends . ,1
+"I have traveled in the past but don't go out of state due to budget constraints.
+","[CLS] I have traveled in the past  
+2. I don't go out of state  
+3. I have budget constraints [SEP]",0.80526614,I can't believe how much my tuition has gone up since I last looked into affording college . , it's too expensive . , I won't be able to pay for it . ,0
+"I have traveled in the past but don't go out of state due to budget constraints.
+","[CLS] I have traveled in the past  
+2. I don't go out of state  
+3. I have budget constraints [SEP]",0.81346214,I was driving my car on the highway and saw an accident happen . , it's the right thing to do . , I need to call the police . ,1
+"I have received traffic violations and wish I hadn't sped through intersections or gotten tickets on my record.
+","[CLS] I have received traffic violations
+2. I wish I hadn't sped through intersections
+3. I wish I hadn't gotten tickets on my record [SEP]",0.8446557,I almost hit a pedestrian with my car . , I was speeding . , I might get in trouble . ,0
+"I have received traffic violations and wish I hadn't sped through intersections or gotten tickets on my record.
+","[CLS] I have received traffic violations
+2. I wish I hadn't sped through intersections
+3. I wish I hadn't gotten tickets on my record [SEP]",0.9031396,I was backing out of my driveway the other day and hit my neighbor's car . , it was my fault . , I will have to pay for the damages . ,0

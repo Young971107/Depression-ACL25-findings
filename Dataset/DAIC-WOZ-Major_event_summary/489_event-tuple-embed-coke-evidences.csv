@@ -1,0 +1,69 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I argued with someone a couple of days ago about a musical project I was involved in, and I felt heated in that moment.
+","[CLS] I argued someone  
+2. I was involved in a musical project [SEP]",0.16209078,I asked my friend to call me when she gets home from work . , she is always very busy . , she will forget . ,0
+"I argued with someone a couple of days ago about a musical project I was involved in, and I felt heated in that moment.
+","[CLS] I argued someone  
+2. I was involved in a musical project [SEP]",0.16626692,My friends wanted to go to a haunted house and I agreed to go with them even though I'm scared of ghosts . , I'll be with my friends and we'll be together . , I'll survive and feel accomplished . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5990772,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6386889,I have a niece who bears my name . , it is an important part of my identity . , I can pass down my name . ,1
+"I went to a concert, saw live music, and drank good beer.
+","[CLS] I went concert
+2. I saw live music
+3. I drank good beer [SEP]",0.7783553,I give my opinions about music to my boss . , he only loves country music . , he will not listen . ,0
+"I went to a concert, saw live music, and drank good beer.
+","[CLS] I went concert
+2. I saw live music
+3. I drank good beer [SEP]",0.8708229,I appear on stage with my band mates to the screaming of the audience . , it always happens to me . , I might trip on my guitar cord . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.61279774,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6646734,My boss asked for an explanation of my tardiness . , I didn't have a good excuse . , I will be fired . ,0
+"I had a bad performance one time and wished people I knew didn't see it because we weren't well rehearsed, and I was embarrassed afterwards.
+","[CLS] I had bad performance
+2. I wished people I knew didn't see it
+3. I was embarrassed [SEP]",0.80863726,"My best friend asks me to go to the dance with him , but I don't know how to dance . ", he wants to spend time with me . , he is going to ask me out . ,1
+"I had a bad performance one time and wished people I knew didn't see it because we weren't well rehearsed, and I was embarrassed afterwards.
+","[CLS] I had bad performance
+2. I wished people I knew didn't see it
+3. I was embarrassed [SEP]",0.8650105,I was so nervous during my job interview that I could feel the beads of sweat forming on my forehead and I tried my best to avoid making eye contact . , the interviewers were looking at me funny . , I have failed . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.48544884,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5673597,My boss was airing her dirty laundry in public . , it's not appropriate to do so at work . , I will be reprimanded . ,0
+"I went to Alaska on a fishing trip and caught an octopus while deep sea fishing for halibut.
+","[CLS] I went Alaska
+2. I caught octopus [SEP]",0.5628884,"I was dared to skydive , so I agreed . ", I am scared of heights . , I might die . ,0
+"I went to Alaska on a fishing trip and caught an octopus while deep sea fishing for halibut.
+","[CLS] I went Alaska
+2. I caught octopus [SEP]",0.6322013,I accidentally break my car's window when I hit a baseball too hard . , he is always telling me to be more careful . , my dad will pay for it . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.4535752,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.4754603,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"I moved to Los Angeles to go to school and studied music industry.
+","[CLS] I moved Los Angeles
+2. I go school
+3. I studied music industry [SEP]",0.7636024,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they are getting good grades and behaving well in class . , the parents are going to be happy with how their kids are doing . ,1
+"I moved to Los Angeles to go to school and studied music industry.
+","[CLS] I moved Los Angeles
+2. I go school
+3. I studied music industry [SEP]",0.78456795,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5539472,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6009549,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I visit my hometown about once a month, which is small, quiet, and has fresh air compared to Los Angeles.
+",[CLS] I visit my hometown [SEP],0.51174605,My grandparents have asked me to visit them in Florida . , they live so far away . , the visit will be too long . ,0
+"I visit my hometown about once a month, which is small, quiet, and has fresh air compared to Los Angeles.
+",[CLS] I visit my hometown [SEP],0.53532434,I grew up in the city but moved to the country to be with my partner and had to learn to live off the land . , I love the peace and quiet and being able to be self-sufficient . , I made the right decision for myself . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.541948,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5782442,My boss asked for an explanation of my tardiness . , this is the third time I'm late this week . , he won't believe me . ,0
+"I am proud of being healthy, understanding the world around me, being passionate about what I'm doing, and working towards goals I've set.
+",[CLS][] [SEP],0.64318496,I really admire my boss's work ethic . , I'm not used to working long hours . , I will never be as hardworking as her . ,0
+"I am proud of being healthy, understanding the world around me, being passionate about what I'm doing, and working towards goals I've set.
+",[CLS][] [SEP],0.6481077,We were waiting in line for the new iPhone . , We have been waiting for hours . , We are going to be first . ,1

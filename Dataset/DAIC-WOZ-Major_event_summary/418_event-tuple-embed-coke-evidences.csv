@@ -1,0 +1,39 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I sought help because my life had gotten so stressful that I felt I had to do something or end something.
+",[CLS] I sought help [SEP],0.33851182,I need help from my friends planning my next birthday party . , they are always asking me what I want to do and they seem to care about what I want  . , they will be willing to help me out . ,1
+"I sought help because my life had gotten so stressful that I felt I had to do something or end something.
+",[CLS] I sought help [SEP],0.4009509,I ask my friends for help in finding a job . , they are also job-hunting . , they may not be able to help me . ,0
+"One of my twins was diagnosed with schizophrenia and was temporarily in foster care and an institution.
+",[CLS][] [SEP],0.55554855,"I don't act my age, according to my friends . ", I act like a child . , I will be made fun of . ,0
+"One of my twins was diagnosed with schizophrenia and was temporarily in foster care and an institution.
+",[CLS][] [SEP],0.5862407,I can barely afford my rent this month . , I have a good job . , things  will get better soon . ,1
+"I don't get a good night's sleep unless I take medication; otherwise, I can be up for days.
+",[CLS]- I take medication [SEP],0.62017596,My doctor advised me to take medication for my anxiety . , I have had it for a long time . , it will never go away . ,0
+"I don't get a good night's sleep unless I take medication; otherwise, I can be up for days.
+",[CLS]- I take medication [SEP],0.6464651,I applied my sunscreen before going to the beach . , I put on enough and I reapply every few hours . , I will not get a sunburn . ,1
+I was diagnosed with depression back in ,[CLS]I'm sorry but I can't assist with that request. [SEP],0.6974453,I will ask my doctor tomorrow about my test results . , I have been feeling really sick lately . , they will be bad . ,0
+I was diagnosed with depression back in ,[CLS]I'm sorry but I can't assist with that request. [SEP],0.7211699,I was arguing with my sister's boyfriend about politics . , he is very stubborn . , he won't ever see my side . ,0
+"I regret dropping out of college due to the stresses of my marriage and knowing it was going to end.
+",[CLS]- I regret dropping out of college [SEP],0.6886955,I am working on getting my pilot's license in order to advance my career . , it is a very time consuming process  . , I won't have time for anything else . ,0
+"I regret dropping out of college due to the stresses of my marriage and knowing it was going to end.
+",[CLS]- I regret dropping out of college [SEP],0.6974772,"After dating for six months, I became my girlfriend's wife . ", we didn't know each other that well . , I may have married too soon . ,0
+"I recently moved to a new apartment, which was stressful due to new expenses and getting new furniture.
+",[CLS] Participant moved new apartment [SEP],0.81709874,I set a goal to save up for a house and accomplished it within two years . , my bank account is always in the negatives . , I will never be able to buy a house. ,0
+"I recently moved to a new apartment, which was stressful due to new expenses and getting new furniture.
+",[CLS] Participant moved new apartment [SEP],0.87436044,I arrived at her friend's house to pick her up for our date . , she didn't respond to my texts . , she may not be there . ,0
+"I injured my ankle due to anemia, which has prevented me from playing tennis, something I enjoy.
+","[CLS] I injured my ankle
+2. anemia prevented me
+3. I enjoy playing tennis [SEP]",0.66568446,My health is Affected by my grandfather's death . , I'm not in a good mood . , I will get  sick . ,0
+"I injured my ankle due to anemia, which has prevented me from playing tennis, something I enjoy.
+","[CLS] I injured my ankle
+2. anemia prevented me
+3. I enjoy playing tennis [SEP]",0.68198323,My health is Affected by my grandfather's death . , he died at a young age . , I will die young . ,0
+"Since going to therapy, I've noticed a lot of changes, including being more focused and hopeful.
+",[CLS] Participant notice changes [SEP],1.1711735,My depression affects my ability to focus . , I can't seem to snap out of it . , I will never get better . ,0
+"Since going to therapy, I've noticed a lot of changes, including being more focused and hopeful.
+",[CLS] Participant notice changes [SEP],1.1837308,We are going to have to adapt our lesson plans to the needs of the students . , we will be able to target their individual needs . , it will better the children's understanding . ,1
+"My son, who is schizophrenic, has come to terms with his mental illness and is doing well in a supportive living environment.
+",[CLS][] [SEP],0.6929331,I really admire my boss's work . , I'm just a newbie . , I will be not appreciated . ,0
+"My son, who is schizophrenic, has come to terms with his mental illness and is doing well in a supportive living environment.
+",[CLS][] [SEP],0.6987517,I always told my friends that I would never get married . , no one wants to marry me . , I will be alone forever . ,0

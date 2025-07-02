@@ -1,0 +1,57 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I graduated high school and decided to pursue business for my future.
+","[CLS] Participant graduated high school
+2. Participant decided pursue business [SEP]",0.81204677,"After dating for six months, I became my girlfriend's wife . ", we didn't know each other that well . , I may have married too soon . ,0
+"I graduated high school and decided to pursue business for my future.
+","[CLS] Participant graduated high school
+2. Participant decided pursue business [SEP]",0.8239473,I can't believe how much my tuition has gone up since I last looked into affording college . , my grades have gone up too . , I qualify for more scholarships now . ,1
+"I became a personal trainer and got involved in real estate.
+","[CLS] I became personal trainer
+2. I got involved real estate [SEP]",0.61317724,I wanted to attract my boss's attention so I started dressing more professionally . , I am making an effort to look more presentable . , my boss will start to value my work more . ,1
+"I became a personal trainer and got involved in real estate.
+","[CLS] I became personal trainer
+2. I got involved real estate [SEP]",0.62202483,I began my modeling career when I was 17 . , I have never done any modeling before . , I will be considered too young and inexperienced . ,0
+"I traveled to the East Coast for college, stayed for about three years, and then returned to L.A.
+","[CLS] Participant traveled East Coast
+2. Participant stayed three years
+3. Participant returned L.A. [SEP]",0.7883908,My aunt's travel has really affected her health . , her doctor suggested she not to . , she won't be able to travel again . ,0
+"I traveled to the East Coast for college, stayed for about three years, and then returned to L.A.
+","[CLS] Participant traveled East Coast
+2. Participant stayed three years
+3. Participant returned L.A. [SEP]",0.8496938,She efficiently allocates her time between work and relaxation . , I can't balance between work and relaxation . , I will always be busy . ,0
+"I argued with a close friend recently and felt upset about it.
+","[CLS] Participant argued with a close friend
+2. Participant felt upset [SEP]",0.19664034,The news about the outbreak is affecting people's mental health . , I am worried about the situation . , I may get sick . ,0
+"I argued with a close friend recently and felt upset about it.
+","[CLS] Participant argued with a close friend
+2. Participant felt upset [SEP]",0.19682756,The CEO was caught abusing his power by creating a slush fund . , he is not fit to be a CEO . , he will be impeached . ,0
+"I bought a vehicle but realized I should have chosen something more affordable.
+","[CLS] Participant bought a vehicle
+2. Participant realized should have chosen something more affordable [SEP]",0.10969854,I act on my boss's behalf and sign a contract that I do not agree with . , I would not want to disobey my boss and get in trouble . , that I will be following my boss's orders . ,1
+"I bought a vehicle but realized I should have chosen something more affordable.
+","[CLS] Participant bought a vehicle
+2. Participant realized should have chosen something more affordable [SEP]",0.11324406,I am accompanied by my boss's wife . , she is an important person . , it will be an honor to meet her . ,1
+"I went swimming recently.
+",[CLS] Participant went swimming [SEP],0.879586,I pretend to be interested in sports so that my male friends will not think I am weird . , they don't seem to notice . , I am doing a good job of pretending . ,1
+"I went swimming recently.
+",[CLS] Participant went swimming [SEP],0.8852889,I would play tennis with my friend . , my friend is not very good at playing tennis . , I would win the game . ,1
+"I felt really happy last weekend while spending time with a group of friends.
+",[CLS][] [SEP],0.65745085,One of my hobbies is helping out of state students practice for their drivers' licenses . , I don't have a drivers' license myself . , I will fail . ,0
+"I felt really happy last weekend while spending time with a group of friends.
+",[CLS][] [SEP],0.6632565,I am avoiding my ex's eyes . , I know I am a great catch . , he will regret what he did to me . ,1
+"Since moving to L.A., I've faced challenges with job stability due to layoffs and pay cuts.
+",[CLS] Participant face challenges with job stability [SEP],0.869361,My depression affects my ability to focus . , I have a great therapist . , I will be able to get out of it . ,1
+"Since moving to L.A., I've faced challenges with job stability due to layoffs and pay cuts.
+",[CLS] Participant face challenges with job stability [SEP],0.8703109,I bring forth my best work in order to be considered for a promotion . , my work is not good enough . , I will not be promoted . ,0
+"I went out last night and felt really tired today.
+","[CLS] I went out last night
+2. I felt really tired today [SEP]",0.6903822,I also asked for a raise . , I have waited for a long time and I have been a great asset to the company . , my boss will give me a raise . ,1
+"I went out last night and felt really tired today.
+","[CLS] I went out last night
+2. I felt really tired today [SEP]",0.6905001,I was arguing with my sister's boyfriend about politics . , he is very stubborn . , he won't ever see my side . ,0
+"I find my living situation in L.A. to be good and affordable, and I'm really close to my family.
+","[CLS] Participant find living situation in L.A. to be good and affordable
+2. Participant be close to family [SEP]",0.7019114,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I find my living situation in L.A. to be good and affordable, and I'm really close to my family.
+","[CLS] Participant find living situation in L.A. to be good and affordable
+2. Participant be close to family [SEP]",0.7725002,The news about the outbreak is affecting people's mental health . , it's a new virus . , about how quickly it could spread . ,0

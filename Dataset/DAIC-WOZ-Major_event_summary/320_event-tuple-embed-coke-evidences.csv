@@ -1,0 +1,53 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I was raped and sodomized, and they kept a gun to my head and cut my hair, so I've been going through a hell of a thing lately.
+","[CLS] they rape Participant
+2. they sodomize Participant
+3. they keep gun to Participant's head
+4. they cut Participant's hair [SEP]",0.77394307,My coworker is always advancing toward me and trying to engage in small talk . , he/she makes an effort to talk to me every day . , he/she is interested in me . ,1
+"I was raped and sodomized, and they kept a gun to my head and cut my hair, so I've been going through a hell of a thing lately.
+","[CLS] they rape Participant
+2. they sodomize Participant
+3. they keep gun to Participant's head
+4. they cut Participant's hair [SEP]",0.7876333,I have to do extra work because my coworker is slacking off . , I am already doing my own work . , it's not fair . ,0
+"I went through nursing school and I'm happy I did that, but I'm not working in that field anymore.
+","[CLS] I went through nursing school
+2. I am happy I did that
+3. I am not working in that field anymore [SEP]",0.77260184,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they are getting good grades and behaving well in class . , the parents are going to be happy with how their kids are doing . ,1
+"I went through nursing school and I'm happy I did that, but I'm not working in that field anymore.
+","[CLS] I went through nursing school
+2. I am happy I did that
+3. I am not working in that field anymore [SEP]",0.80788904,I took over my mom's shift at work . , it was my first time doing them . , I will not be able to finish all the tasks . ,0
+"I have one son, and he's a beautiful child. Being a parent is not easy, and decision-making is the hardest part.
+",[CLS][] [SEP],0.62388355,"Every time I see a picture of a dog, I automatically assume it's form . ", I can't change my thinking . , I will look stupid . ,0
+"I have one son, and he's a beautiful child. Being a parent is not easy, and decision-making is the hardest part.
+",[CLS][] [SEP],0.63659966,I feel like I'm finally starting to act my age and mature a little bit . , it will likely lead to more opportunities and experiences . , this is a good development . ,1
+"I like to read and watch television to relax, and I think I'm very good at controlling my temper.
+",[CLS][] [SEP],0.5860021,I can barely afford my rent this month . , I have a good job . , things  will get better soon . ,1
+"I like to read and watch television to relax, and I think I'm very good at controlling my temper.
+",[CLS][] [SEP],0.6011973,"The more I learn about my co-workers, the more I realize how much we have in common . ", I'm not interested in the same things as them . , I will never have friends at work . ,0
+"I have triggers, like seeing four men together with hoods on or going upstairs, because of what happened to me.
+",[CLS][Participant have triggers] [SEP],0.6441488,I am nervously biting my nails waiting for the date to start . , I'm not their type . , I will be rejected . ,0
+"I have triggers, like seeing four men together with hoods on or going upstairs, because of what happened to me.
+",[CLS][Participant have triggers] [SEP],0.6486175,One of my friends talking about his new girlfriend . , I have been single for a while . , I want a new girlfriend too . ,1
+"My mother taught me to cook, and that was very valuable to me.
+",[CLS][] [SEP],0.6494832,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"My mother taught me to cook, and that was very valuable to me.
+",[CLS][] [SEP],0.7030588,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"I haven't been to therapy in a while, but it helped me realize a lot of things from my past were still deep down inside me.
+","[CLS] Participant haven't been therapy
+2. therapy helped Participant [SEP]",0.6728095,I have achieved one of my New Year's resolutions- to travel to Thailand! . , I have seen so many pictures of it . , it will be a beautiful country to travel to . ,1
+"I haven't been to therapy in a while, but it helped me realize a lot of things from my past were still deep down inside me.
+","[CLS] Participant haven't been therapy
+2. therapy helped Participant [SEP]",0.67881125,I had to ask my girlfriend's mom for help because I forgot her birthday . , I should have remembered it myself . , I will be seen as irresponsible . ,0
+"I was diagnosed with PTSD a few years ago, and I sought help because I wanted to get revenge on the guys that raped me. I don't go to therapy now, but I'm going to go back.
+","[CLS] I was diagnosed with PTSD
+2. I sought help
+3. I wanted to get revenge on the guys that raped me
+4. I don't go to therapy
+5. I am going to go back to therapy [SEP]",0.6124952,I asked my doctor what medication she wanted me to take . , the medication was not on my insurance plan . , it will be expensive . ,0
+"I was diagnosed with PTSD a few years ago, and I sought help because I wanted to get revenge on the guys that raped me. I don't go to therapy now, but I'm going to go back.
+","[CLS] I was diagnosed with PTSD
+2. I sought help
+3. I wanted to get revenge on the guys that raped me
+4. I don't go to therapy
+5. I am going to go back to therapy [SEP]",0.6420294,I advise my boss to take a vacation . , vacations tend to have that effect on people . , he will come back with a better attitude . ,1

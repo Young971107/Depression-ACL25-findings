@@ -1,0 +1,43 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I tend to free myself from situations when I'm annoyed, usually by taking a walk or going into a room by myself to clear my head.
+","[CLS] Participant free myself from situations
+2. Participant take a walk
+3. Participant go into a room
+4. Participant clear my head [SEP]",0.105302416,I achieved my aim to get an 'A' in the class . , they wanted me to get a 'B' . , my parents will be disappointed . ,0
+"I tend to free myself from situations when I'm annoyed, usually by taking a walk or going into a room by myself to clear my head.
+","[CLS] Participant free myself from situations
+2. Participant take a walk
+3. Participant go into a room
+4. Participant clear my head [SEP]",0.106302425,I am accompanied by my boss's wife . , she is an important person . , it will be an honor to meet her . ,1
+"I travel a lot as a football recruiter, signing different football players for our sports management company.
+","[CLS] I travel a lot
+2. I sign different football players [SEP]",0.6151907,I accidentally break my car's window when I hit a baseball too hard . , I pay my premiums every month . , my insurance will cover it . ,1
+"I travel a lot as a football recruiter, signing different football players for our sports management company.
+","[CLS] I travel a lot
+2. I sign different football players [SEP]",0.6416192,My aunt also bought me a souvenir keychain from her trip to Italy . , it will make me happy . , I will put it on my keys . ,1
+"I felt really happy a couple of days ago when my football team made the playoffs.
+",[CLS]No clear event related to the participant can be extracted from the sentence. [SEP],0.44993448,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"I felt really happy a couple of days ago when my football team made the playoffs.
+",[CLS]No clear event related to the participant can be extracted from the sentence. [SEP],0.4950663,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I was a pretty good athlete growing up, which started my future in athletics and led to great accomplishments in my life.
+","[CLS] I was athlete
+2. I started future in athletics
+3. I led to great accomplishments [SEP]",0.7584362,I beat the world record for the hundred-meter dash . , no one has run faster than me . , I  am the best . ,1
+"I was a pretty good athlete growing up, which started my future in athletics and led to great accomplishments in my life.
+","[CLS] I was athlete
+2. I started future in athletics
+3. I led to great accomplishments [SEP]",0.7964879,I beat the world record for the hundred-meter dash . , no one has run that fast before . , I  am the best . ,1
+"I regret a lot of decisions in my life and wish I had thought harder about situations and decisions.
+",[CLS][] [SEP],0.59564185,I always told my friends that I would never get married . , I have too much doubt in my heart . , I will not find love . ,0
+"I regret a lot of decisions in my life and wish I had thought harder about situations and decisions.
+",[CLS][] [SEP],0.61729634,I can't believe how much my tuition has gone up since I last looked into affording college . , it's too expensive . , I may never be able to go to the college I want to . ,0
+"I am proud of being a positive role model for younger kids in our sports academy program.
+",[CLS][] [SEP],0.66980124,I am nervously biting my nails waiting for the date to start . , I have bad habits . , he or she will not like me . ,0
+"I am proud of being a positive role model for younger kids in our sports academy program.
+",[CLS][] [SEP],0.7589104,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"I am living my dream job in the sports industry and aim to own my own sports management company.
+","[CLS] Participant am living dream job
+2. Participant aim own sports management company [SEP]",0.62587726,I turned 18 yesterday and am now a legal adult . , I will have to support myself now . , I have to start paying taxes . ,0
+"I am living my dream job in the sports industry and aim to own my own sports management company.
+","[CLS] Participant am living dream job
+2. Participant aim own sports management company [SEP]",0.7814076,My boss's decision affects my interests because I do not want the job position that he offered me . , I have a good relationship with her . , I can go above his head and speak to the CEO . ,1

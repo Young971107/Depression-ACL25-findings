@@ -1,0 +1,105 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"When I was a kid, I scribbled on walls with Crayola, and that love for art stuck with me, leading me to pursue art classes in general education.
+","[CLS] I scribbled on walls
+2. I pursue art classes [SEP]",0.6948297,I have been trying to adjust the spacing on my powerpoint presentation for the last hour . , the spacing is now even . , it looks much better now . ,1
+"When I was a kid, I scribbled on walls with Crayola, and that love for art stuck with me, leading me to pursue art classes in general education.
+","[CLS] I scribbled on walls
+2. I pursue art classes [SEP]",0.75727224,I broke my mom's favorite vase . , I was just trying to dust it off . , it was an accident . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5906349,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6098344,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"My dream job is to get paid for painting art.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.44582635,I have the same name as my dad . , I was named after him . , he's a positive person . ,1
+"My dream job is to get paid for painting art.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.49065992,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.58391184,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6601168,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"The last time I argued with someone was with my father because I wanted to eat food, but he wanted me to buy wine. I handled it by deciding to eat in peace after doing him the favor.
+","[CLS] Participant argued father  
+2. Participant wanted eat food  
+3. Participant buy wine  
+4. Participant handled it  
+5. Participant eat in peace  
+6. Participant do favor [SEP]",0.46440572,I bared my soul to my therapist . , baring my soul is a very intimate act . , my therapist will give me the answers I desperately need . ,1
+"The last time I argued with someone was with my father because I wanted to eat food, but he wanted me to buy wine. I handled it by deciding to eat in peace after doing him the favor.
+","[CLS] Participant argued father  
+2. Participant wanted eat food  
+3. Participant buy wine  
+4. Participant handled it  
+5. Participant eat in peace  
+6. Participant do favor [SEP]",0.53690314,I asked my kids what they wanted for dinner . , they are always complaining about the food I make . , they will never be happy with my cooking . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.51779675,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5249058,I was really affected by the 9/11 terrorist attacks . , bad things happen to good people . , the world is a dark place . ,0
+"I am most proud of my paintings because they are unique and have my signature.
+",[CLS] I am proud of my paintings [SEP],0.7455748,I browse through my art collection that I have been building for years . , I don't have many famous pieces . , most of it is not worth anything . ,0
+"I am most proud of my paintings because they are unique and have my signature.
+",[CLS] I am proud of my paintings [SEP],0.7596623,I browse through my art collection that I have been building for years . , I can no longer afford the upkeep . , I will have to sell it all . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.59662247,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.63908935,I have been trying to adjust the spacing on my powerpoint presentation for the last hour . , my presentation turned out beautifully in the end . , I accomplished something great . ,1
+"I sometimes regret not completing a whole university education, but I feel like if I really wanted to go, I would have.
+",[CLS] Participant regret not completing a whole university education [SEP],0.07384077,I begin my search for a new job . , the labor market is competitive . , I may not find one that I like . ,0
+"I sometimes regret not completing a whole university education, but I feel like if I really wanted to go, I would have.
+",[CLS] Participant regret not completing a whole university education [SEP],0.075626716,I have help form a study group for my upcoming exam . , I struggle with tests . , I might not understand the material as well as my classmates . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.7445335,I allow my boss to access my computer . , because it will help to make his job easier . , he will appreciate all the hard work I've been doing . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.74760526,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I chose to pursue my own learning by connecting with people in the field I want to be in, rather than continuing formal education, which was a hard choice but led me to meet the right people.
+","[CLS] I chose to pursue my own learning
+2. I connect with people in the field
+3. I meet the right people [SEP]",0.53714895,I go to my boss's meetings . , I have been working hard . , my boss is going to give me a raise . ,1
+"I chose to pursue my own learning by connecting with people in the field I want to be in, rather than continuing formal education, which was a hard choice but led me to meet the right people.
+","[CLS] I chose to pursue my own learning
+2. I connect with people in the field
+3. I meet the right people [SEP]",0.5395955,My boss's mood affects my ability to concentrate on my work . , he can be understanding . , I can take a break if I need to . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.57575434,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.62455225,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I have had experiences with being at gunpoint and with a knife, which scarred me but also taught me to be more aware and avoid dangerous situations.
+","[CLS] Participant have had experiences with being at gunpoint
+2. Participant have had experiences with a knife
+3. Experiences scarred Participant
+4. Experiences taught Participant [SEP]",0.7709899,My chiropractor has been having me come in three times a week to help improve my posture . , I can move my arms and legs more easily . , it is helping me become more flexible . ,1
+"I have had experiences with being at gunpoint and with a knife, which scarred me but also taught me to be more aware and avoid dangerous situations.
+","[CLS] Participant have had experiences with being at gunpoint
+2. Participant have had experiences with a knife
+3. Experiences scarred Participant
+4. Experiences taught Participant [SEP]",0.77125835,My chiropractor has been having me come in three times a week to help improve my posture . , he said it takes time and a lot of effort . , my spine will be straighter . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.45619538,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5902132,"I don't act my age, according to my friends . ", I feel young at heart . , age is nothing but a number . ,1
+"I know what it's like to be depressed, but I haven't been diagnosed by a doctor. Depression feels like being limited, like a bird in a cage or a fish that can't swim.
+",[CLS][] [SEP],0.63958836,We were waiting in line for the new iPhone . , the line is too long . , we won't get any . ,0
+"I know what it's like to be depressed, but I haven't been diagnosed by a doctor. Depression feels like being limited, like a bird in a cage or a fish that can't swim.
+",[CLS][] [SEP],0.66369694,I act weird around people i am interested in . , I want to be seen as a good person . , I will give them a good impression of me . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5707593,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5823367,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"To relax, I paint, especially using the colors blue and green, which calm me down. I also smoke weed, which helps me relax.
+","[CLS] I paint using the colors blue and green
+2. I smoke weed [SEP]",0.72760457,I have been trying to adjust the spacing on my powerpoint presentation for the last hour . , the spacing is never how I want it to be no matter what I do . , I will never get it right . ,0
+"To relax, I paint, especially using the colors blue and green, which calm me down. I also smoke weed, which helps me relax.
+","[CLS] I paint using the colors blue and green
+2. I smoke weed [SEP]",0.7321166,I have been trying to adjust the spacing on my powerpoint presentation for the last hour . , my presentation turned out beautifully in the end . , I accomplished something great . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6900896,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6930242,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"Lately, I've been feeling good and like I have free will, with many paths open to me, and I'm deciding which one to take.
+","[CLS] Participant feel good
+2. Participant have free will
+3. Participant decide which path to take [SEP]",0.5344289,I just adopted a new kitten from the animal shelter . , I am its new mommy . , I have saved its life . ,1
+"Lately, I've been feeling good and like I have free will, with many paths open to me, and I'm deciding which one to take.
+","[CLS] Participant feel good
+2. Participant have free will
+3. Participant decide which path to take [SEP]",0.57190615,I have been feeling really stressed lately and it's affecting my health . , it would give me time to relax and de-stress . , taking a break will do me good . ,1

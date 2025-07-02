@@ -1,0 +1,79 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I love reading and find it fun.
+","[CLS]- I love reading
+- I find it fun [SEP]",0.70562375,I bought souvenirs for my family when I was in Mexico . , she is really picky . , my mom would not like what I bought her . ,0
+"I love reading and find it fun.
+","[CLS]- I love reading
+- I find it fun [SEP]",0.76133484,I forgot to ask my boss what brochures she wanted me to print for the meeting . , I didn't follow her instructions . , I will be yelled at . ,0
+"I try my best to control my temper, though I'm not the best at it.
+",[CLS] I try my best to control my temper [SEP],0.38674247,I am going to bite my tongue to keep from arguing with my mom . , I know that she is only trying to help me . , it is the right thing to do . ,1
+"I try my best to control my temper, though I'm not the best at it.
+",[CLS] I try my best to control my temper [SEP],0.4085053,"After our first date , he sent me flowers at work to apologize for being late . ", he remembered how much I love flowers . , he might be the one . ,1
+"I find it easy to sleep, but lately, I've had trouble falling asleep right away.
+","[CLS] I find it easy to sleep
+2. I have had trouble falling asleep right away [SEP]",0.69615054,I ask my boss's permission to leave work early . , they have been waiting for me all day . , I will be able to go home to my family . ,1
+"I find it easy to sleep, but lately, I've had trouble falling asleep right away.
+","[CLS] I find it easy to sleep
+2. I have had trouble falling asleep right away [SEP]",0.70629036,I was arguing with my sister's boyfriend about politics . , I raised my voice too much . , I will be kicked out of the car . ,0
+"My best friend would describe me as loving, friendly, outgoing, and adventurous.
+",[CLS]No clear event can be extracted from the given sentence as it is a descriptive statement rather than an action-oriented one. [SEP],0.39046776,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"My best friend would describe me as loving, friendly, outgoing, and adventurous.
+",[CLS]No clear event can be extracted from the given sentence as it is a descriptive statement rather than an action-oriented one. [SEP],0.41258848,I have the same name as my dad . , he has the same name as me . , he is a cool guy . ,1
+"I sometimes let things go and don't make a big deal out of them.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.49876437,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"I sometimes let things go and don't make a big deal out of them.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.50416887,I am at my brother's house and we get into a fight and I beat him up . , he is a tattletale . , he will tell my mom . ,0
+"I try to make the best of my day even if I haven't slept well.
+",[CLS] I try make the best of my day [SEP],0.06445126,I ask my roommate to turn down the music so I can concentrate on studying . , I will be able to focus more on my work . , I will get better grades . ,1
+"I try to make the best of my day even if I haven't slept well.
+",[CLS] I try make the best of my day [SEP],0.064851254,I agree to go on a date with the new guy . , he likes me and I like him . , he will be the one . ,1
+"I was really happy when the doctor told me I was pregnant.
+",[CLS] doctor told participant [SEP],0.40554678,I asked the doctor if I could have a note to get out of P.E . , I have a good reason . , he will give me one . ,1
+"I was really happy when the doctor told me I was pregnant.
+",[CLS] doctor told participant [SEP],0.40800253,My doctor advised me to take medication for my anxiety . , he is a professional and would not give me false advice . , it will work . ,1
+"I feel guilty about not being a better older sister when I was younger.
+",[CLS][] [SEP],0.6837672,"My grandfather always tried to act like a man, even though he was very sick . ", he is in the hospital . , he is better now . ,1
+"I feel guilty about not being a better older sister when I was younger.
+",[CLS][] [SEP],0.7195591,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"I consider myself both shy and outgoing, depending on the situation.
+",[CLS]No clear event can be extracted from the given sentence. [SEP],0.42543226,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"I consider myself both shy and outgoing, depending on the situation.
+",[CLS]No clear event can be extracted from the given sentence. [SEP],0.49661827,I can barely afford my rent this month . , I don't have enough money . , I will be homeless . ,0
+"I love going to the park on weekends, sitting under a tree, and reading a book.
+",[CLS][] [SEP],0.63324225,I am accompanied by my boss's wife . , she is always talking . , I will not be respected . ,0
+"I love going to the park on weekends, sitting under a tree, and reading a book.
+",[CLS][] [SEP],0.6436571,I was airing my dirty laundry in public . , I was acting foolishly  . , people can see my flaws . ,0
+"I relax by kicking my feet up on the couch and reading a good book.
+","[CLS] I relax by kicking my feet up on the couch
+2. I relax by reading a good book [SEP]",0.25358152,I spend many hours on the phone with my friends . , I procrastinate too much . , I will never get any work done . ,0
+"I relax by kicking my feet up on the couch and reading a good book.
+","[CLS] I relax by kicking my feet up on the couch
+2. I relax by reading a good book [SEP]",0.25723106,The CEO was caught abusing his power by creating a slush fund . , he is not fit to be a CEO . , he will be impeached . ,0
+"I regret my childhood with my sisters and family but try to be a better role model now.
+","[CLS] Participant regret childhood with sisters and family
+2. Participant try be a better role model [SEP]",0.09760534,The news about the outbreak is affecting people's mental health . , it is something that is often neglected . , this will finally be the wake up call we needed to focus on our mental health . ,1
+"I regret my childhood with my sisters and family but try to be a better role model now.
+","[CLS] Participant regret childhood with sisters and family
+2. Participant try be a better role model [SEP]",0.09961409,I act on my boss's behalf and sign a contract that I do not agree with . , I would not want to disobey my boss and get in trouble . , that I will be following my boss's orders . ,1
+"I don't travel a lot but love exploring, even on small hikes.
+",[CLS] I love exploring [SEP],0.77028584,"As my relationships with others increase, I find that I am more likely to travel . ", I have a more diverse group of friends . ," As my relationships with others increase, I find that I am more likely to travel . ",1
+"I don't travel a lot but love exploring, even on small hikes.
+",[CLS] I love exploring [SEP],0.8229629,"As my relationships with others increase, I find that I am more likely to travel . ", I will have more people to travel with . , I will be able to see more of the world . ,1
+"I'm proud of trying my best to be the best I can be and improving myself every day.
+",[CLS][] [SEP],0.6728777,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"I'm proud of trying my best to be the best I can be and improving myself every day.
+",[CLS][] [SEP],0.7034496,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"I don't wish to change anything about myself and am happy with who I am.
+",[CLS][] [SEP],0.7614713,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I don't wish to change anything about myself and am happy with who I am.
+",[CLS][] [SEP],0.78692245,We were waiting in line for the new iPhone . , We have been waiting for hours . , We are going to be first . ,1
+"I sometimes have outbursts but believe that's common for everyone.
+",[CLS][] [SEP],0.6183921,I really admire my boss's work ethic . , I'm not used to working long hours . , I will never be as hardworking as her . ,0
+"I sometimes have outbursts but believe that's common for everyone.
+",[CLS][] [SEP],0.624579,"I don't act my age, according to my friends . ", I will be seen as a child . , I will never be respected . ,0
+"I'm still trying to find my interests and am not set on a specific career path yet.
+","[CLS]- Participant try find interests
+- Participant not set specific career path [SEP]",0.5946555,My boss's decision will affect my interests . , my boss cares about me . , he will consider what I have to say . ,1
+"I'm still trying to find my interests and am not set on a specific career path yet.
+","[CLS]- Participant try find interests
+- Participant not set specific career path [SEP]",0.6012603,My boss's decision affects my interests because I do not want the job position that he offered me . , I have a good relationship with her . , I can go above his head and speak to the CEO . ,1

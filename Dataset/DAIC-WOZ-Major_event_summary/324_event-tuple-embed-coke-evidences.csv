@@ -1,0 +1,43 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I was diagnosed with depression when I was a teenager.
+",[CLS][] [SEP],0.6572958,My aunt's travel has really affected her health . , she is taking her medicine . , she will get better . ,1
+"I was diagnosed with depression when I was a teenager.
+",[CLS][] [SEP],0.6685892,"I don't act my age, according to my friends . ", I will be seen as a child . , I will never be respected . ,0
+"I stopped going to therapy after going to rehab and spending some time in jail.
+","[CLS] I stopped going therapy
+2. I went rehab
+3. I spent time in jail [SEP]",0.6338047,I afford my rent by working two jobs . , my parents taught me the importance of being independent . , I'm being responsible . ,1
+"I stopped going to therapy after going to rehab and spending some time in jail.
+","[CLS] I stopped going therapy
+2. I went rehab
+3. I spent time in jail [SEP]",0.71034557,My chiropractor has been having me come in three times a week to help improve my posture . , I have been following her instructions . , my posture will improve . ,1
+"I have accomplished my goal of working at LAX after getting my GED two years ago.
+","[CLS] Participant accomplished goal of working at LAX
+2. Participant got GED [SEP]",0.688254,"I was dared to skydive , but I agreed . ", It was my first time . , skydiving  is an amazing experience . ,1
+"I have accomplished my goal of working at LAX after getting my GED two years ago.
+","[CLS] Participant accomplished goal of working at LAX
+2. Participant got GED [SEP]",0.7146447,I needed to ask my boss for my co-worker's phone number . , I have been working here for a long time . , she will give it to me . ,1
+"I have had anger management problems over the years.
+",[CLS][] [SEP],0.779451,"My grandfather always tried to act like a man, even though he was very sick . ", he was trying to act like a man . , he was trying to ignore his illness . ,0
+"I have had anger management problems over the years.
+",[CLS][] [SEP],0.78676695,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I argued with someone yesterday but I forget what it was about.
+",[CLS] I argued someone [SEP],0.7207545,I was arguing with my brother and I said something that just made him angry . , I didn't know when to stop talking . , I just made the situation worse . ,0
+"I argued with someone yesterday but I forget what it was about.
+",[CLS] I argued someone [SEP],0.76130164,I was arguing with my brother and I said something that just made him angry . , he didn't say anything after that . , I might have won the argument . ,1
+"I have mood swings that can be triggered by small things, and I often feel angry.
+","[CLS] I have mood swings
+2. mood swings be triggered small things
+3. I feel angry [SEP]",0.6490368,My allergies are really starting to affect my ability to concentrate in class . , it's getting hard to breathe . , I may have to leave school . ,0
+"I have mood swings that can be triggered by small things, and I often feel angry.
+","[CLS] I have mood swings
+2. mood swings be triggered small things
+3. I feel angry [SEP]",0.66979647,I have been feeling really stressed lately and it's affecting my health . , it's been going on for awhile . , I may not be able to fix the situation . ,0
+"I am proud of the goals I've accomplished, especially in the past few years, like getting my GED and the job at LAX.
+","[CLS] I accomplish goals
+2. I get GED
+3. I get job at LAX [SEP]",0.6572076,I am going to ask my friend's crush out on a date . , I am not confident . , he/she will say no . ,0
+"I am proud of the goals I've accomplished, especially in the past few years, like getting my GED and the job at LAX.
+","[CLS] I accomplish goals
+2. I get GED
+3. I get job at LAX [SEP]",0.6808071,"I need to do some laundry, but I keep procrastinating . ", I have no other responsibilities . , I will be able to relax and watch TV all day . ,1

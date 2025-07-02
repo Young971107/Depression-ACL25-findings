@@ -1,0 +1,85 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"In November, I was very depressed and suicidal, so I told my friend what I was feeling and that she needed to take me to the ER. From there, I had the choice to go home or get sent to a mental hospital. Even though it felt like I didn't have a choice, I knew it was my decision, and I chose to go to the mental hospital, which turned out to be the worst experience of my life.
+","[CLS] Participant told friend what I was feeling
+2. Participant told friend that she needed to take me to the ER
+3. Participant chose to go to the mental hospital [SEP]",0.6784301,I asked my teacher to say the answer to the question . , it's against the school policy . , he would not give me the answer . ,0
+"In November, I was very depressed and suicidal, so I told my friend what I was feeling and that she needed to take me to the ER. From there, I had the choice to go home or get sent to a mental hospital. Even though it felt like I didn't have a choice, I knew it was my decision, and I chose to go to the mental hospital, which turned out to be the worst experience of my life.
+","[CLS] Participant told friend what I was feeling
+2. Participant told friend that she needed to take me to the ER
+3. Participant chose to go to the mental hospital [SEP]",0.68981296,I answered the interviewer's questions confidently . , they were very impressed with my qualifications . , I am going to get the job . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.543818,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.56975585,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I had been so depressed for about a month that I stopped going to my classes and work, lied to my teachers about being sick, kept calling in sick to work, dropped a class, and was failing my classes. I wasn't talking to any of my friends, was drinking a lot, passing out, and vomiting everywhere. I was in a really bad place, and when I finally was going to kill myself, I realized I needed help.
+","[CLS] Participant stopped going classes and work
+2. Participant lied teachers
+3. Participant kept calling in sick work
+4. Participant dropped class
+5. Participant was failing classes
+6. Participant wasn't talking friends
+7. Participant was drinking a lot
+8. Participant was passing out 
+9. Participant was vomiting everywhere
+10. Participant realized needed help [SEP]",0.71342003,I attended my grandfather's funeral . , I never got the chance to know him well . , I will not be able to say goodbye to him properly . ,0
+"I had been so depressed for about a month that I stopped going to my classes and work, lied to my teachers about being sick, kept calling in sick to work, dropped a class, and was failing my classes. I wasn't talking to any of my friends, was drinking a lot, passing out, and vomiting everywhere. I was in a really bad place, and when I finally was going to kill myself, I realized I needed help.
+","[CLS] Participant stopped going classes and work
+2. Participant lied teachers
+3. Participant kept calling in sick work
+4. Participant dropped class
+5. Participant was failing classes
+6. Participant wasn't talking friends
+7. Participant was drinking a lot
+8. Participant was passing out 
+9. Participant was vomiting everywhere
+10. Participant realized needed help [SEP]",0.71984565,I will be taking over my grandmother's house responsibilities while she is in the hospital . , I have been through a lot of tough situations before . , I positively can handle this . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.53755164,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.60794693,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"After I got out of the hospital, I finally had one good day. My friend took me into downtown Chicago, and we went to the Sears Tower. We got to look over those big windows that you walk out on and see the city, and that was really cool.
+","[CLS] Participant get out of hospital
+2. Participant have one good day
+3. Friend take Participant
+4. Participant go to Sears Tower
+5. Participant look over big windows [SEP]",0.24187216,They had a big discussion on women's rights and how to address the issue . , it's an important topic . , it's something that needs to be talked about more . ,1
+"After I got out of the hospital, I finally had one good day. My friend took me into downtown Chicago, and we went to the Sears Tower. We got to look over those big windows that you walk out on and see the city, and that was really cool.
+","[CLS] Participant get out of hospital
+2. Participant have one good day
+3. Friend take Participant
+4. Participant go to Sears Tower
+5. Participant look over big windows [SEP]",0.24199684,I flirt with my boss to try to get a raise . , flirtatious behavior is often seen as a sign of attraction . ," When I flirt with my boss to try to get a raise, I feel great since I think I have a good chance of getting what I want . ",1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.65013826,"I accidentally sent an email to my boss that was meant for my friend, and I apologized profusely . ", I have always been a competent and reliable employee . , my boss will understand the situation . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.66038156,"I accidentally sent an email to my boss that was meant for my friend, and I apologized profusely . ", it was a serious mistake . , my boss may not believe me . ,0
+"I traveled from Los Angeles to Chicago taking Route 66, and the best part was seeing the Grand Canyon for the first time. It was the coolest thing I've ever seen, and I felt happy. It was beautiful, and I hadn't felt like that in a long time.
+","[CLS] I traveled from Los Angeles to Chicago
+2. I take Route 66
+3. I see the Grand Canyon
+4. I feel happy [SEP]",0.81604904,The weather forecast said that the hurricane would affect people's travel plans . , I had planned to go to the beach this weekend . , my vacation might be ruined . ,0
+"I traveled from Los Angeles to Chicago taking Route 66, and the best part was seeing the Grand Canyon for the first time. It was the coolest thing I've ever seen, and I felt happy. It was beautiful, and I hadn't felt like that in a long time.
+","[CLS] I traveled from Los Angeles to Chicago
+2. I take Route 66
+3. I see the Grand Canyon
+4. I feel happy [SEP]",0.85886633,I asked my date's grandmother for her blessing . , I'm not the same religion as my date . , she won't give it to me . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6394706,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6599859,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"I had severe depression when I was a younger teenager and tried to kill myself then. I got put in therapy for quite some time, and I figured I didn't want to go down that bad path again. I just wanted to get better, so I had to seek help. I still go to therapy once a week.
+","[CLS] Participant had severe depression
+2. Participant tried to kill myself
+3. Participant got put in therapy
+4. Participant figured I didn't want to go down that bad path again
+5. Participant wanted to get better
+6. Participant had to seek help
+7. Participant go to therapy once a week [SEP]",0.7965421,My aunt's travel has really affected her health . , she is taking more rest and her skin is looking good . , that her health is getting better . ,1
+"I had severe depression when I was a younger teenager and tried to kill myself then. I got put in therapy for quite some time, and I figured I didn't want to go down that bad path again. I just wanted to get better, so I had to seek help. I still go to therapy once a week.
+","[CLS] Participant had severe depression
+2. Participant tried to kill myself
+3. Participant got put in therapy
+4. Participant figured I didn't want to go down that bad path again
+5. Participant wanted to get better
+6. Participant had to seek help
+7. Participant go to therapy once a week [SEP]",0.80548173,"After my fall , I had to have surgery to fix my broken hip . ", the surgery wasn't successful . , I will have a permanent limp . ,0

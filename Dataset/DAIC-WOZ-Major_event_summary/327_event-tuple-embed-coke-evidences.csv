@@ -1,0 +1,39 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"About a month ago, I argued with my daughter about her finances.
+",[CLS] Participant argued daughter [SEP],0.59494877,"I was going to ask my girlfriend's dad for permission to marry her, but he passed away before I could . ", he was the only person who could give me that permission . , I will never have the opportunity . ,0
+"About a month ago, I argued with my daughter about her finances.
+",[CLS] Participant argued daughter [SEP],0.60392517,I asked her dad if I could marry his daughter . , we have been dating for awhile now . , he will say yes . ,1
+"I moved from Montreal, Canada to Los Angeles with my mom when I was in high school.
+",[CLS] Participant moved Los Angeles [SEP],0.5548601,"After careful consideration, I have decided to move to Seattle . ", I have never been so far from home before . , I will miss my friends terribly . ,0
+"I moved from Montreal, Canada to Los Angeles with my mom when I was in high school.
+",[CLS] Participant moved Los Angeles [SEP],0.57640266,"After careful consideration, I have decided to move to Seattle . ", I'm not familiar with anyone there . , I will be all alone in a new city . ,0
+"I went from full-time to part-time work and decided to go back to school due to less work in the automotive field.
+","[CLS] I went part-time work
+2. I decided go back to school [SEP]",0.594368,I allocate my time efficiently . , I will be too busy . , I will never get any rest . ,0
+"I went from full-time to part-time work and decided to go back to school due to less work in the automotive field.
+","[CLS] I went part-time work
+2. I decided go back to school [SEP]",0.60752726,I have to do extra work because my coworker is slacking off . , I'm always the one who is stuck doing it . , I may get a raise . ,1
+"I was diagnosed with PTSD two years and two months ago, and I sought help due to loneliness and depression after not having any family members left in the United States.
+","[CLS] I was diagnosed with PTSD
+2. I sought help [SEP]",0.6115476,I have been feeling really stressed lately and it's affecting my health . , it's been going on for awhile . , I may not be able to fix the situation . ,0
+"I was diagnosed with PTSD two years and two months ago, and I sought help due to loneliness and depression after not having any family members left in the United States.
+","[CLS] I was diagnosed with PTSD
+2. I sought help [SEP]",0.6865971,The news about the outbreak is affecting people's mental health . , it is a novel virus . , about how quickly it could spread . ,0
+"When I was young, my sister was kidnapped, which made me worry a lot about my children when they were growing up.
+",[CLS][] [SEP],0.7137573,I bit my lip when I was nervous . , I have braces on . , it will bleed . ,0
+"When I was young, my sister was kidnapped, which made me worry a lot about my children when they were growing up.
+",[CLS][] [SEP],0.7226336,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have a lot of similarities . , we can connect and be friends . ,1
+"I don't travel much anymore because I don't have much family in the United States, and it's expensive to go back home, so I only go every couple of years.
+","[CLS] Participant travel not much
+2. Participant have not much family in the United States
+3. Participant go back home every couple of years [SEP]",0.7833079,I have achieved one of my New Year's resolutions- to travel to Thailand! . , I have never been to Thailand before and I have always wanted to travel there . , it will be an amazing experience . ,1
+"I don't travel much anymore because I don't have much family in the United States, and it's expensive to go back home, so I only go every couple of years.
+","[CLS] Participant travel not much
+2. Participant have not much family in the United States
+3. Participant go back home every couple of years [SEP]",0.7875451,I spend many hours looking at different travel websites and planning where I want to go next . , I love to travel and see new places . , I will be able to travel the world . ,1
+"Seeing a therapist has helped me cope with things, and I realized I had to do something after feeling depressed for so long.
+","[CLS] Participant see therapist
+2. Participant realize had to do something [SEP]",0.64706457,My co-worker became my friend . , we have many thing in common . , I will have a great time with her . ,1
+"Seeing a therapist has helped me cope with things, and I realized I had to do something after feeling depressed for so long.
+","[CLS] Participant see therapist
+2. Participant realize had to do something [SEP]",0.6580759,I was getting a massage and the masseuse was arching my back  too much . , I felt more relaxed afterward  . , my tension was being relieved . ,1

@@ -1,0 +1,51 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I moved to L.A. from Saint Louis, Missouri two months ago and I'm still getting used to it.
+","[CLS] I moved L.A.
+2. I getting used to it [SEP]",0.8886415,I aroused my boss' interest with my new project proposal . , he told me that he was impressed with my ideas . , I am going to get a raise . ,1
+"I moved to L.A. from Saint Louis, Missouri two months ago and I'm still getting used to it.
+","[CLS] I moved L.A.
+2. I getting used to it [SEP]",0.8944532,I arrived at my friend's house for a party . , I am not wearing a dress . , I am not dressed well enough . ,0
+"I was kicked out of high school the first time because I got myself and my friends in trouble.
+","[CLS] I was kicked out of high school
+2. I got myself in trouble
+3. I got my friends in trouble [SEP]",0.56125796,I am going to ask my friend's crush out on a date . , I am not confident . , he/she will say no . ,0
+"I was kicked out of high school the first time because I got myself and my friends in trouble.
+","[CLS] I was kicked out of high school
+2. I got myself in trouble
+3. I got my friends in trouble [SEP]",0.57731664,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1
+"I broke up with my last girlfriend, and it was a tough experience with fights and regrets.
+",[CLS] I broke up with my last girlfriend [SEP],0.3065712,I kept my fingers crossed while my friend proposed to his girlfriend . , she looked really mad when he proposed . , she will say no . ,0
+"I broke up with my last girlfriend, and it was a tough experience with fights and regrets.
+",[CLS] I broke up with my last girlfriend [SEP],0.31465954,One of my good friends from college just became my wife . , i was drunk when we got married . , she tricked me into marriage . ,0
+"I felt really happy on the drive out to L.A. because it was a new and exhilarating experience.
+",[CLS][] [SEP],0.5971259,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"I felt really happy on the drive out to L.A. because it was a new and exhilarating experience.
+",[CLS][] [SEP],0.6667446,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"Graduating college was one of my most memorable experiences, and I felt euphoric and proud.
+",[CLS] Participant graduate college [SEP],0.46552795,I begin my career as an accountant . , I will have completed my degree in accounting . , that I will be able to help people with their finances . ,1
+"Graduating college was one of my most memorable experiences, and I felt euphoric and proud.
+",[CLS] Participant graduate college [SEP],0.47943473,My dad always told me that I should travel while I'm young . , travel is expensive . , I will not have enough money . ,0
+"I am looking for work as a game designer or developer and want to try something new.
+",[CLS] Participant look for work as a game designer or developer [SEP],0.18158308,I begin my career as an accountant . , it's not a very interesting job . , I will be doing the same thing for the rest of my life . ,0
+"I am looking for work as a game designer or developer and want to try something new.
+",[CLS] Participant look for work as a game designer or developer [SEP],0.1851606,I begin my career as an accountant . , that is what accountants do . , I will always be working with numbers . ,0
+"I dream of working for myself, making my own games, and writing my own paychecks.
+","[CLS] I dream working for myself
+2. I dream making my own games
+3. I dream writing my own paychecks [SEP]",0.69043237,I was playing chess with my boss's dad and I won . ," When I was playing chess with my boss's dad and I won, I think he will give me a raise since I have displayed my intelligence and skills . ", he will give me a raise . ,1
+"I dream of working for myself, making my own games, and writing my own paychecks.
+","[CLS] I dream working for myself
+2. I dream making my own games
+3. I dream writing my own paychecks [SEP]",0.7336537,I was playing chess with my boss's dad and I won . , I was the one who won the game . , I am the better chess player . ,1
+"I have been feeling a bit more depressed lately because I'm away from most of my friends and family.
+",[CLS] Participant feel depressed [SEP],0.06723824,I achieve my objective of getting a raise . , more money means more responsibility . , my boss will give me more work . ,0
+"I have been feeling a bit more depressed lately because I'm away from most of my friends and family.
+",[CLS] Participant feel depressed [SEP],0.06940221,A couple who has been married for 5 years decides to adopt a child . , they never had kids before . , they may not be able to properly take care of the child . ,0
+"I left Saint Louis because the benefits of moving outweighed the cons, despite leaving friends and family.
+",[CLS] I left Saint Louis [SEP],0.66649157,I have arrived in Honolulu for my vacation . , it is rush hour . , the roads are very busy . ,0
+"I left Saint Louis because the benefits of moving outweighed the cons, despite leaving friends and family.
+",[CLS] I left Saint Louis [SEP],0.6774389,I have arrived in Honolulu for my vacation . , the weather is so nice and I love the beaches . , I will enjoy my time here . ,1
+"I have been trying to work for myself for the past couple of years, but it's been difficult.
+",[CLS] Participant try work for myself [SEP],0.8683114,I based my decision to change careers on my experience working in the corporate world . , it will be very challenging and I will be able to learn new things . , I will love my new career . ,1
+"I have been trying to work for myself for the past couple of years, but it's been difficult.
+",[CLS] Participant try work for myself [SEP],0.8804113,I advance my career by networking and going to industry events . , my career will be very demanding . , I will be working all the time . ,0

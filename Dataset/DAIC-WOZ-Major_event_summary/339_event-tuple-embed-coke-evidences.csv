@@ -1,0 +1,41 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I have always loved to sing since I was a child, and my dream job is to be a recording singer.
+",[CLS] Participant love sing [SEP],0.6587211,I bring my grades to my mom . , I have gotten all A's this semester . , I will get a allowance raise . ,1
+"I have always loved to sing since I was a child, and my dream job is to be a recording singer.
+",[CLS] Participant love sing [SEP],0.6629469,I brought my daughter to her first dance recital . , she was clapping and smiling the whole time . , she enjoyed it and had fun . ,1
+"I was diagnosed with PTSD about a year and a half ago, and I often thought about past situations that affected my future.
+","[CLS] Participant was diagnosed with PTSD
+2. Participant thought about past situations [SEP]",0.66197133,I have been feeling really stressed lately and it's affecting my health . , it's been going on for awhile . , I may not be able to fix the situation . ,0
+"I was diagnosed with PTSD about a year and a half ago, and I often thought about past situations that affected my future.
+","[CLS] Participant was diagnosed with PTSD
+2. Participant thought about past situations [SEP]",0.6628398,The news about the outbreak is affecting people's mental health . , it is a novel virus . , about how quickly it could spread . ,0
+"I started going to therapy, and I believe it helps me as I don't worry as much now.
+","[CLS] I started going to therapy
+2. I believe it helps me [SEP]",0.74534285,I had to ask my girlfriend's mom for help because I forgot her birthday . , I am her daughter's boyfriend . , she will say yes . ,1
+"I started going to therapy, and I believe it helps me as I don't worry as much now.
+","[CLS] I started going to therapy
+2. I believe it helps me [SEP]",0.7519512,My doctor advised me to take medication for my anxiety . , I have had it for a long time . , it will never go away . ,0
+"I was diagnosed with depression, and my doctor recommended that I see a therapist.
+",[CLS] doctor recommend therapist [SEP],0.32469428,My doctor advised me to take medication for my anxiety . , he is a professional and would not give me false advice . , it will work . ,1
+"I was diagnosed with depression, and my doctor recommended that I see a therapist.
+",[CLS] doctor recommend therapist [SEP],0.3925342,My grandma asked her doctor if it was okay for her to travel with her diabetes . , she has never traveled with diabetes before . , she may not be able to control her blood sugar on the trip . ,0
+"I graduated from high school, and it was a memorable and wonderful day.
+",[CLS] I graduated high school [SEP],0.36887452,My dad always told me that I should travel while I'm young . , travel is expensive . , I will not have enough money . ,0
+"I graduated from high school, and it was a memorable and wonderful day.
+",[CLS] I graduated high school [SEP],0.4547629,I brought my son to school for the first time . , his friends will be there . , he will have a great time . ,1
+"I just started doing yoga a couple of weeks ago to relax.
+",[CLS] Participant started doing yoga [SEP],0.511046,I was doing yoga the other day and strained my elbow . , I can now do a pose that I couldn't do before . , that it means I am getting stronger . ,1
+"I just started doing yoga a couple of weeks ago to relax.
+",[CLS] Participant started doing yoga [SEP],0.65597147,I was doing yoga the other day and strained my elbow . , I have been practicing yoga for a while now . , I will be able to achieve better balance in my chaturanga . ,1
+"I had an argument about timeliness a few weeks ago, specifically last Monday.
+",[CLS] I had an argument [SEP],0.10616646,One of my friends got into an argument with her boyfriend . , he didn't apologize to her . , she is going to be really upset . ,0
+"I had an argument about timeliness a few weeks ago, specifically last Monday.
+",[CLS] I had an argument [SEP],0.11260301,I asked my neighbors if they wanted to have a block party this weekend . , they were getting along so well . , they will want to have one . ,1
+"I was in the midst of searching for a stable place to live, which made me anxious.
+",[CLS] Participant search stable place to live [SEP],1.0453255,I decided to hike up the mountain path behind my house . , I have never done this before . , I will get lost . ,0
+"I was in the midst of searching for a stable place to live, which made me anxious.
+",[CLS] Participant search stable place to live [SEP],1.106782,I decided to hike up the mountain path behind my house . , people have been known to see them in the area . , I will see a bear . ,1
+"I am proud of my ability to adjust to different situations and environments as I've gotten older.
+",[CLS][] [SEP],0.62659955,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"I am proud of my ability to adjust to different situations and environments as I've gotten older.
+",[CLS][] [SEP],0.637231,I raised my eyebrow to look arrogant . , I intended to look arrogant . , I looked like an arrogant jerk . ,0

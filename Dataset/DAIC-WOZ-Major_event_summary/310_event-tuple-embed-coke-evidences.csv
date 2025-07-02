@@ -1,0 +1,89 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I was in a relationship with someone who was my girlfriend at the time.
+",[CLS][] [SEP],0.71022725,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I was in a relationship with someone who was my girlfriend at the time.
+",[CLS][] [SEP],0.7168797,I really admire my boss's work ethic . , I'm not used to working long hours . , I will never be as hardworking as her . ,0
+"I currently have roommates, but I dislike the living situation.
+","[CLS] Participant have roommates
+2. Participant dislike living situation [SEP]",0.65399957,I attend my girlfriend's father's funeral . , I have experience with death and how to deal with the grieving process . , I will be able to comfort her . ,1
+"I currently have roommates, but I dislike the living situation.
+","[CLS] Participant have roommates
+2. Participant dislike living situation [SEP]",0.6712971,I was arguing with my sister's boyfriend about politics . , I am allowed to have my own thoughts and feelings . , I have a right to my own opinion . ,1
+"I quit going to school because my interests were elsewhere.
+",[CLS] Participant quit going to school [SEP],0.26421145,I brought my son to school for the first time . , his friends will be there . , he will have a great time . ,1
+"I quit going to school because my interests were elsewhere.
+",[CLS] Participant quit going to school [SEP],0.264493,I brought my son to school for the first time . , I will be at work . , I will not be able to see him during the day . ,0
+"I haven't flown on an airplane since December of 1986 or 1987 because I can't stand airplanes.
+",[CLS] Participant haven't flown airplane [SEP],0.6875113,Has anyone seen my cat? She's lost . , she's never stayed out this long . , she may be dead . ,0
+"I haven't flown on an airplane since December of 1986 or 1987 because I can't stand airplanes.
+",[CLS] Participant haven't flown airplane [SEP],0.7244493,I argue my father's case in order to persuade him to see things my way . , he has always been a reasonable man . , he will see reason and change his point of view . ,1
+"I took basic general studies at a junior college but didn't finish because I quit to play in a band.
+","[CLS] I took basic general studies
+2. I quit to play in a band [SEP]",0.6771139,I am going to ask my friend's crush out on a date . , I'm not her type . , she will say no . ,0
+"I took basic general studies at a junior college but didn't finish because I quit to play in a band.
+","[CLS] I took basic general studies
+2. I quit to play in a band [SEP]",0.70015335,I was asking my friend's mom if she could watch my dog while I'm out of town . , I have been good to her daughter and she likes me . , I will get a yes from her . ,1
+"I usually travel from L.A. to Seattle and then to Vancouver by train.
+","[CLS]- Participant travel from L.A. to Seattle
+- Participant travel from Seattle to Vancouver [SEP]",0.79294264,I relied on my friend's experiences when planning my own trip to Europe . , my friend's trip was not that great . , my trip may not be as great as I hoped . ,0
+"I usually travel from L.A. to Seattle and then to Vancouver by train.
+","[CLS]- Participant travel from L.A. to Seattle
+- Participant travel from Seattle to Vancouver [SEP]",0.8210041,I added another country to my travel bucket list . , I have the money to travel . , I would get to go there one day . ,1
+"I am not close to my family.
+",[CLS][] [SEP],0.61816466,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"I am not close to my family.
+",[CLS][] [SEP],0.61997044,"The more I learn about my co-workers, the more I realize how much we have in common . ", I'm not interested in the same things as them . , I will never have friends at work . ,0
+"My dream job is to open up a record shop.
+",[CLS]No clear event related to the participant can be extracted from this sentence. [SEP],0.53640175,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"My dream job is to open up a record shop.
+",[CLS]No clear event related to the participant can be extracted from this sentence. [SEP],0.544393,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I am an unemployed office worker right now.
+",[CLS][] [SEP],0.61460066,I am accompanied by my boss's wife . , The boss's wife is very influential in the company . , it will help me get ahead in my career . ,1
+"I am an unemployed office worker right now.
+",[CLS][] [SEP],0.63048625,I feel like I'm finally starting to act my age and mature a little bit . , that's what people my age are expected to do . , I will have to start acting serious and responsible all the time . ,0
+"I didn't fall into drugs like many people I know.
+",[CLS] Participant not fall into drugs [SEP],0.65606266,My doctor advised me to take medication for my anxiety . , mental health is still heavily stigmatized . , people will think I'm crazy . ,0
+"I didn't fall into drugs like many people I know.
+",[CLS] Participant not fall into drugs [SEP],0.66984785,My doctor advised me to take medication for my anxiety . , I didn't want to take it . , the medication won't work . ,0
+"Listening to music on vinyl and being around dogs put me in a good mood.
+",[CLS][] [SEP],0.82065356,I am waiting my turn to speak to the boss . , I made a lot of careless mistakes this week . , he will scold me . ,0
+"Listening to music on vinyl and being around dogs put me in a good mood.
+",[CLS][] [SEP],0.83998716,"I don't act my age, according to my friends . ", I will be seen as a child . , I will never be respected . ,0
+"I live in Hollywood but am originally from Seattle.
+",[CLS][] [SEP],0.603523,I am accompanied by my boss's wife . , she is always talking . , I will not be respected . ,0
+"I live in Hollywood but am originally from Seattle.
+",[CLS][] [SEP],0.6997239,I'm biding my time until my parents get home . , they always let me out when they get home from work . , I'll get to go outside and play with my friends . ,1
+"I moved to L.A. because I needed a change of scenery.
+","[CLS] I moved L.A.
+2. I needed change of scenery [SEP]",0.7324853,I bring home my date to my parent's house for the first time . , she is so pretty and has a great personality . , they will love her . ,1
+"I moved to L.A. because I needed a change of scenery.
+","[CLS] I moved L.A.
+2. I needed change of scenery [SEP]",0.7769422,I backed into my friends car . , I just started my new job . , I will never be able to afford the damages . ,0
+"I consider myself an introvert.
+",[CLS][] [SEP],0.8446175,I was browsing my collection of books on travel guides for my next trip . , the place is too dangerous to go . , I will have to cancel it . ,0
+"I consider myself an introvert.
+",[CLS][] [SEP],0.86967087,"I don't act my age, according to my friends . ", I am not a child anymore . , I will be laughed at . ,0
+"I don't lash out physically at people but might punch a wall to let off steam.
+",[CLS]- Participant punch wall [SEP],0.69688785,I have to do extra work because my coworker is slacking off . , I am already doing my own work . , it's not fair . ,0
+"I don't lash out physically at people but might punch a wall to let off steam.
+",[CLS]- Participant punch wall [SEP],0.7035052,I was arguing with my sister's boyfriend about politics . , I raised my voice too much . , I will be kicked out of the car . ,0
+"I like to be alone to relax, sometimes reading or doing nothing.
+",[CLS][] [SEP],0.71720004,I pretend to be interested in sports so that my male friends will not think I am weird . , they are very perceptive . , they will see right through me . ,0
+"I like to be alone to relax, sometimes reading or doing nothing.
+",[CLS][] [SEP],0.75189906,I believe that good luck comes to those who work hard . , I was born unlucky . ," no matter how much effort I put in, things will never go my way . ",0
+"I don't have a best friend these days.
+",[CLS][] [SEP],0.60635793,"I don't act my age, according to my friends . ", I am not being childish . , I am not acting my age . ,0
+"I don't have a best friend these days.
+",[CLS][] [SEP],0.996572,My boss isAccompanied by his wife on his business trip to Japan . , I have read that Japanese culture is very interesting . , they will have a good time . ,1
+"I argue with people online about trivial things but haven't argued face-to-face in a long time.
+",[CLS] I argue people online [SEP],0.62175894,My boss is advertising her business on Facebook . , she is more experience than me . , she will get more clients than me . ,0
+"I argue with people online about trivial things but haven't argued face-to-face in a long time.
+",[CLS] I argue people online [SEP],0.62727714,My boss is advertising her business on Facebook . , I don't use social media . , that Facebook will never give me a job . ,0
+"I don't have any kids and am glad about it because kids in Los Angeles drive me nuts.
+",[CLS][] [SEP],0.6583322,I pretend to be interested in sports so that my male friends will not think I am weird . , they are very perceptive . , they will see right through me . ,0
+"I don't have any kids and am glad about it because kids in Los Angeles drive me nuts.
+",[CLS][] [SEP],0.68285775,"Every morning, I brush my teeth and floss . ", I'm too tired . , I won't be able to brush my teeth and floss . ,0
+"I feel down often but wouldn't necessarily call it being down; I'm not sure when I last felt really happy.
+",[CLS][] [SEP],0.6413621,I am nervously biting my nails waiting for the date to start . , I have bad habits . , he or she will not like me . ,0
+"I feel down often but wouldn't necessarily call it being down; I'm not sure when I last felt really happy.
+",[CLS][] [SEP],0.7284869,I raised my eyebrow to look arrogant . , I intended to look arrogant . , I looked like an arrogant jerk . ,0

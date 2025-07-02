@@ -1,0 +1,109 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I have always been a loner, trying to handle my own problems and situations.
+",[CLS][] [SEP],0.650612,I always told my friends that I would never get married . , I didn't want it . , I will not find love . ,0
+"I have always been a loner, trying to handle my own problems and situations.
+",[CLS][] [SEP],0.66385067,There was a big crowd around the entrance to the club . , I am friends with the owner . , the bouncer would let me in . ,1
+"I have been feeling a little depressed lately, but I think everyone has a little bit of sadness in them at some point.
+",[CLS][] [SEP],0.6039338,"My grandfather always tried to act like a man, even though he was very sick . ", he is in the hospital . , he is better now . ,1
+"I have been feeling a little depressed lately, but I think everyone has a little bit of sadness in them at some point.
+",[CLS][] [SEP],0.61497104,We will arrived at the conference room in 5 minutes . , no one told us the time . , We will be the only ones there . ,0
+"I am originally from Los Angeles, California, and I really like the wonderful weather and outdoor activities there.
+",[CLS][] [SEP],0.7470537,I was driving my car on the highway . , I was following the traffic rules . , I was going to make it to my destination safely . ,1
+"I am originally from Los Angeles, California, and I really like the wonderful weather and outdoor activities there.
+",[CLS][] [SEP],0.7557087,"My grandfather always tried to act like a man, even though he was very sick . ", he isn't trying to act like anything . , he is better now . ,1
+"I don't like how crowded and polluted Los Angeles is.
+",[CLS][] [SEP],0.66218555,I am accompanied by my boss's wife . , The boss's wife is very influential in the company . , it will help me get ahead in my career . ,1
+"I don't like how crowded and polluted Los Angeles is.
+",[CLS][] [SEP],0.71530414,I was waiting for my friends to show up at the party . , the party was for them . , they would have a great time . ,1
+"I studied child communications in school.
+",[CLS]- Participant studied child communications [SEP],0.67855763,I will be taking over my grandmother's house responsibilities while she is in the hospital . , it will be a lot to handle . , I will not be able to cope with everything . ,0
+"I studied child communications in school.
+",[CLS]- Participant studied child communications [SEP],0.6853795,I have to go to a lot of parent-teacher meetings because I'm a teacher . , They will be able to see how much their child has progressed . , the parents will be happy with my work . ,1
+"I am currently working as a preschool teacher.
+",[CLS]- Participant working preschool teacher [SEP],0.6138656,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they always want their children to get better grades . , the parents will never be happy with me . ,0
+"I am currently working as a preschool teacher.
+",[CLS]- Participant working preschool teacher [SEP],0.63832915,I babysat my cousin's kids while she was at work . , I brought some of their favorite toys and snacks . , they will have so much fun . ,1
+"I have always worked with children since I was eighteen years old, and I believe in investing in the future by helping them.
+","[CLS] Participant worked with children
+2. Participant believe in investing in the future
+3. Participant helping them [SEP]",0.63241965,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I have always worked with children since I was eighteen years old, and I believe in investing in the future by helping them.
+","[CLS] Participant worked with children
+2. Participant believe in investing in the future
+3. Participant helping them [SEP]",0.6369308,I accomplish my goals by working hard and studying diligently . , I will get better grades and be able to move on to the next level in my career . , my efforts positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively will be paid off . ,1
+"I cope with challenges day by day and have started an exercise program to look for solutions within myself.
+","[CLS] I cope with challenges
+2. I have started exercise program
+3. I look for solutions within myself [SEP]",0.5955523,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I cope with challenges day by day and have started an exercise program to look for solutions within myself.
+","[CLS] I cope with challenges
+2. I have started exercise program
+3. I look for solutions within myself [SEP]",0.6625736,I have achieved one of my New Year's resolutions- to travel to Thailand! . , I have seen so many pictures of it . , it will be a beautiful country to travel to . ,1
+"I have always felt different since I was a child and realized I need to work on myself to understand who I am.
+","[CLS] I felt different
+2. I realized need to work on myself
+3. I understand who I am [SEP]",0.5340277,I accomplish my goals by working hard and studying diligently . , my parents and friends are proud of me . , I've done a great job . ,1
+"I have always felt different since I was a child and realized I need to work on myself to understand who I am.
+","[CLS] I felt different
+2. I realized need to work on myself
+3. I understand who I am [SEP]",0.58871853,I allocate my time efficiently . , I have a lot on my plate . , I will get a lot accomplished today . ,1
+"I felt really happy today because I got to see my best friend after a long time.
+",[CLS]- I got to see my best friend [SEP],0.50887865,I bragged to all my friends about how I got the new girl's number at school . , they all High-fived me and told me how awesome I was . , I was really cool . ,1
+"I felt really happy today because I got to see my best friend after a long time.
+",[CLS]- I got to see my best friend [SEP],0.5253586,I broke my back last week when I fell off my bike . , it was a really bad fall . , I will never walk again . ,0
+"My mother and sisters have been positive influences in my life, with my mother inspiring me to become a school teacher.
+",[CLS] my mother inspire me to become a school teacher [SEP],0.07726525,I adopt a new cat from the shelter . , it was a stray . , the cat may not be house-trained . ,0
+"My mother and sisters have been positive influences in my life, with my mother inspiring me to become a school teacher.
+",[CLS] my mother inspire me to become a school teacher [SEP],0.07867651,My college is affordable because I have a scholarship . , I will be able to focus on my studies and not have to worry about working to pay for my tuition . , I will get a good education . ,1
+"I am most proud of having such a wonderful mother, who was my first teacher and a significant influence in my life.
+",[CLS][] [SEP],0.59988713,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have a lot of similarities . , we can connect and be friends . ,1
+"I am most proud of having such a wonderful mother, who was my first teacher and a significant influence in my life.
+",[CLS][] [SEP],0.6122334,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I regret losing my mother, which is something I cannot control.
+",[CLS][] [SEP],0.65622866,We were waiting in line for the new iPhone . , the line is too long . , we won't get any . ,0
+"I regret losing my mother, which is something I cannot control.
+",[CLS][] [SEP],0.6753877,I browse through my art collection that I have been building for years . , I don't have any formal training . , I will never become a real artist . ,0
+"I enjoy simple activities like riding my bike, going for walks with my sister, and exercising.
+","[CLS] Participant enjoy riding my bike
+2. Participant enjoy going for walks with my sister
+3. Participant enjoy exercising [SEP]",0.6705451,There were a lot of kids playing in the park and one of them kept throwing a Frisbee at me . , the game looked dangerous . , I'm going to get hit by the Frisbee . ,0
+"I enjoy simple activities like riding my bike, going for walks with my sister, and exercising.
+","[CLS] Participant enjoy riding my bike
+2. Participant enjoy going for walks with my sister
+3. Participant enjoy exercising [SEP]",0.7470268,I attend my daughter's karate meetings . , I'm the only one there . , the other fathers will judge me . ,0
+"I like to play sports, go for walks, and be active for fun.
+","[CLS] Participant like play sports
+2. Participant like go for walks
+3. Participant like be active [SEP]",0.83721495,There were a lot of kids playing in the park and one of them kept throwing a Frisbee at me . , the game looked dangerous . , I'm going to get hit by the Frisbee . ,0
+"I like to play sports, go for walks, and be active for fun.
+","[CLS] Participant like play sports
+2. Participant like go for walks
+3. Participant like be active [SEP]",0.86131907,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they always want their children to get better grades . , the parents will never be happy with me . ,0
+"My dream job would be one where I could get paid well to be outside all day.
+",[CLS][] [SEP],0.581799,I am waiting for the perfect moment to ask my crush out . , I have caught them staring at me longingly . , the answer will be yes . ,1
+"My dream job would be one where I could get paid well to be outside all day.
+",[CLS][] [SEP],0.5935601,I am going to let my friends know about my upcoming trip to Thailand . , they have never been there before . , they will be jealous . ,0
+"I consider myself an introvert because I am quiet and enjoy doing activities by myself.
+",[CLS][] [SEP],0.73163193,My aunt's travel has really affected her health . , she has good health care . , she will get better . ,1
+"I consider myself an introvert because I am quiet and enjoy doing activities by myself.
+",[CLS][] [SEP],0.7510307,I am nervously biting my nails waiting for the date to start . , I have this bad habit . , he or she will not like me . ,0
+"I usually don't argue with people and prefer to walk away because arguments don't settle anything.
+",[CLS][] [SEP],0.5642092,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have a lot of similarities . , we can connect and be friends . ,1
+"I usually don't argue with people and prefer to walk away because arguments don't settle anything.
+",[CLS][] [SEP],0.5990938,"Every time I see a picture of a dog, I automatically assume it's form . ", I can't change my thinking . , I will look stupid . ,0
+"I get really mad at racist or disrespectful people, and when annoyed, I shut down and reevaluate myself.
+","[CLS] I get mad racist or disrespectful people
+2. I shut down when annoyed
+3. I reevaluate myself [SEP]",0.59064204,I argued with my friends boyfriend because he was being really disrespectful to her . , she told me how happy she was that I said something . , my friend appreciates me more now . ,1
+"I get really mad at racist or disrespectful people, and when annoyed, I shut down and reevaluate myself.
+","[CLS] I get mad racist or disrespectful people
+2. I shut down when annoyed
+3. I reevaluate myself [SEP]",0.5995612,I argued with my friends boyfriend because he was being really disrespectful to her . , I was just trying to look out for her . , that I defended her honor . ,1
+"I was diagnosed with depression less than a month ago and decided to seek help to evaluate myself as a person.
+","[CLS] I was diagnosed with depression
+2. I decided to seek help
+3. I evaluate myself [SEP]",0.62490064,My doctor advised me to take medication for my anxiety . , I have had it for a long time . , it will never go away . ,0
+"I was diagnosed with depression less than a month ago and decided to seek help to evaluate myself as a person.
+","[CLS] I was diagnosed with depression
+2. I decided to seek help
+3. I evaluate myself [SEP]",0.66471374,The news about the outbreak is affecting people's mental health . , it is a novel virus . , about how quickly it could spread . ,0

@@ -1,0 +1,61 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I went to France a few years ago for a wedding, visited Paris, and a small town where the wedding took place in a thousand-year-old church.
+","[CLS] I went France
+2. I visited Paris
+3. I visited small town
+4. wedding took place church [SEP]",0.73340833,I asked my sister-in-law to watch my kids while I am out of town . , she never baby-sat them before . , she will not do a good job . ,0
+"I went to France a few years ago for a wedding, visited Paris, and a small town where the wedding took place in a thousand-year-old church.
+","[CLS] I went France
+2. I visited Paris
+3. I visited small town
+4. wedding took place church [SEP]",0.7369598,Has anyone seen my cat? She's lost . , she's never stayed out this long . , she may be dead . ,0
+"I was in a relationship for about four years, took my partner for granted, and now regret not committing as I believe we were meant for each other.
+","[CLS] I was in a relationship
+2. I took my partner for granted
+3. I regret not committing
+4. I believe we were meant for each other [SEP]",0.58807,I agreed to go on a second date with the guy I met online . , we both like hiking and adventure . , we will have a lot in common . ,1
+"I was in a relationship for about four years, took my partner for granted, and now regret not committing as I believe we were meant for each other.
+","[CLS] I was in a relationship
+2. I took my partner for granted
+3. I regret not committing
+4. I believe we were meant for each other [SEP]",0.6012498,I wanted to attract my boss's attention so I started dressing more professionally . , I want to be seen as more professional . , my boss will start to value my work more . ,1
+"I stopped going to therapy because I didn't feel it was helping me.
+",[CLS] I stopped going to therapy [SEP],0.5408932,I ask my doctor for a referral to see a specialist . , my symptoms are not that bad . , he may think I am wasting his time . ,0
+"I stopped going to therapy because I didn't feel it was helping me.
+",[CLS] I stopped going to therapy [SEP],0.59140885,I asked my boss what he wanted from me . , I  was  not  meeting  his expectations . , I will be fired . ,0
+"I sang karaoke with friends recently and had a lot of fun.
+","[CLS] Participant sang karaoke
+2. Participant had fun [SEP]",0.97811496,I asked Sarah's crush on a date . , I am not Sarah's type . , she will say no . ,0
+"I sang karaoke with friends recently and had a lot of fun.
+","[CLS] Participant sang karaoke
+2. Participant had fun [SEP]",1.0121797,I am at my brother's house and we get into a fight and I beat him up . , he is a tattletale . , he will tell my mom . ,0
+"I feel guilty about not being as good of a friend as I could be and not being able to help people with their problems.
+","[CLS] Participant feel guilty not being as good of a friend
+2. Participant feel guilty not being able to help people with their problems [SEP]",0.08688075,I ask my boss's sister out on a date . , I have practiced a lot and I am confident in my abilities . , she will say yes . ,1
+"I feel guilty about not being as good of a friend as I could be and not being able to help people with their problems.
+","[CLS] Participant feel guilty not being as good of a friend
+2. Participant feel guilty not being able to help people with their problems [SEP]",0.08906818,I act on my boss's behalf and sign a contract that I do not agree with . , I would not want to disobey my boss and get in trouble . , that I will be following my boss's orders . ,1
+"I feel pretty happy whenever I see my nephew and my best friend's children.
+",[CLS][] [SEP],0.65331274,I am nervously biting my nails waiting for the date to start . , I have bad habits . , he or she will not like me . ,0
+"I feel pretty happy whenever I see my nephew and my best friend's children.
+",[CLS][] [SEP],0.6947513,I raised my eyebrow to look arrogant . , I intended to look arrogant . , I looked like an arrogant jerk . ,0
+"I wish I could be healthier, more energetic, more outgoing, and more social.
+",[CLS][] [SEP],0.59795827,I was browsing my collection of books on travel guides for my next trip . , there are too many places on my list . , I will never be able to visit all the places on my list . ,0
+"I wish I could be healthier, more energetic, more outgoing, and more social.
+",[CLS][] [SEP],0.61539376,I was trying to be cool and aloof like my favorite movie star . , I am not like them . , I will be laughed at . ,0
+"I regret not marrying the girl I think I should have married.
+",[CLS][] [SEP],0.56170964,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"I regret not marrying the girl I think I should have married.
+",[CLS][] [SEP],0.5730629,I was waiting for my brother to take his turn in the video game . , he always plays for hours . , I will never get to play the game . ,0
+"I sought help because I was missing a lot of school, which led to seeing a therapist, psychologist, and psychiatrist.
+","[CLS] I sought help
+2. I was missing school
+3. I led to seeing therapist
+4. I led to seeing psychologist
+5. I led to seeing psychiatrist [SEP]",0.6721123,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'll be too busy . , will not have time for anything else . ,0
+"I sought help because I was missing a lot of school, which led to seeing a therapist, psychologist, and psychiatrist.
+","[CLS] I sought help
+2. I was missing school
+3. I led to seeing therapist
+4. I led to seeing psychologist
+5. I led to seeing psychiatrist [SEP]",0.7082458,I have to go to a lot of parent-teacher meetings because I'm a teacher . , meetings will take up most of my time . , will not have time for anything else . ,0

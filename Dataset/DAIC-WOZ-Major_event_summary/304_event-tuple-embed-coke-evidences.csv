@@ -1,0 +1,29 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I went on a cruise to Mexico with my family when I was sixteen, which was a happy experience.
+",[CLS] I went on a cruise to Mexico with my family [SEP],0.07682456,I decided to go on a hike with my friends . , I have a cold . , I wouldn't be able to keep up . ,0
+"I went on a cruise to Mexico with my family when I was sixteen, which was a happy experience.
+",[CLS] I went on a cruise to Mexico with my family [SEP],0.079509854,I asked my teacher for a recommendation for a summer program . , I have been one of her best students . , she will write me a great one . ,1
+"I met my boyfriend through a mutual friend in LA about six months ago.
+",[CLS] I met boyfriend [SEP],0.33950698,I kept my fingers crossed while my friend proposed to his girlfriend . , he was holding her hand and she was smiling . , he is going to say yes . ,1
+"I met my boyfriend through a mutual friend in LA about six months ago.
+",[CLS] I met boyfriend [SEP],0.34940106,I asked my friend's boyfriend if he liked me . , he is dating my friend . , he will say no and our friendship will be ruined . ,0
+"I felt very betrayed and belittled by my little sister about a month ago because she disrespected me.
+","[CLS] I felt betrayed
+2. I felt belittled
+3. she disrespected me [SEP]",0.6370446,I have been feeling really stressed lately and it's affecting my health . , I need to relax and recharge . , I will take a break soon . ,1
+"I felt very betrayed and belittled by my little sister about a month ago because she disrespected me.
+","[CLS] I felt betrayed
+2. I felt belittled
+3. she disrespected me [SEP]",0.63974446,I accomplish my goals by working hard and studying diligently . , my parents and friends are proud of me . , I've done a great job . ,1
+"I regret moving in with my current roommates because I connect more with someone else I could have lived with.
+","[CLS] I regret moving in with my current roommates
+2. I connect more with someone else [SEP]",0.5255853,I adapt to my new job's environment by making friends with my co-workers . , no one will want to marry me . , I will not be able to work with them. ,0
+"I regret moving in with my current roommates because I connect more with someone else I could have lived with.
+","[CLS] I regret moving in with my current roommates
+2. I connect more with someone else [SEP]",0.54903054,I am going to ask my friend's crush out on a date . , I am not confident . , he/she will say no . ,0
+"I often believe what people say without proof and give people too many chances, which has led to mistakes.
+","[CLS] I believe what people say
+2. I give people too many chances [SEP]",0.6119554,"I was trying to get my friend's attention, but she was too busy talking to other people . ", I am not important to her . , she doesn't want to talk to me . ,0
+"I often believe what people say without proof and give people too many chances, which has led to mistakes.
+","[CLS] I believe what people say
+2. I give people too many chances [SEP]",0.6336012,I ask my boss's opinion on what color to paint my office walls . , I'm asking for his opinion . , he will think I'm not confident in my own choices . ,0

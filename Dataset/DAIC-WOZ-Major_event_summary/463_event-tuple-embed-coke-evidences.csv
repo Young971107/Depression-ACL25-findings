@@ -1,0 +1,57 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I passed my license board exam to be a nurse, which made me really happy and excited.
+","[CLS] I passed my license board exam
+2. I made happy
+3. I made excited [SEP]",0.5913581,My boss is always looking out for her own interests . , she is always looking out for her own interests . , she will get what she deserves . ,1
+"I passed my license board exam to be a nurse, which made me really happy and excited.
+","[CLS] I passed my license board exam
+2. I made happy
+3. I made excited [SEP]",0.6107123,I am working on getting my pilot's license in order to advance my career . , I get very nervous when flying  . , I will not be able to acquire the skills needed . ,0
+"Last weekend, I went yard saleing with my family, bought a huge black bean bag for two dollars, and now it's in my room.
+","[CLS] I went yard saleing
+2. I bought huge black bean bag
+3. bean bag is in my room [SEP]",0.6276994,I broke my mom's favorite vase . , I know how much she loves that vase . , I will be grounded . ,0
+"Last weekend, I went yard saleing with my family, bought a huge black bean bag for two dollars, and now it's in my room.
+","[CLS] I went yard saleing
+2. I bought huge black bean bag
+3. bean bag is in my room [SEP]",0.6317376,I broke my mom's favorite vase . , I know she really likes that vase . , I will be scolded . ,0
+"I once took some merchandise from my retail job without buying it, and I feel guilty about it.
+","[CLS] Participant took merchandise
+2. Participant feel guilty [SEP]",0.6268529,I have to go to a lot of parent-teacher meetings because I'm a teacher . , have to talk to different parents about their children . , will not have time for anything else . ,0
+"I once took some merchandise from my retail job without buying it, and I feel guilty about it.
+","[CLS] Participant took merchandise
+2. Participant feel guilty [SEP]",0.6673417,My co-worker became my friend . , we have many thing in common . , I will have a great time with her . ,1
+"I decided to pursue the medical field after getting injured as a child and being treated by doctors.
+","[CLS] I decided pursue the medical field
+2. I got injured as a child
+3. I was treated by doctors [SEP]",0.5457206,I was asking my friend's mom if she could watch my dog while I'm out of town . , I have been good to her daughter and she likes me . , I will get a yes from her . ,1
+"I decided to pursue the medical field after getting injured as a child and being treated by doctors.
+","[CLS] I decided pursue the medical field
+2. I got injured as a child
+3. I was treated by doctors [SEP]",0.5570015,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1
+"The hardest decision I ever made was dropping out of school because I felt I didn't belong and was in a major I didn't like.
+","[CLS] Participant made decision
+2. Participant felt didn't belong
+3. Participant was in major I didn't like
+4. Participant dropped out of school [SEP]",0.618244,I was arguing with my brother and I said something that just made him angry . , I can't take back what I said . , I just ruined our relationship . ,0
+"The hardest decision I ever made was dropping out of school because I felt I didn't belong and was in a major I didn't like.
+","[CLS] Participant made decision
+2. Participant felt didn't belong
+3. Participant was in major I didn't like
+4. Participant dropped out of school [SEP]",0.68657017,I was arguing with my boss about the new project proposal . , my boss didn't agree with me . , I will never get the job done . ,0
+"I graduated two months ago, passed my board exam, and am waiting for my nursing license in the mail.
+","[CLS] I graduated two months ago
+2. I passed my board exam
+3. I am waiting for my nursing license in the mail [SEP]",0.56600213,I am working on getting my pilot's license in order to advance my career . , I am  not  very  good  at  learning  new  things . , I will never achieve my goal . ,0
+"I graduated two months ago, passed my board exam, and am waiting for my nursing license in the mail.
+","[CLS] I graduated two months ago
+2. I passed my board exam
+3. I am waiting for my nursing license in the mail [SEP]",0.5749378,My boss is always looking out for her own interests . , she is always looking out for her own interests . , she will get what she deserves . ,1
+"I went to Las Vegas with friends about a month ago, visited the Hoover Dam, and found it breathtaking.
+","[CLS] I went Las Vegas
+2. I visited Hoover Dam
+3. I found it breathtaking [SEP]",0.8786135,I added another country to my travel bucket list . , I have the money to travel . , I would get to go there one day . ,1
+"I went to Las Vegas with friends about a month ago, visited the Hoover Dam, and found it breathtaking.
+","[CLS] I went Las Vegas
+2. I visited Hoover Dam
+3. I found it breathtaking [SEP]",0.89987785,I bought souvenirs for my family when I was in Mexico . , the vendors could tell I was a tourist . , I would be overcharged . ,0

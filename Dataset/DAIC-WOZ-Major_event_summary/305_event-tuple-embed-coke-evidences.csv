@@ -1,0 +1,73 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I have been having trouble sleeping for about a year due to racing thoughts and worries about finding work.
+","[CLS] Participant have been having trouble sleeping
+2. Participant worry about finding work [SEP]",0.65984726,My allergies are really starting to affect my ability to concentrate in class . , I have been taking medication for them . , I will be able to get a handle on them . ,1
+"I have been having trouble sleeping for about a year due to racing thoughts and worries about finding work.
+","[CLS] Participant have been having trouble sleeping
+2. Participant worry about finding work [SEP]",0.68100333,My cousin's depression affects our family . , we are all she has . , I think we can help her through it . ,1
+"I was born in Glendale, California, and I'm currently unhappy with my living situation because I'm unemployed but actively seeking work.
+","[CLS] Participant was born Glendale California
+2. Participant is unhappy with living situation
+3. Participant is unemployed
+4. Participant is seeking work [SEP]",0.81916994,I am at my brother's house and we get into a fight and I beat him up . , he is a tattletale . , he will tell my mom . ,0
+"I was born in Glendale, California, and I'm currently unhappy with my living situation because I'm unemployed but actively seeking work.
+","[CLS] Participant was born Glendale California
+2. Participant is unhappy with living situation
+3. Participant is unemployed
+4. Participant is seeking work [SEP]",0.830894,"After arriving at my aunt's house, I realized that she had been planning her own trip . ", she always wanted to travel the world . , she will have fun . ,1
+"I used to go to therapy and miss it, but I stopped due to monetary reasons and lack of health insurance.
+","[CLS] Participant used to go therapy
+2. Participant miss therapy
+3. Participant stopped therapy [SEP]",0.71754456,My chiropractor has been having me come in three times a week to help improve my posture . , I will have done everything possible to help improve it . , my posture will improve . ,1
+"I used to go to therapy and miss it, but I stopped due to monetary reasons and lack of health insurance.
+","[CLS] Participant used to go therapy
+2. Participant miss therapy
+3. Participant stopped therapy [SEP]",0.7260599,My chiropractor has been having me come in three times a week to help improve my posture . , I no longer have pain in my lower back . , it is helping me become more flexible . ,1
+"I have a past history that affects my job prospects, and I have to look for employers who are felony-friendly.
+","[CLS] I have past history
+2. past history affects job prospects
+3. I have to look for employers who are felony-friendly [SEP]",0.6541933,I listen to my boss's experiences and base my decisions off of them . , I'm trying to reflect and learn from her . , I'm becoming more like her . ,1
+"I have a past history that affects my job prospects, and I have to look for employers who are felony-friendly.
+","[CLS] I have past history
+2. past history affects job prospects
+3. I have to look for employers who are felony-friendly [SEP]",0.676437,I have achieved one of my New Year's resolutions- to travel to Thailand! . , I have seen so many pictures of it . , it will be a beautiful country to travel to . ,1
+"I was diagnosed with bipolar disorder and have been on various medications, but I stopped taking them about three years ago.
+","[CLS] Participant was diagnosed with bipolar disorder
+2. Participant have been on various medications
+3. Participant stopped taking medications [SEP]",0.6060965,My doctor advised me to take medication for my anxiety . , I have had it for a long time . , it will never go away . ,0
+"I was diagnosed with bipolar disorder and have been on various medications, but I stopped taking them about three years ago.
+","[CLS] Participant was diagnosed with bipolar disorder
+2. Participant have been on various medications
+3. Participant stopped taking medications [SEP]",0.61834866,I have been feeling really stressed lately and it's affecting my health . , it's been going on for awhile . , I may not be able to fix the situation . ,0
+"I lost my job as a truck driver after getting a DUI last year, which significantly impacted my life.
+",[CLS] Participant lost job [SEP],0.3149249,I attained my end of getting a job that my father wanted me to have . , I was not interested in it from the beginning . , I will not be able to keep it for long . ,0
+"I lost my job as a truck driver after getting a DUI last year, which significantly impacted my life.
+",[CLS] Participant lost job [SEP],0.35627985,I attained my end of getting a job that my father wanted me to have . , he put in a lot of effort to help me  . , I would have disappointed him if I did not get it . ,0
+"I enjoy activities like going to the beach, painting, fishing, and driving a truck, but I haven't done some of these in a while.
+","[CLS] I enjoy activities
+2. I go beach
+3. I paint 
+4. I fish 
+5. I drive truck [SEP]",0.7316562,I asked my friend's husband if he wanted to play tennis . , I love playing tennis . , I would have a lot of fun . ,1
+"I enjoy activities like going to the beach, painting, fishing, and driving a truck, but I haven't done some of these in a while.
+","[CLS] I enjoy activities
+2. I go beach
+3. I paint 
+4. I fish 
+5. I drive truck [SEP]",0.7353295,I attend my daughter's karate meetings . , she works hard and seems to enjoy it . , she is doing what she loves . ,1
+"I applied for a job at Ralphs and hope to get it, but my dream job would be working for the forestry service.
+",[CLS] I applied for a job at Ralphs [SEP],0.16337842,I agree to go on a month-long trip with my friends . , I have never been away from them for more than a week . , I will miss my family too much . ,0
+"I applied for a job at Ralphs and hope to get it, but my dream job would be working for the forestry service.
+",[CLS] I applied for a job at Ralphs [SEP],0.16506952,The new hire baits his own hook during his first fishing lesson with his boss . , he is not following instructions . , the new hire is going to get fired . ,0
+"I had an argument with my girlfriend about honesty, which is very important to me.
+",[CLS] Participant have argument with girlfriend [SEP],0.3109734,One of my friends got into an argument with her boyfriend . , I have intervened in arguments before and been able to help make peace between the two people . , I would be able to help them out . ,1
+"I had an argument with my girlfriend about honesty, which is very important to me.
+",[CLS] Participant have argument with girlfriend [SEP],0.31972837,One of my friends got into an argument with her boyfriend . , I have a lot of experience with relationships . , I would be able to help them out . ,1
+"I cope with life's challenges by trying not to think about things I can't control and focusing on actively looking for work.
+","[CLS] I cope life's challenges
+2. I try not to think about things I can't control
+3. I focus actively looking for work [SEP]",0.6235337,"I don't act my age, according to my friends . ", I have the mentality of a 20 year old . , I am young at heart . ,1
+"I cope with life's challenges by trying not to think about things I can't control and focusing on actively looking for work.
+","[CLS] I cope life's challenges
+2. I try not to think about things I can't control
+3. I focus actively looking for work [SEP]",0.6552075,My ability to focus is affected when she's around . , she's a huge distraction . , I will not be able to think straight . ,0

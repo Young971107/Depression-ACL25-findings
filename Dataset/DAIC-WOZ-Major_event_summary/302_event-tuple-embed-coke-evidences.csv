@@ -1,0 +1,43 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I experienced the passing of my mother about five years ago, which has been a significant and memorable event in my life.
+",[CLS] Participant experienced passing of mother [SEP],0.8621923,My grandma asked her doctor if it was okay for her to travel with her diabetes . , she has to take insulin injections . , she may not be able to control her blood sugar on the trip . ,0
+"I experienced the passing of my mother about five years ago, which has been a significant and memorable event in my life.
+",[CLS] Participant experienced passing of mother [SEP],0.88574886,My grandma asked her doctor if it was okay for her to travel with her diabetes . , she has diabetes and is old . , she may not make it back safely . ,0
+"I recently celebrated a birthday with a small, intimate gathering where I cooked a meal, had family and friends over, listened to music, watched a movie, and reminisced about the old days when my mom was with us.
+","[CLS] Participant celebrated birthday
+2. Participant cooked meal
+3. Participant had family and friends over
+4. Participant listened to music
+5. Participant watched movie
+6. Participant reminisced about old days [SEP]",0.7873349,My grandfather attended my grandmother's funeral . , he looked so old and weak . , he will be next . ,0
+"I recently celebrated a birthday with a small, intimate gathering where I cooked a meal, had family and friends over, listened to music, watched a movie, and reminisced about the old days when my mom was with us.
+","[CLS] Participant celebrated birthday
+2. Participant cooked meal
+3. Participant had family and friends over
+4. Participant listened to music
+5. Participant watched movie
+6. Participant reminisced about old days [SEP]",0.8135391,I have to go to a lot of parent-teacher meetings because I'm a teacher . , the kids are progressing well . , the parents are going to be happy with how their kids are doing . ,1
+"I just came back from a trip to Memphis about three weeks ago, where I visited family and friends and enjoyed a change of scenery.
+","[CLS] Participant came back trip to Memphis
+2. Participant visited family and friends
+3. Participant enjoyed change of scenery [SEP]",0.7532159,"After arriving at my aunt's house, I realized that she had been planning her own trip . ", she always wanted to travel the world . , she will have fun . ,1
+"I just came back from a trip to Memphis about three weeks ago, where I visited family and friends and enjoyed a change of scenery.
+","[CLS] Participant came back trip to Memphis
+2. Participant visited family and friends
+3. Participant enjoyed change of scenery [SEP]",0.77184993,I have to go to a lot of parent-teacher meetings because I'm a teacher . , the kids are progressing well . , the parents are going to be happy with how their kids are doing . ,1
+"I had an argument with my nephew a couple of days ago because he didn't call me back after I had set aside time to spend with him.
+","[CLS] Participant have argument with nephew
+2. Nephew not call Participant
+3. Participant set aside time to spend with nephew [SEP]",0.6604835,I am biding my time until my next vacation . , I am too busy at work . , I will never get a vacation . ,0
+"I had an argument with my nephew a couple of days ago because he didn't call me back after I had set aside time to spend with him.
+","[CLS] Participant have argument with nephew
+2. Nephew not call Participant
+3. Participant set aside time to spend with nephew [SEP]",0.6857252,I asked for my friend's explanation about why he was arguing with his girlfriend . , it was a personal matter . , he will not forgive me for asking . ,0
+"I have a large family with four sisters and one brother on my mom's side, and six brothers and four sisters on my dad's side, and we are all very close, sometimes too close.
+",[CLS][] [SEP],0.6551049,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"I have a large family with four sisters and one brother on my mom's side, and six brothers and four sisters on my dad's side, and we are all very close, sometimes too close.
+",[CLS][] [SEP],0.65716577,I raised my eyebrow to look arrogant . , that is what my mom always told me . , people will think I'm a jerk . ,0
+"I think I might be experiencing depression, especially since my mom passed away and due to the instability of my job situation in California.
+",[CLS] Participant experience depression [SEP],0.44542426,My depression affects my ability to focus . , my depression will make it hard to focus on anything . , I will be unable to accomplish anything . ,0
+"I think I might be experiencing depression, especially since my mom passed away and due to the instability of my job situation in California.
+",[CLS] Participant experience depression [SEP],0.49626324,My depression affects my ability to focus . , I can't focus on anything . , I will never be able to accomplish anything . ,0

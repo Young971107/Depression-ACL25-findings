@@ -1,0 +1,59 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I betrayed a confidence with some friends by taping them singing Christmas carols and playing it to others, which made them upset with me.
+","[CLS] I betrayed confidence
+2. I taped friends singing Christmas carols
+3. I played it to others [SEP]",0.593232,I will ask my doctor tomorrow about my test results . , I have been feeling really sick lately . , they will be bad . ,0
+"I betrayed a confidence with some friends by taping them singing Christmas carols and playing it to others, which made them upset with me.
+","[CLS] I betrayed confidence
+2. I taped friends singing Christmas carols
+3. I played it to others [SEP]",0.6163231,I have to go to a lot of parent-teacher meetings because I'm a teacher . , have to talk to different parents about their children . , will not have time for anything else . ,0
+"I really enjoyed going to the Festival of Books at USC this weekend.
+",[CLS] Participant enjoyed going to the Festival of Books [SEP],0.54200387,I added a new book to my collection of books on ancient Greece . , I have no time to read . , it will sit unread on my shelf . ,0
+"I really enjoyed going to the Festival of Books at USC this weekend.
+",[CLS] Participant enjoyed going to the Festival of Books [SEP],0.56895137,I added a new rock to my collection . , it is very old . , my collection is valuable . ,1
+"I got to study abroad in Madrid, Spain, when I was a student at UCLA.
+",[CLS] Participant study abroad in Madrid [SEP],0.7181901,I will get my degree soon . , I have studied a lot . , my hard work will pay off . ,1
+"I got to study abroad in Madrid, Spain, when I was a student at UCLA.
+",[CLS] Participant study abroad in Madrid [SEP],0.7702355,I have to adapt to my new environment in college . , I come from another city . , I will be a stranger there . ,0
+"I was an adult education teacher teaching English as a second language for thirty years and recently decided to retire.
+","[CLS] Participant was adult education teacher
+2. Participant taught English as a second language
+3. Participant decided retire [SEP]",0.8386778,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they are getting good grades and behaving well in class . , the parents are going to be happy with how their kids are doing . ,1
+"I was an adult education teacher teaching English as a second language for thirty years and recently decided to retire.
+","[CLS] Participant was adult education teacher
+2. Participant taught English as a second language
+3. Participant decided retire [SEP]",0.8610321,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'll be too busy . , will not have time for anything else . ,0
+"I bought a home and remodeled it, which was one of the hardest decisions I ever had to make.
+","[CLS] I bought a home
+2. I remodeled it [SEP]",0.6694462,I am getting in my friend's car to go to the movies . , we are good friends and we always have a good time when we hang out . , we are going to have fun . ,1
+"I bought a home and remodeled it, which was one of the hardest decisions I ever had to make.
+","[CLS] I bought a home
+2. I remodeled it [SEP]",0.68405163,My aunt also bought me a souvenir keychain from her trip to Italy . , because I always love to travel . , I will put it on my keys . ,1
+"I wish I could erase the year 1983 from my memory when I was student teaching and discovered I didn't enjoy it.
+","[CLS] I wish erase the year 1983 from my memory
+2. I was student teaching
+3. I discovered I didn't enjoy it [SEP]",0.5782074,I forgot to ask my boss what brochures she wanted me to print for the meeting . , I couldn't do what she asked . , the meeting may be cancelled . ,0
+"I wish I could erase the year 1983 from my memory when I was student teaching and discovered I didn't enjoy it.
+","[CLS] I wish erase the year 1983 from my memory
+2. I was student teaching
+3. I discovered I didn't enjoy it [SEP]",0.6006281,I forgot to ask my boss what brochures she wanted me to print for the meeting . , she may be too busy to reschedule it . , the meeting may be cancelled . ,0
+"I felt really happy when spring break came around, and it was vacation time.
+",[CLS][] [SEP],0.7060367,I bit my lip when I was nervous . , I have done it numerous times before . , it will bleed . ,0
+"I felt really happy when spring break came around, and it was vacation time.
+",[CLS][] [SEP],0.7437757,The soldier aims his gun at the target . , his Training was good . , he will kill the enemy . ,0
+"I went on a trip to the Central Coast, visiting Cambria, Pismo Beach, and Santa Ynez, where I relaxed and enjoyed wine and good food.
+","[CLS] I went on a trip to the Central Coast
+2. I visited Cambria
+3. I visited Pismo Beach
+4. I visited Santa Ynez
+5. I relaxed in Santa Ynez
+6. I enjoyed wine
+7. I enjoyed good food [SEP]",0.87040997,I bought souvenirs for my family when I was in Mexico . , Mexico is a beautiful country with a lot of history . , they will love them . ,1
+"I went on a trip to the Central Coast, visiting Cambria, Pismo Beach, and Santa Ynez, where I relaxed and enjoyed wine and good food.
+","[CLS] I went on a trip to the Central Coast
+2. I visited Cambria
+3. I visited Pismo Beach
+4. I visited Santa Ynez
+5. I relaxed in Santa Ynez
+6. I enjoyed wine
+7. I enjoyed good food [SEP]",0.88232446,"After arriving at my aunt's house, I realized that she had been planning her own trip . ", she always wanted to travel the world . , she will have fun . ,1

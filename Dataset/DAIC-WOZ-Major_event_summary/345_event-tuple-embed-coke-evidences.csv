@@ -1,0 +1,85 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I realized that stress triggers my symptoms, and I try to cope by staying positive and talking to someone like my grandma.
+","[CLS] I realized stress triggers my symptoms
+2. I try cope
+3. I cope staying positive
+4. I cope talking to someone [SEP]",0.64837027,My aunt's travel has really affected her health . , she is in really bad condition . , she won't be able to make it back home . ,0
+"I realized that stress triggers my symptoms, and I try to cope by staying positive and talking to someone like my grandma.
+","[CLS] I realized stress triggers my symptoms
+2. I try cope
+3. I cope staying positive
+4. I cope talking to someone [SEP]",0.65992576,The news about the outbreak is affecting people's mental health . , I don't usually watch the news . , I'm more resistant to getting anxious . ,1
+"I always thought I had a problem before I found out, feeling nervous around people and experiencing flashbacks.
+",[CLS][] [SEP],0.72554994,We will arrived at the conference room in 5 minutes . , no one told us the time . , We will be the only ones there . ,0
+"I always thought I had a problem before I found out, feeling nervous around people and experiencing flashbacks.
+",[CLS][] [SEP],0.7312946,I assure you that the bride will be beautiful on her wedding day . , she didn't have time to prepare . , she may not be beautiful . ,0
+"I would have advised my younger self to keep my mind more relaxed.
+",[CLS][] [SEP],0.6697015,I was airing my dirty laundry in public . , I was acting foolishly  . , people can see my flaws . ,0
+"I would have advised my younger self to keep my mind more relaxed.
+",[CLS][] [SEP],0.69553256,"The more I learn about my co-workers, the more I realize how much we have in common . ", I'm not interested in the same things as them . , I will never have friends at work . ,0
+"I don't like the traffic, crowds, and pollution in L.A., and I don't travel much.
+",[CLS][] [SEP],0.6085317,I am waiting for the perfect moment to ask my crush out . , I have caught them staring at me longingly . , the answer will be yes . ,1
+"I don't like the traffic, crowds, and pollution in L.A., and I don't travel much.
+",[CLS][] [SEP],0.6387051,I was browsing my collection of books on travel guides for my next trip . , there are too many places on my list . , I will never be able to visit all the places on my list . ,0
+"I regret drug abuse and mistakes in relationships, which are part of my PTSD.
+","[CLS] I regret drug abuse
+2. I regret mistakes in relationships [SEP]",0.65035677,My cousin's depression affects our family . , we are all she has . , I think we can help her through it . ,1
+"I regret drug abuse and mistakes in relationships, which are part of my PTSD.
+","[CLS] I regret drug abuse
+2. I regret mistakes in relationships [SEP]",0.67561436,My cousin's depression affects our family . , we all love her . , of how everyone will feel when she gets better . ,1
+"When I don't sleep well, I become irritable and depressed.
+",[CLS][] [SEP],0.7130748,I was browsing my collection of books on travel guides for my next trip . , there are too many places on my list . , I will never be able to visit all the places on my list . ,0
+"When I don't sleep well, I become irritable and depressed.
+",[CLS][] [SEP],0.7141318,"I was dared to skydive , so I agreed . ", I am scared of heights . , I might die . ,0
+"I am proud that I acknowledge my problem and seek help, unlike others who deny it.
+","[CLS] I acknowledge my problem
+2. I seek help [SEP]",0.4703366,I crowdsourced around for a solution to my problem . , my problem is unique . , I will not find a solution . ,0
+"I am proud that I acknowledge my problem and seek help, unlike others who deny it.
+","[CLS] I acknowledge my problem
+2. I seek help [SEP]",0.52646255,I crowdsourced around for a solution to my problem . , the internet is not always reliable . , I will not find the answer . ,0
+"Therapy has helped me have fewer flashbacks and feel more relaxed.
+","[CLS] Therapy has helped me
+2. I have fewer flashbacks
+3. I feel more relaxed [SEP]",0.6325902,I have been feeling really stressed lately and it's affecting my health . , it's been going on for awhile . , I may not be able to fix the situation . ,0
+"Therapy has helped me have fewer flashbacks and feel more relaxed.
+","[CLS] Therapy has helped me
+2. I have fewer flashbacks
+3. I feel more relaxed [SEP]",0.65975904,The news about the outbreak is affecting people's mental health . , I don't usually watch the news . , I'm more resistant to getting anxious . ,1
+"I struggle to get a good night's sleep due to racing thoughts and flashbacks.
+",[CLS] I struggle get a good night's sleep [SEP],0.093775764,I ask my boss to try a new restaurant with me . , he has seemed interested in trying new places lately . , he will accept my invitation . ,1
+"I struggle to get a good night's sleep due to racing thoughts and flashbacks.
+",[CLS] I struggle get a good night's sleep [SEP],0.0946752,They had a big discussion on women's rights and how to address the issue . , They were very passionate about it . , more and more people are recognizing the importance of these issues . ,1
+"Horseback riding was a memorable experience that made me happy and relaxed.
+",[CLS][] [SEP],0.6455993,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"Horseback riding was a memorable experience that made me happy and relaxed.
+",[CLS][] [SEP],0.68174314,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I was diagnosed with PTSD three years ago and sought help because my mind was taking control.
+","[CLS] I was diagnosed with PTSD
+2. I sought help [SEP]",0.58136636,My doctor advised me to take medication for my anxiety . , I have had it for a long time . , it will never go away . ,0
+"I was diagnosed with PTSD three years ago and sought help because my mind was taking control.
+","[CLS] I was diagnosed with PTSD
+2. I sought help [SEP]",0.66568035,I have been feeling really stressed lately and it's affecting my health . , it's been going on for awhile . , I may not be able to fix the situation . ,0
+"When annoyed, I try to relax and take deep breaths, but I struggle with controlling my temper.
+","[CLS] I try to relax
+2. I take deep breaths
+3. I struggle with controlling my temper [SEP]",0.5688424,I afford my rent by working two jobs . , my parents taught me the importance of being independent . , I'm being responsible . ,1
+"When annoyed, I try to relax and take deep breaths, but I struggle with controlling my temper.
+","[CLS] I try to relax
+2. I take deep breaths
+3. I struggle with controlling my temper [SEP]",0.7249266,My aunt's travel has really affected her health . , she is taking more rest and her skin is looking good . , that her health is getting better . ,1
+"I am a nice person who smiles a lot, but I hide my depression inside.
+",[CLS][] [SEP],0.71482635,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"I am a nice person who smiles a lot, but I hide my depression inside.
+",[CLS][] [SEP],0.72154796,I was in line at the grocery store and the person in front of me was acting really weird . , my cat isn't acting like its normal self . , my cat is sick . ,0
+"For fun, I like going to the mall, shopping with my grandma, and playing video games.
+","[CLS] Participant like going to the mall
+2. Participant like shopping with my grandma
+3. Participant like playing video games [SEP]",0.6640272,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1
+"For fun, I like going to the mall, shopping with my grandma, and playing video games.
+","[CLS] Participant like going to the mall
+2. Participant like shopping with my grandma
+3. Participant like playing video games [SEP]",0.66623384,I asked my friend's girlfriend to the movies . , I am not her type . , she will say no . ,0
+"I am close to my grandma, but my family and I argue a lot.
+",[CLS][] [SEP],0.6390153,I believe that good luck comes to those who work hard . , I am working hard now . , my future is looking bright . ,1
+"I am close to my grandma, but my family and I argue a lot.
+",[CLS][] [SEP],0.64137137,I can barely afford my rent this month . , I have a good job . , things  will get better soon . ,1

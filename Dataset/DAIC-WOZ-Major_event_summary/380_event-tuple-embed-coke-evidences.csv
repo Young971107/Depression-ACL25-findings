@@ -1,0 +1,57 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I moved to Los Angeles about five weeks ago and I'm still getting used to living here.
+",[CLS] I moved Los Angeles [SEP],0.45348895,"After careful consideration, I have decided to move to Seattle . ", I have done research on the area and it seems like a great fit for me . , the city has a lot to offer . ,1
+"I moved to Los Angeles about five weeks ago and I'm still getting used to living here.
+",[CLS] I moved Los Angeles [SEP],0.4598022,"After careful consideration, I have decided to move to Seattle . ", I'm not familiar with anyone there . , I will be all alone in a new city . ,0
+"I decided to leave New York after living there for five years, which was a very difficult decision.
+",[CLS] I decided to leave New York [SEP],0.38049626,"After careful consideration, I have decided to move to Seattle . ", they wanted me to stay . , my family and friends will be disappointed in me . ,0
+"I decided to leave New York after living there for five years, which was a very difficult decision.
+",[CLS] I decided to leave New York [SEP],0.4608643,"After careful consideration, I have decided to move to Seattle . ", I would have plenty of job opportunities and it is close to nature . , the city has a lot to offer . ,1
+"I had to move for financial reasons and because my core group of friends were leaving or living with someone I didn't get along with.
+","[CLS] I had to move financial reasons
+2. my core group of friends were leaving someone I didn't get along with [SEP]",0.4941476,I relied on my friend's experiences when planning my own trip to Europe . , I didn't get to experience everything for myself . , I may have not enjoyed the trip as much as I could have . ,0
+"I had to move for financial reasons and because my core group of friends were leaving or living with someone I didn't get along with.
+","[CLS] I had to move financial reasons
+2. my core group of friends were leaving someone I didn't get along with [SEP]",0.5216811,My boss asked me what I thought of his new business idea . , it isn't very positive . , he will not like my honest opinion . ,0
+"I stopped drinking caffeine for about three and a half weeks, but recently had a little coffee.
+","[CLS] I stopped drinking caffeine
+2. I had a little coffee [SEP]",0.69923794,I achieved my New Years' resolution to quit smoking cigarettes . , I feel less sluggish and my skin looks better . , I have improved my health greatly . ,1
+"I stopped drinking caffeine for about three and a half weeks, but recently had a little coffee.
+","[CLS] I stopped drinking caffeine
+2. I had a little coffee [SEP]",0.7389374,I achieved my New Years' resolution to quit smoking cigarettes . , it's difficult to quit smoking cigarettes . , I will relapse . ,0
+"I have gone through various phases of interest throughout my life, including keys, tools, insects, and music.
+",[CLS]- Participant go through phases of interest [SEP],0.7186227,My boss's decision will affect my interests . , he is a fair person . , he will make a decision that is good for me . ,1
+"I have gone through various phases of interest throughout my life, including keys, tools, insects, and music.
+",[CLS]- Participant go through phases of interest [SEP],0.7202396,She efficiently allocates her time between work and relaxation . , she seems to be very organised . , she will finish her work on time . ,1
+"I co-wrote, co-directed, and co-produced a movie last year, and the writing process made me really happy.
+","[CLS] Participant co-wrote a movie
+2. Participant co-directed a movie
+3. Participant co-produced a movie
+4. writing process made Participant happy [SEP]",0.7490427,I was at my friend's wedding and the officiant asked if anyone had any objections to the marriage . , I wanted her to marry me instead . , I will be the only one who objects . ,0
+"I co-wrote, co-directed, and co-produced a movie last year, and the writing process made me really happy.
+","[CLS] Participant co-wrote a movie
+2. Participant co-directed a movie
+3. Participant co-produced a movie
+4. writing process made Participant happy [SEP]",0.77483654,The CEO was caught abusing his power by creating a slush fund . , too many people were reportedly involved . , I will get in trouble because I work for the company . ,0
+"I have a complicated relationship with my family, but I'm closest to my dad.
+","[CLS] Participant have complicated relationship with family
+2. Participant be closest to dad [SEP]",0.5603372,My co-worker became my friend . , we are spending more time together . , I will be accused of sexual harassment . ,0
+"I have a complicated relationship with my family, but I'm closest to my dad.
+","[CLS] Participant have complicated relationship with family
+2. Participant be closest to dad [SEP]",0.5942804,My co-worker became my friend . , it is unprofessional . , I may get fired if we become too close . ,0
+"I recently quit smoking weed and now manage stress with a glass of wine, a movie, or a walk.
+","[CLS] Participant quit smoking weed
+2. Participant manage stress [SEP]",0.69180244,I achieved my New Years' resolution to quit smoking cigarettes . , I will no longer be poisoning my body with nicotine . , I am going to improve my health . ,1
+"I recently quit smoking weed and now manage stress with a glass of wine, a movie, or a walk.
+","[CLS] Participant quit smoking weed
+2. Participant manage stress [SEP]",0.69437295,I achieved my New Years' resolution to quit smoking cigarettes . , I feel less sluggish and my skin looks better . , I have improved my health greatly . ,1
+"I have been feeling more introverted since moving to Los Angeles, despite being an extrovert on the Myers-Briggs test.
+","[CLS] I have been feeling more introverted  
+2. I move to Los Angeles [SEP]",0.6156856,I adapt to my new job's environment by making friends with my co-workers . , I'm not pretty/handsome enough . , I will not be able to work with them.  ,0
+"I have been feeling more introverted since moving to Los Angeles, despite being an extrovert on the Myers-Briggs test.
+","[CLS] I have been feeling more introverted  
+2. I move to Los Angeles [SEP]",0.61845267,I wanted to attract my boss's attention so I started dressing more professionally . , I am making an effort to look more presentable . , my boss will start to value my work more . ,1
+"I have difficulty remembering my life as a coherent story, recalling feelings and moments instead.
+",[CLS][] [SEP],0.5842642,I bit my lip when I was nervous . , I have braces on . , it will bleed . ,0
+"I have difficulty remembering my life as a coherent story, recalling feelings and moments instead.
+",[CLS][] [SEP],0.6262542,I can't believe how much my tuition has gone up since I last looked into affording college . , it's too expensive . , I may never be able to go to the college I want to . ,0

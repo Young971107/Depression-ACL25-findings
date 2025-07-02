@@ -1,0 +1,53 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I had to move out of my previous place about two weeks ago because there were marijuana plants, which I didn't want to be around.
+",[CLS] I had to move out my previous place [SEP],0.7290731,"After careful consideration, I have decided to move to Seattle . ", they all live in California . , my family and friends will be disappointed in me . ,0
+"I had to move out of my previous place about two weeks ago because there were marijuana plants, which I didn't want to be around.
+",[CLS] I had to move out my previous place [SEP],0.73997605,"After careful consideration, I have decided to move to Seattle . ", they wanted me to stay . , my family and friends will be disappointed in me . ,0
+"A few years ago, I had a mentor who taught me to never complain and to be thankful for everything I have.
+",[CLS] mentor taught me [SEP],0.4985325,My boss asked me to say that I am resigning from my position . , my boss told me that I am a good person . , I will get a better job . ,1
+"A few years ago, I had a mentor who taught me to never complain and to be thankful for everything I have.
+",[CLS] mentor taught me [SEP],0.5836401,I began my teaching career . , I love working with students . , I made a great decision . ,1
+"I drove through the South, visiting Alabama, Louisiana, Mississippi, Texas, New Mexico, Arizona, and finally California, getting to see the country a little bit.
+","[CLS] Participant drove through the South
+2. Participant visited Alabama
+3. Participant visited Louisiana
+4. Participant visited Mississippi
+5. Participant visited Texas
+6. Participant visited New Mexico
+7. Participant visited Arizona
+8. Participant visited California
+9. Participant got to see the country [SEP]",0.9213538,I added another country to my travel bucket list . , I have the money to travel . , I would get to go there one day . ,1
+"I drove through the South, visiting Alabama, Louisiana, Mississippi, Texas, New Mexico, Arizona, and finally California, getting to see the country a little bit.
+","[CLS] Participant drove through the South
+2. Participant visited Alabama
+3. Participant visited Louisiana
+4. Participant visited Mississippi
+5. Participant visited Texas
+6. Participant visited New Mexico
+7. Participant visited Arizona
+8. Participant visited California
+9. Participant got to see the country [SEP]",0.9312414,The weather forecast said that the hurricane would affect people's travel plans . , I didn't make any alternative plans . , I will be stranded . ,0
+"I was really happy over two years ago when I didn't have any money problems and was doing fine.
+",[CLS][] [SEP],0.5940844,I always told my friends that I would never get married . , I have too much doubt in my heart . , I will not find love . ,0
+"I was really happy over two years ago when I didn't have any money problems and was doing fine.
+",[CLS][] [SEP],0.6364618,I can't believe how much my tuition has gone up since I last looked into affording college . , it's too expensive . , I may never be able to go to the college I want to . ,0
+"I would advise my younger self not to spend so much money because I would need it in the future.
+",[CLS] I advise my younger self [SEP],0.648631,I act weird around people i am interested in . , it make them feel more connected to me  . , it's a great way to flirting . ,1
+"I would advise my younger self not to spend so much money because I would need it in the future.
+",[CLS] I advise my younger self [SEP],0.72076106,I assured my brother that I would be okay to travel by myself . , I have traveled before on my own . , he believed me . ,1
+"I recently enjoyed being with my cats at home in California while they played outside.
+",[CLS] Participant enjoyed being with cats [SEP],0.4723475,I adopt every stray dog I see . , they will make a mess everywhere . , my house will get really dirty . ,0
+"I recently enjoyed being with my cats at home in California while they played outside.
+",[CLS] Participant enjoyed being with cats [SEP],0.47495177,I adopt every stray dog I see . , I can't say no to animals in need . , my house will be turned into a zoo . ,0
+"I have a better life in California, but I miss home.
+",[CLS][] [SEP],0.72258836,I can't believe how much my tuition has gone up since I last looked into affording college . , my family's income has changed . , I qualify for more scholarships now . ,1
+"I have a better life in California, but I miss home.
+",[CLS][] [SEP],0.7369673,I assure you that the bride will be beautiful on her wedding day . , she didn't have time to prepare . , she may not be beautiful . ,0
+"It's harder to get my own place because I don't have enough money, so I have to live with roommates.
+",[CLS] Participant have to live roommates [SEP],0.6485599,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"It's harder to get my own place because I don't have enough money, so I have to live with roommates.
+",[CLS] Participant have to live roommates [SEP],0.70540017,I was arguing with my sister's boyfriend about politics . , I am well read on the subject . , I have a right to my own opinion . ,1
+"I enjoy traveling because I get to see different places, cultures, buildings, and food.
+",[CLS][] [SEP],0.7137118,I was trying to be cool and aloof like my favorite movie star . , I'm not like that in real life . , I will be laughed at . ,0
+"I enjoy traveling because I get to see different places, cultures, buildings, and food.
+",[CLS][] [SEP],0.7223539,I have the same name as my dad . , we have the same name . , he's a positive person . ,1

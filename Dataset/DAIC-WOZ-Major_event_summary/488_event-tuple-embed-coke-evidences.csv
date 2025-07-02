@@ -1,0 +1,57 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I went on a trip with a geology class around six months ago.
+",[CLS] I went on a trip with a geology class [SEP],0.07197072,I asked my parents to make a big batch of chili for the party . , they were not in a good mood . , they will say no . ,0
+"I went on a trip with a geology class around six months ago.
+",[CLS] I went on a trip with a geology class [SEP],0.07255819,I adopt a new cat from the shelter . , it was a stray . , the cat may not be house-trained . ,0
+"The first time I went camping was really memorable; I went to Death Valley and saw cool things with friends.
+","[CLS] I went camping
+2. I went to Death Valley
+3. I saw cool things [SEP]",0.85405666,"I was dared to skydive , but  I agreed . ", I have a lot of experience with adventurous activities . , I will survive . ,1
+"The first time I went camping was really memorable; I went to Death Valley and saw cool things with friends.
+","[CLS] I went camping
+2. I went to Death Valley
+3. I saw cool things [SEP]",0.87070125,I agree to go on a month-long trip with my friends . , I have never been away from home for that long . , I will get homesick . ,0
+"I regret how I treated my mother when I was a kid and not doing well in school a couple of semesters ago.
+","[CLS] I regret how I treated my mother
+2. I regret not doing well in school [SEP]",0.5720243,I achieved my New Years' resolution to quit smoking cigarettes . , smoking is not good for health . , I am going to improve my health . ,1
+"I regret how I treated my mother when I was a kid and not doing well in school a couple of semesters ago.
+","[CLS] I regret how I treated my mother
+2. I regret not doing well in school [SEP]",0.60854775,I take my promotion for granted and do not act appreciative . , I am not meeting the expectations of my boss . , I will  be demoted . ,0
+"I went to a party with my boyfriend, felt comfortable, met new people, and had fun.
+","[CLS] I went party
+2. I felt comfortable
+3. I met new people
+4. I had fun [SEP]",0.6284753,I broke my back last week when I fell off my bike . , it was a really bad fall . , I will never walk again . ,0
+"I went to a party with my boyfriend, felt comfortable, met new people, and had fun.
+","[CLS] I went party
+2. I felt comfortable
+3. I met new people
+4. I had fun [SEP]",0.6351819,I asked my friend's girlfriend out on a date . , we have talked a lot lately . , I will get to know her better . ,1
+"My relationship with my mom improved after moving out, and I get along well with my siblings now.
+","[CLS] Participant move out unspecified location
+2. Participant improve relationship mom
+3. Participant get along siblings [SEP]",0.62283224,My co-worker became my friend . , we have many thing in common . , I will have a great time with her . ,1
+"My relationship with my mom improved after moving out, and I get along well with my siblings now.
+","[CLS] Participant move out unspecified location
+2. Participant improve relationship mom
+3. Participant get along siblings [SEP]",0.6241032,The cashier is trying to explain to the customer why there is a limit on the number of items they can purchase . , they are not getting frustrated with the customer . , the cashier is being very professional and polite . ,1
+"I got into trouble a few months back, had to do community service, procrastinated, and faced a mean judge.
+","[CLS] I got into trouble
+2. I had to do community service
+3. I procrastinated community service
+4. I faced judge [SEP]",0.591084,I needed to ask my date's father for help . , I am asking for money . , he will think I am a gold digger . ,0
+"I got into trouble a few months back, had to do community service, procrastinated, and faced a mean judge.
+","[CLS] I got into trouble
+2. I had to do community service
+3. I procrastinated community service
+4. I faced judge [SEP]",0.5997293,I was at a concert and I met this girl but I forgot to ask for her number . , I have no way to contact her . , I will never see her again . ,0
+"When I was nineteen, I came home late from a party, my dad got mad, and we didn't speak for about a year.
+",[CLS] I came home late from a party [SEP],0.08419269,My boss agreed to take me on a business trip to Europe . , I have to prepare for the trip . , it will be very tiring and I will be very busy . ,0
+"When I was nineteen, I came home late from a party, my dad got mad, and we didn't speak for about a year.
+",[CLS] I came home late from a party [SEP],0.08861012,My boss also took me to a movie . , going to the movies is one of my favorite activities . , I would be less stressed . ,1
+"The last time I argued with someone was probably with my boyfriend about going to a party when I wasn't feeling well.
+","[CLS] I argued boyfriend  
+2. I wasn't feeling well [SEP]",0.7240491,I bit my lip when I was nervous . , I have a blood disorder . , I won't be able to stop bleeding . ,0
+"The last time I argued with someone was probably with my boyfriend about going to a party when I wasn't feeling well.
+","[CLS] I argued boyfriend  
+2. I wasn't feeling well [SEP]",0.7344875,I was arguing with my brother and I said something that just made him angry . , I can't take back what I said . , I just ruined our relationship . ,0

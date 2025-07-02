@@ -1,0 +1,61 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I moved to L.A. after finishing school to start my life.
+","[CLS] I moved L.A.
+2. I finished school
+3. I start my life [SEP]",0.6338961,"After dating for six months, I became my girlfriend's wife . ", we didn't know each other that well . , I may have married too soon . ,0
+"I moved to L.A. after finishing school to start my life.
+","[CLS] I moved L.A.
+2. I finished school
+3. I start my life [SEP]",0.64741665,I am working on getting my pilot's license in order to advance my career . , I am  not  very  good  at  learning  new  things . , I will never achieve my goal . ,0
+"I don't visit my hometown often because my parents have both passed away.
+",[CLS][] [SEP],0.65474546,I was airing my dirty laundry in public . , it was something that we all have in common . , it is a way to make friends . ,1
+"I don't visit my hometown often because my parents have both passed away.
+",[CLS][] [SEP],0.66058743,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"I love traveling to explore different cultures, meet new people, and find commonalities among diverse groups.
+","[CLS]- Participant love traveling
+- Participant explore different cultures
+- Participant meet new people
+- Participant find commonalities among diverse groups [SEP]",0.51307213,I agree to go on a month-long trip with my friends . , we will be exploring a new place every day . , it's going to be an adventure . ,1
+"I love traveling to explore different cultures, meet new people, and find commonalities among diverse groups.
+","[CLS]- Participant love traveling
+- Participant explore different cultures
+- Participant meet new people
+- Participant find commonalities among diverse groups [SEP]",0.5381976,"The more I learn about my co-workers, the more I realize how much we have in common . "," The more I learn about my co-workers, the more I realize how much we have in common . ", this will positively help me connect with them . ,1
+"I feel really happy every day and am thankful for my life.
+",[CLS][] [SEP],0.68450916,One of my hobbies is helping out of state students practice for their drivers' licenses . , I don't have a drivers' license myself . , I will fail . ,0
+"I feel really happy every day and am thankful for my life.
+",[CLS][] [SEP],0.6851258,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I start my day with meditation and spiritual practices to stay relaxed and balanced.
+",[CLS] I start my day with meditation and spiritual practices [SEP],0.6540026,I accomplished my goal of getting an A in the class . , I studied a lot for the exams . , I worked hard for it . ,1
+"I start my day with meditation and spiritual practices to stay relaxed and balanced.
+",[CLS] I start my day with meditation and spiritual practices [SEP],0.78591186,I adapt my work schedule to the needs of my family . , it gives me a better work-life balance . , I am doing something positive for my future . ,1
+"I have studied various subjects like law, entertainment, and communications, considering myself a renaissance woman.
+",[CLS] Participant have studied various subjects [SEP],0.7637795,I am a teacher and I answer my students' questions in class . , I don't know the answer . , I'm not doing a good job . ,0
+"I have studied various subjects like law, entertainment, and communications, considering myself a renaissance woman.
+",[CLS] Participant have studied various subjects [SEP],0.7694412,I am a teacher and I answer my students' questions in class . , they need to understand the material for the test . , I'm helping them out . ,1
+"I don't have a dream job but desire the freedom to choose what I do daily.
+",[CLS]- Participant desire freedom [SEP],0.77222,A same-sex couple adopts a child . , same-sex couples are not traditional parents . , the child will be teased . ,0
+"I don't have a dream job but desire the freedom to choose what I do daily.
+",[CLS]- Participant desire freedom [SEP],0.78882754,I assumed my little sister's responsibility when our parents died . , I am the only one she has . , I am doing the right thing . ,1
+"I don't have any events I wish to erase from my memory as I see everything as a learning experience.
+",[CLS][] [SEP],0.8075042,There was a big crowd around the entrance to the club . , I was not wearing appropriate clothes . , I will not get in . ,0
+"I don't have any events I wish to erase from my memory as I see everything as a learning experience.
+",[CLS][] [SEP],0.8123255,I always told my friends that I would never get married . , I didn't want it . , I will not find love . ,0
+"I can't remember the last time I argued with someone, but it might have been about money.
+",[CLS][] [SEP],0.5460628,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I can't remember the last time I argued with someone, but it might have been about money.
+",[CLS][] [SEP],0.54725426,I am waiting my turn to speak to the boss . , I made a lot of careless mistakes this week . , he will scold me . ,0
+"I recently enjoyed cooking a wonderful meal because I love cooking.
+","[CLS] I enjoyed cooking a wonderful meal
+2. I love cooking [SEP]",0.14084259,I am accompanied by my boss's wife . , she is an important person . , it will be an honor to meet her . ,1
+"I recently enjoyed cooking a wonderful meal because I love cooking.
+","[CLS] I enjoyed cooking a wonderful meal
+2. I love cooking [SEP]",0.14732179,"After careful consideration, I have decided to move to Seattle . ", I will be closer to my family . , it's going to be a great new adventure . ,1
+"I don't have a hardest decision because my mother taught me to make my own decisions from a young age.
+",[CLS][] [SEP],0.7054405,My aunt's travel has really affected her health . , she is very strong person . , she will get better . ,1
+"I don't have a hardest decision because my mother taught me to make my own decisions from a young age.
+",[CLS][] [SEP],0.7055227,I have the same name as my dad . , it has a lot of history . , it is a cool name . ,1
+"I haven't noticed any changes in my behavior or thoughts lately, thanks to my spiritual practices.
+",[CLS][] [SEP],0.60066736,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"I haven't noticed any changes in my behavior or thoughts lately, thanks to my spiritual practices.
+",[CLS][] [SEP],0.62494254,I keep my fingers crossed for my driving test . , I'm not a confident driver . , I will fail . ,0

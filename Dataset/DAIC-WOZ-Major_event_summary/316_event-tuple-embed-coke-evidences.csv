@@ -1,0 +1,63 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I moved to Los Angeles for business 26 years ago and found it very easy to get used to living there.
+","[CLS] I moved Los Angeles
+2. I found it very easy to get used to living there [SEP]",0.7226138,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1
+"I moved to Los Angeles for business 26 years ago and found it very easy to get used to living there.
+","[CLS] I moved Los Angeles
+2. I found it very easy to get used to living there [SEP]",0.74212426,I walked into my roommate's room without knocking the other day and he was in the middle of changing . , I should have knocked . , I will get in trouble . ,0
+"I have a teaching degree and an art degree, and my dream job is designing for the movie industry, but I found it extremely hard to pursue.
+","[CLS] Participant have teaching degree
+2. Participant have art degree
+3. Participant found it extremely hard to pursue [SEP]",0.7412687,I asked for my friend's explanation about why he was arguing with his girlfriend . , it can help prevent fights in the future . , it is a good idea to talk things out with your partner . ,1
+"I have a teaching degree and an art degree, and my dream job is designing for the movie industry, but I found it extremely hard to pursue.
+","[CLS] Participant have teaching degree
+2. Participant have art degree
+3. Participant found it extremely hard to pursue [SEP]",0.74847776,I attend my girlfriend's father's funeral . , her father and I didn't get along . , I will never see her again . ,0
+"I am very close to my family, and I push myself to get out of the house and try to enjoy life more since going to therapy.
+","[CLS] I push myself
+2. I try to enjoy life more [SEP]",0.6069515,My boss's mood affects my ability to concentrate on my work . , I can't seem to focus . , I may get fired . ,0
+"I am very close to my family, and I push myself to get out of the house and try to enjoy life more since going to therapy.
+","[CLS] I push myself
+2. I try to enjoy life more [SEP]",0.64681625,I am working on getting my pilot's license in order to advance my career . , it will allow me to travel . , it will give  me great opportunities . ,1
+"I recently went to the movies and enjoyed watching ""Life of Pi"" and ""Anna Karenina.""
+","[CLS] Participant went movies
+2. Participant enjoyed watching ""Life of Pi""
+3. Participant enjoyed watching ""Anna Karenina"" [SEP]",0.84928644,I will appear for my interview tomorrow . , I have worked hard and I am confident . , it will go very well . ,1
+"I recently went to the movies and enjoyed watching ""Life of Pi"" and ""Anna Karenina.""
+","[CLS] Participant went movies
+2. Participant enjoyed watching ""Life of Pi""
+3. Participant enjoyed watching ""Anna Karenina"" [SEP]",0.8593487,I have to go to a lot of parent-teacher meetings because I'm a teacher . , the kids are progressing well . , the parents are going to be happy with how their kids are doing . ,1
+"I regret not going further in my education, like getting a master's or a Ph.D., which I believe would have made my job search easier.
+",[CLS] Participant regret not going further in education [SEP],0.5436167,A student asked the teacher for a pencil . , the teacher gave her one . , sharing is caring . ,1
+"I regret not going further in my education, like getting a master's or a Ph.D., which I believe would have made my job search easier.
+",[CLS] Participant regret not going further in education [SEP],0.5460282,A student asked the teacher for a pencil . , the teacher is likely to be sympathetic to the student . , I positively think that the student will get a pencil . ,1
+"I was diagnosed with depression a couple of years ago after feeling not energized and down, especially after my parents' illnesses and passing.
+",[CLS] Participant was diagnosed with depression [SEP],0.50106317,I have been feeling really stressed lately and it's affecting my health . , I haven't been taking care of myself . , I won't be able to get better . ,0
+"I was diagnosed with depression a couple of years ago after feeling not energized and down, especially after my parents' illnesses and passing.
+",[CLS] Participant was diagnosed with depression [SEP],0.5671041,My doctor advised me to take medication for my anxiety . , I have been anxious for years . , it will never go away . ,0
+"I enjoy traveling and recently visited New York, which was exhilarating and made me fall in love with the city again.
+","[CLS] I enjoy traveling
+2. I visited New York
+3. I fall in love with the city [SEP]",0.53983176,I relied on my friend's experiences when planning my own trip to Europe . , my friend and I have different interests . , I will not have as great of a time . ,0
+"I enjoy traveling and recently visited New York, which was exhilarating and made me fall in love with the city again.
+","[CLS] I enjoy traveling
+2. I visited New York
+3. I fall in love with the city [SEP]",0.5488262,I relied on my friend's experiences when planning my own trip to Europe . , my friend's trip didn't go as planned . , my trip may not be as great as I hoped . ,0
+"I like being around the arts and creative people, and I enjoy activities like swimming, visiting museums, and attending plays and concerts.
+","[CLS] Participant like being around the arts and creative people
+2. Participant enjoy activities like swimming
+3. Participant enjoy visiting museums
+4. Participant enjoy attending plays and concerts [SEP]",0.826846,I have to go to a lot of parent-teacher meetings because I'm a teacher . , the kids are progressing well . , the parents are going to be happy with how their kids are doing . ,1
+"I like being around the arts and creative people, and I enjoy activities like swimming, visiting museums, and attending plays and concerts.
+","[CLS] Participant like being around the arts and creative people
+2. Participant enjoy activities like swimming
+3. Participant enjoy visiting museums
+4. Participant enjoy attending plays and concerts [SEP]",0.87729895,I attend my daughter's karate meetings . , she works hard and seems to enjoy it . , she is doing what she loves . ,1
+"I argued with my sister about Obama's handling of the fiscal cliff, which I was against.
+",[CLS] I argued with my sister [SEP],0.6450255,I was arguing with my boyfriend about going to the gym more often . , I have nagged him about it for weeks now . , I will get my way . ,1
+"I argued with my sister about Obama's handling of the fiscal cliff, which I was against.
+",[CLS] I argued with my sister [SEP],0.6581148,I ran into my ex's mom at the grocery store and she asked how I was doing . , I am not over him yet . , she will tell her son that I am not doing well . ,0
+"I am proud of being a kind, considerate, and helpful person, and I strive to be better to myself.
+",[CLS][] [SEP],0.55568135,I was airing my dirty laundry in public . , honesty is always the best policy . , people will like me more for it . ,1
+"I am proud of being a kind, considerate, and helpful person, and I strive to be better to myself.
+",[CLS][] [SEP],0.56347775,I raised my eyebrow to look arrogant . , I intended to look arrogant . , I looked like an arrogant jerk . ,0

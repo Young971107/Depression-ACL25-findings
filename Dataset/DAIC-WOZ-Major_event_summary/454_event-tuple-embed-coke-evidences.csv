@@ -1,0 +1,55 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I made the difficult decision to turn off the life support system for my uncle because there was nothing else that could be done for him.
+","[CLS] I made decision
+2. I turn off life support system [SEP]",0.63803244,I needed to ask my date's father for help . , I am a very polite person . , he will give me his blessing . ,1
+"I made the difficult decision to turn off the life support system for my uncle because there was nothing else that could be done for him.
+","[CLS] I made decision
+2. I turn off life support system [SEP]",0.64700925,I assume my boss's responsibilities while she is out of town on vacation . , I'm not supposed to do her job . , I'm going to get in trouble . ,0
+"I was involved in a car accident where I was hit broadside, my truck flipped over, and I had to be cut out with the jaws of life.
+","[CLS] I was involved in car accident
+2. I was hit broadside
+3. my truck flipped over
+4. I had to be cut out with the jaws of life [SEP]",0.6443781,I was backing out of my driveway the other day and hit my neighbor's car . , I wasn't paying attention . , I will have to pay for the damages . ,0
+"I was involved in a car accident where I was hit broadside, my truck flipped over, and I had to be cut out with the jaws of life.
+","[CLS] I was involved in car accident
+2. I was hit broadside
+3. my truck flipped over
+4. I had to be cut out with the jaws of life [SEP]",0.734152,I back my boss's car out of the driveway . , I'm not used to driving stick . , I may have just hit his mailbox . ,0
+"I traveled to the West Indies and Greece, enjoying the laid-back atmosphere and rich culture.
+","[CLS] Participant traveled West Indies
+2. Participant traveled Greece
+3. Participant enjoyed laid-back atmosphere
+4. Participant enjoyed rich culture [SEP]",0.7971411,I relied on my friend's experiences when planning my own trip to Europe . , my friend's trip was not that great . , my trip may not be as great as I hoped . ,0
+"I traveled to the West Indies and Greece, enjoying the laid-back atmosphere and rich culture.
+","[CLS] Participant traveled West Indies
+2. Participant traveled Greece
+3. Participant enjoyed laid-back atmosphere
+4. Participant enjoyed rich culture [SEP]",0.8065063,I relied on my friend's experiences when planning my own trip to Europe . , my friend had been there before . , my friend's knowledge would help me have a great time . ,1
+"I experienced the birth of my children, including a six-year-old and a set of twins, all boys.
+",[CLS] Participant experience birth of children [SEP],0.4939413,A couple I know just adopted a baby from China . , I am infertile . , I will never be able to have children . ,0
+"I experienced the birth of my children, including a six-year-old and a set of twins, all boys.
+",[CLS] Participant experience birth of children [SEP],0.49666554,A couple in my neighborhood just adopted a baby  from China . , they have researched and planned so much for the arrival of their new child . , they will be amazing parents . ,1
+"I went to Disneyland with my children for the weekend.
+",[CLS] I went Disneyland [SEP],0.85122883,I spend most of my money on travel and experiences rather than things . , I am not attached to materialistic possessions . , I am living my life to the fullest . ,1
+"I went to Disneyland with my children for the weekend.
+",[CLS] I went Disneyland [SEP],0.88750434,I spend many hours looking at different travel websites and planning where I want to go next . , I have been looking up many tips on how to save money for travel . , I will save enough money to go on an amazing trip . ,1
+"I moved to L.A. because my parents brought me as a child.
+",[CLS] my parents brought me [SEP],0.50105125,My mother gave me a long explanation about her travels when she was younger . , I was preoccupied with other things . , I wasn't really listening . ,0
+"I moved to L.A. because my parents brought me as a child.
+",[CLS] my parents brought me [SEP],0.50758827,My grandparents have asked me to visit them in Florida . , I will be able to see them and spend time with them  . , it will be a fun trip . ,1
+"I had a fight with my best friend, which made me feel really badly about myself.
+",[CLS]- I had fight with my best friend [SEP],0.5896971,I was arguing with my sister's boyfriend about politics . , it is a way to learn about different points of view . , it is important to talk about current events . ,1
+"I had a fight with my best friend, which made me feel really badly about myself.
+",[CLS]- I had fight with my best friend [SEP],0.6073086,I argued with my friends boyfriend because he was being really disrespectful to her . , it's none of my business . , I overstepped my boundaries . ,0
+"I had an argument with my sister about parking cars in a certain place.
+",[CLS] I had argument [SEP],0.5706419,The speaker aroused my interest in the talk . , the information is probably too technical for me . , I will not be able to keep up with the pace . ,0
+"I had an argument with my sister about parking cars in a certain place.
+",[CLS] I had argument [SEP],0.6443141,The speaker aroused my interest in the talk . , the speaker is well-prepared . , I would be able to understand the talk . ,1
+"I aspire to work as a philanthropist, serving children in underserved areas to improve their lives.
+","[CLS] Participant aspire work as a philanthropist
+2. Participant serve children in underserved areas
+3. Participant improve their lives [SEP]",0.11869731,I ask my neighbors if they know where my lost cat is . , they are always outside and she likes to go explore . , they will have seen her . ,1
+"I aspire to work as a philanthropist, serving children in underserved areas to improve their lives.
+","[CLS] Participant aspire work as a philanthropist
+2. Participant serve children in underserved areas
+3. Participant improve their lives [SEP]",0.11881452,I am babysitting my friend's cousin while they go out on a date . , I will not be able to keep the baby entertained . , they will not have a good time . ,0

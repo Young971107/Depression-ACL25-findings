@@ -1,0 +1,157 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I am outgoing and comfortable going places alone, but I am shy when conversing with strangers.
+",[CLS][] [SEP],0.6515776,I always told my friends that I would never get married . , I didn't want it . , I will not find love . ,0
+"I am outgoing and comfortable going places alone, but I am shy when conversing with strangers.
+",[CLS][] [SEP],0.6627875,There was a big crowd around the entrance to the club . , I am friends with the owner . , the bouncer would let me in . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5327909,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.56461656,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"My husband and I created a living trust to ensure everything is in order, so our children won't have to worry about making decisions when we're gone.
+",[CLS][] [SEP],0.6634341,"Every time I see a picture of a dog, I automatically assume it's form . ", I can't change my thinking . , I will look stupid . ,0
+"My husband and I created a living trust to ensure everything is in order, so our children won't have to worry about making decisions when we're gone.
+",[CLS][] [SEP],0.6644381,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.25611416,The government allocates resources efficiently to address the inequality in our society . , the government will be investing in them . , it will help many people . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.26283714,I accomplish my goal of becoming CEO by the age of 30 . , Ill have to make a lot of important decisions . , lli be overworked and stressful . ,0
+"I sleep very well and have no problems with getting a good night's sleep.
+",[CLS][] [SEP],0.7539099,I feel like I'm finally starting to act my age and mature a little bit . , I haven't had any experience with this before . , I will be stuck in this awkward phase forever . ,0
+"I sleep very well and have no problems with getting a good night's sleep.
+",[CLS][] [SEP],0.8264859,One of my friends talking about his new girlfriend . , he has never been so sure about anything in his life . , he is going to marry her . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.37413162,The government allocates resources efficiently to address the inequality in our society . , the government will be investing in them . , it will help many people . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.38940167,I attend my boss's meetings every Wednesday . , my boss always thanks me for coming . , I am doing my job well . ,1
+"My husband and I had a disagreement over construction work on our house because he hired someone I advised against due to a personal relationship, and now there are issues with the project.
+",[CLS] Participant advise against hiring someone [SEP],0.9563929,My employer asserts their right to privacy in the workplace . , my employer can look through my things at work . , I will never have privacy at work . ,0
+"My husband and I had a disagreement over construction work on our house because he hired someone I advised against due to a personal relationship, and now there are issues with the project.
+",[CLS] Participant advise against hiring someone [SEP],0.9629214,I assert my authority by telling my employees what to do . , they know I am the boss . , my employees will obey me . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6249491,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6833916,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I have two sons, one of whom is married, and I recently became a grandmother. One son works as a property conveyance examiner, and the other is a computer engineer. I've been married for thirty-three years.
+",[CLS][] [SEP],0.700608,We were waiting in line for the new iPhone . , We have been waiting for hours . , We are going to be first . ,1
+"I have two sons, one of whom is married, and I recently became a grandmother. One son works as a property conveyance examiner, and the other is a computer engineer. I've been married for thirty-three years.
+",[CLS][] [SEP],0.7016506,My ability to focus is affected when she's around . , her presence is too distracting . , will never be able to fully concentrate . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.551993,I have a niece who bears my name . , it is an important part of my identity . , I can pass down my name . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.578452,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I have prepared for the future by getting burial insurance and writing my own obituary to make things easier for my children.
+","[CLS] Participant prepare future
+2. Participant get burial insurance
+3. Participant write own obituary [SEP]",0.6412052,I have achieved one of my New Year's resolutions- to travel to Thailand! . , I have seen so many pictures of it . , it will be a beautiful country to travel to . ,1
+"I have prepared for the future by getting burial insurance and writing my own obituary to make things easier for my children.
+","[CLS] Participant prepare future
+2. Participant get burial insurance
+3. Participant write own obituary [SEP]",0.65650535,I asked for my friend's explanation about why he was arguing with his girlfriend . , I have been friends with him for a long time . , he started to listen to me . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.51504505,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.53536797,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"If I could give advice to my younger self, I would have saved more money before retiring.
+",[CLS][] [SEP],0.7066556,My aunt's travel has really affected her health . , she has good health care . , she will get better . ,1
+"If I could give advice to my younger self, I would have saved more money before retiring.
+",[CLS][] [SEP],0.73343676,I really admire my boss's work . , I'm just a newbie . , I will be not appreciated . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.53977674,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5994382,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I regret not being able to maintain my weight and often find myself gaining it back after losing it.
+","[CLS] Participant regret not being able to maintain weight
+2. Participant find myself gaining weight back [SEP]",0.6472738,I was getting a massage and the masseuse was arching my back  too much . , I felt more relaxed afterward  . , my tension was being relieved . ,1
+"I regret not being able to maintain my weight and often find myself gaining it back after losing it.
+","[CLS] Participant regret not being able to maintain weight
+2. Participant find myself gaining weight back [SEP]",0.6584725,My allergies are really starting to affect my ability to concentrate in class . , It's hard to focus when you can't stop sneezing . , It'll be hard to keep up with the material . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5509689,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.57371414,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"Watching my children grow and become parents themselves is rewarding, and I see the values they learned from me reflected in their parenting.
+",[CLS][] [SEP],0.5933282,I feel like I'm finally starting to act my age and mature a little bit . , I haven't developed much physically or emotionally . , I will be stuck in this awkward phase forever . ,0
+"Watching my children grow and become parents themselves is rewarding, and I see the values they learned from me reflected in their parenting.
+",[CLS][] [SEP],0.61688524,Has anyone seen my cat? She's lost . , it's been three days . , I will never see her again . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5732668,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5759292,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"The hardest moment for me was when my mother died, and I had to organize her funeral without her having left things in order.
+",[CLS] Participant organize her funeral [SEP],0.5092894,I attended my grandfather's funeral . , he was always telling me stories and making me laugh . , I have so many great memories of him . ,1
+"The hardest moment for me was when my mother died, and I had to organize her funeral without her having left things in order.
+",[CLS] Participant organize her funeral [SEP],0.5745634,I was attending my grandfather's funeral when I ran into an old classmate I hadn't seen in years . , he always loved seeing me smile . , he would have wanted me to be happy . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6451819,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.673565,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"I enjoy entering sweepstakes online and have been successful at it since I was a kid.
+","[CLS]- I enjoy entering sweepstakes online
+- I have been successful it [SEP]",0.7086164,My boss is advertising her business on Facebook . , she is investing in a very popular platform . , she will make a lot of money . ,1
+"I enjoy entering sweepstakes online and have been successful at it since I was a kid.
+","[CLS]- I enjoy entering sweepstakes online
+- I have been successful it [SEP]",0.83143127,The news about the outbreak is affecting people's mental health . , I am too worried . , I will be infected . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.5942984,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.6657375,"I accidentally sent an email to my boss that was meant for my friend, and I apologized profusely . ", I have always been a competent and reliable employee . , my boss will understand the situation . ,1
+"I have been feeling a bit tired due to vitamin deficiencies but cope by walking more.
+","[CLS] Participant feel tired
+2. Participant cope walking more [SEP]",0.5345702,I just adopted a new kitten from the animal shelter . , I am its new mommy . , I have saved its life . ,1
+"I have been feeling a bit tired due to vitamin deficiencies but cope by walking more.
+","[CLS] Participant feel tired
+2. Participant cope walking more [SEP]",0.55818194,I bring forth my best work in order to be considered for a promotion . , the others who are also vying for the position may have more experience . , my best may not be good enough . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.4386729,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.4763224,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"As a parent, I am less strict than my parents were, and I love to travel, unlike them.
+",[CLS][] [SEP],0.62651396,I have a niece who bears my name . , my niece carries it . ," When I have a niece who bears my name, I feel great since I think my name will live on . ",1
+"As a parent, I am less strict than my parents were, and I love to travel, unlike them.
+",[CLS][] [SEP],0.66115254,I am accompanied by my boss's wife . , The boss's wife is very influential in the company . , it will help me get ahead in my career . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.60878676,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6551647,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I retired early at fifty but sometimes wish I had waited until fifty-five for a better pension, though I benefit from excellent health insurance.
+",[CLS][] [SEP],0.6730621,"The more I learn about my co-workers, the more I realize how much we have in common . ", I'm not interested in the same things as them . , I will never have friends at work . ,0
+"I retired early at fifty but sometimes wish I had waited until fifty-five for a better pension, though I benefit from excellent health insurance.
+",[CLS][] [SEP],0.68756497,I have just begun my career as an engineer . , I am not experienced  enough . , I will never be as successful as my father . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6300638,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6653011,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I love traveling and have visited places like Boston, New Orleans, Atlanta, and taken cruises to the Caribbean and Mexico. I hope to visit Alaska next.
+","[CLS] Participant love traveling
+2. Participant have visited places like Boston New Orleans Atlanta
+3. Participant have taken cruises to the Caribbean and Mexico
+4. Participant hope to visit Alaska [SEP]",0.8191104,I relied on my friend's experiences when planning my own trip to Europe . , my friend's trip was not that great . , my trip may not be as great as I hoped . ,0
+"I love traveling and have visited places like Boston, New Orleans, Atlanta, and taken cruises to the Caribbean and Mexico. I hope to visit Alaska next.
+","[CLS] Participant love traveling
+2. Participant have visited places like Boston New Orleans Atlanta
+3. Participant have taken cruises to the Caribbean and Mexico
+4. Participant hope to visit Alaska [SEP]",0.8680824,I am asking for travel advice from people who have been to Spain before . , they seem to know what they are talking about . , I am going to get some good tips . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.60399365,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.62856144,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I am generally happy and enjoy inspiring and encouraging others, which makes me feel good.
+",[CLS][] [SEP],0.70234156,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"I am generally happy and enjoy inspiring and encouraging others, which makes me feel good.
+",[CLS][] [SEP],0.728302,I always told my friends that I would never get married . , I didn't want it . , I will not find love . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.48125452,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.49920315,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"Getting married and having my children are among my most memorable experiences.
+",[CLS][] [SEP],0.63321793,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"Getting married and having my children are among my most memorable experiences.
+",[CLS][] [SEP],0.6442536,I have the same name as my dad . , he is famous . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.22216785,The CEO was caught abusing his power by creating a slush fund . , he is not fit to be a CEO . , he will be impeached . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.22259599,"My boss was in a meeting and couldn't answer his phone, so he had me answer it . ", I was able to take a message . , I was able to help him out . ,1
+"I wish I could stop my weight from fluctuating and avoid using food as a comfort.
+",[CLS][] [SEP],0.69678205,"I need to do some laundry, but I keep procrastinating . ", I have no other commitments . , I will be able to relax and watch TV all day . ,1
+"I wish I could stop my weight from fluctuating and avoid using food as a comfort.
+",[CLS][] [SEP],0.6974355,"I don't act my age, according to my friends . ", I will be seen as a child . , I will never be respected . ,0

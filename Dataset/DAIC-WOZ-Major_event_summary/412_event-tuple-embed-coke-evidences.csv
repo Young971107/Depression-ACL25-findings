@@ -1,0 +1,75 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I started a small local magazine with coupons and plan to expand it to different parts of California.
+","[CLS] I started a small local magazine
+2. I plan to expand it to different parts of California [SEP]",0.72759897,I asked my friend's grandmother for a recipe . , she is very protective of her recipes . , she will not give it to me . ,0
+"I started a small local magazine with coupons and plan to expand it to different parts of California.
+","[CLS] I started a small local magazine
+2. I plan to expand it to different parts of California [SEP]",0.7507564,I asked my friend's grandmother for a recipe . , I can't even cook a simple dish . , she will think I am not a good cook . ,0
+"I moved from Texas to California, leaving my friends and family to start a new life.
+","[CLS] I moved from Texas to California
+2. I leaving my friends and family
+3. I start a new life [SEP]",0.67974526,I was at a concert and I met this girl but I forgot to ask for her number . , I have no way to contact her . , I will never see her again . ,0
+"I moved from Texas to California, leaving my friends and family to start a new life.
+","[CLS] I moved from Texas to California
+2. I leaving my friends and family
+3. I start a new life [SEP]",0.6815331,I brought my kids to my ex's house . , they were playing and laughing with each other . , they will have a lot fun . ,1
+"My parents got sick with dementia and passed away, which was a difficult time.
+",[CLS]No events related to the participant can be extracted from the given sentence. [SEP],0.5029298,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have different hobbies and backgrounds . , that we have nothing in common . ,0
+"My parents got sick with dementia and passed away, which was a difficult time.
+",[CLS]No events related to the participant can be extracted from the given sentence. [SEP],0.5329889,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"I went to school in the eighties when computers were new and decided to pursue that field.
+","[CLS] I went school
+2. I decided pursue that field [SEP]",0.7343782,I took over my mom's shift at work . , it was my first time doing them . , I will not be able to finish all the tasks . ,0
+"I went to school in the eighties when computers were new and decided to pursue that field.
+","[CLS] I went school
+2. I decided pursue that field [SEP]",0.75253785,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they are getting good grades and behaving well in class . , the parents are going to be happy with how their kids are doing . ,1
+"I enjoy Latin dancing and do it several times a week.
+","[CLS] Participant enjoy Latin dancing
+2. Participant do Latin dancing [SEP]",0.9216864,I attend my daughter's karate meetings . , she works hard and seems to enjoy it . , she is doing what she loves . ,1
+"I enjoy Latin dancing and do it several times a week.
+","[CLS] Participant enjoy Latin dancing
+2. Participant do Latin dancing [SEP]",0.9498918,I attend my daughter's karate meetings . , I'm the only one there . , the other fathers will judge me . ,0
+"I argued with someone about a religious issue a couple of weeks ago.
+",[CLS] Participant argued someone [SEP],0.9923614,I was arguing with my brother and I said something that just made him angry . , I didn't know when to stop talking . , I just made the situation worse . ,0
+"I argued with someone about a religious issue a couple of weeks ago.
+",[CLS] Participant argued someone [SEP],1.0015867,I was arguing with my brother and I said something that just made him angry . , he didn't say anything after that . , I might have won the argument . ,1
+"I have only an aunt and a few cousins left, and I don't have much contact with family.
+",[CLS][] [SEP],0.65059507,I bit my lip when I was nervous . , I have braces on . , it will bleed . ,0
+"I have only an aunt and a few cousins left, and I don't have much contact with family.
+",[CLS][] [SEP],0.6547375,I was browsing my collection of books on travel guides for my next trip . , the place is too dangerous to go . , I will have to cancel it . ,0
+"I recently went dancing and to a casino in Temecula, where I met new friends.
+","[CLS] Participant went dancing
+2. Participant went to a casino
+3. Participant met new friends [SEP]",0.4234724,My boss abuses his power by making us work overtime . , I will not put up with it . , I will get fired . ,0
+"I recently went dancing and to a casino in Temecula, where I met new friends.
+","[CLS] Participant went dancing
+2. Participant went to a casino
+3. Participant met new friends [SEP]",0.43422547,"Someone tried to rob a bank down the street , but the police arrived quickly and the robber was apprehended . ", the robber was apprehended . , the town is now a safer place . ,1
+"I moved to L.A. for work and enjoy the weather, beach, and activities.
+","[CLS] I moved L.A.
+2. I enjoy weather
+3. I enjoy beach
+4. I enjoy activities [SEP]",0.71655357,The weather forecast said that the hurricane would affect people's travel plans . , my flight is tomorrow . , I will be stuck in the airport . ,0
+"I moved to L.A. for work and enjoy the weather, beach, and activities.
+","[CLS] I moved L.A.
+2. I enjoy weather
+3. I enjoy beach
+4. I enjoy activities [SEP]",0.8173626,The weather forecast said that the hurricane would affect people's travel plans . , the hurricane turned out to be not as strong as expected . , my family will be able to visit me . ,1
+"I received a good real estate commission a few weeks ago, which made me happy.
+","[CLS]- Participant received real estate commission
+- Real estate commission made Participant happy [SEP]",0.6957327,"After much discussion, the board of directors accepted the CEO's resignation . ", the board of directors chose a new CEO who is inexperienced . , the company may suffer . ,0
+"I received a good real estate commission a few weeks ago, which made me happy.
+","[CLS]- Participant received real estate commission
+- Real estate commission made Participant happy [SEP]",0.7433419,The board of directors accepted the CEO's resignation . , the CEO was not doing a good job . , the company will have a better future . ,1
+"I went on a trip to Yosemite and San Francisco, enjoying the beautiful scenery.
+","[CLS] I went on a trip to Yosemite and San Francisco
+2. I enjoyed the beautiful scenery [SEP]",0.8276137,I asked my friend's boyfriend if he wanted to go on a trip with us to the Caribbean . , he likes to travel and he has been talking about wanting to go on a trip for a while now . , he would say yes . ,1
+"I went on a trip to Yosemite and San Francisco, enjoying the beautiful scenery.
+","[CLS] I went on a trip to Yosemite and San Francisco
+2. I enjoyed the beautiful scenery [SEP]",0.83899397,I asked my friend's boyfriend if he wanted to go on a trip with us to the Caribbean . , it will be a good opportunity to relax and spend time with friends . , he will enjoy the trip . ,1
+"I drove down Highway One with a girlfriend, visiting sights like Hearst Castle.
+","[CLS] I drove down Highway One
+2. I visited sights like Hearst Castle [SEP]",0.67701215,I added another country to my travel bucket list . , I have the money to travel . , I would get to go there one day . ,1
+"I drove down Highway One with a girlfriend, visiting sights like Hearst Castle.
+","[CLS] I drove down Highway One
+2. I visited sights like Hearst Castle [SEP]",0.78184557,I bring home my date to my parent's house for the first time . , my family is very loud . , my date will not like my family . ,0

@@ -1,0 +1,33 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I decided to leave my ex-boyfriend after years of contemplating because we were always having disagreements and weren't on the same wavelength.
+",[CLS] I decided to leave my ex-boyfriend [SEP],0.62741876,I argued with my friends boyfriend because he was being really disrespectful to her . , it's none of my business . , I overstepped my boundaries . ,0
+"I decided to leave my ex-boyfriend after years of contemplating because we were always having disagreements and weren't on the same wavelength.
+",[CLS] I decided to leave my ex-boyfriend [SEP],0.6404312,I ask my friend's boyfriend out on a date . , I am trying to steal her boyfriend . , she will be mad at me . ,0
+"I am currently staying with my friend who just had surgery, and I am enjoying it even though we couldn't live together long term.
+","[CLS] Participant stay with friend
+2. Participant enjoy it [SEP]",0.6172514,The cashier is trying to explain to the customer why there is a limit on the number of items they can purchase . , she is keeping her cool and being professional . , she is handling the situation very well . ,1
+"I am currently staying with my friend who just had surgery, and I am enjoying it even though we couldn't live together long term.
+","[CLS] Participant stay with friend
+2. Participant enjoy it [SEP]",0.6697509,I admire my friend's work . , I am not as confident . , my work is not as good . ,0
+"I am proud of persevering through difficulties and making a commitment to go to school on my own.
+","[CLS] I persevere through difficulties
+2. I make a commitment
+3. I go to school [SEP]",0.10179706,I am babysitting my friend's cousin while they go out on a date . , I am helping them out . , I'm doing a good deed . ,1
+"I am proud of persevering through difficulties and making a commitment to go to school on my own.
+","[CLS] I persevere through difficulties
+2. I make a commitment
+3. I go to school [SEP]",0.10181968,I achieved my aim to get an 'A' in the class . , they wanted me to get a 'B' . , my parents will be disappointed . ,0
+"I regret not focusing more on finding someone to spend my life with, as it becomes harder after turning forty.
+",[CLS][] [SEP],0.6664791,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I regret not focusing more on finding someone to spend my life with, as it becomes harder after turning forty.
+",[CLS][] [SEP],0.66727793,I have the same name as my dad . , it has a lot of history . , it is a cool name . ,1
+"I am in school right now, working on my general education at SMC, after not finishing school earlier due to health problems.
+","[CLS] Participant am in school
+2. Participant working on general education
+3. Participant not finishing school
+4. Participant due to health problems [SEP]",0.75022393,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'll be too busy . , will not have time for anything else . ,0
+"I am in school right now, working on my general education at SMC, after not finishing school earlier due to health problems.
+","[CLS] Participant am in school
+2. Participant working on general education
+3. Participant not finishing school
+4. Participant due to health problems [SEP]",0.7535342,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they are getting good grades and behaving well in class . , the parents are going to be happy with how their kids are doing . ,1

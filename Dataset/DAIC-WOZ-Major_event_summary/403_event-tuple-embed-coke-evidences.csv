@@ -1,0 +1,57 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"A few years back, I was dating a guy who wanted me to move back to where he was from. I decided to move there and try to do event planning on the East Coast, but it didn't work out.
+","[CLS] Participant was dating a guy
+2. Participant decided to move there
+3. Participant try to do event planning [SEP]",0.58018404,I was trying to attract the attention of the cute waiter . , I was making an effort to talk to him/her . , he/she would give me his/her number . ,1
+"A few years back, I was dating a guy who wanted me to move back to where he was from. I decided to move there and try to do event planning on the East Coast, but it didn't work out.
+","[CLS] Participant was dating a guy
+2. Participant decided to move there
+3. Participant try to do event planning [SEP]",0.59887826,I put my laundry away and noticed my dog had gotten into my hamper . , it had been sitting in there for a day . , I will never be able to get the smell out . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.6358657,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.66529,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"I remember in second grade, people used to make fun of me because I was very tall and skinny, and I had straight A's, one of the highest grades in the class.
+",[CLS][] [SEP],0.651706,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"I remember in second grade, people used to make fun of me because I was very tall and skinny, and I had straight A's, one of the highest grades in the class.
+",[CLS][] [SEP],0.6703954,I was waiting for my friends to show up at the party . , it was already 10 pm . , they would be there any minute . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6020427,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.62659824,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I got press passes for the Sunset Strip Music Festival through a friend and got to meet rockstars and hang out at private parties.
+","[CLS] Participant got press passes
+2. Participant meet rockstars
+3. Participant hang out private parties [SEP]",0.6507895,I bait my grandpa's hook when we go fishing . , I'm the one who put it on there . , I'm going to get to eat all the bait . ,1
+"I got press passes for the Sunset Strip Music Festival through a friend and got to meet rockstars and hang out at private parties.
+","[CLS] Participant got press passes
+2. Participant meet rockstars
+3. Participant hang out private parties [SEP]",0.67174387,I asked Sarah's crush on a date . , I am not Sarah's type . , she will say no . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.57479036,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.59139085,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"Recently, I went up to Oceanside to visit a friend I hadn't seen in six months. We went out for burgers, hung out on the beach, and took her two-year-old son to the park.
+","[CLS] Participant went Oceanside
+2. Participant visit friend
+3. Participant went out burgers
+4. Participant hung out beach
+5. Participant took son to the park [SEP]",0.69870013,I arrived at my friend's house for a party . , I saw that my friend was with her other friends . , I was not invited . ,0
+"Recently, I went up to Oceanside to visit a friend I hadn't seen in six months. We went out for burgers, hung out on the beach, and took her two-year-old son to the park.
+","[CLS] Participant went Oceanside
+2. Participant visit friend
+3. Participant went out burgers
+4. Participant hung out beach
+5. Participant took son to the park [SEP]",0.69998825,I bought souvenirs for my family when I was in Mexico . , the prices were really expensive . , I would overspend my budget . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5475988,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.56640625,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"When I was seventeen, I ran away with my boyfriend to upstate New York to Watertown. We had an apartment there, it snowed a lot, and we sold antiques for a living.
+","[CLS] I ran away with my boyfriend
+2. I had an apartment
+3. I sold antiques [SEP]",0.624848,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1
+"When I was seventeen, I ran away with my boyfriend to upstate New York to Watertown. We had an apartment there, it snowed a lot, and we sold antiques for a living.
+","[CLS] I ran away with my boyfriend
+2. I had an apartment
+3. I sold antiques [SEP]",0.6354234,I also asked for a raise . , I have waited for a long time and I have been a great asset to the company . , my boss will give me a raise . ,1

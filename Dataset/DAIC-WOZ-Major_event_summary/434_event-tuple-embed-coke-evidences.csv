@@ -1,0 +1,81 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I moved from Chicago, Illinois to another place when I was three years old.
+",[CLS] Participant moved from Chicago [SEP],0.6485572,"After careful consideration, I have decided to move to Seattle . ", I have done research on the area and it seems like a great fit for me . , the city has a lot to offer . ,1
+"I moved from Chicago, Illinois to another place when I was three years old.
+",[CLS] Participant moved from Chicago [SEP],0.65244323,The president has announced his decision to veto the bill . , the president has never done this before . , the consequences will be severe . ,0
+"I never go back to my hometown due to family issues.
+",[CLS] I go back my hometown [SEP],0.5651336,"After careful consideration, I have decided to move to Seattle . ", they wanted me to stay . , my family and friends will be disappointed in me . ,0
+"I never go back to my hometown due to family issues.
+",[CLS] I go back my hometown [SEP],0.58978873,I grew up in the city but moved to the country to be with my partner and had to learn to live off the land . , I had to learn a lot of new skills . , it was a great adventure . ,1
+"The last time I felt really happy was last night because the Lakers won the basketball game.
+",[CLS][] [SEP],0.75406504,"I don't act my age, according to my friends . ", I act like a child . , I will be made fun of . ,0
+"The last time I felt really happy was last night because the Lakers won the basketball game.
+",[CLS][] [SEP],0.7546482,I can't believe how much my tuition has gone up since I last looked into affording college . , it's too expensive . , I may never be able to go to the college I want to . ,0
+"I have traveled to Arizona, Stockton, California, and Barstow, California, but I don't do much traveling now mainly because of finances.
+","[CLS] Participant have traveled Arizona
+2. Participant have traveled Stockton California
+3. Participant have traveled Barstow California
+4. Participant don't do much traveling now [SEP]",0.92813253,I relied on my friend's experiences when planning my own trip to Europe . , my friend's trip was not that great . , my trip may not be as great as I hoped . ,0
+"I have traveled to Arizona, Stockton, California, and Barstow, California, but I don't do much traveling now mainly because of finances.
+","[CLS] Participant have traveled Arizona
+2. Participant have traveled Stockton California
+3. Participant have traveled Barstow California
+4. Participant don't do much traveling now [SEP]",0.94144166,I was really affected by the 9/11 terrorist attacks . , I'm from the Middle East . , people will think I'm a terrorist . ,0
+"I studied alcohol and drug counseling.
+",[CLS] Participant studied alcohol and drug counseling [SEP],0.46990883,My doctor advised me to take medication for my anxiety . , it will be a way to address my anxiety . , it will help me cope with my anxiety . ,1
+"I studied alcohol and drug counseling.
+",[CLS] Participant studied alcohol and drug counseling [SEP],0.47545153,My doctor advised me to take medication for my anxiety . , I trust her . , it will  help me improve my condition . ,1
+"I had a big explosion with my mother's husband, which created a lot of damage for about six to nine months.
+",[CLS][] [SEP],0.6566168,"I don't act my age, according to my friends . ", I can still have lots of fun and enjoy my life . , age is nothing but a number . ,1
+"I had a big explosion with my mother's husband, which created a lot of damage for about six to nine months.
+",[CLS][] [SEP],0.66661376,My ability to focus is affected when she's around . , her presence is too distracting . , will never be able to fully concentrate . ,0
+"I wish I had never gone to prison and could change my economic and employment status, as well as my teeth and physical size.
+",[CLS][] [SEP],0.6598449,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I wish I had never gone to prison and could change my economic and employment status, as well as my teeth and physical size.
+",[CLS][] [SEP],0.66186595,I always told my friends that I would never get married . , I have too much doubt in my heart . , I will not find love . ,0
+I feel guilty about not spending more time with my grandfather before he passed away in ,[CLS] Participant feel guilty not spending more time with grandfather [SEP],0.072277404,I set a goal to save up for a house and accomplished it within two years . , I'll have a place to call my own . , it's a great investment . ,1
+I feel guilty about not spending more time with my grandfather before he passed away in ,[CLS] Participant feel guilty not spending more time with grandfather [SEP],0.07373468,I pretend to be interested in sports so that my male friends will not think I am weird . , sports are a big part of most men's lives . , I am being more like everyone else . ,1
+"My brother is in prison, my sister moved to Chicago, and I haven't seen my son in five years. I'm only close to my mother.
+",[CLS] Participant be close to mother [SEP],0.44496512,I asked my daughter to help me with the dishes . , I am a grown man . , she will think I am not capable . ,0
+"My brother is in prison, my sister moved to Chicago, and I haven't seen my son in five years. I'm only close to my mother.
+",[CLS] Participant be close to mother [SEP],0.49417192,I became the legal guardian of my niece after my sister passed away . , I am the only one she trusts . , my sister would have wanted me to take care of her . ,1
+"I mainly listen to music, watch YouTube, write poetry, and eat ice cream for leisure.
+","[CLS] Participant listen to music
+2. Participant watch YouTube
+3. Participant write poetry
+4. Participant eat ice cream [SEP]",0.657871,I ask my boss to let me leave early so I can attend my child's soccer game . , I just asked last minute . , he will say no . ,0
+"I mainly listen to music, watch YouTube, write poetry, and eat ice cream for leisure.
+","[CLS] Participant listen to music
+2. Participant watch YouTube
+3. Participant write poetry
+4. Participant eat ice cream [SEP]",0.66995996,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I think about the day my brother hit my mom all the time and wish I could erase that memory.
+","[CLS] Participant think about the day my brother hit my mom
+2. Participant wish erase that memory [SEP]",0.58320796,I have been trying to adjust the spacing on my powerpoint presentation for the last hour . , my presentation looks very professional now . , I accomplished something great . ,1
+"I think about the day my brother hit my mom all the time and wish I could erase that memory.
+","[CLS] Participant think about the day my brother hit my mom
+2. Participant wish erase that memory [SEP]",0.5967975,I have been trying to adjust the spacing on my powerpoint presentation for the last hour . , the spacing is never how I want it to be no matter what I do . , I will never get it right . ,0
+"I have a felony, which makes it hard to work with the youth and elderly, and I'm not certified yet as a counselor.
+","[CLS] Participant have felony
+2. Felony make hard to work with the youth and elderly
+3. Participant not certified counselor [SEP]",0.7948695,I was at my friend's wedding and the officiant asked if anyone had any objections to the marriage . , I know they're getting married too quickly and they're not ready . , I will have to speak up and object . ,0
+"I have a felony, which makes it hard to work with the youth and elderly, and I'm not certified yet as a counselor.
+","[CLS] Participant have felony
+2. Felony make hard to work with the youth and elderly
+3. Participant not certified counselor [SEP]",0.8058792,The athlete added more oil to the fire . , I didn't stop him . , I will be blamed . ,0
+"I moved away from my job because I was married and rent was cheaper elsewhere, but now I'm trying to get back into counseling.
+","[CLS] I moved away from my job
+2. I was married 
+3. I am trying to get back into counseling [SEP]",0.68881345,"I was going to ask my girlfriend's dad for permission to marry her, but he passed away before I could . ", he's not alive anymore . , I will never be able to speak to him about it . ,0
+"I moved away from my job because I was married and rent was cheaper elsewhere, but now I'm trying to get back into counseling.
+","[CLS] I moved away from my job
+2. I was married 
+3. I am trying to get back into counseling [SEP]",0.68972635,"I was going to ask my girlfriend's dad for permission to marry her, but he passed away before I could . ", he always liked me and we got along great . , he would have been happy for me . ,1
+"I'm most proud of my mom for her achievements and positive influence on others.
+",[CLS][] [SEP],0.5655073,I keep my fingers crossed for my driving test . , I am not confident . , I will fail . ,0
+"I'm most proud of my mom for her achievements and positive influence on others.
+",[CLS][] [SEP],0.5829172,I always told my friends that I would never get married . , I have too much doubt in my heart . , I will not find love . ,0
+"My dream job is to open my own facility or become an author.
+",[CLS]No clear event can be extracted from the given input. [SEP],0.43299055,I can barely afford my rent this month . , I don't have enough money . , I will be homeless . ,0
+"My dream job is to open my own facility or become an author.
+",[CLS]No clear event can be extracted from the given input. [SEP],0.45524317,I have a huge zit on my nose . , I have a lot of experience with hiding blemishes . , I can hide it with makeup . ,1

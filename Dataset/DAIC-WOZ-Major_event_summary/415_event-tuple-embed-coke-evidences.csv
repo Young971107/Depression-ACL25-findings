@@ -1,0 +1,79 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"Last Saturday, I felt really happy because I did a weigh-in and lost seven pounds, which was exciting for me.
+","[CLS] I did weigh-in
+2. I lost seven pounds [SEP]",0.61218995,My chiropractor has been having me come in three times a week to help improve my posture . , it's been two months and I don't see any changes . , I will never improve . ,0
+"Last Saturday, I felt really happy because I did a weigh-in and lost seven pounds, which was exciting for me.
+","[CLS] I did weigh-in
+2. I lost seven pounds [SEP]",0.62547123,My chiropractor has been having me come in three times a week to help improve my posture . , I am starting to see some changes . , my back and neck pain will be gone soon . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6759504,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6766108,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"In high school, I was ahead in all my classes and credits, so I took a college course and ended up getting a two-year college degree while still in high school.
+","[CLS] Participant was ahead classes and credits
+2. Participant took college course
+3. Participant ended up getting two-year college degree [SEP]",0.63827646,"After dating for six months, I became my girlfriend's wife . ", we didn't know each other that well . , I may have married too soon . ,0
+"In high school, I was ahead in all my classes and credits, so I took a college course and ended up getting a two-year college degree while still in high school.
+","[CLS] Participant was ahead classes and credits
+2. Participant took college course
+3. Participant ended up getting two-year college degree [SEP]",0.6494167,I asked my professor for help on my project . , I didn't  try to figure it out  myself first . , he will think I'm lazy . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5624342,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.62166554,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I used to box, which helped me let out a lot of frustration, and sometimes I still go to the gym for a kickboxing class.
+","[CLS] Participant used to box frustration
+2. Participant go gym
+3. Participant take kickboxing class [SEP]",0.70488,There were a lot of kids playing in the park and one of them kept throwing a Frisbee at me . , the game looked dangerous . , I'm going to get hit by the Frisbee . ,0
+"I used to box, which helped me let out a lot of frustration, and sometimes I still go to the gym for a kickboxing class.
+","[CLS] Participant used to box frustration
+2. Participant go gym
+3. Participant take kickboxing class [SEP]",0.7178825,I attend my daughter's karate meetings . , she started this new activity . , she is gaining confidence . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5393272,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6427208,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"My sisters and I have started doing yoga, and we already go to the beach every Friday. Yoga has become our new addiction.
+","[CLS] My sisters and I have started doing yoga
+2. My sisters and I go to the beach every Friday [SEP]",0.5348549,I am getting in my friend's car to go to the movies . , we don't know the way . , we may not get there on time . ,0
+"My sisters and I have started doing yoga, and we already go to the beach every Friday. Yoga has become our new addiction.
+","[CLS] My sisters and I have started doing yoga
+2. My sisters and I go to the beach every Friday [SEP]",0.5906678,I will be taking over my grandmother's house responsibilities while she is in the hospital . , house responsibilities will be my top priority . , I may not have time for my friends anymore . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.53341246,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.54912597,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I am proud of my job and career because I've come a long way at twenty-three with the job I hold.
+",[CLS]- Participant be proud of job and career [SEP],0.6355401,My boss's decision affects my interests because I do not want the job position that he offered me . , I have a good relationship with her . , I can go above his head and speak to the CEO . ,1
+"I am proud of my job and career because I've come a long way at twenty-three with the job I hold.
+",[CLS]- Participant be proud of job and career [SEP],0.68583155,I achieved my goal of quitting my day job and becoming a full-time writer . , I don't have a platform . , I will not sell any books . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5157957,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5718835,My boss was airing her dirty laundry in public . , it's not appropriate to do so at work . , I will be reprimanded . ,0
+"Moving to L.A. was a significant event for me because I'm really close with my family, and it was hard to transition from them taking care of everything to me and my sisters doing it on our own.
+",[CLS] Participant move L.A. [SEP],0.66961247,"After a lot of deliberation, we admitted the new company into the union . ", we would have been in big trouble if we didn't . , we've made the right decision . ,1
+"Moving to L.A. was a significant event for me because I'm really close with my family, and it was hard to transition from them taking care of everything to me and my sisters doing it on our own.
+",[CLS] Participant move L.A. [SEP],0.6922686,I argue my father's case in order to persuade him to see things my way . , he has always been a reasonable man . , he will see reason and change his point of view . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5782487,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.60190916,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"Two to three years ago, my brother was shot on duty and almost lost his life. I still think about it often and cry about it like it happened yesterday.
+",[CLS][] [SEP],0.6303726,I afford my rent by working two jobs . , I will be working all the time . , I will not have time for a social life . ,0
+"Two to three years ago, my brother was shot on duty and almost lost his life. I still think about it often and cry about it like it happened yesterday.
+",[CLS][] [SEP],0.6766492,I can't believe how much my tuition has gone up since I last looked into affording college . , my family's income has changed . , I qualify for more scholarships now . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6228777,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.70559466,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"Last year, my sisters and I went on a trip to Hawaii, visiting Honolulu and Maui. Jet-skiing in Honolulu was one of my most memorable experiences.
+","[CLS] Participant went on a trip Hawaii
+2. Participant visited Honolulu
+3. Participant visited Maui
+4. Participant experienced jet-skiing in Honolulu [SEP]",0.8512355,"After arriving at my aunt's house, I realized that she had been planning her own trip . ", I should have been more considerate . , feel terrible since I think I will be blamed . ,0
+"Last year, my sisters and I went on a trip to Hawaii, visiting Honolulu and Maui. Jet-skiing in Honolulu was one of my most memorable experiences.
+","[CLS] Participant went on a trip Hawaii
+2. Participant visited Honolulu
+3. Participant visited Maui
+4. Participant experienced jet-skiing in Honolulu [SEP]",0.89015806,I relied on my friend's experiences when planning my own trip to Europe . , my friend's trip was not that great . , my trip may not be as great as I hoped . ,0

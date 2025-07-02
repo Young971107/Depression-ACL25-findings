@@ -1,0 +1,113 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I was always the low man on the totem pole socially in middle school, being the constant butt of jokes.
+",[CLS][] [SEP],0.6382741,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"I was always the low man on the totem pole socially in middle school, being the constant butt of jokes.
+",[CLS][] [SEP],0.6818141,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"When I was nineteen, I could just decide to do strange difficult things and had the boldness to follow through with them.
+",[CLS][] [SEP],0.60300744,"The more I learn about my co-workers, the more I realize how much we have in common . ", I'm not interested in the same things as them . , I will never have friends at work . ,0
+"When I was nineteen, I could just decide to do strange difficult things and had the boldness to follow through with them.
+",[CLS][] [SEP],0.6246234,I am basing my decision on previous experiences . , I have a lot of experience with this . , I will make the right choice . ,1
+"I studied Hebrew and Semitic studies and classics at school.
+","[CLS] I studied Hebrew and Semitic studies
+2. I studied classics [SEP]",0.7871907,I will ask my doctor tomorrow about my test results . , I have been feeling really sick lately . , they will be bad . ,0
+"I studied Hebrew and Semitic studies and classics at school.
+","[CLS] I studied Hebrew and Semitic studies
+2. I studied classics [SEP]",0.7955599,I brush my teeth at least twice a day . , I have no cavities . , my teeth will stay healthy and I will have fresh breath . ,1
+"I'm in ministry, and it's working out the way I kind of want it to be.
+","[CLS] Participant be in ministry
+2. ministry work out the way Participant wants [SEP]",0.20785283,I accomplish my goals by working hard and studying diligently . , I will have better opportunities in the future . , my efforts positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively will be paid off . ,1
+"I'm in ministry, and it's working out the way I kind of want it to be.
+","[CLS] Participant be in ministry
+2. ministry work out the way Participant wants [SEP]",0.20793462,They had a big discussion on women's rights and how to address the issue . , it's an important topic . , it's something that needs to be talked about more . ,1
+"I'm better now that I'm not drinking as much pop at night.
+",[CLS][] [SEP],0.8914312,I browse through my art collection that I have been building for years . , it's not worth anything . , I will never be able to sell it . ,0
+"I'm better now that I'm not drinking as much pop at night.
+",[CLS][] [SEP],0.9678236,"I don't act my age, according to my friends . ", I still enjoy doing the things I did when I was younger . , I am still a kid at heart . ,1
+"I've been making some better decisions with my diet, and it's doing better.
+",[CLS] Participant make better decisions with diet [SEP],0.48974466,I adjust my work schedule to fit my boss's schedule . , my boss is always very busy . , I'm being more considerate . ,1
+"I've been making some better decisions with my diet, and it's doing better.
+",[CLS] Participant make better decisions with diet [SEP],0.49101847,I adjust my work schedule to fit my boss's schedule . , my boss can count on me to be understanding . , it positively shows I am flexible . ,1
+"I have more standards and a willingness to enforce standards as a parent than my parents did.
+",[CLS][] [SEP],0.83538723,I raised my eyebrow to look arrogant . , I intended to look arrogant . , I looked like an arrogant jerk . ,0
+"I have more standards and a willingness to enforce standards as a parent than my parents did.
+",[CLS][] [SEP],0.83806366,I always told my friends that I would never get married . , I didn't want it . , I will not find love . ,0
+"My wife has been a positive influence in my life, helping give me the self-confidence to be who I am.
+",[CLS][] [SEP],0.6754781,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"My wife has been a positive influence in my life, helping give me the self-confidence to be who I am.
+",[CLS][] [SEP],0.6912711,I am nervously biting my nails waiting for the date to start . , I have bad habits . , he or she will not like me . ,0
+"I've been able to maintain the standard and quality of life for myself and my family.
+",[CLS]- Participant maintain standard and quality of life [SEP],0.7033458,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I've been able to maintain the standard and quality of life for myself and my family.
+",[CLS]- Participant maintain standard and quality of life [SEP],0.76180714,My co-worker became my friend . , We share a lot of common interests . , we would always get along . ,1
+"It took a little while, but I got used to living in L.A.
+",[CLS]- I got used to living in L.A. [SEP],0.7044594,I advertised my friend's business by putting up flyers around town . , it's a bit embarrassing . , I will be ridiculed . ,0
+"It took a little while, but I got used to living in L.A.
+",[CLS]- I got used to living in L.A. [SEP],0.7088847,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1
+"I've been to Europe a couple of times and traveled around the country.
+","[CLS] Participant been to Europe
+2. Participant traveled around country [SEP]",0.71913207,I have achieved one of my New Year's resolutions- to travel to Thailand! . , I have seen so many pictures of it . , it will be a beautiful country to travel to . ,1
+"I've been to Europe a couple of times and traveled around the country.
+","[CLS] Participant been to Europe
+2. Participant traveled around country [SEP]",0.72116125,I achieve my objective of getting a raise . , she wants to save money . , my boss will give me more work . ,0
+"I argued with my children about them not doing what they were told to do.
+",[CLS] I argued with my children [SEP],0.49344927,I want to bring up my children in a safe and loving environment . , it has everything they need . , this is the best place for them . ,1
+"I argued with my children about them not doing what they were told to do.
+",[CLS] I argued with my children [SEP],0.49580717,I want to bring up my children in a safe and loving environment . , I wasn't brought up in a safe and loving environment myself . , I will not be able to provide them with what they need . ,0
+"I wish I had handled arguments with my wife more patiently and understandingly.
+",[CLS][] [SEP],0.6775485,I can barely afford my rent this month . , I have a good job . , things  will get better soon . ,1
+"I wish I had handled arguments with my wife more patiently and understandingly.
+",[CLS][] [SEP],0.6819735,I have just begun my career as an engineer . , I am not experienced  enough . , I will never be as successful as my father . ,0
+"Sometimes, I find it hard to be a parent, especially with character development.
+",[CLS][] [SEP],0.5696002,I feel like I'm finally starting to act my age and mature a little bit . , I haven't developed much physically or emotionally . , I will be stuck in this awkward phase forever . ,0
+"Sometimes, I find it hard to be a parent, especially with character development.
+",[CLS][] [SEP],0.61412287,I feel like I'm finally starting to act my age and mature a little bit . , it will likely lead to more opportunities and experiences . , this is a good development . ,1
+"I talk to my parents about once a day or every other day and constantly talk with my wife and children.
+","[CLS] I talk my parents
+2. I talk my wife
+3. I talk my children [SEP]",0.6393581,A woman is breastfeeding her baby in public . , some people are not comfortable with it . , she will be stared at . ,0
+"I talk to my parents about once a day or every other day and constantly talk with my wife and children.
+","[CLS] I talk my parents
+2. I talk my wife
+3. I talk my children [SEP]",0.6725209,I breastfeed my baby every day . , I  didn't  eat  well  today . , my milk will run out . ,0
+"I have four kids, and they keep me very busy; they're between nine and three.
+",[CLS][Participant have four kids] [SEP],0.60660195,My coworker is always advancing toward me and trying to engage in small talk . , she never talks to me when we are not at work . , she is just trying to be friends with me and not actually interested . ,0
+"I have four kids, and they keep me very busy; they're between nine and three.
+",[CLS][Participant have four kids] [SEP],0.633712,My aunt's travel has really affected her health . , she has good health care . , she will get better . ,1
+"I feel more empowered now that I'm making better choices with my diet and exercise.
+","[CLS] I feel empowered
+2. I am making better choices
+3. I am making choices with my diet
+4. I am making choices with my exercise [SEP]",0.701525,I accomplish my goals by working hard and studying diligently . , I know I can achieve anything I set my mind to . , my future is bright . ,1
+"I feel more empowered now that I'm making better choices with my diet and exercise.
+","[CLS] I feel empowered
+2. I am making better choices
+3. I am making choices with my diet
+4. I am making choices with my exercise [SEP]",0.7024873,I have been feeling really stressed lately and it's affecting my health . ," I have been making an effort to go to the gym more, eating healthy and getting more sleep . ", I have started to taking better care of myself . ,1
+"I haven't been diagnosed with depression.
+",[CLS][] [SEP],0.59597623,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"I haven't been diagnosed with depression.
+",[CLS][] [SEP],0.6620741,I was in line at the grocery store and the person in front of me was acting really weird . , my cat isn't acting like its normal self . , my cat is sick . ,0
+"I would advise my younger self not to fall into the trap of thinking that middle and high school is life.
+",[CLS][] [SEP],0.62171656,I am accompanied by my boss's wife . , The boss's wife is very influential in the company . , it will help me get ahead in my career . ,1
+"I would advise my younger self not to fall into the trap of thinking that middle and high school is life.
+",[CLS][] [SEP],0.6294613,I feel like I'm finally starting to act my age and mature a little bit . , that's what people my age are expected to do . , I will have to start acting serious and responsible all the time . ,0
+"Visiting Yosemite and Sequoia parks was fun.
+",[CLS][] [SEP],0.65831053,We will arrived at the conference room in 5 minutes . , no one told us the time . , We will be the only ones there . ,0
+"Visiting Yosemite and Sequoia parks was fun.
+",[CLS][] [SEP],0.6602286,"I don't act my age, according to my friends . ", I act like a child . , I will be made fun of . ,0
+"I try to relax and breathe through situations and move on.
+","[CLS] I try relax
+2. I breathe through situations
+3. I move on [SEP]",0.681165,My chiropractor has been having me come in three times a week to help improve my posture . , I no longer have pain in my lower back . , it is helping me become more flexible . ,1
+"I try to relax and breathe through situations and move on.
+","[CLS] I try relax
+2. I breathe through situations
+3. I move on [SEP]",0.68794054,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'm trying to help their children . , the parents appreciate my time . ,1
+"I felt really happy a few weeks ago at the beach when everybody was having a good time.
+",[CLS][] [SEP],0.67367494,I was waiting for my brother to take his turn in the video game . , he always does . , he will continue playing for hours . ,0
+"I felt really happy a few weeks ago at the beach when everybody was having a good time.
+",[CLS][] [SEP],0.6900911,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I haven't gone back to my hometown since I moved here, but I plan to later this year.
+",[CLS]- Participant plan to go back to hometown [SEP],0.9244956,I have accepted my friends offer to stay with her in New York for a week . , I will be able to explore the city and spend time with my friend . , I am going to enjoy the trip . ,1
+"I haven't gone back to my hometown since I moved here, but I plan to later this year.
+",[CLS]- Participant plan to go back to hometown [SEP],0.94551086,I added another country to my travel bucket list . , I have the money to travel . , I would get to go there one day . ,1

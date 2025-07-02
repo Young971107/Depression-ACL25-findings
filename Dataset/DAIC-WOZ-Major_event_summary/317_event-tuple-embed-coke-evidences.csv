@@ -1,0 +1,45 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I felt overwhelmed and anxious about some things that had happened, so I went into therapy for a while.
+","[CLS] I felt overwhelmed and anxious
+2. I went into therapy [SEP]",0.5463667,I also asked for a raise . , I have waited for a long time and I have been a great asset to the company . , my boss will give me a raise . ,1
+"I felt overwhelmed and anxious about some things that had happened, so I went into therapy for a while.
+","[CLS] I felt overwhelmed and anxious
+2. I went into therapy [SEP]",0.56735504,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1
+"I moved from New York to L.A. about two years ago because I wanted a change of environment and to start over somewhere.
+",[CLS] I moved L.A. [SEP],0.8064637,My dad is raising me and my siblings by himself . , my mother isn't around . , he is not getting any help from anyone . ,0
+"I moved from New York to L.A. about two years ago because I wanted a change of environment and to start over somewhere.
+",[CLS] I moved L.A. [SEP],0.8222319,I asked my sister-in-law to watch my kids while I am out of town . , she never baby-sat them before . , she will not do a good job . ,0
+"I was diagnosed with PTSD about ten years ago.
+",[CLS][] [SEP],0.66609454,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"I was diagnosed with PTSD about ten years ago.
+",[CLS][] [SEP],0.6749531,I can barely afford my rent this month . , I have been making an effort to save money . , my financial situation will improve soon . ,1
+"I studied in Paris a long time ago, and it was a fun time meeting new people at the schools there.
+","[CLS] I studied in Paris
+2. I met new people [SEP]",0.74745905,"After arriving at my aunt's house, I realized that she had been planning her own trip . ", she always wanted to travel the world . , she will have fun . ,1
+"I studied in Paris a long time ago, and it was a fun time meeting new people at the schools there.
+","[CLS] I studied in Paris
+2. I met new people [SEP]",0.76369214,"After arriving at my aunt's house, I realized that she had been planning her own trip . ", I am the one who wanted to go on a trip . , I should have planned my own trip . ,0
+"I finished grad school and some training at a seamanship maritime school, which I am most proud of in my life.
+","[CLS] I finished grad school
+2. I finished training at a seamanship maritime school [SEP]",0.7804221,I accomplished my goal of getting an A on the test . , I was so stressed out . , I studied too much . ,0
+"I finished grad school and some training at a seamanship maritime school, which I am most proud of in my life.
+","[CLS] I finished grad school
+2. I finished training at a seamanship maritime school [SEP]",0.789651,I accomplish my goals by working hard and studying diligently . , they didn't go to college . , my parents will be disappointed . ,0
+"I have been diagnosed with depression and have been feeling kind of depressed, tired, sluggish, less motivated, and less interested in things lately.
+","[CLS] Participant have been diagnosed with depression
+2. Participant have been feeling depressed
+3. Participant have been feeling tired
+4. Participant have been feeling sluggish
+5. Participant have been feeling less motivated
+6. Participant have been feeling less interested in things [SEP]",0.6184598,I have been feeling really stressed lately and it's affecting my health . , it would give me time to relax and de-stress . , taking a break will do me good . ,1
+"I have been diagnosed with depression and have been feeling kind of depressed, tired, sluggish, less motivated, and less interested in things lately.
+","[CLS] Participant have been diagnosed with depression
+2. Participant have been feeling depressed
+3. Participant have been feeling tired
+4. Participant have been feeling sluggish
+5. Participant have been feeling less motivated
+6. Participant have been feeling less interested in things [SEP]",0.6626389,I have been feeling really stressed lately and it's affecting my health . ," I have been making an effort to go to the gym more, eating healthy and getting more sleep . ", I have started to taking better care of myself . ,1
+"My family and I no longer keep in touch since my parents passed away, so I am pretty alone.
+",[CLS] Participant no longer keep in touch family [SEP],0.78213674,I bring my laptop back home with me after work . , it is work-related . , I accomplished something important . ,1
+"My family and I no longer keep in touch since my parents passed away, so I am pretty alone.
+",[CLS] Participant no longer keep in touch family [SEP],0.78362125,We are bringing our families together for the first time . , I am not used to cooking for such a big group . , my cooking will not be good enough . ,0

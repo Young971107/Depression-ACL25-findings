@@ -1,0 +1,89 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I've been interested in real estate since 2005, and I'm planning to start as a real estate agent, hoping to get my license this year.
+","[CLS] Participant interested in real estate
+2. Participant planning to start real estate agent
+3. Participant hoping to get license [SEP]",0.79158664,My boss's decision affects my interests because I do not want the job position that he offered me . , I have a good relationship with her . , I can go above his head and speak to the CEO . ,1
+"I've been interested in real estate since 2005, and I'm planning to start as a real estate agent, hoping to get my license this year.
+","[CLS] Participant interested in real estate
+2. Participant planning to start real estate agent
+3. Participant hoping to get license [SEP]",0.8706643,I aroused my boss' interest with my new project proposal . , he  liked  what  I  presented  and  he  told  me  that  he  would  take  it  into  consideration . , there is a great chance that  I will get  a promotion . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6268568,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.68034613,My boss is advertising her business on Facebook . , she is investing in a very popular platform . , she will make a lot of money . ,1
+"I lived in Hawaii for a year and a half, and to relax, I usually take a nap, a bath, or try to focus on positive activities.
+","[CLS] I lived Hawaii
+2. I take a nap
+3. I take a bath
+4. I try focus on positive activities [SEP]",0.1274139,I am accompanied by my boss's wife . , she is an important person . , it will be an honor to meet her . ,1
+"I lived in Hawaii for a year and a half, and to relax, I usually take a nap, a bath, or try to focus on positive activities.
+","[CLS] I lived Hawaii
+2. I take a nap
+3. I take a bath
+4. I try focus on positive activities [SEP]",0.13258672,I am at my brother's house and we get into a fight and I beat him up . , I always end up hurting him . , I'm a terrible brother . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.53788817,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5703518,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I had to make the hard decision to get a divorce, which was one of the hardest decisions I've faced.
+","[CLS] Participant make decision
+2. Participant get divorce [SEP]",0.71295375,"After a lot of deliberation, we admitted the new company into the union . ", we would have been in big trouble if we didn't . , we've made the right decision . ,1
+"I had to make the hard decision to get a divorce, which was one of the hardest decisions I've faced.
+","[CLS] Participant make decision
+2. Participant get divorce [SEP]",0.71772224,I have a huge zit on my nose . , they can't take their eyes off it . , people will find it amusing . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.23425382,I achieved my aim to get an 'A' in the class . , I studied hard for it  . , my friends will make fun of me . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.23858863,The new hire baits his own hook during his first fishing lesson with his boss . , he is not following the company's policy . , he will be fired . ,0
+"I used to travel with my dad, which is one of my most memorable experiences.
+",[CLS] I travel with my dad [SEP],0.5611189,I was helping my little brother make a paper airplane . , I made it too heavy . , it will not fly . ,0
+"I used to travel with my dad, which is one of my most memorable experiences.
+",[CLS] I travel with my dad [SEP],0.565634,I was helping my little brother make a paper airplane . , it's his favorite thing to do . , he will have a lot of fun with it . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.55786496,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.57649344,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have different hobbies and backgrounds . , that we have nothing in common . ,0
+"I wish I could control my temper better, lose weight, be more active, and have clearer skin.
+",[CLS]No clear event can be extracted from the input as it is a statement of wishes rather than actions. [SEP],0.43671316,I can barely afford my rent this month . , I don't have enough money . , I will be homeless . ,0
+"I wish I could control my temper better, lose weight, be more active, and have clearer skin.
+",[CLS]No clear event can be extracted from the input as it is a statement of wishes rather than actions. [SEP],0.4508924,I have the same name as my dad . , he has the same name as me . , he is a cool guy . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5064566,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.51287127,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"I was made to feel really badly about myself during my school years because of how the kids treated me.
+",[CLS]- kids treated participant [SEP],0.6165688,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they want what is best for their child . , the parents appreciate my time . ,1
+"I was made to feel really badly about myself during my school years because of how the kids treated me.
+",[CLS]- kids treated participant [SEP],0.623894,I babysat my cousin's kids while she was at work . , I have to entertain them all day . , I will be too tired . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.54660046,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.55567986,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I still argue with my ex-husband, often over small things that snowball out of control.
+",[CLS] Participant argue ex-husband [SEP],0.6300379,I crowdsourced around for a solution to my problem . , my problem is not interesting . , I will be ignored . ,0
+"I still argue with my ex-husband, often over small things that snowball out of control.
+",[CLS] Participant argue ex-husband [SEP],0.67418015,I crowdsourced around for a solution to my problem . , people are generally helpful . , I would find one . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5254452,I asked for an explanation of the theory and the professor couldn't provide one . , the professor couldn't explain it well . , I will be the only one who doesn't understand . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.53266346,I asked for an explanation of the theory and the professor couldn't provide one . , the theory must be wrong . , I am on the right track . ,1
+"I wish I had handled various situations in my life differently, but I don't regret anything I've done.
+",[CLS][] [SEP],0.59801495,I was airing my dirty laundry in public . , honesty is always the best policy . , people will like me more for it . ,1
+"I wish I had handled various situations in my life differently, but I don't regret anything I've done.
+",[CLS][] [SEP],0.68528974,I raised my eyebrow to look arrogant . , I intended to look arrogant . , I looked like an arrogant jerk . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.56097186,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5685628,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"I finally got over how the kids treated me at school, which is something I once wished I could erase from my memory.
+",[CLS] I got over how the kids treated me at school [SEP],0.37904057,I was asking my kids about their day at school today . , they said they don't like school yesterday . , they are going to tell me they don't like school . ,0
+"I finally got over how the kids treated me at school, which is something I once wished I could erase from my memory.
+",[CLS] I got over how the kids treated me at school [SEP],0.41015148,I bring my daughter to her first day of school . , she'll be spending most of the day away from me . , I'll miss her terribly . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6056632,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.63152254,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I'm proud of myself and my kids.
+",[CLS][] [SEP],0.77367866,"I need to do some laundry, but I keep procrastinating . ", I have no other commitments . , I will be able to relax and watch TV all day . ,1
+"I'm proud of myself and my kids.
+",[CLS][] [SEP],0.7816889,"I don't act my age, according to my friends . ", I will be seen as a child . , I will never be respected . ,0

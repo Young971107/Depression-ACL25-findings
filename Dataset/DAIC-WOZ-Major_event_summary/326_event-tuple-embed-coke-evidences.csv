@@ -1,0 +1,47 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I played my guitar last night, playing chords and songs.
+",[CLS] Participant played guitar [SEP],0.8652395,I give my opinions about music to my boss . , he likes different genres of music . , he will not listen . ,0
+"I played my guitar last night, playing chords and songs.
+",[CLS] Participant played guitar [SEP],0.87218064,I appear on stage with my band mates to the screaming of the audience . , it always happens to me . , I might trip on my guitar cord . ,0
+"I recently enjoyed playing with other musicians at a rehearsal studio.
+",[CLS] Participant enjoyed playing with other musicians [SEP],0.7002597,I give my opinions about music to my boss . , he likes different genres of music . , he will not listen . ,0
+"I recently enjoyed playing with other musicians at a rehearsal studio.
+",[CLS] Participant enjoyed playing with other musicians [SEP],0.78443134,I give my opinions about music to my boss . , I have a lot of experience with music . , she will listen to me . ,1
+"I studied politics in school because of my parents.
+",[CLS]- I studied politics [SEP],0.73054785,"After years of planning, I finally avenged my brother's death . ", he was always so protective of me . , he would have wanted me to . ,1
+"I studied politics in school because of my parents.
+",[CLS]- I studied politics [SEP],0.7317989,I relied on my friend's experiences when planning my own trip to Europe . , my friend's trip didn't go as planned . , my trip may not be as great as I hoped . ,0
+"I moved from Ohio to L.A. for more opportunities in a bigger city.
+",[CLS] I moved from Ohio to L.A. [SEP],0.8610705,I asked my sister-in-law to watch my kids while I am out of town . , she never baby-sat them before . , she will not do a good job . ,0
+"I moved from Ohio to L.A. for more opportunities in a bigger city.
+",[CLS] I moved from Ohio to L.A. [SEP],0.96624446,My dad is raising me and my siblings by himself . , my mother isn't around . , he is not getting any help from anyone . ,0
+"I lived out of the country with my parents and did stuff with the Marines.
+","[CLS] I lived out of the country
+2. I did stuff with the Marines [SEP]",0.6250825,I brought home my ex-boyfriend's dog because he was moving out of the country and couldn't take her with him . , I'm allergic to dogs and can't keep her myself . , I will have to give her away to a new family . ,0
+"I lived out of the country with my parents and did stuff with the Marines.
+","[CLS] I lived out of the country
+2. I did stuff with the Marines [SEP]",0.63123196,I brought home my ex-boyfriend's dog because he was moving out of the country and couldn't take her with him . , I'm really not a dog person . , he may come back for her and I will have to give her up . ,0
+"I was overwhelmed by the experience of the Berlin Wall.
+",[CLS][] [SEP],0.66319054,We will arrived at the conference room in 5 minutes . , no one told us the time . , We will be the only ones there . ,0
+"I was overwhelmed by the experience of the Berlin Wall.
+",[CLS][] [SEP],0.73002344,I can barely afford my rent this month . , I have a good job . , things  will get better soon . ,1
+"I race motocross and was one of the first black professionals.
+","[CLS] I race motocross
+2. I was one of the first black professionals [SEP]",0.78769267,My best friend's dad beat my friend in a race . , I have seen my friend's dad and how he celebrates his victories . , that winning is everything . ,1
+"I race motocross and was one of the first black professionals.
+","[CLS] I race motocross
+2. I was one of the first black professionals [SEP]",0.81482816,I beat the world record for the hundred-meter dash . , I was the only person in the race . , I have done something amazing . ,1
+"I enjoy flying in planes and have flown in a private plane.
+","[CLS] Participant enjoy flying in planes
+2. Participant have flown in a private plane [SEP]",0.30988413,The new hire baits his own hook during his first fishing lesson with his boss . , he is not following the company's policy . , he will be fired . ,0
+"I enjoy flying in planes and have flown in a private plane.
+","[CLS] Participant enjoy flying in planes
+2. Participant have flown in a private plane [SEP]",0.31142265,There were a lot of kids playing in the park and one of them kept throwing a Frisbee at me . , I haven't caught a Frisbee before . , I'm going to get hit by the Frisbee . ,0
+"I used to travel a lot and enjoyed the different sceneries and experiences.
+",[CLS][] [SEP],0.57200706,"I don't act my age, according to my friends . ", I am not being childish . , I am not acting my age . ,0
+"I used to travel a lot and enjoyed the different sceneries and experiences.
+",[CLS][] [SEP],0.9745816,"After years of planning, I finally avenged my brother's death . ", the villain's death didn't completely fill the hole of betrayal and anger in my heart . , I may have to kill again . ,0
+"My mom and dad have been positive influences in my life because they are strong people.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.5585482,I have a niece who bears my name . , I had a  rough start in life . , she might not end up like me . ,0
+"My mom and dad have been positive influences in my life because they are strong people.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.57534826,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1

@@ -1,0 +1,85 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I used to struggle with controlling my anger as a kid, but I've gotten better at managing it as an adult.
+","[CLS] I struggle with controlling my anger
+2. I get better at managing it [SEP]",0.37572008,I have been feeling really stressed lately and it's affecting my health . , I have been taking my vitamins and getting more sleep . , I am going to get better soon . ,1
+"I used to struggle with controlling my anger as a kid, but I've gotten better at managing it as an adult.
+","[CLS] I struggle with controlling my anger
+2. I get better at managing it [SEP]",0.39303154,The news about the outbreak is affecting people's mental health . , they are all feeling anxious and need emotional support . , it will make people come together . ,1
+"I would advise my younger self to focus more on education rather than parties and socializing.
+",[CLS][Participant advise younger self] [SEP],0.61195195,A woman is breastfeeding her baby in public . , I'm not comfortable with seeing a breast . , it's disgusting . ,0
+"I would advise my younger self to focus more on education rather than parties and socializing.
+",[CLS][Participant advise younger self] [SEP],0.6503979,My coworker is always advancing toward me and trying to engage in small talk . , we work closely together . , she is trying to make friends with me . ,1
+"I regret taking a long time to return to school for my degree and spending seven years with my ex-boyfriend.
+","[CLS] I regret taking a long time to return to school
+2. I regret spending seven years with my ex-boyfriend [SEP]",0.7849772,I have achieved one of my New Year's resolutions- to travel to Thailand! . , I have other responsibilities . , I will not be able to travel as much as I want to . ,0
+"I regret taking a long time to return to school for my degree and spending seven years with my ex-boyfriend.
+","[CLS] I regret taking a long time to return to school
+2. I regret spending seven years with my ex-boyfriend [SEP]",0.79773796,I will be taking over my grandmother's house responsibilities while she is in the hospital . , I have been through a lot of tough situations before . , I positively can handle this . ,1
+"I wish I had handled a recent argument with my best friend differently by staying calm and suggesting we talk later.
+",[CLS][] [SEP],0.55594736,I am accompanied by my boss's wife . , she is always mean to me . , I will not be respected . ,0
+"I wish I had handled a recent argument with my best friend differently by staying calm and suggesting we talk later.
+",[CLS][] [SEP],0.5666324,I'm biding my time until my parents get home . , they always let me out when they get home from work . , I'll get to go outside and play with my friends . ,1
+"I love traveling and enjoy meeting new people and experiencing different cultures.
+","[CLS] Participant love traveling
+2. Participant enjoy meeting new people
+3. Participant enjoy experiencing different cultures [SEP]",0.6580292,I appear among a group of people who are discussing the new company project . , I 'm  the only one who knows about the project . , my co-workers respect me . ,1
+"I love traveling and enjoy meeting new people and experiencing different cultures.
+","[CLS] Participant love traveling
+2. Participant enjoy meeting new people
+3. Participant enjoy experiencing different cultures [SEP]",0.6814567,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I had a terrifying experience about fifteen years ago when a man tried to choke me at a party, and I wish I could erase it from my memory.
+",[CLS] man tried to choke Participant [SEP],0.7663531,I was beating the living daylights out of that guy who tried to mug me . , I made him regret it . , he will never try to mug anyone again . ,1
+"I had a terrifying experience about fifteen years ago when a man tried to choke me at a party, and I wish I could erase it from my memory.
+",[CLS] man tried to choke Participant [SEP],0.7896363,I was beating the living daylights out of that guy who tried to mug me . , no one was watching . , I will get away with it . ,1
+"I felt really happy last weekend when I went to Santa Barbara with my husband and enjoyed wine tasting and the beach.
+","[CLS] Participant went Santa Barbara
+2. Participant enjoyed wine tasting
+3. Participant enjoyed the beach [SEP]",0.824626,I attend my daughter's karate meetings . , I'm the only one there . , the other fathers will judge me . ,0
+"I felt really happy last weekend when I went to Santa Barbara with my husband and enjoyed wine tasting and the beach.
+","[CLS] Participant went Santa Barbara
+2. Participant enjoyed wine tasting
+3. Participant enjoyed the beach [SEP]",0.8435552,I asked my friend's girlfriend to the movies . , I am not her type . , she will say no . ,0
+"One of my most memorable experiences was visiting the pyramids in Teotihuacan, Mexico.
+",[CLS][] [SEP],0.72071236,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"One of my most memorable experiences was visiting the pyramids in Teotihuacan, Mexico.
+",[CLS][] [SEP],0.74527717,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"I moved to L.A. about thirty-four years ago and try to visit my hometown once a year.
+","[CLS] I moved L.A.
+2. I try visit my hometown [SEP]",0.7662662,I needed to ask my date's father for help . , I had helped him before when he needed it . , he would help me out . ,1
+"I moved to L.A. about thirty-four years ago and try to visit my hometown once a year.
+","[CLS] I moved L.A.
+2. I try visit my hometown [SEP]",0.76676655,I brought home my ex-boyfriend's dog because he was moving out of the country and couldn't take her with him . , I have a big heart and love animals . , I was being a Good Samaritan . ,1
+"I have a good relationship with my family, especially with my sister, who I am very close to now.
+",[CLS][] [SEP],0.6840783,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"I have a good relationship with my family, especially with my sister, who I am very close to now.
+",[CLS][] [SEP],0.7067727,My butler announced the queen's arrival . , I didn't tell her that the queen was coming . , that she will be angry with me . ,0
+"I went on a seven-day cruise to several Caribbean islands, which was an amazing experience.
+","[CLS] I went on a seven-day cruise
+2. I went to several Caribbean islands [SEP]",0.6740089,I asked my friend's boyfriend if he wanted to go on a trip with us to the Caribbean . , he likes to travel . , he will enjoy the trip . ,1
+"I went on a seven-day cruise to several Caribbean islands, which was an amazing experience.
+","[CLS] I went on a seven-day cruise
+2. I went to several Caribbean islands [SEP]",0.7097175,I asked my friend's boyfriend if he wanted to go on a trip with us to the Caribbean . , it will be a good opportunity to relax and spend time with friends . , he will enjoy the trip . ,1
+"I studied history and am currently working in the education field.
+","[CLS] I studied history
+2. I am working education field [SEP]",0.74896854,I'm so proud of myself- I brought my grades up from a C to an A in just one semester! . , it was really hard to bring my grades up . , I will not be able to do it again . ,0
+"I studied history and am currently working in the education field.
+","[CLS] I studied history
+2. I am working education field [SEP]",0.7503494,I will get my degree soon . , I have studied a lot . , my hard work will pay off . ,1
+"I find social situations uncomfortable and feel awkward starting conversations.
+",[CLS][] [SEP],0.64065325,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"I find social situations uncomfortable and feel awkward starting conversations.
+",[CLS][] [SEP],0.6592706,There was a big crowd around the entrance to the club . , I am friends with the owner . , the bouncer would let me in . ,1
+"To relax, I enjoy reading and taking baths, and going to the gym helps me deal with stress.
+","[CLS] I enjoy reading
+2. I enjoy taking baths
+3. going to the gym helps me [SEP]",0.65997875,I am getting in my friend's car to go to the movies . , we don't know the way . , we may not get there on time . ,0
+"To relax, I enjoy reading and taking baths, and going to the gym helps me deal with stress.
+","[CLS] I enjoy reading
+2. I enjoy taking baths
+3. going to the gym helps me [SEP]",0.67219436,I will be taking over my grandmother's house responsibilities while she is in the hospital . , house responsibilities will be my top priority . , I may not have time for my friends anymore . ,0
+"I am currently on vacation from work, which makes me feel good emotionally and physically.
+","[CLS] I am on vacation
+2. vacation makes me feel good [SEP]",0.6066965,I accomplish my goals by working hard and studying diligently . , my parents and friends are proud of me . , I've done a great job . ,1
+"I am currently on vacation from work, which makes me feel good emotionally and physically.
+","[CLS] I am on vacation
+2. vacation makes me feel good [SEP]",0.6114588,I have achieved one of my New Year's resolutions- to travel to Thailand! . , I have other responsibilities . , I will not be able to travel as much as I want to . ,0

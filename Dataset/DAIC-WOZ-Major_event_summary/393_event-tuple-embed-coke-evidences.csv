@@ -1,0 +1,79 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I have been feeling okay and fine lately.
+",[CLS][] [SEP],0.6487351,I always told my friends that I would never get married . , I have too much doubt in my heart . , I will not find love . ,0
+"I have been feeling okay and fine lately.
+",[CLS][] [SEP],0.6646589,I am basing my decision on previous experiences . , I have a good track record . , I know what I'm doing . ,1
+"I have not been diagnosed with PTSD or depression.
+",[CLS][] [SEP],0.7084872,I am nervously biting my nails waiting for the date to start . , I have bad habits . , he or she will not like me . ,0
+"I have not been diagnosed with PTSD or depression.
+",[CLS][] [SEP],0.7425226,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"My relationship with my family is pretty cool; I get along with my mom and sister, and I'm very close to my family.
+","[CLS] Participant get along mom and sister
+2. Participant be close to family [SEP]",0.5338131,My best friend's dad beat my friend in a race . , my friend's dad is way older than him . , my friend's dad doesn't respect him . ,0
+"My relationship with my family is pretty cool; I get along with my mom and sister, and I'm very close to my family.
+","[CLS] Participant get along mom and sister
+2. Participant be close to family [SEP]",0.5567345,I grew up in the city but moved to the country to be with my partner and had to learn to live off the land . , I have already accomplished so much . , I can do anything I set my mind to . ,1
+"Some friends I've met recently through my church have been a positive influence in my life.
+",[CLS][] [SEP],0.62628925,I raised my eyebrow to look arrogant . , I intended to look arrogant . , I looked like an arrogant jerk . ,0
+"Some friends I've met recently through my church have been a positive influence in my life.
+",[CLS][] [SEP],0.69320107,I was airing my dirty laundry in public . , honesty is always the best policy . , people will like me more for it . ,1
+"To relax, I work out and hang out with my friends.
+","[CLS] I work out 
+2. I hang out with my friends [SEP]",0.57038844,I asked my friend's girlfriend out on a date . , we have talked a lot lately . , I will get to know her better . ,1
+"To relax, I work out and hang out with my friends.
+","[CLS] I work out 
+2. I hang out with my friends [SEP]",0.6652737,I bragged to all my friends about how I got the new girl's number at school . , all my friends give me a hard time and tell me that I am lying . , I am quite the ladies man . ,1
+"I'm pretty good at controlling my temper and don't let things get to me.
+",[CLS][] [SEP],0.5489036,"I don't act my age, according to my friends . ", I will be seen as a child . , I will never be respected . ,0
+"I'm pretty good at controlling my temper and don't let things get to me.
+",[CLS][] [SEP],0.5540247,I am accompanied by my boss's wife . , she is always mean to me . , I will not be respected . ,0
+"I was bullied when I was little in school.
+",[CLS][] [SEP],0.75200975,I asked my mom if I could have a dog for my birthday . , we already have a cat . , she will say no . ,0
+"I was bullied when I was little in school.
+",[CLS][] [SEP],0.76555043,I have a niece who bears my name . , my father  named me after his sister who he molested  . , my family is continuing the cycle of abuse . ,0
+"The hardest decision I've ever had to make was about my career path.
+",[CLS][] [SEP],0.43082517,I raised my eyebrow to look arrogant . , I intended to look arrogant . , I looked like an arrogant jerk . ,0
+"The hardest decision I've ever had to make was about my career path.
+",[CLS][] [SEP],0.5626449,I am waiting for my turn in the doctor's office . , I consume healthy food . , the doctor will say that I am healthy . ,1
+"I wish my relationship with my brother could have been better without fighting.
+",[CLS][] [SEP],0.6324904,I was in line at the grocery store and the person in front of me was acting really weird . , my cat isn't acting like its normal self . , my cat is sick . ,0
+"I wish my relationship with my brother could have been better without fighting.
+",[CLS][] [SEP],0.68058175,I flirt with my boss to try to get a raise . , I am using my sexuality to get what I want . , she will give me what I want . ,1
+"High school went okay for me, but I didn't live up to my potential.
+",[CLS][] [SEP],0.86522853,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"High school went okay for me, but I didn't live up to my potential.
+",[CLS][] [SEP],0.8964128,The economic recession has affected my family in many ways . , we always do what is necessary to survive difficult times . , we will all persevere and come out stronger . ,1
+"The last time I felt really happy was when I got the car I have now, which is nice and fast.
+","[CLS] I felt happy
+2. I got car [SEP]",0.4645479,I was getting a massage and the masseuse was arching my back  too much . , I could hear my spine cracking . , my spine was getting aligned . ,1
+"The last time I felt really happy was when I got the car I have now, which is nice and fast.
+","[CLS] I felt happy
+2. I got car [SEP]",0.5747639,I have been feeling really stressed lately and it's affecting my health . , I need to relax and recharge . , I will take a break soon . ,1
+"I would advise my younger self to go for whatever I want in life without hesitation.
+",[CLS]- I advise my younger self [SEP],0.64297205,I try to calm my boss's fears about the company's future . , I genuinely believe that things will work out . , my positive attitude will be infectious . ,1
+"I would advise my younger self to go for whatever I want in life without hesitation.
+",[CLS]- I advise my younger self [SEP],0.64433014,I really admire my boss's work ethic . , she is always working hard . , she sets a great example for me . ,1
+"I wish I could change my weight as I've put on some pounds and am working on losing them.
+",[CLS][] [SEP],0.69723415,"I need to do some laundry, but I keep procrastinating . ", I have no other commitments . , I will be able to relax and watch TV all day . ,1
+"I wish I could change my weight as I've put on some pounds and am working on losing them.
+",[CLS][] [SEP],0.70771354,I am accompanied by my boss's wife . , she is the one who decides whether or not I get promoted . , I will get a promotion . ,1
+"I enjoy having get-togethers with friends to talk about our lives.
+",[CLS]- I enjoy having get-togethers with friends [SEP],0.60100186,My co-worker became my friend . , we would talk and joke around more . , I would have more fun at work . ,1
+"I enjoy having get-togethers with friends to talk about our lives.
+",[CLS]- I enjoy having get-togethers with friends [SEP],0.6262954,A same-sex couple adopts a child . ," family should be defined by the people who care for you, not by your blood relations . ", that it is every child's right to have a loving family . ,1
+"My dream job is to be a CEO of a company, which I know will be challenging.
+",[CLS][] [SEP],0.57941926,I pretend to be interested in sports so that my male friends will not think I am weird . , they are very perceptive . , they will see right through me . ,0
+"My dream job is to be a CEO of a company, which I know will be challenging.
+",[CLS][] [SEP],0.5939358,I believe that good luck comes to those who work hard . , I was born unlucky . ," no matter how much effort I put in, things will never go my way . ",0
+"I can be shy at times but am mostly outgoing.
+",[CLS]No clear event can be extracted from the given sentence. [SEP],0.3113505,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"I can be shy at times but am mostly outgoing.
+",[CLS]No clear event can be extracted from the given sentence. [SEP],0.4582801,I was airing my dirty laundry in public . , transparency is the new cool . , people will like me more for it . ,1
+"I haven't argued with anyone seriously in a while, just had a minor argument a few weeks ago.
+",[CLS][] [SEP],0.704485,I have just begun my career as an engineer . , I am not experienced  enough . , I will never be as successful as my father . ,0
+"I haven't argued with anyone seriously in a while, just had a minor argument a few weeks ago.
+",[CLS][] [SEP],0.7472247,"The more I learn about my co-workers, the more I realize how much we have in common . ", I'm not interested in the same things as them . , I will never have friends at work . ,0
+"I like the weather and women in Los Angeles, but the traffic is ridiculous.
+",[CLS][] [SEP],0.7555882,I have just begun my career as an engineer . , I always get the better outcomes . , my technical skills are  better than my colleagues . ,1
+"I like the weather and women in Los Angeles, but the traffic is ridiculous.
+",[CLS][] [SEP],0.7585002,My ability to focus is affected when she's around . , I can't concentrate  when she's around  . , I need to get away from her . ,0

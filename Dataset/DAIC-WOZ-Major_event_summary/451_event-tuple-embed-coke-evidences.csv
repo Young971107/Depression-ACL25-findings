@@ -1,0 +1,83 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I was on stage in Boston, and it was a great experience that I loved.
+","[CLS] I was on stage in Boston
+2. I loved experience [SEP]",0.85014707,We were waiting in line for the new iPhone . , too many people were in line . , We will never get one . ,0
+"I was on stage in Boston, and it was a great experience that I loved.
+","[CLS] I was on stage in Boston
+2. I loved experience [SEP]",0.85778534,My chiropractor has been having me come in three times a week to help improve my posture . , I  haven't been doing it for that long . , it will be a long time before I see results . ,0
+"I enjoy being with friends and laughing hysterically, which are some of my highest moments.
+","[CLS] Participant enjoy being with friends
+2. Participant enjoy laughing hysterically [SEP]",0.6220834,I asked my friend's husband if he wanted to play tennis . , he enjoys playing tennis . , he will want to play with me . ,1
+"I enjoy being with friends and laughing hysterically, which are some of my highest moments.
+","[CLS] Participant enjoy being with friends
+2. Participant enjoy laughing hysterically [SEP]",0.6230406,I attend my daughter's karate meetings . , she is passionate about it . , she is doing what she loves . ,1
+"I find it hard to make decisions that have big consequences, especially if it means leaving my comfort zone or a relationship.
+",[CLS][Participant find it hard to make decisions] [SEP],0.6469323,I decided to hike up the mountain path behind my house . , I have never hiked that path before . , I will get lost . ,0
+"I find it hard to make decisions that have big consequences, especially if it means leaving my comfort zone or a relationship.
+",[CLS][Participant find it hard to make decisions] [SEP],0.6687899,"After a lot of deliberation, we admitted the new company into the union . ", we would have been in big trouble if we didn't . , we've made the right decision . ,1
+"I enjoy traveling and experiencing different cultures, like when I visited Europe and Mexico.
+","[CLS]- I enjoy traveling
+- I experience different cultures
+- I visit Europe
+- I visit Mexico [SEP]",0.6758884,I relied on my friend's experiences when planning my own trip to Europe . , my friend had been there before . , my friend's knowledge would help me have a great time . ,1
+"I enjoy traveling and experiencing different cultures, like when I visited Europe and Mexico.
+","[CLS]- I enjoy traveling
+- I experience different cultures
+- I visit Europe
+- I visit Mexico [SEP]",0.7027966,I am asking for travel advice from people who have been to Spain before . , they seem to know what they are talking about . , I am going to get some good tips . ,1
+"I moved to L.A. originally for show business and to get away from Cleveland, but it was difficult to adjust at first.
+","[CLS] I moved L.A.
+2. I get away Cleveland [SEP]",0.7534428,I brought home my ex-boyfriend's dog because he was moving out of the country and couldn't take her with him . , I have a big heart and love animals . , I was being a Good Samaritan . ,1
+"I moved to L.A. originally for show business and to get away from Cleveland, but it was difficult to adjust at first.
+","[CLS] I moved L.A.
+2. I get away Cleveland [SEP]",0.7585777,I am kissing up to my boss . , I don't like her that much . , I am being insincere . ,0
+"I wish I could handle disappointing information better, like not being used for a job, without getting angry or feeling inadequate.
+",[CLS][] [SEP],0.7027739,I am waiting my turn to speak to the boss . , I made a lot of careless mistakes this week . , he will scold me . ,0
+"I wish I could handle disappointing information better, like not being used for a job, without getting angry or feeling inadequate.
+",[CLS][] [SEP],0.709222,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I have difficulty sleeping due to pain in my back and neck, and sometimes I feel groggy and irritable during the day.
+","[CLS] Participant have difficulty sleeping
+2. Participant feel groggy
+3. Participant feel irritable [SEP]",0.6927687,My chiropractor has been having me come in three times a week to help improve my posture . , I will have done everything possible to help improve it . , my posture will improve . ,1
+"I have difficulty sleeping due to pain in my back and neck, and sometimes I feel groggy and irritable during the day.
+","[CLS] Participant have difficulty sleeping
+2. Participant feel groggy
+3. Participant feel irritable [SEP]",0.7687541,My chiropractor has been having me come in three times a week to help improve my posture . , he has been helping a lot lately . , my back will stop hurting . ,1
+"I visited Sedona, which was a very mystical and energetic place, and it helped relieve my back pain.
+","[CLS] I visited Sedona
+2. Sedona helped relieve my back pain [SEP]",0.81311643,"After arriving at my aunt's house, I realized that she had been planning her own trip . ", she always wanted to travel the world . , she will have fun . ,1
+"I visited Sedona, which was a very mystical and energetic place, and it helped relieve my back pain.
+","[CLS] I visited Sedona
+2. Sedona helped relieve my back pain [SEP]",0.82503724,My coworker is always advancing toward me and trying to engage in small talk . , I'm not interested in socializing with her . , I will seem uninterested or unfriendly . ,0
+"I am proud of becoming a more compassionate person over the past twenty years, which has made me happier.
+",[CLS] I am proud of becoming a more compassionate person [SEP],0.06736057,I achieve my objective of getting a raise . , I have put in extra effort to help the company . , I have worked hard to accomplish it . ,1
+"I am proud of becoming a more compassionate person over the past twenty years, which has made me happier.
+",[CLS] I am proud of becoming a more compassionate person [SEP],0.06794024,I buy the bike from the bike shop . , the material looks cheap . , it will break easily . ,0
+"I recently got angry during a trip to Vegas when the GPS led me the wrong way, but I calmed myself down quickly.
+","[CLS] Participant got angry during a trip to Vegas
+2. GPS led Participant the wrong way
+3. Participant calmed myself down [SEP]",0.14373992,I asked my friend's crush on a date . , he is way out of my league . , he will say no and I will be humiliated . ,0
+"I recently got angry during a trip to Vegas when the GPS led me the wrong way, but I calmed myself down quickly.
+","[CLS] Participant got angry during a trip to Vegas
+2. GPS led Participant the wrong way
+3. Participant calmed myself down [SEP]",0.14620517,I approach my friend's crush in order to try and set them up on a date . , she is really interested in him . , my friend would be really happy if I helped them out . ,1
+"I have been a Buddhist since 1988, and chanting helps me relax and center myself.
+","[CLS] Participant be Buddhist
+2. Participant chant helps me relax and center myself [SEP]",0.5373367,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'm trying to help their children . , the parents appreciate my time . ,1
+"I have been a Buddhist since 1988, and chanting helps me relax and center myself.
+","[CLS] Participant be Buddhist
+2. Participant chant helps me relax and center myself [SEP]",0.5853393,I attend my daughter's karate meetings . , she is passionate about it . , she is doing what she loves . ,1
+"I don't have a dream job anymore; I prefer to relax and travel, enjoying creativity and independence.
+","[CLS] Participant prefer to relax
+2. Participant prefer to travel
+3. Participant enjoy creativity
+4. Participant enjoy independence [SEP]",0.66944563,I appear among a group of people who are discussing the new company project . , I 'm  the only one who knows about the project . , my co-workers respect me . ,1
+"I don't have a dream job anymore; I prefer to relax and travel, enjoying creativity and independence.
+","[CLS] Participant prefer to relax
+2. Participant prefer to travel
+3. Participant enjoy creativity
+4. Participant enjoy independence [SEP]",0.69086546,I afford my rent by working two jobs . , my parents taught me the importance of being independent . , I'm being responsible . ,1
+"I wish I could change the anger that sometimes wells up in me, but I know it happens less and less now.
+",[CLS][] [SEP],0.6916592,"I don't act my age, according to my friends . ", I will be seen as a child . , I will never be respected . ,0
+"I wish I could change the anger that sometimes wells up in me, but I know it happens less and less now.
+",[CLS][] [SEP],0.70637274,I was driving my car on the highway . , I was following the traffic rules . , I was going to make it to my destination safely . ,1

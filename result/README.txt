@@ -1,0 +1,1 @@
+This folder includes partly generation results.

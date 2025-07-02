@@ -1,0 +1,127 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"This morning, I woke up really happy because I knew it was going to be a nice day with good weather, which always makes me feel better.
+",[CLS][] [SEP],0.65504616,I always told my friends that I would never get married . , no one wants to marry me . , I will be alone forever . ,0
+"This morning, I woke up really happy because I knew it was going to be a nice day with good weather, which always makes me feel better.
+",[CLS][] [SEP],0.66333264,Has anyone seen my cat? She's lost . , she's been gone for a while . , she won't be coming home . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5334192,I asked for an explanation of the theory and the professor couldn't provide one . , I could've been doing other things . , I wasted my time . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.56585765,I asked for an explanation of the theory and the professor couldn't provide one . , challenges lead to greater understanding . , I am on the right track . ,1
+"I used to have a screensaver on one of my computers that helped me relax. I find exercise, like yoga or going for a long walk, helps me relax the best, especially after a stressful day.
+","[CLS] I have a screensaver
+2. I find exercise
+3. exercise helps me [SEP]",0.11407463,I agree to go on a month-long trip with my friends . , I will be away for a long time  . , I will miss my family too much . ,0
+"I used to have a screensaver on one of my computers that helped me relax. I find exercise, like yoga or going for a long walk, helps me relax the best, especially after a stressful day.
+","[CLS] I have a screensaver
+2. I find exercise
+3. exercise helps me [SEP]",0.12507732,I give a speech about why women should be in the workforce . , it is something that I am very passionate about . , it is an incredibly important topic . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.609179,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6957866,"I accidentally sent an email to my boss that was meant for my friend, and I apologized profusely . ", he laughed and said it was no problem . , my boss has a good sense of humor . ,1
+"In 1983, I experienced a situation in the military where our position was shelled, and poison gas was sprayed on us, but it wasn't anything too intense.
+","[CLS] I experienced a situation in the military
+2. our position was shelled 
+3. poison gas was sprayed on us [SEP]",0.8152105,My coworker is always advancing toward me and trying to engage in small talk . , he/she makes an effort to talk to me every day . , he/she is interested in me . ,1
+"In 1983, I experienced a situation in the military where our position was shelled, and poison gas was sprayed on us, but it wasn't anything too intense.
+","[CLS] I experienced a situation in the military
+2. our position was shelled 
+3. poison gas was sprayed on us [SEP]",0.8536947,I need help from my friends planning my next birthday party . , I didn't help plan their birthday parties . , they will think I 'm lazy . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6178424,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6503725,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"My father passed away recently, and I was in charge of the funeral arrangements. I wish I had invited more people to the service.
+","[CLS] Participant was in charge of funeral arrangements
+2. Participant wish had invited more people to the service [SEP]",0.7056795,I was at my friend's wedding and the officiant asked if anyone had any objections to the marriage . , I know they're getting married too quickly and they're not ready . , I will have to speak up and object . ,0
+"My father passed away recently, and I was in charge of the funeral arrangements. I wish I had invited more people to the service.
+","[CLS] Participant was in charge of funeral arrangements
+2. Participant wish had invited more people to the service [SEP]",0.7394426,My boyfriend asked me to marry him on our trip to Paris . , he loves me and wants to spend the rest of his life with me . , I will always be loved and happy with him . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6524352,I asked my friend for my crush's number . , she smiled and said Sure! , she likes me too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6626675,"I accidentally sent an email to my boss that was meant for my friend, and I apologized profusely . ", I have always been a competent and reliable employee . , my boss will understand the situation . ,1
+"I went to graduate school after the military and got two graduate degrees. I worked in private enterprise, then joined the fire department as a firefighter and paramedic, and later worked in a family business.
+","[CLS] I went graduate school
+2. I got two graduate degrees
+3. I worked private enterprise
+4. I joined fire department
+5. I worked family business [SEP]",0.71369636,I took over my mom's shift at work . , it was my first time doing them . , I will not be able to finish all the tasks . ,0
+"I went to graduate school after the military and got two graduate degrees. I worked in private enterprise, then joined the fire department as a firefighter and paramedic, and later worked in a family business.
+","[CLS] I went graduate school
+2. I got two graduate degrees
+3. I worked private enterprise
+4. I joined fire department
+5. I worked family business [SEP]",0.7233529,I took over my mom's shift at work . , it's been a while since I've last worked . , I would not be able to handle it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.60049003,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.60144085,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"I am proud of my daughter and my public service, including my military and fire service.
+",[CLS][] [SEP],0.7014659,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"I am proud of my daughter and my public service, including my military and fire service.
+",[CLS][] [SEP],0.7120845,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5877173,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6823516,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I enjoy traveling and have been to sixty-six countries. I don't travel as much as I used to, but I've learned a couple of languages.
+","[CLS] I enjoy traveling
+2. I have been to sixty-six countries
+3. I don't travel as much as I used to
+4. I have learned a couple of languages [SEP]",0.748494,I asked my friends for advice on what to see and do while I am traveling in Europe . , they recommended all the best places to go . , I will have an amazing time . ,1
+"I enjoy traveling and have been to sixty-six countries. I don't travel as much as I used to, but I've learned a couple of languages.
+","[CLS] I enjoy traveling
+2. I have been to sixty-six countries
+3. I don't travel as much as I used to
+4. I have learned a couple of languages [SEP]",0.75300944,I asked my friends for advice on what to see and do while I am traveling in Europe . , my friends have been to Europe and have had great experiences . , I will get some great ideas . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.51816607,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5302129,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"One of my favorite trips was to Paris, where I stayed for about a month and really got to know the city.
+",[CLS] Participant stayed Paris [SEP],0.65838337,I have arrived in Honolulu for my vacation . , it either rains or is sunny there . , the weather will be perfect . ,1
+"One of my favorite trips was to Paris, where I stayed for about a month and really got to know the city.
+",[CLS] Participant stayed Paris [SEP],0.7021018,I have arrived in Honolulu for my vacation . , the temperature is so mild . , the weather will be perfect . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.524111,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.531194,I crowdsourced around for a solution to my problem . , my problem is too specific . , I will not receive any response . ,0
+"I have a close relationship with friends and a more distant relationship with family. I wish we were more like a family that got together regularly.
+","[CLS] Participant have close relationship with friends
+2. Participant have more distant relationship with family
+3. Participant wish family got together regularly [SEP]",0.5646827,My co-worker became my friend . , we are spending more time together . , I will be accused of sexual harassment . ,0
+"I have a close relationship with friends and a more distant relationship with family. I wish we were more like a family that got together regularly.
+","[CLS] Participant have close relationship with friends
+2. Participant have more distant relationship with family
+3. Participant wish family got together regularly [SEP]",0.5729627,My co-worker became my friend . , it is unprofessional . , I may get fired if we become too close . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.63179153,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6761588,I have been trying to adjust the spacing on my powerpoint presentation for the last hour . , my presentation turned out beautifully in the end . , I accomplished something great . ,1
+"I regret not spending more time with my parents before they passed and with my daughter when she was younger.
+","[CLS] Participant regret not spending more time with parents
+2. Participant regret not spending more time with daughter [SEP]",0.8360342,I was at my friend's wedding and the officiant asked if anyone had any objections to the marriage . , I wanted her to marry me instead . , I will be the only one who objects . ,0
+"I regret not spending more time with my parents before they passed and with my daughter when she was younger.
+","[CLS] Participant regret not spending more time with parents
+2. Participant regret not spending more time with daughter [SEP]",0.85346717,I achieved my New Years' resolution to quit smoking cigarettes . , it's difficult to quit smoking cigarettes . , I will relapse . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.68941844,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.69134724,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I went to a service academy after high school and became an officer in the military.
+","[CLS] I went service academy
+2. I became officer in the military [SEP]",0.8562665,I am working on getting my pilot's license in order to advance my career . , it is a very time consuming process  . , I won't have time for anything else . ,0
+"I went to a service academy after high school and became an officer in the military.
+","[CLS] I went service academy
+2. I became officer in the military [SEP]",0.90562,I am working on getting my pilot's license in order to advance my career . , I am  not  very  good  at  learning  new  things . , I will never achieve my goal . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.4640211,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5873395,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I don't like the high tax rate and regulations in California, which affect my small business and have caused many peers to move their businesses to other states.
+","[CLS] high tax rate and regulations affect my small business
+2. high tax rate and regulations cause many peers to move their businesses [SEP]",0.7138929,The weather forecast said that the hurricane would affect people's travel plans . , the hurricane is so big . , many people will be stranded . ,0
+"I don't like the high tax rate and regulations in California, which affect my small business and have caused many peers to move their businesses to other states.
+","[CLS] high tax rate and regulations affect my small business
+2. high tax rate and regulations cause many peers to move their businesses [SEP]",0.74243355,My cousin's depression affects our family . , I don't know how to deal with it . , it will never get better . ,0

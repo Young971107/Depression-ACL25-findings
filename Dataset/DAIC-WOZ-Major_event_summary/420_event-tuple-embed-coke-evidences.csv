@@ -1,0 +1,103 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I studied everything at school because there isn't a subject I don't like.
+",[CLS]- I studied everything at school [SEP],0.69099295,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they are getting good grades and behaving well in class . , the parents are going to be happy with how their kids are doing . ,1
+"I studied everything at school because there isn't a subject I don't like.
+",[CLS]- I studied everything at school [SEP],0.70549417,I have to go to a lot of parent-teacher meetings because I'm a teacher . , their kids are not doing well in my class . , I will be scolded by the parents . ,0
+"My dream job is working with computers and helping people because that's where my heart is.
+",[CLS][] [SEP],0.6550035,I was airing my dirty laundry in public . , I was acting foolishly  . , people can see my flaws . ,0
+"My dream job is working with computers and helping people because that's where my heart is.
+",[CLS][] [SEP],0.67346704,I am accompanied by my boss's wife . , she is always talking . , I will not be respected . ,0
+"I meditate, work out, run, walk, write, and read.
+","[CLS] Participant meditate 
+2. Participant work out 
+3. Participant run 
+4. Participant walk 
+5. Participant write 
+6. Participant read  [SEP]",0.7049862,My co-worker became my friend . , it is unprofessional . , I may get fired if we become too close . ,0
+"I meditate, work out, run, walk, write, and read.
+","[CLS] Participant meditate 
+2. Participant work out 
+3. Participant run 
+4. Participant walk 
+5. Participant write 
+6. Participant read  [SEP]",0.719704,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I spend my ideal weekend doing a little bit of everything, like rock climbing, biking, hiking, and going places with my daughter. I might also be skiing and snowboarding.
+","[CLS] I spend weekend
+2. I do rock climbing
+3. I do biking
+4. I do hiking
+5. I go places with my daughter
+6. I be skiing
+7. I be snowboarding [SEP]",0.82487154,I attend my daughter's karate meetings . , she has to follow the rules and listen to the instructor . , it is helping her become more discipline . ,1
+"I spend my ideal weekend doing a little bit of everything, like rock climbing, biking, hiking, and going places with my daughter. I might also be skiing and snowboarding.
+","[CLS] I spend weekend
+2. I do rock climbing
+3. I do biking
+4. I do hiking
+5. I go places with my daughter
+6. I be skiing
+7. I be snowboarding [SEP]",0.828108,I attend my daughter's karate meetings . , I'm the only one there . , the other fathers will judge me . ,0
+"My parent had a business in L.A., and it wasn't hard for me to get used to living there.
+",[CLS][] [SEP],0.8112761,I was driving my car on the highway . , I was following the traffic rules . , I was going to make it to my destination safely . ,1
+"My parent had a business in L.A., and it wasn't hard for me to get used to living there.
+",[CLS][] [SEP],0.8322989,I was in line at the grocery store and the person in front of me was acting really weird . , my cat isn't acting like its normal self . , my cat is sick . ,0
+"I had a chance in school to go further, but I let something small and meaningless stop me.
+","[CLS] I had a chance in school
+2. I let something small and meaningless stop me [SEP]",0.5986894,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1
+"I had a chance in school to go further, but I let something small and meaningless stop me.
+","[CLS] I had a chance in school
+2. I let something small and meaningless stop me [SEP]",0.65039635,I adjust my work schedule according to my son's soccer games . , I will have to work fewer hours . , I will get behind at work . ,0
+"I haven't been back to my hometown in over fifteen or sixteen years because I got stuck out here and then had my baby.
+","[CLS] I haven't been back my hometown  
+2. I got stuck out here  
+3. I had my baby [SEP]",0.826855,I arrived at her friend's house to pick her up for our date . , she didn't text me saying she was ready . , she would have stood me up . ,0
+"I haven't been back to my hometown in over fifteen or sixteen years because I got stuck out here and then had my baby.
+","[CLS] I haven't been back my hometown  
+2. I got stuck out here  
+3. I had my baby [SEP]",0.8377049,I am answering the call of my ancestral homeland . , I already have a family and a life here . , I will not be able to go home . ,0
+"I love my daughter; I cut her umbilical cord and put on her first shirt. She calmed down when I talked to her after she was born.
+","[CLS] Participant cut her umbilical cord
+2. Participant put on her first shirt
+3. Participant talked to her [SEP]",0.68877363,I bet my new boots will be great for our next hike . , they are made for hiking . , I will have comfy shoes . ,1
+"I love my daughter; I cut her umbilical cord and put on her first shirt. She calmed down when I talked to her after she was born.
+","[CLS] Participant cut her umbilical cord
+2. Participant put on her first shirt
+3. Participant talked to her [SEP]",0.6963067,I asked for my mom's opinion on my wedding dress . , it's not what she envisioned for my wedding dress . , she won't like it . ,0
+"I feel like I have a wealth of potential within my grasp, but I need one connector to see what I'm capable of.
+","[CLS]- I feel potential within my grasp
+- I need one connector [SEP]",0.5792154,I have asked my helper to take my place while I am on vacation . , she is not professional . , I will come back to a lot of work . ,0
+"I feel like I have a wealth of potential within my grasp, but I need one connector to see what I'm capable of.
+","[CLS]- I feel potential within my grasp
+- I need one connector [SEP]",0.62254876,I caught my friend's attention by waving my hand . , I am not used to doing that . , he will think I am weird . ,0
+"When I was younger, I saw things no child or adult should see, and I swore to take care of my child and not let her be around things like that.
+",[CLS] I swore to take care of my child [SEP],0.36900577,I want to bring up my children in a safe and loving environment . , they are surrounded by people who love them and care for their wellbeing . , they will be happy and content . ,1
+"When I was younger, I saw things no child or adult should see, and I swore to take care of my child and not let her be around things like that.
+",[CLS] I swore to take care of my child [SEP],0.38897538,I want to bring up my children in a safe and loving environment . , I wasn't brought up in that environment myself . , I might not be able to provide that for them . ,0
+"I remember a trip to Mexico with my brother where we jumped into a lake off the side of a mountain.
+",[CLS][] [SEP],0.7727127,I was in line at the grocery store and the person in front of me was acting really weird . , my cat isn't acting like its normal self . , my cat is sick . ,0
+"I remember a trip to Mexico with my brother where we jumped into a lake off the side of a mountain.
+",[CLS][] [SEP],0.79847467,One of my friends talking about his new girlfriend . , he has never been so sure about anything in his life . , he is going to marry her . ,1
+"The last time I argued with someone was over a racial slur directed at my wife, which made me feel angry, upset, hurt, and disrespected.
+",[CLS] Participant argued someone [SEP],0.7606944,I was arguing with my brother and I said something that just made him angry . , I didn't know when to stop talking . , I just made the situation worse . ,0
+"The last time I argued with someone was over a racial slur directed at my wife, which made me feel angry, upset, hurt, and disrespected.
+",[CLS] Participant argued someone [SEP],0.77828765,I was arguing with my brother and I said something that just made him angry . , he didn't say anything after that . , I might have won the argument . ,1
+"I try to guard my baby more from things she sees, unlike my parents.
+",[CLS] I try to guard my baby [SEP],0.6392165,My mother held me tighter as the train left the station . , she  was  crying  and  I  was  too . , I am  going  to  see her again  one day . ,1
+"I try to guard my baby more from things she sees, unlike my parents.
+",[CLS] I try to guard my baby [SEP],0.64631474,My mother held me tighter as the train left the station . , I was her only child . , she would never let me go . ,0
+"I was diagnosed with depression, but I don't feel more depressed than any other person.
+",[CLS][] [SEP],0.59273994,I can barely afford my rent this month . , I have been making an effort to save money . , my financial situation will improve soon . ,1
+"I was diagnosed with depression, but I don't feel more depressed than any other person.
+",[CLS][] [SEP],0.601943,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"My daughter's birthday is on the twenty-sixth.
+",[CLS]No event related to the participant can be extracted from the given sentence. [SEP],0.5111108,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"My daughter's birthday is on the twenty-sixth.
+",[CLS]No event related to the participant can be extracted from the given sentence. [SEP],0.5300986,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have different hobbies and backgrounds . , that we have nothing in common . ,0
+"I feel like my blood family and I don't talk, and my wife might not want to be with me, but I know my daughter loves me.
+","[CLS] Participant feel blood family and I don't talk
+2. Participant feel wife might not want to be with me
+3. Participant know daughter loves me [SEP]",0.70280254,I was asking my kids about their day at school today . , they are not speaking to me . , they had a terrible day . ,0
+"I feel like my blood family and I don't talk, and my wife might not want to be with me, but I know my daughter loves me.
+","[CLS] Participant feel blood family and I don't talk
+2. Participant feel wife might not want to be with me
+3. Participant know daughter loves me [SEP]",0.7217666,I was arguing with my brother and I said something that just made him angry . , I can't take back what I said . , I just ruined our relationship . ,0

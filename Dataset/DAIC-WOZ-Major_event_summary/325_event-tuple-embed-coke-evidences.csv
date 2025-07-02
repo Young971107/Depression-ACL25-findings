@@ -1,0 +1,65 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I graduated and have been thinking about my dream job, possibly managing a research project or a preserve in tropical marine ecology.
+","[CLS] Participant graduated None
+2. Participant have been thinking about dream job
+3. Participant possibly managing research project or a preserve in tropical marine ecology [SEP]",0.6484412,I will bear my partner's share in the project . , I have put all my efforts . , I will be able to complete it successfully . ,1
+"I graduated and have been thinking about my dream job, possibly managing a research project or a preserve in tropical marine ecology.
+","[CLS] Participant graduated None
+2. Participant have been thinking about dream job
+3. Participant possibly managing research project or a preserve in tropical marine ecology [SEP]",0.6703718,I attend my scientist friend's research meetings . , I am not in that field . , his research is above my head . ,0
+"I traveled for eight months in Central America, visiting different countries and scuba diving.
+","[CLS] I traveled Central America
+2. I visited different countries
+3. I scuba diving  [SEP]",0.7328764,I added another country to my travel bucket list . , I have the money to travel . , I would get to go there one day . ,1
+"I traveled for eight months in Central America, visiting different countries and scuba diving.
+","[CLS] I traveled Central America
+2. I visited different countries
+3. I scuba diving  [SEP]",0.73599166,I relied on my friend's experiences when planning my own trip to Europe . , my friend had been there before . , my friend's knowledge would help me have a great time . ,1
+"I was diagnosed with depression at fifteen, which was about seventeen years ago.
+",[CLS] Participant was diagnosed with depression [SEP],0.5023445,I have been feeling really stressed lately and it's affecting my health . , I haven't been taking care of myself . , I won't be able to get better . ,0
+"I was diagnosed with depression at fifteen, which was about seventeen years ago.
+",[CLS] Participant was diagnosed with depression [SEP],0.53297794,My doctor advised me to take medication for my anxiety . , I have been anxious for years . , it will never go away . ,0
+"I stopped going to therapy about three years ago because I didn't enjoy the relationship with my therapist, but I still see a psychiatrist for medication checks.
+","[CLS] I stopped going therapy
+2. I didn't enjoy relationship with my therapist
+3. I see psychiatrist for medication checks [SEP]",0.7213515,I asked my best friend to come with me to the movies . , she wanted to stay home and watch TV . , she will say no . ,0
+"I stopped going to therapy about three years ago because I didn't enjoy the relationship with my therapist, but I still see a psychiatrist for medication checks.
+","[CLS] I stopped going therapy
+2. I didn't enjoy relationship with my therapist
+3. I see psychiatrist for medication checks [SEP]",0.7358746,I asked my friend for advice about my boyfriend . , she has never had a boyfriend before . , she will judge me . ,0
+"I have trouble sleeping and have been taking trazodone for about four years to help with that.
+","[CLS] Participant have trouble sleeping
+2. Participant have been taking trazodone [SEP]",0.6294215,My cousin's depression affects our family . , we are all she has . , I think we can help her through it . ,1
+"I have trouble sleeping and have been taking trazodone for about four years to help with that.
+","[CLS] Participant have trouble sleeping
+2. Participant have been taking trazodone [SEP]",0.65130794,A same-sex couple adopts a child . , they don't have different genders to provide role models of both genders for the child . , they will not be able to provide a  good home . ,0
+"I studied marine biology after initially studying graphic design, which I found unfulfilling.
+","[CLS] Participant studied marine biology
+2. Participant studied graphic design
+3. Participant found graphic design unfulfilling [SEP]",0.8116789,I am at my brother's house and we get into a fight and I beat him up . , he is a tattletale . , he will tell my mom . ,0
+"I studied marine biology after initially studying graphic design, which I found unfulfilling.
+","[CLS] Participant studied marine biology
+2. Participant studied graphic design
+3. Participant found graphic design unfulfilling [SEP]",0.8322148,"After a lot of deliberation, we admitted the new company into the union . ", the quality of their work is subpar . , our productivity will suffer . ,0
+"I felt really happy on New Year's Eve when I took a trip to Palm Springs and Joshua Tree with my boyfriend and friends.
+","[CLS] I felt happy
+2. I took trip [SEP]",0.64381653,I was getting a massage and the masseuse was arching my back  too much . , I could hear my spine cracking . , my spine was getting aligned . ,1
+"I felt really happy on New Year's Eve when I took a trip to Palm Springs and Joshua Tree with my boyfriend and friends.
+","[CLS] I felt happy
+2. I took trip [SEP]",0.6491067,"I need to do some laundry, but I keep procrastinating . ", I have no other responsibilities . , I will be able to relax and watch TV all day . ,1
+"I am proud of being a kind person who cares about others and wants to make the world a better place.
+",[CLS][] [SEP],0.65534073,I was waiting for my brother to take his turn in the video game . , he always plays for hours . , I will never get to play the game . ,0
+"I am proud of being a kind person who cares about others and wants to make the world a better place.
+",[CLS][] [SEP],0.7148894,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"I had a memorable experience diving the Blue Hole in Belize with friends.
+",[CLS] I have experience [SEP],0.6262752,I relied on my friend's experiences when planning my own trip to Europe . , I would have made many mistakes if I had tried to do it on my own . , that I saved a lot of money and time . ,1
+"I had a memorable experience diving the Blue Hole in Belize with friends.
+",[CLS] I have experience [SEP],0.68803513,The speaker aroused my interest in the talk . , it was really helpful . , I learned a lot from it . ,1
+"I sought help after a friend called my parents about my self-harming behavior, leading to treatment.
+","[CLS] Participant sought help  
+2. Friend called parents  
+3. Participant received treatment [SEP]",0.6779291,I ask my doctor for a referral to see a specialist . , she is making an effort to help me get the best care possible . , my doctor is confident in my health . ,1
+"I sought help after a friend called my parents about my self-harming behavior, leading to treatment.
+","[CLS] Participant sought help  
+2. Friend called parents  
+3. Participant received treatment [SEP]",0.76728225,I asked my doctor what medication she wanted me to take . , she seemed unsure . , she may not have the correct diagnosis . ,0

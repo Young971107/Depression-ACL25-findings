@@ -1,0 +1,101 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I have not been medically diagnosed with depression or PTSD, and I have never served in the military.
+",[CLS][] [SEP],0.6783562,I am accompanied by my boss's wife . , she is well respected and has a lot of connections . , it will help me get ahead in my career . ,1
+"I have not been medically diagnosed with depression or PTSD, and I have never served in the military.
+",[CLS][] [SEP],0.7233798,I am accompanied by my boss's wife . , she is very observant . , she will find out about our affair . ,0
+"I struggle with controlling my temper, especially with my family and boyfriend, but I manage better with people I don't know well.
+","[CLS] I struggle with controlling my temper
+2. I manage better with people I don't know well [SEP]",0.48659474,I try to calm my boss's fears about the company's future . , I genuinely believe that things will work out . , my positive attitude will be infectious . ,1
+"I struggle with controlling my temper, especially with my family and boyfriend, but I manage better with people I don't know well.
+","[CLS] I struggle with controlling my temper
+2. I manage better with people I don't know well [SEP]",0.50611806,The nurse allayed my fears about the surgery and assured me that it would be quick and painless . , I was nervous about the surgery . , I will be cut open . ,0
+"I am stressed about financial situations, including school loans, rent, and groceries, despite having a good college education.
+",[CLS] Participant be stressed about financial situations [SEP],0.75660414,The economic recession has affected my family in many ways . , we always have . , we will be able to make it out okay in the end . ,1
+"I am stressed about financial situations, including school loans, rent, and groceries, despite having a good college education.
+",[CLS] Participant be stressed about financial situations [SEP],0.77567625,The economic recession has affected my family in many ways . , The government has many programmes to help those in need . , their situation will be improved soon . ,1
+"I used to travel a lot with my family, visiting seven or eight different countries and living in three or four.
+","[CLS] I used to travel a lot with my family
+2. I visit seven or eight different countries
+3. I live in three or four countries [SEP]",0.6986592,I bought souvenirs for my family when I was in Mexico . , the shopkeeper spoke little English . , I may have paid too much . ,0
+"I used to travel a lot with my family, visiting seven or eight different countries and living in three or four.
+","[CLS] I used to travel a lot with my family
+2. I visit seven or eight different countries
+3. I live in three or four countries [SEP]",0.74778414,I am asking for travel advice from people who have been to Spain before . , they seem to know what they are talking about . , I am going to get some good tips . ,1
+"I have been feeling more negative since quitting my full-time job five months ago and not finding anything else I'm interested in.
+",[CLS] Participant quit full-time job [SEP],0.7253789,I crowdsourced around for a solution to my problem . , my problem is not interesting . , I will be ignored . ,0
+"I have been feeling more negative since quitting my full-time job five months ago and not finding anything else I'm interested in.
+",[CLS] Participant quit full-time job [SEP],0.7299341,"I was dared to skydive , so I agreed . ", I am scared of heights . , I might die . ,0
+"I haven't seen my friends in two weeks due to one having a car accident and the other working late.
+",[CLS][] [SEP],0.58790326,We were waiting in line for the new iPhone . , We have been waiting for hours . , We are going to be first . ,1
+"I haven't seen my friends in two weeks due to one having a car accident and the other working late.
+",[CLS][] [SEP],0.61557585,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"I feel down sometimes, but I'm going to Hawaii next week, which makes me feel better.
+","[CLS] Participant feel down
+2. Participant go Hawaii [SEP]",0.658489,I have asked my helper to take my place while I am on vacation . , she is not professional . , I will come back to a lot of work . ,0
+"I feel down sometimes, but I'm going to Hawaii next week, which makes me feel better.
+","[CLS] Participant feel down
+2. Participant go Hawaii [SEP]",0.6747271,"I was dared to skydive , so I agreed . ", I am scared of heights . , I might die . ,0
+"I used to act and write stories when I was younger but stopped because I didn't think I was good at it.
+","[CLS] Participant act stories
+2. Participant write stories
+3. Participant stop act and write stories [SEP]",0.74798125,I appear among a group of people who are discussing the new company project . , I 'm  the only one who knows about the project . , my co-workers respect me . ,1
+"I used to act and write stories when I was younger but stopped because I didn't think I was good at it.
+","[CLS] Participant act stories
+2. Participant write stories
+3. Participant stop act and write stories [SEP]",0.7521781,I have to go to a lot of parent-teacher meetings because I'm a teacher . , They will be able to see how much their child has progressed . , the parents will be happy with my work . ,1
+"I felt really happy when my boyfriend took me on a sailing trip in San Clemente.
+",[CLS]- boyfriend took participant [SEP],0.5470923,My coworker is always advancing toward me and trying to engage in small talk . , small talk usually requires some investment from both parties . , it positively shows they are interested in building a friendship . ,1
+"I felt really happy when my boyfriend took me on a sailing trip in San Clemente.
+",[CLS]- boyfriend took participant [SEP],0.54827964,My coworker is always advancing toward me and trying to engage in small talk . , she never talks to me when we are not at work . , she is just trying to be friends with me and not actually interested . ,0
+"I relax by watching TV, although I used to read, listen to music, or bake.
+",[CLS][] [SEP],0.66990566,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I relax by watching TV, although I used to read, listen to music, or bake.
+",[CLS][] [SEP],0.6869296,I feel like I'm finally starting to act my age and mature a little bit . , it will likely lead to more opportunities and experiences . , this is a good development . ,1
+"I feel pressure comparing myself to friends who have prestigious jobs or are in advanced education programs.
+",[CLS][] [SEP],0.88656723,I was airing my dirty laundry in public . , honesty is always the best policy . , people will like me more for it . ,1
+"I feel pressure comparing myself to friends who have prestigious jobs or are in advanced education programs.
+",[CLS][] [SEP],0.90390027,She efficiently allocates her time between work and relaxation . , she is always in a good mood . , it leads to a balanced lifestyle . ,1
+"My living situation with two roommates involves some drama, but we've learned to live together after a year.
+",[CLS][] [SEP],0.6765359,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"My living situation with two roommates involves some drama, but we've learned to live together after a year.
+",[CLS][] [SEP],0.68261755,One of my friends talking about his new girlfriend . , I have been single for a while . , I want a new girlfriend too . ,1
+"I argued with my boyfriend about him not following through on being healthy and saving money.
+",[CLS] I argued with my boyfriend [SEP],0.36417258,I was arguing with my boyfriend about going to the gym more often . , I have nagged him about it for weeks now . , I will get my way . ,1
+"I argued with my boyfriend about him not following through on being healthy and saving money.
+",[CLS] I argued with my boyfriend [SEP],0.36484635,I argued with my friends boyfriend because he was being really disrespectful to her . , I have known her for such a long time . , she will realize that I have her best interest at heart . ,1
+"I quit my full-time job because I hated it and now work in a restaurant while looking for a second job.
+","[CLS] Participant quit full-time job
+2. Participant work restaurant
+3. Participant look for second job [SEP]",0.65507627,I turned 18 yesterday and am now a legal adult . , I will have to support myself now . , I have to start paying taxes . ,0
+"I quit my full-time job because I hated it and now work in a restaurant while looking for a second job.
+","[CLS] Participant quit full-time job
+2. Participant work restaurant
+3. Participant look for second job [SEP]",0.71979463,I'll bear the brunt of the work while you're gone . , you're not pulling your weight . , I'll never get ahead . ,0
+"I am superficially close to my family, relying on them for school and work matters but not personal issues.
+",[CLS] Participant rely family for school and work matters [SEP],0.55327356,I took my little sister to the library because she has to do a school project on ants . , I don't like ants . , I will be bored . ,0
+"I am superficially close to my family, relying on them for school and work matters but not personal issues.
+",[CLS] Participant rely family for school and work matters [SEP],0.5716541,I will bring my daughter to school . , it's the first day of school . , she may not want to stay with me . ,0
+"I sleep easily, but when I don't, I become grumpy and lethargic.
+",[CLS][] [SEP],0.7421887,I always told my friends that I would never get married . , I didn't want it . , I will not find love . ,0
+"I sleep easily, but when I don't, I become grumpy and lethargic.
+",[CLS][] [SEP],0.75239646,I was in line at the grocery store and the person in front of me was acting really weird . , my cat isn't acting like its normal self . , my cat is sick . ,0
+"I moved to LA for college after my family moved to the U.S., and it took a while to adjust to living there.
+","[CLS] I moved LA
+2. I moved U.S.
+3. it took while [SEP]",0.90163887,I added another country to my travel bucket list . , I have the money to travel . , I would get to go there one day . ,1
+"I moved to LA for college after my family moved to the U.S., and it took a while to adjust to living there.
+","[CLS] I moved LA
+2. I moved U.S.
+3. it took while [SEP]",0.9039497,I asked my sister-in-law to watch my kids while I am out of town . , she never baby-sat them before . , she will not do a good job . ,0
+"For fun, I enjoy going out with friends, dancing, biking, hiking, and photography.
+","[CLS] Participant enjoy going out with friends
+2. Participant enjoy dancing
+3. Participant enjoy biking
+4. Participant enjoy hiking
+5. Participant enjoy photography [SEP]",0.72292316,I asked my friend's husband if he wanted to play tennis . , I love playing tennis . , I would have a lot of fun . ,1
+"For fun, I enjoy going out with friends, dancing, biking, hiking, and photography.
+","[CLS] Participant enjoy going out with friends
+2. Participant enjoy dancing
+3. Participant enjoy biking
+4. Participant enjoy hiking
+5. Participant enjoy photography [SEP]",0.72784007,There were a lot of kids playing in the park and one of them kept throwing a Frisbee at me . , the game looked dangerous . , I'm going to get hit by the Frisbee . ,0

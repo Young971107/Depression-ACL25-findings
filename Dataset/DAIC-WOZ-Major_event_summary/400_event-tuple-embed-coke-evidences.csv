@@ -1,0 +1,91 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I was handling money for a business partner, and they ended up short. I was blamed for it, but it was actually due to a change I made in the formulas for crunching the numbers. The blame was on me, and I felt bad because of my uncertainty about the formula change.
+","[CLS] I handle money
+2. I make change in the formulas
+3. I feel bad [SEP]",0.64301515,My aunt also bought me a souvenir keychain from her trip to Italy . , it 's  been  my  dream  to  travel  there  . , I  will  go  to  Italy  one  day . ,1
+"I was handling money for a business partner, and they ended up short. I was blamed for it, but it was actually due to a change I made in the formulas for crunching the numbers. The blame was on me, and I felt bad because of my uncertainty about the formula change.
+","[CLS] I handle money
+2. I make change in the formulas
+3. I feel bad [SEP]",0.65463245,I accomplish my goals by working hard and studying diligently . , I will get better grades and be able to move on to the next level in my career . , my efforts positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively will be paid off . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.4218495,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.47410035,I asked for an explanation of the theory and the professor couldn't provide one . , the theory must be wrong . , I am on the right track . ,1
+"One of my most memorable experiences was a trip to Texas where we spent time in the desert, shot guns, and rode go-karts.
+","[CLS] Participant spent time in the desert
+2. Participant shot guns
+3. Participant rode go-karts [SEP]",0.853678,My coworker is always advancing toward me and trying to engage in small talk . , he/she makes an effort to talk to me every day . , he/she is interested in me . ,1
+"One of my most memorable experiences was a trip to Texas where we spent time in the desert, shot guns, and rode go-karts.
+","[CLS] Participant spent time in the desert
+2. Participant shot guns
+3. Participant rode go-karts [SEP]",0.85628736,I avenge my brother's death by killing the man who killed him . , I will have killed the man who killed him . , I will finally have some closure . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.22473451,The security guard affords me protection from the aggressive dog . , that is what he is being paid to do . , he is doing his job well . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.22963867,The CEO was caught abusing his power by creating a slush fund . , he is not fit to be a CEO . , he will be impeached . ,0
+"My mom passed away about two months ago, and my dad and I are not really talking much.
+","[CLS] Participant mom passed away two months ago
+2. Participant not talking much dad [SEP]",0.5568378,I was asking my friend's mom if she could watch my dog while I'm out of town . , I have been good to her daughter and she likes me . , I will get a yes from her . ,1
+"My mom passed away about two months ago, and my dad and I are not really talking much.
+","[CLS] Participant mom passed away two months ago
+2. Participant not talking much dad [SEP]",0.55899155,"I was going to ask my girlfriend's dad for permission to marry her, but he passed away before I could . ", I will never have anyone's permission to marry her now . , I will never get married . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5648601,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.59424824,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I believe therapy is useful because it helps in overall health and mental health by allowing you to look inward and readjust to problems.
+",[CLS][] [SEP],0.59124494,I am accompanied by my boss's wife . , she is always mean to me . , I will not be respected . ,0
+"I believe therapy is useful because it helps in overall health and mental health by allowing you to look inward and readjust to problems.
+",[CLS][] [SEP],0.5923525,I was really affected by the 9/11 terrorist attacks . , it was such a large scale tragedy . , people were really scared . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5565535,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6393715,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I stopped therapy because I felt I had overcome a chapter in my life where the doctor was taking control of my health, and I started exploring alternative routes like juicing and nutrition.
+","[CLS] I stopped therapy
+2. I felt I had overcome a chapter in my life
+3. doctor was taking control my health
+4. I started exploring alternative routes [SEP]",0.57606995,My doctor advised me to take medication for my anxiety . , I have had it for a long time . , it will never go away . ,0
+"I stopped therapy because I felt I had overcome a chapter in my life where the doctor was taking control of my health, and I started exploring alternative routes like juicing and nutrition.
+","[CLS] I stopped therapy
+2. I felt I had overcome a chapter in my life
+3. doctor was taking control my health
+4. I started exploring alternative routes [SEP]",0.606534,My chiropractor has been having me come in three times a week to help improve my posture . , he said it takes time and a lot of effort . , my spine will be straighter . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.56685024,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5850219,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I wish I could change how I listen to my inner conscious more than what my brain wants, like avoiding caffeine and sugar.
+",[CLS][] [SEP],0.7504327,My aunt's travel has really affected her health . , she is very strong person . , she will get better . ,1
+"I wish I could change how I listen to my inner conscious more than what my brain wants, like avoiding caffeine and sugar.
+",[CLS][] [SEP],0.75276154,My boss isAccompanied by his wife on his business trip to Japan . , they  know each other very well . , they will have a good time . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5215301,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.612302,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I feel guilty about not supporting my friends as much with their career choices.
+",[CLS][] [SEP],0.64496416,I was in line at the grocery store and the person in front of me was acting really weird . , it hasn't been acting like itself . , my cat is sick . ,0
+"I feel guilty about not supporting my friends as much with their career choices.
+",[CLS][] [SEP],0.665593,I have a niece who bears my name . , it is a tradition . , I will be called aunt instead of my name . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.48577315,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5272161,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"I recently enjoyed going to the wholesale food market in downtown Los Angeles.
+",[CLS] Participant enjoyed going to the wholesale food market [SEP],0.6864742,I asked my friend if he liked the new restaurant . , he was so quiet when I talked to him . , he may not have enjoyed his meal . ,0
+"I recently enjoyed going to the wholesale food market in downtown Los Angeles.
+",[CLS] Participant enjoyed going to the wholesale food market [SEP],0.71965975,I ask all my friends if they want to go out to eat with me and my boss . , I will make sure to order something everyone will like . , my boss and friends will enjoy the food . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.6412188,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.67180777,"I accidentally sent an email to my boss that was meant for my friend, and I apologized profusely . ", it was a serious mistake . , my boss may not believe me . ,0
+"I was diagnosed with depression over five years ago, and my symptoms included loss of appetite, loss of motivation, and fear of social situations.
+","[CLS] Participant was diagnosed with depression
+2. Participant had symptoms including loss of appetite
+3. Participant had symptoms including loss of motivation
+4. Participant had symptoms including fear of social situations [SEP]",0.6411918,My allergies are really starting to affect my ability to concentrate in class . , I have been managing them for a while now . , I will be able to get a handle on them . ,1
+"I was diagnosed with depression over five years ago, and my symptoms included loss of appetite, loss of motivation, and fear of social situations.
+","[CLS] Participant was diagnosed with depression
+2. Participant had symptoms including loss of appetite
+3. Participant had symptoms including loss of motivation
+4. Participant had symptoms including fear of social situations [SEP]",0.7301866,My allergies are really starting to affect my ability to concentrate in class . , I can't focus . , My performance will be really bad . ,0

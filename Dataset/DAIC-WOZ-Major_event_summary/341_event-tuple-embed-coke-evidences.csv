@@ -1,0 +1,99 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I felt really happy after the semester ended when I received my grades, which were an A and a B. It made me realize I could do well in school after being away for a long time.
+","[CLS] I felt happy
+2. I received grades
+3. grades were A and B
+4. It made me realize
+5. I could do well in school [SEP]",0.5450006,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1
+"I felt really happy after the semester ended when I received my grades, which were an A and a B. It made me realize I could do well in school after being away for a long time.
+","[CLS] I felt happy
+2. I received grades
+3. grades were A and B
+4. It made me realize
+5. I could do well in school [SEP]",0.57615656,I also asked for a raise . , I have waited for a long time and I have been a great asset to the company . , my boss will give me a raise . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.40780717,I attend my boss's meetings every Wednesday . , my boss always thanks me for coming . , I am doing my job well . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.42784584,My boss asked for an explanation of my tardiness . , I have a good excuse . , I won't get fired . ,1
+"I went to Orlando, Florida in June, which was the last time I traveled.
+",[CLS] I went Orlando Florida [SEP],0.5984819,My grandparents have asked me to visit them in Florida . , they are always taking me to fun places . , it will be a lot of fun . ,1
+"I went to Orlando, Florida in June, which was the last time I traveled.
+",[CLS] I went Orlando Florida [SEP],0.6778762,My grandparents have asked me to visit them in Florida . , I have not seen them in a while  . , it will be a lovely time . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.65606964,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6678561,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I served in the Navy for four years, and it made me more responsible compared to some of my friends who didn't join the military.
+",[CLS] I served Navy [SEP],1.1343563,I announced my decision to join the army . , it will help me to serve my country . , this is the right decision for me . ,1
+"I served in the Navy for four years, and it made me more responsible compared to some of my friends who didn't join the military.
+",[CLS] I served Navy [SEP],1.2199349,I announced my decision to join the army . , I will have to kill people . , War is a terrible thing . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.621423,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6502128,I have a niece who bears my name . , it is an important part of my identity . , I can pass down my name . ,1
+"I argued with my mother because she thinks I should stay home more since I'm married with children, but I wanted to socialize with ex co-workers.
+","[CLS] I argued with my mother
+2. I wanted to socialize with ex co-workers [SEP]",0.5705459,My brother-in-law is helping my husband practice for his driving test . , he has improved a lot . , he is going to pass . ,1
+"I argued with my mother because she thinks I should stay home more since I'm married with children, but I wanted to socialize with ex co-workers.
+","[CLS] I argued with my mother
+2. I wanted to socialize with ex co-workers [SEP]",0.58841014,"I was going to ask my girlfriend's dad for permission to marry her, but he passed away before I could . ", she and I have been together for a long time and he always liked me . , he would have approved . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.69836515,"I accidentally sent an email to my boss that was meant for my friend, and I apologized profusely . ", I have always been a competent and reliable employee . , my boss will understand the situation . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.7053361,"I accidentally sent an email to my boss that was meant for my friend, and I apologized profusely . ", it was a serious mistake . , my boss may not believe me . ,0
+"I find it hard to be a parent, especially raising a child with a disability, but I love my children and they are a blessing.
+","[CLS] Participant find it hard to be a parent
+2. Participant love my children [SEP]",0.1147153,I am accompanied by my boss's wife . , she is an important person . , it will be an honor to meet her . ,1
+"I find it hard to be a parent, especially raising a child with a disability, but I love my children and they are a blessing.
+","[CLS] Participant find it hard to be a parent
+2. Participant love my children [SEP]",0.11833911,I agree to go on a month-long trip with my friends . , I will be away for a long time  . , I will miss my family too much . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6168019,I asked my friend for my crush's number . , she smiled and said Sure! , she likes me too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6383755,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"My mom can be intrusive and gets in my business, which frustrates me, but I love her and don't want to be mad at her.
+",[CLS][Participant love her] [SEP],0.6129139,"After I put in a hard day's work, it was nice to come home to a home-cooked meal . ", I worked so hard . , I deserve it . ,1
+"My mom can be intrusive and gets in my business, which frustrates me, but I love her and don't want to be mad at her.
+",[CLS][Participant love her] [SEP],0.6279038,I can't believe how much my tuition has gone up since I last looked into affording college . , scholarships are based on financial need . , I will get scholarships to help pay for it . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6070293,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6316489,I have a huge zit on my nose . , they can't take their eyes off it . , people will find it amusing . ,1
+"I go to bed early and wake up early, which gives me a good night's sleep, but if I don't sleep well, I become moody and irritable.
+","[CLS] I go to bed early
+2. I wake up early
+3. I become moody
+4. I become irritable [SEP]",0.67441773,"I don't act my age, according to my friends . ", they are always telling me to grow up . , I am still a kid at heart . ,1
+"I go to bed early and wake up early, which gives me a good night's sleep, but if I don't sleep well, I become moody and irritable.
+","[CLS] I go to bed early
+2. I wake up early
+3. I become moody
+4. I become irritable [SEP]",0.68497133,I asked my friend's boyfriend if he liked me . , he had been gazing at me intently for the past few weeks . , he was going to say yes . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5840356,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.61323816,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I am currently attending Harbor College and am happy about it, although I wish I had started sooner.
+","[CLS] Participant attend Harbor College
+2. Participant be happy about it [SEP]",0.82282674,I can't believe how much my tuition has gone up since I last looked into affording college . , my grades have gone up too . , I qualify for more scholarships now . ,1
+"I am currently attending Harbor College and am happy about it, although I wish I had started sooner.
+","[CLS] Participant attend Harbor College
+2. Participant be happy about it [SEP]",0.8258216,"After dating for six months, I became my girlfriend's wife . ", we didn't know each other that well . , I may have married too soon . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5267348,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5406598,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I try to cope with frustrations by taking walks and not thinking about them too much.
+","[CLS] I try cope with frustrations
+2. I take walks [SEP]",0.6083741,My cousin's bad attitude affects everyone's mood when we are around her . , I get crabby when I am around her too . , her negativity is contagious . ,0
+"I try to cope with frustrations by taking walks and not thinking about them too much.
+","[CLS] I try cope with frustrations
+2. I take walks [SEP]",0.6160003,My cousin's bad attitude affects everyone's mood when we are around her . , she hasn't listened to anyone's advice . , she will never change . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.57210886,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5897585,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"My mom has been a positive influence in my life, even though she sometimes tries to re-raise me.
+",[CLS][] [SEP],0.6048749,I am accompanied by my boss's wife . , she is always talking . , I will not be respected . ,0
+"My mom has been a positive influence in my life, even though she sometimes tries to re-raise me.
+",[CLS][] [SEP],0.7071719,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0

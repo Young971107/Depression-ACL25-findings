@@ -1,0 +1,113 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I have a love-hate relationship with writing; when it's good, it's really good, but getting there is a struggle.
+",[CLS][] [SEP],0.6796712,I was really affected by the 9/11 terrorist attacks . , it was such a large scale tragedy . , people were really scared . ,0
+"I have a love-hate relationship with writing; when it's good, it's really good, but getting there is a struggle.
+",[CLS][] [SEP],0.69284964,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"I've been applying for jobs daily without any responses, but my depression is getting under control.
+","[CLS] Participant apply jobs daily
+2. Participant get under control depression [SEP]",0.80853796,I crowdsourced around for a solution to my problem . , my problem is not interesting . , I will be ignored . ,0
+"I've been applying for jobs daily without any responses, but my depression is getting under control.
+","[CLS] Participant apply jobs daily
+2. Participant get under control depression [SEP]",0.8092022,I crowdsourced around for a solution to my problem . , my problem is unique . , I will not find a solution . ,0
+"I don't visit my hometown because I lost my job there and moved quickly, and I'm not in touch with family or old friends.
+","[CLS] I don't visit my hometown
+2. I lost my job
+3. I moved quickly
+4. I am not in touch with family
+5. I am not in touch with old friends [SEP]",0.7918093,My boss isAccompanied by his wife on his business trip to Japan . , his wife will be with him . , he will not be able to focus on work . ,0
+"I don't visit my hometown because I lost my job there and moved quickly, and I'm not in touch with family or old friends.
+","[CLS] I don't visit my hometown
+2. I lost my job
+3. I moved quickly
+4. I am not in touch with family
+5. I am not in touch with old friends [SEP]",0.80192685,I brought my kids to my ex's house . , my ex told me not to come . , I will  be turned away . ,0
+"I miss my old life and relationships before losing my job, and it weighs on my mind.
+",[CLS][] [SEP],0.62293744,I assure you that the bride will be beautiful on her wedding day . , it is not her style . , she will not like the dress I picked for her . ,0
+"I miss my old life and relationships before losing my job, and it weighs on my mind.
+",[CLS][] [SEP],0.6359446,I browse through my art collection that I have been building for years . , it's not worth anything . , I will never be able to sell it . ,0
+"I wasn't properly medicated before, but now I am, and it's helping me manage my depression better.
+","[CLS] I wasn't medicated before
+2. I am medicated now
+3. It is helping me manage my depression better [SEP]",0.6860718,My chiropractor has been having me come in three times a week to help improve my posture . , I am starting to see some changes . , my back and neck pain will be gone soon . ,1
+"I wasn't properly medicated before, but now I am, and it's helping me manage my depression better.
+","[CLS] I wasn't medicated before
+2. I am medicated now
+3. It is helping me manage my depression better [SEP]",0.7028136,I applied my sunscreen before going to the beach . , I  didn't put sunscreen on my face . , I will get sunburn . ,0
+"Moving to L.A. from the East Coast was difficult, but I've gotten more used to it.
+","[CLS] Participant move L.A.
+2. Participant get used to it [SEP]",0.75884944,The cashier is trying to explain to the customer why there is a limit on the number of items they can purchase . , they are not getting frustrated with the customer . , the cashier is being very professional and polite . ,1
+"Moving to L.A. from the East Coast was difficult, but I've gotten more used to it.
+","[CLS] Participant move L.A.
+2. Participant get used to it [SEP]",0.7867887,The cashier is trying to explain to the customer why there is a limit on the number of items they can purchase . , she is keeping her cool and being professional . , she is handling the situation very well . ,1
+"I was self-medicating, which affected my work, leading to being laid off after being institutionalized.
+","[CLS] I was self-medicating which affected my work
+2. I was laid off after being institutionalized [SEP]",0.7830756,I allocate my time efficiently . , I will have more time to focus on each task . , I will be able to get a lot done . ,1
+"I was self-medicating, which affected my work, leading to being laid off after being institutionalized.
+","[CLS] I was self-medicating which affected my work
+2. I was laid off after being institutionalized [SEP]",0.8014495,I accomplish my goals by working hard and studying diligently . , I've been saw as a underachiever . , I will not be accepted by others . ,0
+"A psychiatrist helped me get on the right medication, which was a turning point, but it happened after things went bad.
+",[CLS] psychiatrist helped me [SEP],0.39672634,My aunt's travel has really affected her health . , she had a hard time recovering . , she won't be able to travel again . ,0
+"A psychiatrist helped me get on the right medication, which was a turning point, but it happened after things went bad.
+",[CLS] psychiatrist helped me [SEP],0.40650785,My doctor advised me to take medication for my anxiety . , it has worked for other people with anxiety disorders . , it will  help me improve my condition . ,1
+"I was in a relationship that ended partly because I wasn't on the right medication, and I feel guilty about it.
+","[CLS] I was in a relationship
+2. relationship ended partly
+3. I wasn't on the right medication
+4. I feel guilty [SEP]",0.63957345,I asked my friend's crush on a date . , we share a lot of interests . , it would be a great way to get to know her better . ,1
+"I was in a relationship that ended partly because I wasn't on the right medication, and I feel guilty about it.
+","[CLS] I was in a relationship
+2. relationship ended partly
+3. I wasn't on the right medication
+4. I feel guilty [SEP]",0.652835,I was arguing with my sister's boyfriend about politics . , I can be very persuasive . , I will  convince him to see my side . ,1
+"I dwell on past mistakes and feel ashamed about things from years ago.
+",[CLS][] [SEP],0.674181,I browse through my art collection that I have been building for years . , it's not worth anything . , I will never be able to sell it . ,0
+"I dwell on past mistakes and feel ashamed about things from years ago.
+",[CLS][] [SEP],0.6873461,I assure you that the bride will be beautiful on her wedding day . , it is not her style . , she will not like the dress I picked for her . ,0
+"I used to deal with stress by drinking, but medication has helped me manage it better.
+","[CLS] Participant used to deal with stress by drinking
+2. Medication has helped Participant manage stress better [SEP]",0.5652088,My cousin's depression affects our family . , we are all she has . , I think we can help her through it . ,1
+"I used to deal with stress by drinking, but medication has helped me manage it better.
+","[CLS] Participant used to deal with stress by drinking
+2. Medication has helped Participant manage stress better [SEP]",0.59028655,I have been feeling really stressed lately and it's affecting my health . , it's been going on for awhile . , I may not be able to fix the situation . ,0
+"I attend AA meetings for support, but financial constraints limit my access to therapy.
+","[CLS] I attend AA meetings
+2. financial constraints limit my access to therapy [SEP]",0.6966691,I have to go to a lot of parent-teacher meetings because I'm a teacher . , have to talk to different parents about their children . , will not have time for anything else . ,0
+"I attend AA meetings for support, but financial constraints limit my access to therapy.
+","[CLS] I attend AA meetings
+2. financial constraints limit my access to therapy [SEP]",0.69800615,I have achieved one of my New Year's resolutions- to travel to Thailand! . , I have seen so many pictures of it . , it will be a beautiful country to travel to . ,1
+"Talking about my issues in AA helps me process them and make them manageable.
+","[CLS]- Participant talk about issues in AA
+- Participant process them
+- Participant make them manageable [SEP]",0.6940156,I crowdsourced around for a solution to my problem . , my problem is unique . , I will not find a solution . ,0
+"Talking about my issues in AA helps me process them and make them manageable.
+","[CLS]- Participant talk about issues in AA
+- Participant process them
+- Participant make them manageable [SEP]",0.6966603,They had a big discussion on women's rights and how to address the issue . , it is a very important and delicate topic . , they will be more careful and take the issue more seriously . ,1
+"Writing a novel recently made me feel accomplished and relaxed.
+","[CLS] Participant feel accomplished
+2. Participant feel relaxed [SEP]",0.61021006,I wanted to attract my boss's attention so I started dressing more professionally . , I want to be seen as more professional . , my boss will start to value my work more . ,1
+"Writing a novel recently made me feel accomplished and relaxed.
+","[CLS] Participant feel accomplished
+2. Participant feel relaxed [SEP]",0.62529564,I have been feeling really stressed lately and it's affecting my health . ," I have been making an effort to go to the gym more, eating healthy and getting more sleep . ", I have started to taking better care of myself . ,1
+"I felt really happy a couple of years ago when everything seemed to be going well in my life.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.47249785,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"I felt really happy a couple of years ago when everything seemed to be going well in my life.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.51768994,I have the same name as my dad . , I was named after him . , he's a positive person . ,1
+"I often need to do multiple things at once to keep my mind occupied.
+",[CLS][] [SEP],0.71373504,I am nervously biting my nails waiting for the date to start . , I have bad habits . , he or she will not like me . ,0
+"I often need to do multiple things at once to keep my mind occupied.
+",[CLS][] [SEP],0.74489963,"I don't act my age, according to my friends . ", I don't know how to act my age . , I am not acting my age . ,0
+"I'm a light sleeper and have trouble getting a good night's sleep.
+",[CLS][] [SEP],0.6454832,A woman is breastfeeding her baby in public . , I believe that it's a private act  . , it's disgusting . ,0
+"I'm a light sleeper and have trouble getting a good night's sleep.
+",[CLS][] [SEP],0.6656281,"I was at a networking event the other day and I met this really great guy, but I didn't catch his name . ", it's a small world . , we will bumped into each other again . ,1
+"I've always been a writer, initially focusing on screenwriting, but now I'm exploring other forms of creative writing.
+","[CLS] Participant focus screenwriting
+2. Participant explore other forms of creative writing [SEP]",0.8033805,I will be taking over my grandmother's house responsibilities while she is in the hospital . , I gained experience when my grandfather was ill . , I positively can handle this . ,1
+"I've always been a writer, initially focusing on screenwriting, but now I'm exploring other forms of creative writing.
+","[CLS] Participant focus screenwriting
+2. Participant explore other forms of creative writing [SEP]",0.8037063,I believe that good luck comes to those who work hard . , luck is not something that can be forced . ," no matter how much effort I put in, things will never go my way . ",0
+"Looking back, I feel angry about losing everything due to factors beyond my control and the lack of effective help from doctors.
+",[CLS][] [SEP],0.7061514,My ability to focus is affected when she's around . , her presence is too distracting . , will never be able to fully concentrate . ,0
+"Looking back, I feel angry about losing everything due to factors beyond my control and the lack of effective help from doctors.
+",[CLS][] [SEP],0.7148026,I am going to let my friends know about my upcoming trip to Thailand . , they have never been there before . , they will be jealous . ,0

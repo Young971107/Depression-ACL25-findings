@@ -1,0 +1,71 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I was performing in a nightclub and had an opportunity to introduce myself to a very famous person, but I didn't do it.
+","[CLS] I was performing in a nightclub
+2. I had an opportunity
+3. I introduce myself to a very famous person
+4. I didn't do it [SEP]",0.15822953,I asked my friend's grandmother for a recipe . , I never cook . , she may think I'm trying to copy her . ,0
+"I was performing in a nightclub and had an opportunity to introduce myself to a very famous person, but I didn't do it.
+","[CLS] I was performing in a nightclub
+2. I had an opportunity
+3. I introduce myself to a very famous person
+4. I didn't do it [SEP]",0.15906549,I am accompanied by my boss's wife . , she is an important person . , it will be an honor to meet her . ,1
+"I was in another business for twenty-five years, and now I'm finally pursuing acting because the economy makes it as easy to find work in show business as in other jobs I've done.
+","[CLS] I was in another business
+2. I am pursuing acting [SEP]",0.6965203,I advertised my friend's business by putting up flyers around town . , it's a bit embarrassing . , I will be ridiculed . ,0
+"I was in another business for twenty-five years, and now I'm finally pursuing acting because the economy makes it as easy to find work in show business as in other jobs I've done.
+","[CLS] I was in another business
+2. I am pursuing acting [SEP]",0.7000417,I attend to my boss's business by doing his work for him while he is on vacation . , I have proved to be a reliable and hard worker . , he will appreciate my work and maybe give me a raise . ,1
+"My wife and I have not been sleeping in the same bed for about three years, but we have a high-achieving daughter who is graduating from high school and has been accepted to a college with a nice scholarship.
+","[CLS] Participant have high-achieving daughter
+2. Daughter is graduating high school
+3. Daughter has been accepted college
+4. Daughter has scholarship [SEP]",0.6359459,I am breastfeeding my newborn daughter . , this is my first time doing it . , she won't latch on correctly . ,0
+"My wife and I have not been sleeping in the same bed for about three years, but we have a high-achieving daughter who is graduating from high school and has been accepted to a college with a nice scholarship.
+","[CLS] Participant have high-achieving daughter
+2. Daughter is graduating high school
+3. Daughter has been accepted college
+4. Daughter has scholarship [SEP]",0.67043614,I attend my girlfriend's father's funeral . , I have experience with death and how to deal with the grieving process . , I will be able to comfort her . ,1
+"I was diagnosed with depression about six years ago and see a therapist, though the current therapist is not prescribing medication.
+","[CLS] Participant was diagnosed with depression
+2. Participant see therapist [SEP]",0.68590057,The news about the outbreak is affecting people's mental health . , I don't usually watch the news . , I'm more resistant to getting anxious . ,1
+"I was diagnosed with depression about six years ago and see a therapist, though the current therapist is not prescribing medication.
+","[CLS] Participant was diagnosed with depression
+2. Participant see therapist [SEP]",0.7224362,I have been feeling really stressed lately and it's affecting my health . , it's been going on for awhile . , I may not be able to fix the situation . ,0
+"I made a dessert to celebrate my daughter's scholarship, and it was delicious.
+",[CLS] I made a dessert [SEP],0.06905612,I just bought a new car . , it was very affordable . , it was the best decision . ,1
+"I made a dessert to celebrate my daughter's scholarship, and it was delicious.
+",[CLS] I made a dessert [SEP],0.07199529,I agree and went to check out the new restaurant downtown . , the service and food were amazing . , it was a great decision . ,1
+"I moved to L.A. from Minnesota thirty-one years ago, which is half my life.
+",[CLS] I moved L.A. [SEP],0.785963,I arrived at my friend's house for a party . , the music is playing loudly and people are dancing . , this party is going to be the best party ever . ,1
+"I moved to L.A. from Minnesota thirty-one years ago, which is half my life.
+",[CLS] I moved L.A. [SEP],0.81191933,I arrived at my friend's house for a party . , she is an amazing cook . , the food is going to taste great . ,1
+"I self-medicate to go to sleep, but often wake up earlier than I'd like to.
+","[CLS] I self-medicate to go to sleep
+2. I wake up earlier than I'd like to [SEP]",0.5915636,I feel like I'm finally starting to act my age and mature a little bit . , I have put in the work and waited patiently . , this will positively lead to great opportunities . ,1
+"I self-medicate to go to sleep, but often wake up earlier than I'd like to.
+","[CLS] I self-medicate to go to sleep
+2. I wake up earlier than I'd like to [SEP]",0.5996347,My allergies are really starting to affect my ability to concentrate in class . , I have been taking medication for them . , I will be able to get a handle on them . ,1
+"I started a business around twenty years ago, and while it was successful, I wish I had gotten it rolling more so it wouldn't be so dead today.
+",[CLS] I started a business [SEP],0.062092807,I have just begun looking for a new place to live . , I've been looking for a while and I've been pretty picky . , I'll find the perfect place for me . ,1
+"I started a business around twenty years ago, and while it was successful, I wish I had gotten it rolling more so it wouldn't be so dead today.
+",[CLS] I started a business [SEP],0.06801972,I asked my boss for a raise . , I have only been working here for a few months . , he will say no . ,0
+"I met a woman when I first moved out here, and she left me less than healthy physically.
+","[CLS] I met a woman
+2. she left me [SEP]",0.60822725,I ask my friend's boyfriend out on a date . , she may think I'm trying to steal her boyfriend . , she may not want to be friends with me anymore . ,0
+"I met a woman when I first moved out here, and she left me less than healthy physically.
+","[CLS] I met a woman
+2. she left me [SEP]",0.7338806,I asked my friend's boyfriend if he wanted to go on a trip with us to the Caribbean . , he likes to travel . , he will enjoy the trip . ,1
+"I cope pretty well, but I'm not as functional as I'd like to be, especially when I work late nights and don't get enough sleep.
+",[CLS][] [SEP],0.667905,The economic recession has affected my family in many ways . , we always do what is necessary to survive difficult times . , we will all persevere and come out stronger . ,1
+"I cope pretty well, but I'm not as functional as I'd like to be, especially when I work late nights and don't get enough sleep.
+",[CLS][] [SEP],0.68852293,I have the same name as my dad . , he is famous . , people will not take me seriously . ,0
+"I feel anxious due to financial responsibilities and wanting to provide for my daughter, who has wealthy friends.
+",[CLS] Participant feel anxious [SEP],0.07135208,I ask my doctor for a referral to see a specialist . , my symptoms haven't gone away . , I may have a serious condition . ,0
+"I feel anxious due to financial responsibilities and wanting to provide for my daughter, who has wealthy friends.
+",[CLS] Participant feel anxious [SEP],0.071720004,A couple who has been married for 5 years decides to adopt a child . , they never had kids before . , they may not be able to properly take care of the child . ,0
+"I look forward to therapy because I feel like I'm talking to someone who understands me.
+","[CLS] I look forward to therapy
+2. I feel like talking to someone who understands me [SEP]",0.576142,My chiropractor has been having me come in three times a week to help improve my posture . , I will have less pressure on my nerves . , my spine will be straighter . ,1
+"I look forward to therapy because I feel like I'm talking to someone who understands me.
+","[CLS] I look forward to therapy
+2. I feel like talking to someone who understands me [SEP]",0.58882916,My chiropractor has been having me come in three times a week to help improve my posture . , I will have done everything possible to help improve it . , my posture will improve . ,1

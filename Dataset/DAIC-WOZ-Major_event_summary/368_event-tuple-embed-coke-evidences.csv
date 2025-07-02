@@ -1,0 +1,77 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I learned a new song on the guitar, but I didn't feel happy about it. I work sometimes, and that kind of makes me happy, like running fast and working out, but it doesn't make me excited. It just makes me feel good. I have times where I feel good about myself, but I'm never feeling great or happy.
+","[CLS] I learned a new song on the guitar
+2. I work sometimes
+3. I feel good [SEP]",0.39963073,I spend many hours on the phone with my friends . , I procrastinate too much . , I will never get any work done . ,0
+"I learned a new song on the guitar, but I didn't feel happy about it. I work sometimes, and that kind of makes me happy, like running fast and working out, but it doesn't make me excited. It just makes me feel good. I have times where I feel good about myself, but I'm never feeling great or happy.
+","[CLS] I learned a new song on the guitar
+2. I work sometimes
+3. I feel good [SEP]",0.41080004,My aunt also bought me a souvenir keychain from her trip to Italy . , I always try to make her feel special . , I am the best niece ever . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.60723823,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.7030201,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"I found out my mom didn't tell me the whole story about her health, and I'm worried because she's in the hospital. I'm also trying to find a job, and with a baby on the way, I feel overwhelmed with a lot of things to do.
+","[CLS] Participant found out mom didn't tell whole story about her health
+2. Participant is worried mom is in the hospital
+3. Participant is trying find a job
+4. Participant feels overwhelmed [SEP]",0.70912826,I ran into my ex's mom at the grocery store and she asked how I was doing . , I am still heartbroken from the breakup . , she will tell my ex that I am doing bad . ,0
+"I found out my mom didn't tell me the whole story about her health, and I'm worried because she's in the hospital. I'm also trying to find a job, and with a baby on the way, I feel overwhelmed with a lot of things to do.
+","[CLS] Participant found out mom didn't tell whole story about her health
+2. Participant is worried mom is in the hospital
+3. Participant is trying find a job
+4. Participant feels overwhelmed [SEP]",0.7615135,My cat has been acting weird since I got back from vacation . , I have no other choice . , he is going to the vet today . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.48901504,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.67499804,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I ran the L.A. Marathon and graduated from college, which feels good, but I don't feel proud of myself for those things alone. They haven't made me successful or thin and trim, so they're like half merits.
+","[CLS] I ran L.A. Marathon
+2. I graduated college [SEP]",0.84465873,I beat the world record for the hundred-meter dash . , I was the only person in the race . , I have done something amazing . ,1
+"I ran the L.A. Marathon and graduated from college, which feels good, but I don't feel proud of myself for those things alone. They haven't made me successful or thin and trim, so they're like half merits.
+","[CLS] I ran L.A. Marathon
+2. I graduated college [SEP]",0.85263693,I beat my best friend in a foot race for the first time . , he will be jealous of me . , I will ruin our friendship . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.58755744,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6461916,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I regret not canceling the LSAT test because I could have gotten into a school, but then I think about the cost of law school tuition and the work involved.
+",[CLS][] [SEP],0.7745285,I was driving my car on the highway . , I was following the traffic rules . , I was going to make it to my destination safely . ,1
+"I regret not canceling the LSAT test because I could have gotten into a school, but then I think about the cost of law school tuition and the work involved.
+",[CLS][] [SEP],0.78331125,"I don't act my age, according to my friends . ", I am not like other people my age . , I will be laughed at . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.56425905,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6417749,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I lost my job about a year and a half, maybe two years ago, due to the bad economy and budget cuts. I wish I was working there again.
+",[CLS] Participant lost job [SEP],0.30001932,I attained my end of getting a job that my father wanted me to have . , I was not interested in it from the beginning . , I will not be able to keep it for long . ,0
+"I lost my job about a year and a half, maybe two years ago, due to the bad economy and budget cuts. I wish I was working there again.
+",[CLS] Participant lost job [SEP],0.34286165,I attained my end of getting a job that my father wanted me to have . , he put in a lot of effort to help me  . , I would have disappointed him if I did not get it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.57813287,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6716852,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"My mom has diabetes, which she doesn't control, and it affects her health. It always has me worried and stressed out about her. I have a good relationship with my mom and a lot of family and friends who get along with me well.
+","[CLS] Participant worry her
+2. Participant stress out her [SEP]",0.5940006,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'm trying to help their children . , the parents appreciate my time . ,1
+"My mom has diabetes, which she doesn't control, and it affects her health. It always has me worried and stressed out about her. I have a good relationship with my mom and a lot of family and friends who get along with me well.
+","[CLS] Participant worry her
+2. Participant stress out her [SEP]",0.6106491,My boss's mood affects my ability to concentrate on my work . , I can't seem to focus . , I may get fired . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6261773,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.64252603,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I taught myself how to play guitar, and I play these days.
+","[CLS] Participant taught myself
+2. Participant play guitar [SEP]",0.7190722,I needed to ask my date's father for help . , he is always so nice and helpful . , he is going to be happy to help . ,1
+"I taught myself how to play guitar, and I play these days.
+","[CLS] Participant taught myself
+2. Participant play guitar [SEP]",0.7193462,There were a lot of kids playing in the park and one of them kept throwing a Frisbee at me . , I can't dodge it . , I would be hit in the head . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5114743,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5964547,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I sleep like a baby, but sometimes I have a falling sensation when I'm just going to sleep. For the most part, I sleep like a rock.
+",[CLS][] [SEP],0.6354226,My boss is always looking out for her own interests . , I always put the needs of my team first . , it would positively show in my reviews . ,1
+"I sleep like a baby, but sometimes I have a falling sensation when I'm just going to sleep. For the most part, I sleep like a rock.
+",[CLS][] [SEP],0.64904445,I have a niece who bears my name . , my niece carries it . ," When I have a niece who bears my name, I feel great since I think my name will live on . ",1

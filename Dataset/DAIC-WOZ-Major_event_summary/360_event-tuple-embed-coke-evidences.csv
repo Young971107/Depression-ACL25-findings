@@ -1,0 +1,39 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I felt really happy on Christmas when I got engaged.
+","[CLS] I felt happy
+2. I got engaged [SEP]",0.51950645,I was getting a massage and the masseuse was arching my back  too much . , I could hear my spine cracking . , my spine was getting aligned . ,1
+"I felt really happy on Christmas when I got engaged.
+","[CLS] I felt happy
+2. I got engaged [SEP]",0.61637175,I bragged to all my friends about how I got the new girl's number at school . , I come across as a jerk  . , she will never talk to me again . ,0
+"I enjoy going to Nevada to celebrate my birthday and spending time with my family and friends.
+","[CLS] I enjoy going to Nevada
+2. I celebrate my birthday
+3. I spend time my family and friends [SEP]",0.5688923,I ask my boss's permission to leave work early . , they have been waiting for me all day . , I will be able to go home to my family . ,1
+"I enjoy going to Nevada to celebrate my birthday and spending time with my family and friends.
+","[CLS] I enjoy going to Nevada
+2. I celebrate my birthday
+3. I spend time my family and friends [SEP]",0.5772356,I approached my friend's crush at the party . , I have all the qualities she likes in a guy . , she would start dating me . ,1
+"I argued with my fianc茅 about some financial issues a couple of weeks ago.
+",[CLS] I argued with my fiancé [SEP],0.37826043,I was arguing with my sister's boyfriend about politics . , we have different opinions . , I will be kicked out of the car . ,0
+"I argued with my fianc茅 about some financial issues a couple of weeks ago.
+",[CLS] I argued with my fiancé [SEP],0.3930495,I was arguing with my boyfriend about going to the gym more often . , I have given him many reasons why going to the gym is important . , he will give up and I will win . ,1
+"I was working at a retail store, but now I'm job searching again.
+","[CLS] Participant was working retail store
+2. Participant is job searching again [SEP]",0.69058275,I advertised my friend's business by putting up flyers around town . , I put a lot of effort into it . , my friend's business will be doing better soon . ,1
+"I was working at a retail store, but now I'm job searching again.
+","[CLS] Participant was working retail store
+2. Participant is job searching again [SEP]",0.740468,I advertised my friend's business by putting up flyers around town . , it's a bit embarrassing . , I will be ridiculed . ,0
+"My dream job is at Metro in public transit to help improve the public transportation system in L.A.
+",[CLS][] [SEP],0.75919247,I was waiting for my brother to take his turn in the video game . , he always does . , he will continue playing for hours . ,0
+"My dream job is at Metro in public transit to help improve the public transportation system in L.A.
+",[CLS][] [SEP],0.7826997,I was trying to be cool and aloof like my favorite movie star . , I'm not like that in real life . , I will be laughed at . ,0
+"I studied nursing and office administration because I care for people and have always been interested in computers.
+","[CLS] I studied nursing
+2. I studied office administration
+3. I care people
+4. I have been interested computers [SEP]",0.76321167,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they are getting good grades and behaving well in class . , the parents are going to be happy with how their kids are doing . ,1
+"I studied nursing and office administration because I care for people and have always been interested in computers.
+","[CLS] I studied nursing
+2. I studied office administration
+3. I care people
+4. I have been interested computers [SEP]",0.80671424,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they offer parents and guardians an opportunity to learn about their child's progress in school . , that parent-teacher meetings are so important . ,1

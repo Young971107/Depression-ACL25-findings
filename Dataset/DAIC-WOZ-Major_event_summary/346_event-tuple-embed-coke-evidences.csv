@@ -1,0 +1,73 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I've been diagnosed with PTSD twice, first about three and a half years ago and then again in August.
+",[CLS] Participant diagnosed with PTSD [SEP],0.77674973,My health is Affected by my grandfather's death . , I am  grieving . , I will get  sick . ,0
+"I've been diagnosed with PTSD twice, first about three and a half years ago and then again in August.
+",[CLS] Participant diagnosed with PTSD [SEP],0.81944585,I found out that my habits are really affecting my health negatively . , I don't want to die young . , I could change for the better . ,1
+"I regret my last marriage and not leaving when I should have.
+","[CLS]- I regret my last marriage
+- I regret not leaving [SEP]",0.7012967,My boss's decision will affect my interests . , I haven't discussed it with him . , it may not be the best decision . ,0
+"I regret my last marriage and not leaving when I should have.
+","[CLS]- I regret my last marriage
+- I regret not leaving [SEP]",0.7037632,A same-sex couple adopts a child . , they are not the child's biological parents . , they will not love the child as much as a heterosexual couple would . ,0
+"I am proud of my ability to survive through hardships and still try to be a good person.
+",[CLS][] [SEP],0.66877055,I was driving my car on the highway . , I was following the traffic rules . , I was going to make it to my destination safely . ,1
+"I am proud of my ability to survive through hardships and still try to be a good person.
+",[CLS][] [SEP],0.6717212,I have a niece who bears my name . , I want her to have a better life . , she might not end up like me . ,0
+"I sought help initially because I wasn't sleeping and was under unbelievable stress.
+",[CLS] I sought help [SEP],0.33962873,I need help from my friends planning my next birthday party . , they are always asking me what I want to do and they seem to care about what I want  . , they will be willing to help me out . ,1
+"I sought help initially because I wasn't sleeping and was under unbelievable stress.
+",[CLS] I sought help [SEP],0.39083925,I need help from my friends planning my next birthday party . , I have been there for them when they needed me  . , they will give me ideas and help me out . ,1
+"I felt genuinely happy a couple of days ago, but then returned to feeling miserable.
+",[CLS][] [SEP],0.57944274,I really admire my boss's work ethic . , I'm not as driven as she is . , I will never be able to work that hard . ,0
+"I felt genuinely happy a couple of days ago, but then returned to feeling miserable.
+",[CLS][] [SEP],0.5919142,I have a niece who bears my name . ," I am a strong, fierce woman . "," she will grow up to be a strong, fierce woman . ",1
+"I cope by reading, forcing myself to go out, and trying to exhaust myself to avoid dwelling on my inability to sleep.
+","[CLS] I cope by reading
+2. I force myself to go out
+3. I try to exhaust myself [SEP]",0.61599946,I allocate my time efficiently . , I will be able to use my time wisely . , I will be able to get a lot done . ,1
+"I cope by reading, forcing myself to go out, and trying to exhaust myself to avoid dwelling on my inability to sleep.
+","[CLS] I cope by reading
+2. I force myself to go out
+3. I try to exhaust myself [SEP]",0.6501884,I am going to ask my friend's crush out on a date . , I am not confident . , he/she will say no . ,0
+"I stopped going to therapy because the counselors weren't helping, and moving to New York helped me get out of my environment.
+","[CLS] I stopped going therapy
+2. counselors weren't helping me
+3. moving to New York helped me [SEP]",0.7204918,My mom is attending my doctor's appointment  with me . , I'm not healthy . , she will be disappointed in me . ,0
+"I stopped going to therapy because the counselors weren't helping, and moving to New York helped me get out of my environment.
+","[CLS] I stopped going therapy
+2. counselors weren't helping me
+3. moving to New York helped me [SEP]",0.74765605,My aunt's travel has really affected her health . , she can't  travel anymore . , she won't be able to enjoy the rest of her life . ,0
+"I have a bad temper, so I try to control it by taking naps or walking away from situations.
+","[CLS] I try control it
+2. I take naps
+3. I walk away situations [SEP]",0.6135274,My chiropractor has been having me come in three times a week to help improve my posture . , it's been two months and I don't see any changes . , I will never improve . ,0
+"I have a bad temper, so I try to control it by taking naps or walking away from situations.
+","[CLS] I try control it
+2. I take naps
+3. I walk away situations [SEP]",0.62035906,My chiropractor has been having me come in three times a week to help improve my posture . , I am starting to see some changes . , my back and neck pain will be gone soon . ,1
+"I had no confidence in school, but achieving high grades was a big accomplishment for me.
+",[CLS] Participant achieve high grades [SEP],0.49620026,I'm so proud of myself- I brought my grades up from a C to an A in just one semester! . , I put in a lot of extra work and I studied really hard . , I'm so proud of myself . ,1
+"I had no confidence in school, but achieving high grades was a big accomplishment for me.
+",[CLS] Participant achieve high grades [SEP],0.52662706,I have brought my grades up this semester . , my grades were pretty low last semester  . , I may have to take summer classes . ,0
+"I don't sleep well at night due to anxiety and stress from past experiences.
+",[CLS][] [SEP],0.77480686,I browse through my art collection that I have been building for years . , I have many different and unique pieces . , I am a great collector . ,1
+"I don't sleep well at night due to anxiety and stress from past experiences.
+",[CLS][] [SEP],0.80002034,"Every time I see a picture of a dog, I automatically assume it's form . ", I'm allergic to them . , I will never get a dog . ,0
+"I am both an introvert and an extrovert, enjoying time alone but also meeting people.
+",[CLS][] [SEP],0.58272785,I have been feeling really stressed lately and it's affecting my health . , I need to take care of myself . , I will take a break soon . ,1
+"I am both an introvert and an extrovert, enjoying time alone but also meeting people.
+",[CLS][] [SEP],0.59494877,I browse through my art collection that I have been building for years . , I have many different and unique pieces . , I am a great collector . ,1
+"Graduating from pharmacy school is one of my most memorable experiences.
+",[CLS] Participant graduate pharmacy school [SEP],0.70059437,I will get my degree soon . , I have studied a lot . , my hard work will pay off . ,1
+"Graduating from pharmacy school is one of my most memorable experiences.
+",[CLS] Participant graduate pharmacy school [SEP],0.7126688,I will get my degree soon . , the economy is bad . , I will never get a good job . ,0
+"I studied language, physics, and math in school, but now I'm trying to be an actress.
+","[CLS] I studied language
+2. I studied physics
+3. I studied math
+4. I trying to be an actress [SEP]",0.7951226,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they are getting good grades and behaving well in class . , the parents are going to be happy with how their kids are doing . ,1
+"I studied language, physics, and math in school, but now I'm trying to be an actress.
+","[CLS] I studied language
+2. I studied physics
+3. I studied math
+4. I trying to be an actress [SEP]",0.83530295,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they offer parents and guardians an opportunity to learn about their child's progress in school . , that parent-teacher meetings are so important . ,1

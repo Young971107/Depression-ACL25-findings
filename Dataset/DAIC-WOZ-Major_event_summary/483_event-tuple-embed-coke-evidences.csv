@@ -1,0 +1,41 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I cycled to Comic Con and felt proud of accomplishing that.
+",[CLS] I cycled Comic Con [SEP],0.63142776,I have to go to a lot of parent-teacher meetings because I'm a teacher . , have to talk to different parents about their children . , will not have time for anything else . ,0
+"I cycled to Comic Con and felt proud of accomplishing that.
+",[CLS] I cycled Comic Con [SEP],0.6417415,I will ask my doctor tomorrow about my test results . , I have been feeling really sick lately . , they will be bad . ,0
+"I got hit by a car recently and now walk with a cane.
+","[CLS] Participant got hit by a car
+2. Participant walk with a cane [SEP]",0.55348533,I beat the world record for the hundred-meter dash . , I have never been beaten before . , I  am the best . ,1
+"I got hit by a car recently and now walk with a cane.
+","[CLS] Participant got hit by a car
+2. Participant walk with a cane [SEP]",0.56320214,I beat the world record for the hundred-meter dash . , no one has ever run that fast before . , I have done something amazing . ,1
+"I was diagnosed with depression for the first time in middle school, about ten to twelve years ago.
+",[CLS] Participant was diagnosed with depression [SEP],0.47426215,I have been feeling really stressed lately and it's affecting my health . , I haven't been taking care of myself . , I won't be able to get better . ,0
+"I was diagnosed with depression for the first time in middle school, about ten to twelve years ago.
+",[CLS] Participant was diagnosed with depression [SEP],0.5808332,My doctor advised me to take medication for my anxiety . , I have been anxious for years . , it will never go away . ,0
+"I stopped going to therapy, but I'm not sure why; it just kind of happened.
+",[CLS] I stopped going to therapy [SEP],0.5291895,I ask my doctor for a referral to see a specialist . , my symptoms are not that bad . , he may think I am wasting his time . ,0
+"I stopped going to therapy, but I'm not sure why; it just kind of happened.
+",[CLS] I stopped going to therapy [SEP],0.53085077,I asked my doctor what medication she wanted me to take . , she is a professional . , she will  give me information on what I need to do to feel better . ,1
+"I broke up with my ex, who I had known since childhood, and it was a difficult decision.
+",[CLS] I broke up with my ex [SEP],0.36492103,One of my good friends from college just became my wife . , i was drunk when we got married . , she tricked me into marriage . ,0
+"I broke up with my ex, who I had known since childhood, and it was a difficult decision.
+",[CLS] I broke up with my ex [SEP],0.39548633,I was arguing with my boyfriend about going to the gym more often . , I was too headstrong . , I will never see him again . ,0
+"I had an argument about gun control regulation, which was the last serious argument I got into.
+",[CLS] I had argument [SEP],0.5160338,The speaker aroused my interest in the talk . , the information is probably too technical for me . , I will not be able to keep up with the pace . ,0
+"I had an argument about gun control regulation, which was the last serious argument I got into.
+",[CLS] I had argument [SEP],0.54012847,The speaker aroused my interest in the talk . , the speaker is well-prepared . , I would be able to understand the talk . ,1
+"I had a dangerous experience cycling down a steep hill with malfunctioning brakes.
+","[CLS] Participant have dangerous experience
+2. Participant cycle down a steep hill
+3. brakes malfunction  [SEP]",0.11793413,I am accompanied by my boss's wife . , she is an important person . , it will be an honor to meet her . ,1
+"I had a dangerous experience cycling down a steep hill with malfunctioning brakes.
+","[CLS] Participant have dangerous experience
+2. Participant cycle down a steep hill
+3. brakes malfunction  [SEP]",0.12084752,The news about the outbreak is affecting people's mental health . , it is something that is often neglected . , this will finally be the wake up call we needed to focus on our mental health . ,1
+"I broke up with my ex two years ago, which was a tumultuous time, and I went on a long cycling spree afterward.
+","[CLS] I broke up with my ex
+2. I went on a long cycling spree [SEP]",0.36172602,I ask my friend's boyfriend out on a date . , I am going after her man . , she will be upset . ,0
+"I broke up with my ex two years ago, which was a tumultuous time, and I went on a long cycling spree afterward.
+","[CLS] I broke up with my ex
+2. I went on a long cycling spree [SEP]",0.37098908,I spend many hours on the phone with my friends . , I procrastinate too much . , I will never get any work done . ,0

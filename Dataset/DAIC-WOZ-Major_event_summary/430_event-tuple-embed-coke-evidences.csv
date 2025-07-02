@@ -1,0 +1,67 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I was diagnosed with depression about five years ago.
+",[CLS][] [SEP],0.689028,I always told my friends that I would never get married . , I have too much doubt in my heart . , I will not find love . ,0
+"I was diagnosed with depression about five years ago.
+",[CLS][] [SEP],0.6893462,"My grandfather always tried to act like a man, even though he was very sick . ", he is in the hospital . , he is better now . ,1
+"In the past, I've had problems, but I'm getting better.
+",[CLS][] [SEP],0.65469897,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"In the past, I've had problems, but I'm getting better.
+",[CLS][] [SEP],0.6863961,I can barely afford my rent this month . , I have been making an effort to save money . , my financial situation will improve soon . ,1
+"I argued with my roommate a couple of days ago, but it was a loving argument.
+",[CLS] I argued with my roommate [SEP],0.44447118,I was arguing with my boyfriend about going to the gym more often . , I have nagged him about it for weeks now . , I will get my way . ,1
+"I argued with my roommate a couple of days ago, but it was a loving argument.
+",[CLS] I argued with my roommate [SEP],0.5290164,I was arguing with my boyfriend about going to the gym more often . , I was more insistent . , he will give up and I will win . ,1
+"Going to therapy has helped me manage my temper and not take situations so seriously.
+","[CLS] Participant go therapy
+2. Participant manage temper
+3. Participant not take situations so seriously [SEP]",0.7019311,I achieved my New Years' resolution to quit smoking cigarettes . , I will no longer be poisoning my body with nicotine . , I am going to improve my health . ,1
+"Going to therapy has helped me manage my temper and not take situations so seriously.
+","[CLS] Participant go therapy
+2. Participant manage temper
+3. Participant not take situations so seriously [SEP]",0.73499084,The cashier is trying to explain to the customer why there is a limit on the number of items they can purchase . , they are not getting frustrated with the customer . , the cashier is being very professional and polite . ,1
+"I'm not as close to my family as I used to be, but I still care for them and am very close to my older sister.
+","[CLS] Participant care for family
+2. Participant be close to older sister [SEP]",0.5422824,I want to bring up my children in a safe and loving environment . , they will feel loved and supported . , they will be happy and content . ,1
+"I'm not as close to my family as I used to be, but I still care for them and am very close to my older sister.
+","[CLS] Participant care for family
+2. Participant be close to older sister [SEP]",0.56031895,I appear among a group of people who are discussing the new company project . , I 'm  the only one who knows about the project . , my co-workers respect me . ,1
+"My older sister has been a positive influence in my life.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.4278202,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"My older sister has been a positive influence in my life.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.46729648,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have different hobbies and backgrounds . , that we have nothing in common . ,0
+"My symptoms of depression included lethargy, lack of motivation, and becoming socially awkward.
+",[CLS][] [SEP],0.7126883,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"My symptoms of depression included lethargy, lack of motivation, and becoming socially awkward.
+",[CLS][] [SEP],0.73827755,I am waiting for my turn in the doctor's office . , there are many people in the waiting room . , I will have to wait for a long time . ,0
+"I wish I could be taller and play basketball to become an NBA player, even though it's unrealistic.
+",[CLS][] [SEP],0.8190379,"I don't act my age, according to my friends . ", I am not being childish . , I am not acting my age . ,0
+"I wish I could be taller and play basketball to become an NBA player, even though it's unrealistic.
+",[CLS][] [SEP],0.95815414,My grandfather attended my grandmother's funeral . , he was out of town when she died . , he has seen her for the first time in years . ,1
+"I have a hobby of rescuing dogs and finding their owners, which brings me joy.
+","[CLS] Participant have hobby of rescuing dogs
+2. Participant find their owners
+3. hobby bring joy [SEP]",0.6817182,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I have a hobby of rescuing dogs and finding their owners, which brings me joy.
+","[CLS] Participant have hobby of rescuing dogs
+2. Participant find their owners
+3. hobby bring joy [SEP]",0.7812307,My grandfather attended my grandmother's funeral . , they were married for over 50 years . , he would be very sad . ,0
+"Breaking up with a girlfriend I truly cared about was the hardest decision I've ever had to make.
+",[CLS] Participant break up with girlfriend [SEP],0.35053402,I kept my fingers crossed while my friend proposed to his girlfriend . , he was holding her hand and she was smiling . , he is going to say yes . ,1
+"Breaking up with a girlfriend I truly cared about was the hardest decision I've ever had to make.
+",[CLS] Participant break up with girlfriend [SEP],0.35119444,I was arguing with my boyfriend about going to the gym more often . , I was too headstrong . , I will never see him again . ,0
+"I sought help because I was tired of feeling emotionally troubled and knew there was an issue.
+","[CLS] I sought help
+2. I was tired of feeling emotionally troubled
+3. I knew there was an issue [SEP]",0.62586033,I accomplish my goals by working hard and studying diligently . , my parents and friends are proud of me . , I've done a great job . ,1
+"I sought help because I was tired of feeling emotionally troubled and knew there was an issue.
+","[CLS] I sought help
+2. I was tired of feeling emotionally troubled
+3. I knew there was an issue [SEP]",0.6745926,I had to ask my girlfriend's mom for help because I forgot her birthday . , I have always been respectful to her and her daughter . , she will be okay with it . ,1
+"I feel guilty about a relationship with a girl who was a girlfriend of a best friend, which hurt him and ended our friendship.
+","[CLS] Participant feel guilty relationship with a girl
+2. Participant hurt best friend
+3. Participant end friendship [SEP]",0.121608056,I am accompanied by my boss's wife . , she is an important person . , it will be an honor to meet her . ,1
+"I feel guilty about a relationship with a girl who was a girlfriend of a best friend, which hurt him and ended our friendship.
+","[CLS] Participant feel guilty relationship with a girl
+2. Participant hurt best friend
+3. Participant end friendship [SEP]",0.1233874,I approach my friend's crush in order to try and set them up on a date . , she is really interested in him . , my friend would be really happy if I helped them out . ,1
