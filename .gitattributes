@@ -1,0 +1,4 @@
+index_mean_var_combine.index filter=lfs diff=lfs merge=lfs -text
+index_raw.index filter=lfs diff=lfs merge=lfs -text
+index_var.index filter=lfs diff=lfs merge=lfs -text
+index_mean.index filter=lfs diff=lfs merge=lfs -text
