@@ -1,0 +1,41 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I played basketball last month.
+",[CLS] I played basketball [SEP],0.43765917,My friends ask me to prom . , we always have a great time when we are together . , they will have fun with me . ,1
+"I played basketball last month.
+",[CLS] I played basketball [SEP],0.45951158,My friends asked me to come play soccer with them . , I love playing soccer . , I am going to have so much fun . ,1
+"I live in Los Angeles.
+",[CLS][] [SEP],0.68093044,I raised my eyebrow to look arrogant . , I intended it to look cool . , people will take it the wrong way . ,0
+"I live in Los Angeles.
+",[CLS][] [SEP],0.7027593,I always told my friends that I would never get married . , I have too much doubt in my heart . , I will not find love . ,0
+"I don't travel a lot because there are too many people.
+",[CLS][] [SEP],0.6261295,I can't believe how much my tuition has gone up since I last looked into affording college . , it's too expensive . , I may never be able to go to the college I want to . ,0
+"I don't travel a lot because there are too many people.
+",[CLS][] [SEP],0.62765443,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"I enjoy playing basketball.
+",[CLS]- I enjoy playing basketball [SEP],0.61987245,I asked my friend's husband if he wanted to play tennis . , I love playing tennis . , I would have a lot of fun . ,1
+"I enjoy playing basketball.
+",[CLS]- I enjoy playing basketball [SEP],0.6382433,I bait my grandpa's hook when we go fishing . , I'm the one who put it on there . , I'm going to get to eat all the bait . ,1
+"I find it relaxing to sleep.
+",[CLS][] [SEP],0.82141006,I was airing my dirty laundry in public . , honesty is always the best policy . , people will like me more for it . ,1
+"I find it relaxing to sleep.
+",[CLS][] [SEP],0.84881574,I raised my eyebrow to look arrogant . , I intended to look arrogant . , I looked like an arrogant jerk . ,0
+"I don't have any experiences where someone made me feel really badly about myself.
+",[CLS][] [SEP],0.6491132,"The more I learn about my co-workers, the more I realize how much we have in common . ", I'm not interested in the same things as them . , I will never have friends at work . ,0
+"I don't have any experiences where someone made me feel really badly about myself.
+",[CLS][] [SEP],0.6764085,"I don't act my age, according to my friends . ", I will be seen as a child . , I will never be respected . ,0
+"I don't remember the last time I felt really happy.
+",[CLS]No clear event can be extracted from this sentence. [SEP],0.5834205,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"I don't remember the last time I felt really happy.
+",[CLS]No clear event can be extracted from this sentence. [SEP],0.5982239,I am biding my time until my next vacation . , I will have nothing to do . , I will be bored . ,0
+"I don't have any regrets or situations I wish I had handled differently.
+",[CLS][] [SEP],0.7124555,I am basing my decision on previous experiences . , this has worked out well for me in the past . , I know what I'm doing . ,1
+"I don't have any regrets or situations I wish I had handled differently.
+",[CLS][] [SEP],0.7155215,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I haven't been diagnosed with PTSD or depression.
+",[CLS][] [SEP],0.61575043,We were waiting in line for the new iPhone . , We have been waiting for hours . , We are going to be first . ,1
+"I haven't been diagnosed with PTSD or depression.
+",[CLS][] [SEP],0.6218899,I can barely afford my rent this month . , I have a good job . , things  will get better soon . ,1
+"I think bad people doing bad things, like car accidents, make me really mad.
+",[CLS][] [SEP],0.6371678,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"I think bad people doing bad things, like car accidents, make me really mad.
+",[CLS][] [SEP],0.6377579,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0

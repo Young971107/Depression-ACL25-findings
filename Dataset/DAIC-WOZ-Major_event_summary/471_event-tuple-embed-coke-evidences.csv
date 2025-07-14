@@ -1,0 +1,93 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I always experience joy when I'm exercising at a very high level of exertion, like surfing, snowboarding, rock climbing, or mountain biking.
+",[CLS][] [SEP],0.612972,I was airing my dirty laundry in public . , honesty is always the best policy . , people will like me more for it . ,1
+"I always experience joy when I'm exercising at a very high level of exertion, like surfing, snowboarding, rock climbing, or mountain biking.
+",[CLS][] [SEP],0.6267517,I raised my eyebrow to look arrogant . , I intended to look arrogant . , I looked like an arrogant jerk . ,0
+"I regret not getting married and having kids.
+",[CLS][] [SEP],0.67462194,My son is waiting his turn to get a haircut . , he has my eyes . , he looks so handsome . ,1
+"I regret not getting married and having kids.
+",[CLS][] [SEP],0.6837718,We will arrived at the conference room in 5 minutes . , no one told us the time . , We will be the only ones there . ,0
+"My ex-boss used a lot of profanity toward me on my last day of work, and when I objected, he fired me. This happened a year and a half ago, and it's still on my mind.
+","[CLS] ex-boss used profanity
+2. I objected profanity
+3. ex-boss fired me [SEP]",0.6858597,He's advancing towards me with a knife . , I'm in good shape . , I can run faster than him . ,1
+"My ex-boss used a lot of profanity toward me on my last day of work, and when I objected, he fired me. This happened a year and a half ago, and it's still on my mind.
+","[CLS] ex-boss used profanity
+2. I objected profanity
+3. ex-boss fired me [SEP]",0.7023485,My coworker is always advancing toward me and trying to engage in small talk . , she never talks to me when we are not at work . , she is just trying to be friends with me and not actually interested . ,0
+"I recently gave a rock climbing lesson, and the participants thanked me, saying it may have changed their lives, which was very gratifying.
+",[CLS] participants thanked me [SEP],0.5861134,I asked my friends what they thought of my new haircut . , they have never been afraid to tell me the truth . , they will give me an honest opinion . ,1
+"I recently gave a rock climbing lesson, and the participants thanked me, saying it may have changed their lives, which was very gratifying.
+",[CLS] participants thanked me [SEP],0.64986104,I asked my boss if he was okay after he got in a car accident . , he smiled and said he was fine . , he appreciated my sincerity . ,1
+"I received a diagnosis of cancer one month ago, and it's been affecting my sleep.
+","[CLS] I received diagnosis of cancer
+2. it been affecting my sleep [SEP]",0.627944,I applied my sunscreen before going to the beach . , I put on enough and I reapply every few hours . , I will not get a sunburn . ,1
+"I received a diagnosis of cancer one month ago, and it's been affecting my sleep.
+","[CLS] I received diagnosis of cancer
+2. it been affecting my sleep [SEP]",0.6320671,My health is Affected by my grandfather's death . , he was the one who always listened to me and gave me good advices . , I will never be the same . ,0
+"I argued with my father for many months and years about pursuing medicine, but I eventually prevailed and didn't go that route, which was a difficult period in my life.
+","[CLS] I argued with my father
+2. I prevailed and didn't go that route [SEP]",0.54963607,I argue my father's case in order to persuade him to see things my way . , he has always been a reasonable man . , he will see reason and change his point of view . ,1
+"I argued with my father for many months and years about pursuing medicine, but I eventually prevailed and didn't go that route, which was a difficult period in my life.
+","[CLS] I argued with my father
+2. I prevailed and didn't go that route [SEP]",0.58881235,My lawyer is arguing my case in front of the judge . , my lawyer is very good . , the judge will rule in my favor . ,1
+"I have a good relationship with my younger brother, but my older brother has psychological issues that affect me.
+","[CLS] Participant have good relationship with younger brother
+2. Older brother has psychological issues
+3. Psychological issues affect Participant [SEP]",0.5209315,My cousin's depression affects our family . , we are all she has . , I think we can help her through it . ,1
+"I have a good relationship with my younger brother, but my older brother has psychological issues that affect me.
+","[CLS] Participant have good relationship with younger brother
+2. Older brother has psychological issues
+3. Psychological issues affect Participant [SEP]",0.6084937,My boss's decision will affect my interests . , my boss cares about me . , he will consider what I have to say . ,1
+"I was pushed by my father to study biology, but now I work in business and am happy with that decision.
+","[CLS] Participant was pushed to study biology
+2. Participant work in business
+3. Participant am happy with that decision [SEP]",0.6181929,I appear among a group of people who are discussing the new company project . , I 'm  the only one who knows about the project . , my co-workers respect me . ,1
+"I was pushed by my father to study biology, but now I work in business and am happy with that decision.
+","[CLS] Participant was pushed to study biology
+2. Participant work in business
+3. Participant am happy with that decision [SEP]",0.6345328,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I wish I could submerge my hedonistic self.
+",[CLS][] [SEP],0.67811394,I feel like I'm finally starting to act my age and mature a little bit . , I haven't had any experience with this before . , I will be stuck in this awkward phase forever . ,0
+"I wish I could submerge my hedonistic self.
+",[CLS][] [SEP],0.7269615,I have the same name as my dad . , we have the same name . , he's a positive person . ,1
+"I enjoy traveling and experiencing different cultures, which has expanded my awareness.
+","[CLS]- I enjoy traveling
+- I enjoy experiencing different cultures
+- traveling and experiencing different cultures has expanded my awareness [SEP]",0.70202553,I am asking for travel advice from people who have been to Spain before . , they seem to know what they are talking about . , I am going to get some good tips . ,1
+"I enjoy traveling and experiencing different cultures, which has expanded my awareness.
+","[CLS]- I enjoy traveling
+- I enjoy experiencing different cultures
+- traveling and experiencing different cultures has expanded my awareness [SEP]",0.7063837,I spend most of my money on travel and experiences rather than things . , people usually spend money on materialistic things . , I will be called stingy . ,0
+"My father was a deferrer of gratification, focusing on the future, while I focus on the present.
+",[CLS][] [SEP],0.7302954,I feel like I'm finally starting to act my age and mature a little bit . , it will likely lead to more opportunities and experiences . , this is a good development . ,1
+"My father was a deferrer of gratification, focusing on the future, while I focus on the present.
+",[CLS][] [SEP],0.7516003,I pretend to be interested in sports so that my male friends will not think I am weird . , they are very perceptive . , they will see right through me . ,0
+"I visited an island off the coast of Fiji called Tavarua, which was an incredible experience.
+",[CLS] I visited an island off the coast of Fiji called Tavarua [SEP],0.87396175,I broke my mom's favorite vase . , she was so angry . , she will never forgive me . ,0
+"I visited an island off the coast of Fiji called Tavarua, which was an incredible experience.
+",[CLS] I visited an island off the coast of Fiji called Tavarua [SEP],0.8821574,I asked my friend's boyfriend if he wanted to go on a trip with us to the Caribbean . , the trip is very expensive . , he may not want to go with us . ,0
+"My brother is clinically depressed and has suicidal tendencies, which is difficult for me to cope with.
+",[CLS][] [SEP],0.62212306,I was waiting for my friends to show up at the party . , the party was for them . , they would have a great time . ,1
+"My brother is clinically depressed and has suicidal tendencies, which is difficult for me to cope with.
+",[CLS][] [SEP],0.62291205,"My grandfather always tried to act like a man, even though he was very sick . ", he isn't trying to act like anything . , he is better now . ,1
+"I argued with my girlfriend about her lack of consideration, which left me feeling frustrated.
+",[CLS] Participant argued girlfriend [SEP],0.41059458,I was arguing with my boyfriend about going to the gym more often . , he  left  me . , I will never see him again . ,0
+"I argued with my girlfriend about her lack of consideration, which left me feeling frustrated.
+",[CLS] Participant argued girlfriend [SEP],0.41620392,I was arguing with my boyfriend about going to the gym more often . , I want to be healthy and stay in shape . , it was a valid concern . ,1
+"In my later years, I've learned to vocalize my displeasure with others' actions, which helps manage my anger.
+","[CLS] I learned vocalize my displeasure
+2. I manage my anger [SEP]",0.5752106,My boss's mood affects my ability to concentrate on my work . , my work is getting sloppy . , I may get fired . ,0
+"In my later years, I've learned to vocalize my displeasure with others' actions, which helps manage my anger.
+","[CLS] I learned vocalize my displeasure
+2. I manage my anger [SEP]",0.58016145,My boss's mood affects my ability to concentrate on my work . , I can't seem to focus . , I may get fired . ,0
+"I am devoted to the environment and have been vocal about being a steward against pollution.
+","[CLS]- I am devoted to the environment
+- I have been vocal about being a steward against pollution [SEP]",0.610854,I really admire my boss's work ethic . , she is always working hard . , she sets a great example for me . ,1
+"I am devoted to the environment and have been vocal about being a steward against pollution.
+","[CLS]- I am devoted to the environment
+- I have been vocal about being a steward against pollution [SEP]",0.6314862,"The more I learn about my co-workers, the more I realize how much we have in common . ", I used to think that we were very different . , I will have to change my perception about them . ,0
+"I try to enjoy life because you never know when it will end, especially with my cancer diagnosis.
+",[CLS] I try enjoy life [SEP],0.44196862,I act my age and enjoy my life despite what other people say . , I 'll only live once . , I deserve to be happy . ,1
+"I try to enjoy life because you never know when it will end, especially with my cancer diagnosis.
+",[CLS] I try enjoy life [SEP],0.4502725,I act my age and enjoy my life despite what other people say . , I should be doing other things . , I am not enjoying my life . ,0

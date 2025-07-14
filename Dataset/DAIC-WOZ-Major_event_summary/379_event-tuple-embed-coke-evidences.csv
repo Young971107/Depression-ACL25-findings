@@ -1,0 +1,151 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I wish I could be nicer and more determined, as I sometimes get lackadaisical and procrastinate.
+",[CLS][] [SEP],0.7359178,I was waiting for my friends to show up at the party . , the party was for them . , they would have a great time . ,1
+"I wish I could be nicer and more determined, as I sometimes get lackadaisical and procrastinate.
+",[CLS][] [SEP],0.7888923,I feel like I'm finally starting to act my age and mature a little bit . , that's what people my age are expected to do . , I will have to start acting serious and responsible all the time . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.63961226,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6856697,"I accidentally sent an email to my boss that was meant for my friend, and I apologized profusely . ", I have always been a competent and reliable employee . , my boss will understand the situation . ,1
+"A couple of years ago, I couldn't control my temper and would get angry at the littlest things, but I've learned to manage it better now.
+","[CLS] I couldn't control my temper
+2. I would get angry the littlest things
+3. I have learned to manage it better [SEP]",0.5853076,I was biting my tongue the other day to keep from saying something I would regret . , it would have been a bad idea to start arguing . , that it stopped me from getting into a fight . ,1
+"A couple of years ago, I couldn't control my temper and would get angry at the littlest things, but I've learned to manage it better now.
+","[CLS] I couldn't control my temper
+2. I would get angry the littlest things
+3. I have learned to manage it better [SEP]",0.59356904,My cousin's bad attitude affects everyone's mood when we are around her . , I 'm the oldest in the family . , I will be the one who has to talk to her about it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.57730895,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.58803153,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I argued with my family, probably my mother, over something minuscule, but we eventually made up, and I apologized.
+","[CLS] Participant argued family
+2. Participant made up family
+3. Participant apologized family [SEP]",0.7074804,My co-worker became my friend . , it is unprofessional . , I may get fired if we become too close . ,0
+"I argued with my family, probably my mother, over something minuscule, but we eventually made up, and I apologized.
+","[CLS] Participant argued family
+2. Participant made up family
+3. Participant apologized family [SEP]",0.7103534,I will be taking over my grandmother's house responsibilities while she is in the hospital . , it will be a lot to handle . , I will not be able to cope with everything . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6019983,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.63808274,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I'm most proud of graduating high school and about to graduate college, hoping to earn a degree and get a good job.
+","[CLS] Participant proud of graduating high school
+2. Participant about to graduate college
+3. Participant hoping to earn a degree
+4. Participant hoping to get a good job [SEP]",0.649631,I achieved my goal of quitting my day job and becoming a full-time writer . , full-time writers don't make much money . , I will never make as much money as I did at my day job . ,0
+"I'm most proud of graduating high school and about to graduate college, hoping to earn a degree and get a good job.
+","[CLS] Participant proud of graduating high school
+2. Participant about to graduate college
+3. Participant hoping to earn a degree
+4. Participant hoping to get a good job [SEP]",0.65252054,The art teacher arouses myinterest in painting . , I have no experience in mixing colors . , I will not be able to choose the right colors . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6023747,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6538085,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"One of my most memorable experiences was traveling to Hawaii or the Caribbean and experiencing new and unique things.
+",[CLS][] [SEP],0.7872052,There was a big crowd around the entrance to the club . , I don't have enough money to bribe the bouncer . , I will not get in . ,0
+"One of my most memorable experiences was traveling to Hawaii or the Caribbean and experiencing new and unique things.
+",[CLS][] [SEP],0.8154986,"The more I learn about my co-workers, the more I realize how much we have in common . ", we may have different backgrounds and interests . , we may not have anything in common . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.28040498,The new hire baits his own hook during his first fishing lesson with his boss . , he is doing what is expected . , he will get the job . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.28316742,The government allocates resources efficiently to address the inequality in our society . , the government will be investing in them . , it will help many people . ,1
+"I recently got an internship in journalism, which makes me feel good as I'm about to graduate and start making more money.
+","[CLS] I got internship
+2. internship makes me feel good
+3. I am about to graduate 
+4. I start making more money [SEP]",0.572925,I was asking my friend's mom if she could watch my dog while I'm out of town . , I have been good to her daughter and she likes me . , I will get a yes from her . ,1
+"I recently got an internship in journalism, which makes me feel good as I'm about to graduate and start making more money.
+","[CLS] I got internship
+2. internship makes me feel good
+3. I am about to graduate 
+4. I start making more money [SEP]",0.58499384,I asked my boss for a day off tomorrow so I can go to my daughter's graduation . , she always talks about how important family is to her . , I will be able to attend . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.53530514,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6118403,I have been trying to adjust the spacing on my powerpoint presentation for the last hour . , my presentation turned out beautifully in the end . , I accomplished something great . ,1
+"I regret getting a DUI four years ago, but I've accepted it and believe I'm better off for it.
+","[CLS] Participant regret getting a DUI
+2. Participant accept it
+3. Participant believe better off for it [SEP]",0.6402378,"I need to do some laundry, but I keep procrastinating . ", she always does . , my mom will do it for me . ,0
+"I regret getting a DUI four years ago, but I've accepted it and believe I'm better off for it.
+","[CLS] Participant regret getting a DUI
+2. Participant accept it
+3. Participant believe better off for it [SEP]",0.6507078,I asked for my friend's explanation about why he was arguing with his girlfriend . , he had always confided in me about his relationship problems in the past . , he was going to open up to me and tell me everything . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.52164316,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5294063,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have different hobbies and backgrounds . , that we have nothing in common . ,0
+"I feel guilty about not being as nice to others as I could have been in the past, but I'm working on it.
+","[CLS] Participant feel guilty about not being as nice to others
+2. Participant work on it [SEP]",0.13787891,I accomplish my goals by working hard and studying diligently . , I will have better opportunities in the future . , my efforts positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively will be paid off . ,1
+"I feel guilty about not being as nice to others as I could have been in the past, but I'm working on it.
+","[CLS] Participant feel guilty about not being as nice to others
+2. Participant work on it [SEP]",0.1481396,I take on the form of my boss in order to make a point to my employees . , they will be able to visualize what I'm saying . , my message will get across to them more effectively . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.66120553,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.70753574,I asked my friend for my crush's number . , she smiled and said Sure! , she likes me too . ,1
+"The hardest decision I had to make was dealing with my buddy's diagnosis of paranoid schizophrenia, which made it hard to talk to him.
+",[CLS] Participant deal with buddy's diagnosis of paranoid schizophrenia [SEP],0.66705155,My cousin's depression affects our family . , we are all she has . , I think we can help her through it . ,1
+"The hardest decision I had to make was dealing with my buddy's diagnosis of paranoid schizophrenia, which made it hard to talk to him.
+",[CLS] Participant deal with buddy's diagnosis of paranoid schizophrenia [SEP],0.67290604,I try to calm my boss's fears about the company's future . , I haven't been with the company for very long  . , my boss will think I am not competent . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.52667624,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5492307,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"Something I did recently that I enjoyed was writing stories at my internship, which will be published in the paper.
+","[CLS] Participant enjoyed writing stories
+2. Participant did writing stories
+3. Stories will be published paper [SEP]",0.7500565,I have to go to a lot of parent-teacher meetings because I'm a teacher . , the kids are progressing well . , the parents are going to be happy with how their kids are doing . ,1
+"Something I did recently that I enjoyed was writing stories at my internship, which will be published in the paper.
+","[CLS] Participant enjoyed writing stories
+2. Participant did writing stories
+3. Stories will be published paper [SEP]",0.77849805,I try to calm my boss's fears about the company's future . , I'm not a very credible person . , he will not believe me . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6090456,I asked my friend for my crush's number . , she smiled and said Sure! , she likes me too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.663247,I needed to ask my boss for my co-worker's phone number . , I have been working hard . , she will approve . ,1
+"The last time I felt really happy was when my buddy, who still had his sanity, visited from the Air Force, and we hung out and talked about life.
+","[CLS] Participant felt happy
+2. Participant hung out buddy
+3. Participant talked life [SEP]",0.6810173,"I was dared to skydive , so I agreed . ", I am scared of heights . , I might die . ,0
+"The last time I felt really happy was when my buddy, who still had his sanity, visited from the Air Force, and we hung out and talked about life.
+","[CLS] Participant felt happy
+2. Participant hung out buddy
+3. Participant talked life [SEP]",0.69775444,I have asked my helper to take my place while I am on vacation . , she is not reliable . , my work will not be done properly . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.4968771,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5129801,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"I travel a lot and have been to places like Hawaii, the Caribbean, Mexico, Arizona, Oregon, and Washington.
+","[CLS] I travel a lot
+2. I have been to Hawaii
+3. I have been to the Caribbean
+4. I have been to Mexico
+5. I have been to Arizona
+6. I have been to Oregon
+7. I have been to Washington [SEP]",0.62371933,I bought souvenirs for my family when I was in Mexico . , Mexico is a beautiful country with a lot of history . , they will love them . ,1
+"I travel a lot and have been to places like Hawaii, the Caribbean, Mexico, Arizona, Oregon, and Washington.
+","[CLS] I travel a lot
+2. I have been to Hawaii
+3. I have been to the Caribbean
+4. I have been to Mexico
+5. I have been to Arizona
+6. I have been to Oregon
+7. I have been to Washington [SEP]",0.70338607,I bought souvenirs for my family when I was in Mexico . , they are very colorful . , my niece and nephews will enjoy playing with them . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5669997,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.57255244,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"To relax, I listen to music, go for a drive, or hang out with friends to ease tension.
+","[CLS] I listen music
+2. I go drive
+3. I hang out friends [SEP]",0.7939224,I asked my friend's boyfriend if he liked me . , he had been gazing at me intently for the past few weeks . , he was going to say yes . ,1
+"To relax, I listen to music, go for a drive, or hang out with friends to ease tension.
+","[CLS] I listen music
+2. I go drive
+3. I hang out friends [SEP]",0.8467135,I was eavesdropping on a conversation and I think I heard my boss say that I'm getting a promotion . , I overheard my boss say that . , I will be getting a promotion . ,1

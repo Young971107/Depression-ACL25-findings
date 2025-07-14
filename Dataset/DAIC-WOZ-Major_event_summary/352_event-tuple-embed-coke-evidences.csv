@@ -1,0 +1,75 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I argued with my parents about needing to be more self-sufficient and independent, especially regarding car issues and financial matters.
+",[CLS] I argued with my parents [SEP],0.6940903,I ask my family for their opinion on a major life decision I am about to make . , they never listen to me . , they will disapprove . ,0
+"I argued with my parents about needing to be more self-sufficient and independent, especially regarding car issues and financial matters.
+",[CLS] I argued with my parents [SEP],0.72298014,I ask my family for their opinion on a major life decision I am about to make . , they have always been supportive and they want what is best for me . , their opinion is very important to me . ,1
+"Over the past week, I've become a lot more positive after feeling like a hermit due to being in a new city and not knowing many people. Getting a job offer has boosted my confidence and positivity.
+","[CLS] Participant become more positive
+2. Participant feel like a hermit
+3. Participant get a job offer
+4. Job offer boost Participant's confidence and positivity [SEP]",0.08715926,I am babysitting my friend's cousin while they go out on a date . , I am helping them out . , I'm doing a good deed . ,1
+"Over the past week, I've become a lot more positive after feeling like a hermit due to being in a new city and not knowing many people. Getting a job offer has boosted my confidence and positivity.
+","[CLS] Participant become more positive
+2. Participant feel like a hermit
+3. Participant get a job offer
+4. Job offer boost Participant's confidence and positivity [SEP]",0.08730557,I act on my boss's behalf and sign a contract that I do not agree with . , I would not want to disobey my boss and get in trouble . , that I will be following my boss's orders . ,1
+"I have traveled a lot in the past, working for Norwegian Cruise Line and going on an eleven-month mission trip around the world to help in different third-world countries.
+","[CLS] Participant traveled a lot
+2. Participant worked Norwegian Cruise Line
+3. Participant went an eleven-month mission trip
+4. Participant helped different third-world countries [SEP]",0.6956345,I have achieved one of my New Year's resolutions- to travel to Thailand! . , I planned and saved for it and I deserve a vacation . , I will go and have an amazing time . ,1
+"I have traveled a lot in the past, working for Norwegian Cruise Line and going on an eleven-month mission trip around the world to help in different third-world countries.
+","[CLS] Participant traveled a lot
+2. Participant worked Norwegian Cruise Line
+3. Participant went an eleven-month mission trip
+4. Participant helped different third-world countries [SEP]",0.6978715,I achieve my objective of getting a raise . , she wants to save money . , my boss will give me more work . ,0
+"I recently went to explore a part of the South Bay area, went for a jog along the beach, and drove up a cliff to see beautiful scenery, which made me feel really happy.
+","[CLS] Participant went South Bay area
+2. Participant jog beach
+3. Participant drove cliff
+4. Participant see scenery
+5. Participant feel happy [SEP]",0.8927534,"I was dared to skydive , but I agreed . ", I  have never done it before . , skydiving  is an amazing experience . ,1
+"I recently went to explore a part of the South Bay area, went for a jog along the beach, and drove up a cliff to see beautiful scenery, which made me feel really happy.
+","[CLS] Participant went South Bay area
+2. Participant jog beach
+3. Participant drove cliff
+4. Participant see scenery
+5. Participant feel happy [SEP]",0.96625596,I bring home my date to my parent's house for the first time . , they  are prejudiced against her religion . , they  will not like her . ,0
+"I went home to Oklahoma for Christmas, saw friends from college, and had a great time going out to dinner and having fun with them.
+","[CLS] I went home to Oklahoma
+2. I saw friends from college
+3. I had a great time
+4. I went out to dinner
+5. I had fun [SEP]",0.632161,I asked my boss for a day off tomorrow so I can go to my daughter's graduation . , she always talks about how important family is to her . , I will be able to attend . ,1
+"I went home to Oklahoma for Christmas, saw friends from college, and had a great time going out to dinner and having fun with them.
+","[CLS] I went home to Oklahoma
+2. I saw friends from college
+3. I had a great time
+4. I went out to dinner
+5. I had fun [SEP]",0.6805255,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1
+"I studied psychology and minored in art, and I just got hired to work at a group home for teenage boys who have been in trouble with the law.
+","[CLS] I studied psychology
+2. I minored art
+3. I got hired group home [SEP]",0.824249,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they are getting good grades and behaving well in class . , the parents are going to be happy with how their kids are doing . ,1
+"I studied psychology and minored in art, and I just got hired to work at a group home for teenage boys who have been in trouble with the law.
+","[CLS] I studied psychology
+2. I minored art
+3. I got hired group home [SEP]",0.83128655,I'm so proud of myself- I brought my grades up from a C to an A in just one semester! . , it was really hard to bring my grades up . , I will not be able to do it again . ,0
+"I have been feeling really good lately after being unemployed for several months. Getting a job offer has relieved a lot of pressure and lifted my spirits.
+","[CLS] Participant have been feeling really good
+2. Participant getting a job offer
+3. Job offer has relieved a lot of pressure
+4. Job offer has lifted my spirits [SEP]",0.09327191,I act on my boss's behalf and sign a contract that I do not agree with . , I would not want to disobey my boss and get in trouble . , that I will be following my boss's orders . ,1
+"I have been feeling really good lately after being unemployed for several months. Getting a job offer has relieved a lot of pressure and lifted my spirits.
+","[CLS] Participant have been feeling really good
+2. Participant getting a job offer
+3. Job offer has relieved a lot of pressure
+4. Job offer has lifted my spirits [SEP]",0.09565987,"After I put in a hard day's work, it was nice to come home to a home-cooked meal . ", they kissed me on the cheek and said thank you . , my partner appreciate d the effort . ,1
+"I moved to L.A. because I always wanted to live in California and be near the ocean, as I hated being landlocked in Oklahoma.
+","[CLS] I moved L.A.
+2. I wanted live in California
+3. I hated being landlocked in Oklahoma [SEP]",0.7779201,"After careful consideration, I have decided to move to Seattle . ", I have been planning on moving for a while now . , it will be a fresh start for me . ,1
+"I moved to L.A. because I always wanted to live in California and be near the ocean, as I hated being landlocked in Oklahoma.
+","[CLS] I moved L.A.
+2. I wanted live in California
+3. I hated being landlocked in Oklahoma [SEP]",0.7811965,"After careful consideration, I have decided to move to Seattle . ", I'm not familiar with anyone there . , I will be all alone in a new city . ,0

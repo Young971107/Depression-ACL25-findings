@@ -1,0 +1,93 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+I was diagnosed with depression in ,[CLS]I'm sorry but I can't assist with that request. [SEP],0.6631705,My dad always told me that I should travel while I'm young . , I would be able to see different places and learn about new cultures . , he was right . ,1
+I was diagnosed with depression in ,[CLS]I'm sorry but I can't assist with that request. [SEP],0.705806,I am going to ask my friend's crush out on a date . , I am not confident . , he/she will say no . ,0
+"I argued with a friend a couple of days ago because they made a comment about how I am, which upset me.
+","[CLS] I argued with a friend
+2. they made a comment
+3. comment upset me [SEP]",0.099294655,I am forming a new organization with my friends . , we don't have similar vision . , it will not work out . ,0
+"I argued with a friend a couple of days ago because they made a comment about how I am, which upset me.
+","[CLS] I argued with a friend
+2. they made a comment
+3. comment upset me [SEP]",0.104338035,I decided to go on a hike with my friends . , I  don't  know  the  area  well . , I  would  get  lost . ,0
+"I sometimes feel like I don't fit into the crowd, so I tend to be more quiet and observe rather than actively engage.
+","[CLS] I feel like I don't fit into the crowd
+2. I tend to be more quiet
+3. I observe rather than actively engage [SEP]",0.51647305,I feel like I'm finally starting to act my age and mature a little bit . , it shows that I am ready to face adult challenges . , this will take me far in life . ,1
+"I sometimes feel like I don't fit into the crowd, so I tend to be more quiet and observe rather than actively engage.
+","[CLS] I feel like I don't fit into the crowd
+2. I tend to be more quiet
+3. I observe rather than actively engage [SEP]",0.5277386,"I was trying to get my friend's attention, but she was too busy talking to other people . ", she didn't care about me . , I am not important to her . ,0
+"I have been feeling a bit more withdrawn lately.
+",[CLS][] [SEP],0.6805229,I always told my friends that I would never get married . , I didn't want it . , I will not find love . ,0
+"I have been feeling a bit more withdrawn lately.
+",[CLS][] [SEP],0.7588258,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"I have been experiencing symptoms like feeling hopeless, low energy, concentration issues, and disturbing thoughts.
+","[CLS] Participant experience symptoms
+2. Participant feel hopeless
+3. Participant have low energy
+4. Participant have concentration issues
+5. Participant have disturbing thoughts [SEP]",0.6113228,My aunt's travel has really affected her health . , she is taking more rest and her skin is looking good . , that her health is getting better . ,1
+"I have been experiencing symptoms like feeling hopeless, low energy, concentration issues, and disturbing thoughts.
+","[CLS] Participant experience symptoms
+2. Participant feel hopeless
+3. Participant have low energy
+4. Participant have concentration issues
+5. Participant have disturbing thoughts [SEP]",0.6353991,My allergies are really starting to affect my ability to concentrate in class . , It's hard to focus when you can't stop sneezing . , It'll be hard to keep up with the material . ,0
+"I have difficulty sleeping well recently due to having a lot of thoughts on my mind at night.
+","[CLS] Participant have difficulty sleeping
+2. Participant have thoughts on mind [SEP]",0.63695025,My allergies are really starting to affect my ability to concentrate in class . , I have been taking medication for them . , I will be able to get a handle on them . ,1
+"I have difficulty sleeping well recently due to having a lot of thoughts on my mind at night.
+","[CLS] Participant have difficulty sleeping
+2. Participant have thoughts on mind [SEP]",0.63705707,My cousin's depression affects our family . , we are all she has . , I think we can help her through it . ,1
+"I sought help because I was going through a lot of issues and felt unsafe to myself, leading me to see a doctor for medication and therapy.
+","[CLS] I sought help
+2. I was going through issues
+3. I felt unsafe
+4. I see doctor
+5. I see medication
+6. I see therapy [SEP]",0.6516048,My chiropractor has been having me come in three times a week to help improve my posture . , he said it takes time and a lot of effort . , my spine will be straighter . ,1
+"I sought help because I was going through a lot of issues and felt unsafe to myself, leading me to see a doctor for medication and therapy.
+","[CLS] I sought help
+2. I was going through issues
+3. I felt unsafe
+4. I see doctor
+5. I see medication
+6. I see therapy [SEP]",0.6605922,I will be taking over my grandmother's house responsibilities while she is in the hospital . , I have always been very close to her . , it'll give me a sense of purpose . ,1
+"I have noticed changes since going to therapy, such as being better at describing my emotions and feelings and reacting more appropriately in situations.
+","[CLS] Participant notice changes
+2. Participant be better at describing emotions and feelings
+3. Participant react more appropriately in situations [SEP]",0.32011342,My best friend is talking to my crush . , my best friend is able to get anyone to talk . , I will finally get to know what my crush is really like . ,1
+"I have noticed changes since going to therapy, such as being better at describing my emotions and feelings and reacting more appropriately in situations.
+","[CLS] Participant notice changes
+2. Participant be better at describing emotions and feelings
+3. Participant react more appropriately in situations [SEP]",0.33559954,"The more I learn about my co-workers, the more I realize how much we have in common . ", it allows me to understand others and work together more efficiently . , this job is perfect for me . ,1
+"I have been to my hometown twice in the past year.
+",[CLS] Participant have been hometown [SEP],0.8501472,I grew up in the city but moved to the country to be with my partner and had to learn to live off the land . , I didn't know anything about living off the land . , I will not be able to survive . ,0
+"I have been to my hometown twice in the past year.
+",[CLS] Participant have been hometown [SEP],0.8893039,I grew up in the city but moved to the country to be with my partner and had to learn to live off the land . , I don't know how to live without all the conveniences of the city.  . , I will not be able to survive . ,0
+"I regret not eating less to be healthier.
+",[CLS][] [SEP],0.49963218,My boss is always looking out for her own interests . , I always put the needs of my team first . , it would positively show in my reviews . ,1
+"I regret not eating less to be healthier.
+",[CLS][] [SEP],0.6580547,I feel like I'm finally starting to act my age and mature a little bit . , that's what people my age are expected to do . , I will have to start acting serious and responsible all the time . ,0
+"I feel really happy when spending time with my family, especially during Christmas.
+",[CLS][] [SEP],0.7238462,I was in line at the grocery store and the person in front of me was acting really weird . , my cat isn't acting like its normal self . , my cat is sick . ,0
+"I feel really happy when spending time with my family, especially during Christmas.
+",[CLS][] [SEP],0.7406467,"I don't act my age, according to my friends . ", I will be seen as a child . , I will never be respected . ,0
+"I cope with being annoyed by being quiet, but if pushed, I tend to overreact.
+","[CLS] I cope being annoyed
+2. I tend overreact [SEP]",0.5545261,I afford my rent by working two jobs . , my parents taught me the importance of being independent . , I'm being responsible . ,1
+"I cope with being annoyed by being quiet, but if pushed, I tend to overreact.
+","[CLS] I cope being annoyed
+2. I tend overreact [SEP]",0.6024611,My allergies are really starting to affect my ability to concentrate in class . , I have been taking medication for them . , I will be able to get a handle on them . ,1
+"I find it hard when people don't notice I'm withdrawn and don't engage with me before things escalate.
+",[CLS][Participant find it hard] [SEP],0.4833517,My butler announced the queen's arrival . , I didn't tell her that the queen was coming . , that she will be angry with me . ,0
+"I find it hard when people don't notice I'm withdrawn and don't engage with me before things escalate.
+",[CLS][Participant find it hard] [SEP],0.4933934,My coworker is always advancing toward me and trying to engage in small talk . , we work closely together . , she is trying to make friends with me . ,1
+"I have memorable experiences spending time with my family in New York.
+",[CLS] Participant have memorable experiences [SEP],0.6120247,I was talking to my daughter about traveling the world together . , my daughter loves to travel  . , I am going to get to see so many places . ,1
+"I have memorable experiences spending time with my family in New York.
+",[CLS] Participant have memorable experiences [SEP],0.6648604,I always base my travel plans off of my friends' experiences . , I didn't do my own research . , I will not have a good time . ,0
+"My sister and brother have been positive influences in my life.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.4682593,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"My sister and brother have been positive influences in my life.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.52092904,I have the same name as my dad . , I was named after him . , he's a positive person . ,1

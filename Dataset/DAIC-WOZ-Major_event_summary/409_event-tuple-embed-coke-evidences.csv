@@ -1,0 +1,145 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"In the late seventies, I took a turn into another field and never pursued my original path to the degree I wanted.
+","[CLS] I took a turn into another field
+2. I never pursued my original path [SEP]",0.6028527,I attained the new girl's number at school . , she is out of my league . , she will reject me . ,0
+"In the late seventies, I took a turn into another field and never pursued my original path to the degree I wanted.
+","[CLS] I took a turn into another field
+2. I never pursued my original path [SEP]",0.6487216,My coworker is always advancing toward me and trying to engage in small talk . , he/she makes an effort to talk to me every day . , he/she is interested in me . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.45880958,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.49821866,I asked for an explanation of the theory and the professor couldn't provide one . , other students also looked confused . , I'm not the only one . ,1
+"I made some aggressive financial decisions that I regret, as they went the opposite way and I let others influence me.
+","[CLS] I made aggressive financial decisions
+2. I regret decisions
+3. I let others influence me [SEP]",0.49994898,My boss's decision will affect my interests . , I haven't discussed it with him . , it may not be the best decision . ,0
+"I made some aggressive financial decisions that I regret, as they went the opposite way and I let others influence me.
+","[CLS] I made aggressive financial decisions
+2. I regret decisions
+3. I let others influence me [SEP]",0.57751536,My boss's decision will affect my interests . , he is a fair person . , he will make a decision that is good for me . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.52700794,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6442373,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I have a medical condition that makes it challenging to get a good night's sleep, often waking up tired or achy.
+",[CLS][] [SEP],0.6670966,I feel like I'm finally starting to act my age and mature a little bit . , it will likely lead to more opportunities and experiences . , this is a good development . ,1
+"I have a medical condition that makes it challenging to get a good night's sleep, often waking up tired or achy.
+",[CLS][] [SEP],0.6885647,I am accompanied by my boss's wife . , she is always talking . , I will not be respected . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.60193175,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6033645,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I desire a nice, relaxing job that offers fulfillment without being too tense or challenging.
+",[CLS]- I desire job [SEP],0.69576025,I turned 18 yesterday and am now a legal adult . , I will have to support myself now . , I have to start paying taxes . ,0
+"I desire a nice, relaxing job that offers fulfillment without being too tense or challenging.
+",[CLS]- I desire job [SEP],0.71675074,I took over my mom's shift at work . , I'm not supposed to be there . , I will get fired . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.64931536,I have a niece who bears my name . , it is an important part of my identity . , I can pass down my name . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6529664,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I feel like life is passing me by, and I haven't fulfilled my goals. I'm alone and in a transitional period with financial uncertainties.
+","[CLS] Participant feel life is passing by
+2. Participant have not fulfilled goals
+3. Participant am alone
+4. Participant am in transitional period
+5. Participant have financial uncertainties [SEP]",0.65163267,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I feel like life is passing me by, and I haven't fulfilled my goals. I'm alone and in a transitional period with financial uncertainties.
+","[CLS] Participant feel life is passing by
+2. Participant have not fulfilled goals
+3. Participant am alone
+4. Participant am in transitional period
+5. Participant have financial uncertainties [SEP]",0.6718674,I am promoted to a position of power over my subordinates . , I have been in their position before . , I will give them a great management and be a great mentor to those who look up to me . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5180436,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.57915604,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"Lately, I've been feeling mellow and trying to address issues I haven't taken responsibility for.
+","[CLS] I have been feeling mellow
+2. I try address issues [SEP]",0.6404628,I was arguing with my sister's boyfriend about politics . , he is very stubborn . , he won't ever see my side . ,0
+"Lately, I've been feeling mellow and trying to address issues I haven't taken responsibility for.
+","[CLS] I have been feeling mellow
+2. I try address issues [SEP]",0.6452343,I ask my boss's permission to leave work early . , they have been waiting for me all day . , I will be able to go home to my family . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6682757,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6942556,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I regret not being more assertive earlier in life, leading to financial decisions that have been an albatross in my life.
+",[CLS][] [SEP],0.7349251,"I need to do some laundry, but I keep procrastinating . ", I have no other commitments . , I will be able to relax and watch TV all day . ,1
+"I regret not being more assertive earlier in life, leading to financial decisions that have been an albatross in my life.
+",[CLS][] [SEP],0.7544368,I am accompanied by my boss's wife . , she is very observant . , she will find out about our affair . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6425773,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.66031706,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I don't have much family left, just my uncle, and our relationship is somewhat shallow, which makes me feel a bit depressed.
+",[CLS][] [SEP],0.60930353,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"I don't have much family left, just my uncle, and our relationship is somewhat shallow, which makes me feel a bit depressed.
+",[CLS][] [SEP],0.67426515,I feel like I'm finally starting to act my age and mature a little bit . , I will have more experience . , I'll be able to handle any situation better . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5648149,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.62423843,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I enjoy the weather, sports teams, and entertainment in L.A., but I also feel a bit stuck having lived here all my life.
+","[CLS] I enjoy the weather
+2. I enjoy sports teams
+3. I enjoy entertainment in L.A.
+4. I feel stuck [SEP]",0.66408306,I asked my friend's husband if he wanted to play tennis . , I love playing tennis . , I would have a lot of fun . ,1
+"I enjoy the weather, sports teams, and entertainment in L.A., but I also feel a bit stuck having lived here all my life.
+","[CLS] I enjoy the weather
+2. I enjoy sports teams
+3. I enjoy entertainment in L.A.
+4. I feel stuck [SEP]",0.70609105,I asked my friend's husband if he wanted to play tennis . , he used to play tennis in high school . , he would really enjoy playing tennis . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.52475995,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.59373033,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I helped out at a tradeshow in Anaheim about a month ago, which made me happy as I got to socialize and experience new things.
+","[CLS] I helped out tradeshow
+2. I got to socialize new things [SEP]",0.5832448,I broke my mom's favorite vase when I was moving out of my apartment . , she has had that vase for years . , she will be really mad . ,0
+"I helped out at a tradeshow in Anaheim about a month ago, which made me happy as I got to socialize and experience new things.
+","[CLS] I helped out tradeshow
+2. I got to socialize new things [SEP]",0.59605885,I have to do extra work because my coworker is slacking off . , I have to do everything by myself . , I will not have time for myself . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.55446255,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.57191074,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I was advised to see a psychologist or psychiatrist after taking a personality test, but I didn't follow up due to philosophical differences.
+","[CLS] Participant advised see a psychologist or psychiatrist
+2. Participant didn't follow up philosophical differences [SEP]",0.72183573,I ask my doctor for a referral to see a specialist . , she doesn't hesitate to give me the name of a good doctor . , my doctor is confident in my health . ,1
+"I was advised to see a psychologist or psychiatrist after taking a personality test, but I didn't follow up due to philosophical differences.
+","[CLS] Participant advised see a psychologist or psychiatrist
+2. Participant didn't follow up philosophical differences [SEP]",0.7487849,My mom is attending my doctor's appointment . , My mom trusts the doctor . , the doctor will tell her that everything is going to be okay . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5896503,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.70653236,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"On weekends, I like to be profitable by doing tradeshows, but I also enjoy entertainment like ball games or movies.
+","[CLS] I like to be profitable by doing tradeshows
+2. I enjoy entertainment like ball games or movies [SEP]",0.7248795,I have to go to a lot of parent-teacher meetings because I'm a teacher . , the kids are progressing well . , the parents are going to be happy with how their kids are doing . ,1
+"On weekends, I like to be profitable by doing tradeshows, but I also enjoy entertainment like ball games or movies.
+","[CLS] I like to be profitable by doing tradeshows
+2. I enjoy entertainment like ball games or movies [SEP]",0.7714738,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they want to hear what the teachers have to say . , parent are getting more involved in their children's education . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.4748538,My boss asked for an explanation of my tardiness . , I was late for work three times this week . , I will be fired . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.49018753,My boss asked for an explanation of my tardiness . , I have a good excuse . , I won't get fired . ,1
+"I regret making bad investments about ten years ago, which put me in a difficult financial position for the rest of my life.
+",[CLS][Participant regret making bad investments] [SEP],0.7032772,I was so nervous during my job interview that I could feel the beads of sweat forming on my forehead and I tried my best to avoid making eye contact . , the interviewer might have found me unprofessional . , I might not have gotten the job . ,0
+"I regret making bad investments about ten years ago, which put me in a difficult financial position for the rest of my life.
+",[CLS][Participant regret making bad investments] [SEP],0.7175269,I assumed my little sister's responsibility when our parents died . , I have to take care of her . , I will never have a childhood . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6936382,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6938053,I was on Quora the other day and answered a few questions on programming . , I am not an expert in the field . , people will downvote my answers . ,0
+"I consider myself conscientious, honest on major issues, a hard worker, and generally calm.
+",[CLS][] [SEP],0.55827945,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I consider myself conscientious, honest on major issues, a hard worker, and generally calm.
+",[CLS][] [SEP],0.5679413,"After I put in a hard day's work, it was nice to come home to a home-cooked meal . ", I worked so hard . , I deserve it . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.70042837,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.7178428,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I am generally shy but can become outgoing once I get comfortable, sometimes talking too much.
+",[CLS][Participant become outgoing Participant talking too much] [SEP],0.6066844,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'm trying to help their children . , the parents appreciate my time . ,1
+"I am generally shy but can become outgoing once I get comfortable, sometimes talking too much.
+",[CLS][Participant become outgoing Participant talking too much] [SEP],0.60677904,I flirt with my boss to try to get a raise . , he's constantly complimenting me and my work . , it'll positively work . ,1

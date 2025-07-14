@@ -1,0 +1,55 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I recently helped take care of a good friend who just got out of the hospital, making the last two days hectic.
+",[CLS] I helped take care of a good friend [SEP],0.06632227,I'd like to buy a new car . , a new car is expensive . , I will not have enough money . ,0
+"I recently helped take care of a good friend who just got out of the hospital, making the last two days hectic.
+",[CLS] I helped take care of a good friend [SEP],0.06694711,I gave my brother some money so he could afford a new car . , he is always responsible with his finances . , he will pay me back in a timely matter . ,1
+"I went horseback riding through the Royal Gorge, which was an awesome experience.
+",[CLS] I went horseback riding [SEP],0.8216413,I bet my new boots will be great for our next hike . , I accidentally stepped in a big puddle . , they will get ruined . ,0
+"I went horseback riding through the Royal Gorge, which was an awesome experience.
+",[CLS] I went horseback riding [SEP],0.83007634,I continued to drive despite the warnings . , it was raining very hard . , I would have an accident . ,0
+"I recently moved back to L.A. two months ago to take care of a good friend who is ill.
+","[CLS] Participant moved back L.A.
+2. Participant take care of a good friend [SEP]",0.65362394,My co-worker became my friend . , it is unprofessional . , I may get fired if we become too close . ,0
+"I recently moved back to L.A. two months ago to take care of a good friend who is ill.
+","[CLS] Participant moved back L.A.
+2. Participant take care of a good friend [SEP]",0.7204311,My coworker is always advancing toward me and trying to engage in small talk . , I'm not interested in socializing with her . , I will seem uninterested or unfriendly . ,0
+"I had a memorable dining experience at a nice Italian restaurant with good friends and family.
+",[CLS] Participant have dining experience [SEP],0.82012904,I was waiting for my friends to show up at the party . , they promised me they would be here on time . , they would come soon . ,1
+"I had a memorable dining experience at a nice Italian restaurant with good friends and family.
+",[CLS] Participant have dining experience [SEP],0.82678974,I asked my kids what they wanted for dinner . , it's what I always try to do . , bring everyone happiness . ,1
+"I was engaged to a friend fifteen years ago, and he recently called me about five years ago to tell me he was diagnosed with cancer. I asked my husband if I could help him, and I'm here now.
+","[CLS] Participant was engaged friend
+2. Participant asked husband
+3. Participant help him [SEP]",0.6862544,A same-sex couple adopts a child . , they are not the child's biological parents . , they will not love the child as much as a heterosexual couple would . ,0
+"I was engaged to a friend fifteen years ago, and he recently called me about five years ago to tell me he was diagnosed with cancer. I asked my husband if I could help him, and I'm here now.
+","[CLS] Participant was engaged friend
+2. Participant asked husband
+3. Participant help him [SEP]",0.7051759,A same-sex couple adopts a child . , I believe that every child deserves a loving home . , positively about it and I have a lot of love to give . ,1
+"I argued with my husband about financial issues, which made me feel unsure and unstable.
+",[CLS] I argued with my husband [SEP],0.6821657,I was arguing with my boyfriend about going to the gym more often . , I was too mean . , I will never see him again . ,0
+"I argued with my husband about financial issues, which made me feel unsure and unstable.
+",[CLS] I argued with my husband [SEP],0.6878988,I was arguing with my boyfriend about going to the gym more often . , he  left  me . , I will never see him again . ,0
+"I lost my mother at a young age, but my siblings and father remain very close.
+",[CLS][] [SEP],0.7451296,"Every time I see a picture of a dog, I automatically assume it's form . ", I can't change my thinking . , I will look stupid . ,0
+"I lost my mother at a young age, but my siblings and father remain very close.
+",[CLS][] [SEP],0.75729275,I have just begun my career as an engineer . , I am not experienced  enough . , I will never be as successful as my father . ,0
+"I made the hardest decision of my life with my husband to take our premature son off life support.
+","[CLS] I made decision
+2. I take son off life support [SEP]",0.58386946,I argue my father's case in order to persuade him to see things my way . , he is very stubborn . , I will never win . ,0
+"I made the hardest decision of my life with my husband to take our premature son off life support.
+","[CLS] I made decision
+2. I take son off life support [SEP]",0.59315753,I argue my father's case in order to persuade him to see things my way . , he has always been a reasonable man . , he will see reason and change his point of view . ,1
+"I wish I had handled my friend's sister differently regarding his illness.
+",[CLS][] [SEP],0.6963394,My ability to focus is affected when she's around . , she's not around to distract me . , I can get more work done . ,1
+"I wish I had handled my friend's sister differently regarding his illness.
+",[CLS][] [SEP],0.728424,I have just begun my career as an engineer . , I have no experience in this field . , I will never be able to get a job . ,0
+"I felt really happy recently when I was with good friends at a concert, enjoying music and good company.
+","[CLS] Participant feel happy
+2. Participant be with good friends
+3. Participant enjoy music
+4. Participant enjoy good company [SEP]",0.250541,I accomplished my goal of reading 100 books this year . , I will have read a lot about different topics . , it will make me smarter . ,1
+"I felt really happy recently when I was with good friends at a concert, enjoying music and good company.
+","[CLS] Participant feel happy
+2. Participant be with good friends
+3. Participant enjoy music
+4. Participant enjoy good company [SEP]",0.2578455,My best friend is talking to my crush . , my best friend is able to get anyone to talk . , I will finally get to know what my crush is really like . ,1

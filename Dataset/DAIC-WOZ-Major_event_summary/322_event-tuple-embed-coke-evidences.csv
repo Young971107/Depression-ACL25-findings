@@ -1,0 +1,43 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I made a lot of money once in Los Angeles during Christmas about ten years ago, and it made me very happy.
+",[CLS] I made a lot of money [SEP],0.07270401,I accepted your offer to go on a date . , you're amazing and I really like you . , it was the best decision I've made all month . ,1
+"I made a lot of money once in Los Angeles during Christmas about ten years ago, and it made me very happy.
+",[CLS] I made a lot of money [SEP],0.074861825,I just bought a new car . , it was very affordable . , it was the best decision . ,1
+"I decided to see a doctor because I was feeling down, withdrawn, and unable to focus on things I was normally interested in.
+",[CLS] I decided see a doctor [SEP],0.066940926,I have help form a study group for my upcoming exam . , I don't want to appear unintelligent . , I will feel embarrassed . ,0
+"I decided to see a doctor because I was feeling down, withdrawn, and unable to focus on things I was normally interested in.
+",[CLS] I decided see a doctor [SEP],0.06840158,I achieve my objective of getting a raise . , more money means more responsibility . , my boss will give me more work . ,0
+"I used to run a business and traveled to places like Ohio and Pennsylvania to meet people and get orders, which I enjoyed.
+","[CLS] Participant run business
+2. Participant travel places
+3. Participant meet people
+4. Participant get orders
+5. Participant enjoy it [SEP]",0.6986636,The cashier is trying to explain to the customer why there is a limit on the number of items they can purchase . , they are not getting frustrated with the customer . , the cashier is being very professional and polite . ,1
+"I used to run a business and traveled to places like Ohio and Pennsylvania to meet people and get orders, which I enjoyed.
+","[CLS] Participant run business
+2. Participant travel places
+3. Participant meet people
+4. Participant get orders
+5. Participant enjoy it [SEP]",0.77604616,The weather forecast said that the hurricane would affect people's travel plans . , the hurricane is so big . , many people will be stranded . ,0
+"I was diagnosed with depression about one to two years ago.
+",[CLS]- Participant diagnosed with depression [SEP],0.5853853,I have been feeling really stressed lately and it's affecting my health . , it's been going on for awhile . , I may not be able to fix the situation . ,0
+"I was diagnosed with depression about one to two years ago.
+",[CLS]- Participant diagnosed with depression [SEP],0.6496643,My cousin's depression affects our family . , we are all she has . , I think we can help her through it . ,1
+"I started doing yoga and meditation about a year ago after being diagnosed with depression, as I wanted to avoid medication and was influenced by friends who practiced meditation.
+","[CLS] Participant started doing yoga and meditation
+2. Participant was diagnosed with depression
+3. Participant wanted to avoid medication
+4. Participant was influenced by friends [SEP]",0.5688331,My aunt's travel has really affected her health . , she is taking more rest and her skin is looking good . , that her health is getting better . ,1
+"I started doing yoga and meditation about a year ago after being diagnosed with depression, as I wanted to avoid medication and was influenced by friends who practiced meditation.
+","[CLS] Participant started doing yoga and meditation
+2. Participant was diagnosed with depression
+3. Participant wanted to avoid medication
+4. Participant was influenced by friends [SEP]",0.6042795,My doctor advised me to take medication for my anxiety . , I have had it for a long time . , it will never go away . ,0
+"I was among the top two percent in my MBA class and designed a successful product for my business, which made me happy.
+","[CLS] I was among the top two percent in my MBA class
+2. I designed a successful product for my business
+3. product made me happy [SEP]",0.1835063,I accomplish my goal of becoming CEO by the age of 30 . , Ill have to make a lot of important decisions . , lli be overworked and stressful . ,0
+"I was among the top two percent in my MBA class and designed a successful product for my business, which made me happy.
+","[CLS] I was among the top two percent in my MBA class
+2. I designed a successful product for my business
+3. product made me happy [SEP]",0.20309718,I accomplish my goals by working hard and studying diligently . , I will have better opportunities in the future . , my efforts positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively will be paid off . ,1

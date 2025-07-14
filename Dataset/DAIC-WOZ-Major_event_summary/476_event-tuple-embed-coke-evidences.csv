@@ -1,0 +1,61 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I am most proud of my musical accomplishments, having put a lot of work into them and finding success in my own way.
+","[CLS] Participant be proud of musical accomplishments
+2. Participant put work into musical accomplishments
+3. Participant find success in own way [SEP]",0.7666194,My co-worker became my friend . , she is so special to me . , I may not be able to get another friend like her . ,0
+"I am most proud of my musical accomplishments, having put a lot of work into them and finding success in my own way.
+","[CLS] Participant be proud of musical accomplishments
+2. Participant put work into musical accomplishments
+3. Participant find success in own way [SEP]",0.7781411,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I recently went camping on a beach with a bunch of friends, which I really enjoyed.
+","[CLS] Participant went camping on a beach
+2. Participant enjoyed camping [SEP]",0.2192029,I am accompanied by my boss's wife . , she is an important person . , it will be an honor to meet her . ,1
+"I recently went camping on a beach with a bunch of friends, which I really enjoyed.
+","[CLS] Participant went camping on a beach
+2. Participant enjoyed camping [SEP]",0.22623996,I am at my brother's house and we get into a fight and I beat him up . , I hit him first . , I will be the one in the wrong . ,0
+"I was told I am a part-time member in my current band and not officially in the core group, which made me feel pretty bad for a few days.
+","[CLS] I was told I am a part-time member
+2. I feel pretty bad [SEP]",0.7167183,I asked my friend's boyfriend if he wanted to go on a trip with us to the Caribbean . , he likes to travel . , he will enjoy the trip . ,1
+"I was told I am a part-time member in my current band and not officially in the core group, which made me feel pretty bad for a few days.
+","[CLS] I was told I am a part-time member
+2. I feel pretty bad [SEP]",0.73935735,I bragged to all my friends about how I got the new girl's number at school . , I got a lot of positive feedback from them . , I was really cool . ,1
+"I regret not finishing college and not transferring to a four-year university to get a bachelor's degree.
+",[CLS][] [SEP],0.60775006,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"I regret not finishing college and not transferring to a four-year university to get a bachelor's degree.
+",[CLS][] [SEP],0.627045,My employer asserts their right to privacy in the workplace . , they are not required to do so . , My employer is not committed to transparency . ,0
+"I had a really good band practice last night with all my friends, which made me feel really happy.
+",[CLS] Participant have band practice [SEP],0.71464163,I brought my daughter to her first dance recital . , she is the youngest one in the class . , she would be embarrassed of her dancing . ,0
+"I had a really good band practice last night with all my friends, which made me feel really happy.
+",[CLS] Participant have band practice [SEP],0.7170041,I brought my daughter to her first dance recital . , she lacked practice . , she would be embarrassed of her dancing . ,0
+"I went to Russia three years ago and enjoyed visiting all the churches in the area.
+","[CLS] I went Russia  
+2. I enjoyed visiting churches [SEP]",0.7859992,I lead two groups in my church . , both groups have a lot of events . , I will not have time to do anything else . ,0
+"I went to Russia three years ago and enjoyed visiting all the churches in the area.
+","[CLS] I went Russia  
+2. I enjoyed visiting churches [SEP]",0.7881036,I lead two groups in my church . , I would have more experience . , I could improve my leadership skills . ,1
+"When I was a boy, I stole a little golden bicycle from an old lady, and I'm not proud of it.
+",[CLS] I stole a little golden bicycle [SEP],0.39413634,I bought the bike for myself as a present . , I like doing adventurous things . , it would make me happy . ,1
+"When I was a boy, I stole a little golden bicycle from an old lady, and I'm not proud of it.
+",[CLS] I stole a little golden bicycle [SEP],0.4413737,I bought the bike for myself as a present . , it was something that I wanted for a long time . , I will enjoy every moment of my life . ,1
+"I live with my parents at twenty-three years old, which is becoming more awkward, and I think I need to move out and get my own apartment.
+","[CLS] Participant live with parents
+2. Participant think need to move out
+3. Participant think need to get own apartment [SEP]",0.69272757,I will be taking over my grandmother's house responsibilities while she is in the hospital . , I have been through a lot of tough situations before . , I positively can handle this . ,1
+"I live with my parents at twenty-three years old, which is becoming more awkward, and I think I need to move out and get my own apartment.
+","[CLS] Participant live with parents
+2. Participant think need to move out
+3. Participant think need to get own apartment [SEP]",0.7369937,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'll be too busy . , will not have time for anything else . ,0
+"I wish I could change my work ethic because I have difficulty completing the projects I plan for myself.
+",[CLS][] [SEP],0.62730575,I am waiting for my turn in the doctor's office . , there are many patients ahead of me . , I will have to wait for a long time . ,0
+"I wish I could change my work ethic because I have difficulty completing the projects I plan for myself.
+",[CLS][] [SEP],0.64130044,I am basing my decision on previous experiences . , I have a good track record . , I know what I'm doing . ,1
+"I play a lot of music to relax, often sitting down with a guitar for a little while.
+","[CLS] I play music
+2. I sit down with a guitar [SEP]",0.74794644,I am answering my mom's question about my purpose in life . , I have been thinking about it for a long time . , I know what I want to do for the rest of my life . ,1
+"I play a lot of music to relax, often sitting down with a guitar for a little while.
+","[CLS] I play music
+2. I sit down with a guitar [SEP]",0.7490046,I asked my friend's boyfriend if he liked me . , he had been gazing at me intently for the past few weeks . , he was going to say yes . ,1
+"My dream job is to be a touring and performing musician, but it's really hard due to a lot of competition and luck involved.
+",[CLS][] [SEP],0.6399416,I pretend to be interested in sports so that my male friends will not think I am weird . , they are very perceptive . , they will see right through me . ,0
+"My dream job is to be a touring and performing musician, but it's really hard due to a lot of competition and luck involved.
+",[CLS][] [SEP],0.6440478,"I need to do some laundry, but I keep procrastinating . ", I have no other commitments . , I will be able to relax and watch TV all day . ,1

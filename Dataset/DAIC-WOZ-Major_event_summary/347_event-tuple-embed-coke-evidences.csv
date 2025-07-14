@@ -1,0 +1,49 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I moved to California from New York, and it's been a good experience.
+",[CLS] I moved California [SEP],0.5849023,"After careful consideration, I have decided to move to Seattle . ", they all live on the East Coast  . , I will  be  too far away from my family and friends . ,0
+"I moved to California from New York, and it's been a good experience.
+",[CLS] I moved California [SEP],0.58909273,"After careful consideration, I have decided to move to Seattle . ", I'm not familiar with anyone there . , I will be all alone in a new city . ,0
+"I have four kids: three ten-year-olds and two eleven-year-olds, and it's a lot of fun watching them grow up.
+",[CLS][] [SEP],0.63067245,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have a lot in common  . , we can connect and be friends . ,1
+"I have four kids: three ten-year-olds and two eleven-year-olds, and it's a lot of fun watching them grow up.
+",[CLS][] [SEP],0.633778,I am going to let my friends know about my upcoming trip to Thailand . , they have never been there before . , they will be jealous . ,0
+"I met my girlfriend through my sister-in-law, and she's been a positive influence in my life.
+",[CLS] I met my girlfriend [SEP],0.28599355,I kept my fingers crossed while my friend proposed to his girlfriend . , she seems unhappy in the relationship . , she will say no . ,0
+"I met my girlfriend through my sister-in-law, and she's been a positive influence in my life.
+",[CLS] I met my girlfriend [SEP],0.2924263,I kept my fingers crossed while my friend proposed to his girlfriend . , my friend's relationship didn't work out . , I will regret not doing the same for my own relationship . ,0
+"I studied criminal justice in school.
+",[CLS] Participant studied criminal justice [SEP],0.65677476,The defendant protested his innocence . , he was unable to provide an alibi . , he may have been guilty . ,0
+"I studied criminal justice in school.
+",[CLS] Participant studied criminal justice [SEP],0.68958336,The defendant protested his innocence . , several pieces of evidence suggested otherwise . , he might be lying . ,0
+"I work as a certified nurse's aide, but maybe nursing is my dream job someday.
+",[CLS] I work as a certified nurse's aide [SEP],0.1786483,I accomplish my goal of becoming CEO by the age of 30 . , Ill have to make a lot of important decisions . , lli be overworked and stressful . ,0
+"I work as a certified nurse's aide, but maybe nursing is my dream job someday.
+",[CLS] I work as a certified nurse's aide [SEP],0.18252768,I attend to my boss's business by doing his work for him while he is on vacation . , I have put in a lot of extra effort . , he will appreciate my work and maybe give me a raise . ,1
+"I feel happy all the time, on and off, so it's hard to pinpoint a specific moment.
+",[CLS]No clear event can be extracted from the given sentence. [SEP],0.47490233,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"I feel happy all the time, on and off, so it's hard to pinpoint a specific moment.
+",[CLS]No clear event can be extracted from the given sentence. [SEP],0.5454955,I was airing my dirty laundry in public . , transparency is the new cool . , people will like me more for it . ,1
+"I find it fairly difficult to get a good night's sleep because I wake up easily and sometimes take a long time to fall asleep.
+","[CLS] I find it fairly difficult to get a good night's sleep
+2. I wake up easily
+3. I take a long time to fall asleep [SEP]",0.25336838,I am at my brother's house and we get into a fight and I beat him up . , I always end up hurting him . , I'm a terrible brother . ,0
+"I find it fairly difficult to get a good night's sleep because I wake up easily and sometimes take a long time to fall asleep.
+","[CLS] I find it fairly difficult to get a good night's sleep
+2. I wake up easily
+3. I take a long time to fall asleep [SEP]",0.2592861,I am working on getting my pilot's license in order to advance my career . , I have a lot of experience in the aviation industry . , it will give  me great opportunities . ,1
+"I try to relax by reading.
+","[CLS] I try relax
+2. I relax reading [SEP]",0.59214914,I afford my rent by working two jobs . , my parents taught me the importance of being independent . , I'm being responsible . ,1
+"I try to relax by reading.
+","[CLS] I try relax
+2. I relax reading [SEP]",0.59990144,I was getting a massage and the masseuse was arching my back  too much . , I could hear my spine cracking . , my spine was getting aligned . ,1
+"I consider myself an introvert and enjoy reading for fun.
+","[CLS] I consider myself an introvert
+2. I enjoy reading for fun [SEP]",0.65754354,I take my promotion for granted and do not act appreciative . , I am not meeting the expectations of my boss . , I will  be demoted . ,0
+"I consider myself an introvert and enjoy reading for fun.
+","[CLS] I consider myself an introvert
+2. I enjoy reading for fun [SEP]",0.6652421,I attend my scientist friend's research meetings . , he is one of the most brilliant minds in his field . , I will learn a lot and be inspired . ,1
+"I am proud of my children.
+",[CLS]No clear event can be extracted from this sentence as it does not describe a specific action directed towards an object. [SEP],0.39798093,I was trying to be cool and aloof like my favorite movie star . , I'm not talented . , I will never be like him . ,0
+"I am proud of my children.
+",[CLS]No clear event can be extracted from this sentence as it does not describe a specific action directed towards an object. [SEP],0.4586851,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0

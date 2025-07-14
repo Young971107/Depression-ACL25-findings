@@ -1,0 +1,61 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I wish I had handled my second marriage differently. My wife wanted children, but I already had children from my first marriage and didn't want more. We initially agreed on this, but when her best friend got pregnant, our relationship changed, and I wouldn't relent, leading to our divorce.
+","[CLS] Participant wish handled second marriage differently
+2. Participant didn't want more children
+3. Participant wouldn't relent leading to divorce [SEP]",0.8123049,I want to bring up my children in a safe and loving environment . , I was never raised in a safe and loving environment . , I will never be able to provide that for them . ,0
+"I wish I had handled my second marriage differently. My wife wanted children, but I already had children from my first marriage and didn't want more. We initially agreed on this, but when her best friend got pregnant, our relationship changed, and I wouldn't relent, leading to our divorce.
+","[CLS] Participant wish handled second marriage differently
+2. Participant didn't want more children
+3. Participant wouldn't relent leading to divorce [SEP]",0.90028995,I am bringing up my children to be independent . , they will know how to take care of themselves . , they will not need me anymore . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5047807,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.57816803,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I feel guilty about not being there for my mother when she got sick. I was in a bad situation, but that doesn't excuse the fact that I wasn't there the way I should have been.
+",[CLS][] [SEP],0.6839384,I was airing my dirty laundry in public . , I was acting foolishly  . , people can see my flaws . ,0
+"I feel guilty about not being there for my mother when she got sick. I was in a bad situation, but that doesn't excuse the fact that I wasn't there the way I should have been.
+",[CLS][] [SEP],0.74281627,My boss announced the new intern's arrival . , I have not been doing well at work . , I will be replaced . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.48773092,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.54046017,"I don't act my age, according to my friends . ", I feel young at heart . , age is nothing but a number . ,1
+"I had a friend who was run over in a crosswalk and is now on life support, which has affected me deeply.
+","[CLS] Participant have a friend
+2. Friend be run over in a crosswalk
+3. Friend be on life support
+4. Situation affect Participant deeply [SEP]",0.09062737,The news about the outbreak is affecting people's mental health . , it is something that is often neglected . , this will finally be the wake up call we needed to focus on our mental health . ,1
+"I had a friend who was run over in a crosswalk and is now on life support, which has affected me deeply.
+","[CLS] Participant have a friend
+2. Friend be run over in a crosswalk
+3. Friend be on life support
+4. Situation affect Participant deeply [SEP]",0.0962289,I agree to go on a month-long trip with my friends . , I will be away for a long time  . , I will miss my family too much . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.58978695,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.709563,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I had my dream job doing sports research for Native American tribes, but it's not as frequent now due to the existence of sports bureaus.
+","[CLS] Participant have dream job
+2. Participant do sports research
+3. Participant have job for Native American tribes [SEP]",0.6733091,I turned 18 yesterday and am now a legal adult . , I will have to support myself now . , I have to start paying taxes . ,0
+"I had my dream job doing sports research for Native American tribes, but it's not as frequent now due to the existence of sports bureaus.
+","[CLS] Participant have dream job
+2. Participant do sports research
+3. Participant have job for Native American tribes [SEP]",0.69477904,My boss's decision affects my interests because I do not want the job position that he offered me . , I have a good relationship with her . , I can go above his head and speak to the CEO . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6192895,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.66585314,I asked my friend for my crush's number . , she smiled and said Sure! , she likes me too . ,1
+"I had to make the difficult decision to take my father off life support, which is something I wish I could erase from my memory.
+","[CLS] Participant make decision
+2. Participant take father off life support [SEP]",0.720185,My boss's decision will affect my interests . , I haven't discussed it with him . , it may not be the best decision . ,0
+"I had to make the difficult decision to take my father off life support, which is something I wish I could erase from my memory.
+","[CLS] Participant make decision
+2. Participant take father off life support [SEP]",0.72983885,I being lazy affects my family's finances because they have to support me . , I have been lazy for a long time . , I will not be able to change . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6264539,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.66917634,I asked my friend for my crush's number . , she smiled and said Sure! , she likes me too . ,1
+"I argued with my youngest daughter about a year and a half ago.
+",[CLS]- I argued with my youngest daughter [SEP],0.5693668,I breastfeed my baby every day . , my breast are not full . , I am not giving her enough breastmilk . ,0
+"I argued with my youngest daughter about a year and a half ago.
+",[CLS]- I argued with my youngest daughter [SEP],0.57319605,I asked my boss if she would join my book club . , she likes to read . , she will accept . ,1

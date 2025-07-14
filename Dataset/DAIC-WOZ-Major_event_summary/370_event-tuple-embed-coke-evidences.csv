@@ -1,0 +1,53 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"When I was fourteen, I went on a trip with my parents to Austria, Hungary, and Romania, where I got to see old castles and experience a different way of life.
+","[CLS] I went on a trip
+2. I got to see old castles
+3. I experience a different way of life [SEP]",0.11928736,I agree to go on a month-long trip with my friends . , I will be away for a long time  . , I will miss my family too much . ,0
+"When I was fourteen, I went on a trip with my parents to Austria, Hungary, and Romania, where I got to see old castles and experience a different way of life.
+","[CLS] I went on a trip
+2. I got to see old castles
+3. I experience a different way of life [SEP]",0.1237852,I agree to go on a month-long trip with my friends . , we'll be spending so much time together . , we'll get to know each other better . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.64110017,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6448083,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"I am proud of the level of education I've achieved and am starting a Ph.D. program in the fall. I'm also happy about breaking some bad habits and having strong relationships with my family and friends.
+",[CLS] I am starting a Ph.D. program [SEP],0.109405026,I agree to go on a month-long trip with my friends . , I have never been away from them for more than a week . , I will miss my family too much . ,0
+"I am proud of the level of education I've achieved and am starting a Ph.D. program in the fall. I'm also happy about breaking some bad habits and having strong relationships with my family and friends.
+",[CLS] I am starting a Ph.D. program [SEP],0.113220975,I agree to go on a month-long trip with my friends . , we'll be spending so much time together . , we'll get to know each other better . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.4788098,The government allocates resources efficiently to address the inequality in our society . , the rich will get richer and the poor will get poorer . , the gap between the rich and the poor will widen . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.49211833,My butler announced the queen's arrival . , I didn't tell her that the queen was coming . , that she will be angry with me . ,0
+"I regret not trying harder in my younger days, particularly during a period in my early twenties when I didn't work and spent time with a bad crowd.
+",[CLS][Participant regret not trying harder] [SEP],0.60595614,My boss's decision will affect my interests . , I haven't discussed it with him . , it may not be the best decision . ,0
+"I regret not trying harder in my younger days, particularly during a period in my early twenties when I didn't work and spent time with a bad crowd.
+",[CLS][Participant regret not trying harder] [SEP],0.62043285,My boss's decision affects my interests because I do not want the job position that he offered me . , it's not what I want . , I will have to confront him . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.54775596,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.585356,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I got engaged on Labor Day in 2012, and I'm getting married in a few months. This whole process has been a very happy time in my life.
+","[CLS] I got engaged on Labor Day in 2012
+2. I am getting married in a few months [SEP]",0.6574528,I was asking my friend's mom if she could watch my dog while I'm out of town . , I have been good to her daughter and she likes me . , I will get a yes from her . ,1
+"I got engaged on Labor Day in 2012, and I'm getting married in a few months. This whole process has been a very happy time in my life.
+","[CLS] I got engaged on Labor Day in 2012
+2. I am getting married in a few months [SEP]",0.6744267,I asked my boss for a day off tomorrow so I can go to my daughter's graduation . , she graduated with honors . , I will be able to attend . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.24339426,My boss asked for an explanation of my tardiness . , he has always been lenient with me in the past . , I will tell the truth and will not get fired . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.2705598,I achieved my aim to get an 'A' in the class . , it was really hard to get it . , I will not be able to do it again . ,0
+"I wish the last car accident I was in hadn't happened. It was a slow rear-end collision during rush hour traffic, and the timing was financially unfortunate for me.
+",[CLS] Participant wish last car accident hadn't happened [SEP],0.6752925,I asked my date's grandmother for her blessing . , I'm not the same religion as my date . , she won't give it to me . ,0
+"I wish the last car accident I was in hadn't happened. It was a slow rear-end collision during rush hour traffic, and the timing was financially unfortunate for me.
+",[CLS] Participant wish last car accident hadn't happened [SEP],0.6839739,I bring home my date to my parent's house for the first time . , my date comes from a good family . , my parents will approve of my date . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6032057,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.60899115,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"One of my most memorable experiences was taking a solo trip to New Mexico when I was about twenty-three, where I explored for ten days without any traveling companions.
+","[CLS] Participant take solo trip to New Mexico
+2. Participant explore for ten days [SEP]",0.7948964,I achieve my objective of getting a raise . , she wants to save money . , my boss will give me more work . ,0
+"One of my most memorable experiences was taking a solo trip to New Mexico when I was about twenty-three, where I explored for ten days without any traveling companions.
+","[CLS] Participant take solo trip to New Mexico
+2. Participant explore for ten days [SEP]",0.8155028,I have achieved one of my New Year's resolutions- to travel to Thailand! . , I have seen so many pictures of it . , it will be a beautiful country to travel to . ,1

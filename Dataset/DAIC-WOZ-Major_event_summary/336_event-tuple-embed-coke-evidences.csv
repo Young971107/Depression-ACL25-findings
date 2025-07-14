@@ -1,0 +1,95 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I attended a seminar that helped me get rid of some negative thoughts and feel more positive about life.
+","[CLS] I attended seminar
+2. seminar helped me
+3. I get rid of negative thoughts
+4. I feel more positive about life [SEP]",0.5681298,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'm trying to help their children . , the parents appreciate my time . ,1
+"I attended a seminar that helped me get rid of some negative thoughts and feel more positive about life.
+","[CLS] I attended seminar
+2. seminar helped me
+3. I get rid of negative thoughts
+4. I feel more positive about life [SEP]",0.6074593,I was asking my friend's mom if she could watch my dog while I'm out of town . , I have been good to her daughter and she likes me . , I will get a yes from her . ,1
+"I had a memorable experience singing to an audience, which was great.
+",[CLS] Participant had experience singing to an audience [SEP],0.13828364,I asked my teacher a question in class . , I was the only one who raised my hand . , my question will be considered stupid . ,0
+"I had a memorable experience singing to an audience, which was great.
+",[CLS] Participant had experience singing to an audience [SEP],0.13911775,Themanager abuses his power by making the employees work overtime . , he is violating their rights . , overtime pay . ,1
+"I am looking into ways to expand my consciousness to achieve more abundance and have my own creative space.
+","[CLS] I am looking into ways to expand my consciousness
+2. I achieve more abundance
+3. I have my own creative space [SEP]",0.6605868,I achieved my New Years' resolution to quit smoking cigarettes . , smoking is not good for health . , I am going to improve my health . ,1
+"I am looking into ways to expand my consciousness to achieve more abundance and have my own creative space.
+","[CLS] I am looking into ways to expand my consciousness
+2. I achieve more abundance
+3. I have my own creative space [SEP]",0.68552387,I achieved my New Years' resolution to quit smoking cigarettes . , I will no longer be poisoning my body with nicotine . , I am going to improve my health . ,1
+"I have been trying to have less judgment and more fun after attending a seminar.
+","[CLS] I have been trying have less judgment
+2. I have been trying have more fun
+3. I attend seminar [SEP]",0.67911935,I am going to ask my friend's crush out on a date . , I am not confident . , he/she will say no . ,0
+"I have been trying to have less judgment and more fun after attending a seminar.
+","[CLS] I have been trying have less judgment
+2. I have been trying have more fun
+3. I attend seminar [SEP]",0.6922537,I allocate my time efficiently . , I will be too busy . , I will never get any rest . ,0
+"I haven't been back to my hometown in about eight or ten years because I don't like my brothers.
+",[CLS] I haven't been back my hometown [SEP],0.80645525,I let my friends borrow my car . , they are not very careful with other people's things . , they will damage it . ,0
+"I haven't been back to my hometown in about eight or ten years because I don't like my brothers.
+",[CLS] I haven't been back my hometown [SEP],0.81097597,I left my laptop at home . , I can't go back home . , I will have to use the computer at work . ,0
+"I recently traveled to Orlando with my girlfriend, who loves to travel.
+",[CLS] Participant traveled Orlando [SEP],0.6110406,I am basing my travel plans on my aunt's experience . , my aunt  always  has terrible experiences  . , I will have a terrible time . ,0
+"I recently traveled to Orlando with my girlfriend, who loves to travel.
+",[CLS] Participant traveled Orlando [SEP],0.6535887,My boss has asked me to go on a business trip to China with him . , I will be in a different time zone . , I will have to work long hours . ,0
+"I have difficulty getting a good night's sleep and feel it's a self-defeating prophecy.
+",[CLS] I have difficulty getting a good night's sleep [SEP],0.1074066,I am accompanied by my boss's wife . , she is an important person . , it will be an honor to meet her . ,1
+"I have difficulty getting a good night's sleep and feel it's a self-defeating prophecy.
+",[CLS] I have difficulty getting a good night's sleep [SEP],0.10792472,I asked my friend's crush on a date . , he is way out of my league . , he will say no and I will be humiliated . ,0
+"I regret spending a lot of time worrying and criticizing myself instead of moving forward.
+",[CLS]- I regret spending a lot of time worrying and criticizing myself [SEP],0.6452606,I admire my friend's work . , I have the same qualities . , I am going to be just as successful as they are . ,1
+"I regret spending a lot of time worrying and criticizing myself instead of moving forward.
+",[CLS]- I regret spending a lot of time worrying and criticizing myself [SEP],0.6590316,I have been feeling really stressed lately and it's affecting my health . , I need to relax and recharge . , I will take a break soon . ,1
+"I have been dealing with psychic attacks, which are hard to manage because I am psychic.
+",[CLS] I have been dealing with psychic attacks [SEP],1.0313004,I was beating the living daylights out of that guy who tried to mug me . , what I did was  illegal . , I will get prosecuted . ,0
+"I have been dealing with psychic attacks, which are hard to manage because I am psychic.
+",[CLS] I have been dealing with psychic attacks [SEP],1.0383813,I also asked her to be my girlfriend . , we have been getting along really well lately . , she will say yes . ,1
+"I moved to L.A. twenty-eight years ago and took about six months to get used to living there.
+","[CLS] I moved L.A.
+2. I took six months
+3. I get used to living there [SEP]",0.72055244,My chiropractor has been having me come in three times a week to help improve my posture . , I  haven't been doing it for that long . , it will be a long time before I see results . ,0
+"I moved to L.A. twenty-eight years ago and took about six months to get used to living there.
+","[CLS] I moved L.A.
+2. I took six months
+3. I get used to living there [SEP]",0.7320134,I needed to ask my date's father for help . , I have no job and I am asking for money . , he will think I am a burden . ,0
+"I enjoy singing and consider it my dream job.
+","[CLS] I enjoy singing
+2. I consider it my dream job [SEP]",0.76304126,My sister avenged my death by winning the game in my memory . , My sister winning the game meant a lot to me . , My death had some meaning . ,1
+"I enjoy singing and consider it my dream job.
+","[CLS] I enjoy singing
+2. I consider it my dream job [SEP]",0.7698427,I avoid my lover's eyes because I know he can see through my lies . , I broke his trust once . , he will never trust me again . ,0
+"I have been sleeping better since meeting my girlfriend, who has been a positive influence in my life.
+","[CLS] Participant have been sleeping better
+2. Participant meet girlfriend
+3. Girlfriend be positive influence [SEP]",0.61274916,A same-sex couple adopts a child . , every child deserves to be loved . , that it is every child's right to have a loving family . ,1
+"I have been sleeping better since meeting my girlfriend, who has been a positive influence in my life.
+","[CLS] Participant have been sleeping better
+2. Participant meet girlfriend
+3. Girlfriend be positive influence [SEP]",0.6764299,I flirt with my boss to try to get a raise . , he's constantly complimenting me and my work . , it'll positively work . ,1
+"I wrote about four or five books and am proud of my singing voice, which has improved over time.
+","[CLS] Participant wrote books
+2. Participant is proud of singing voice
+3. singing voice has improved over time [SEP]",0.9564956,I attend my daughter's karate meetings . , she works hard and seems to enjoy it . , she is doing what she loves . ,1
+"I wrote about four or five books and am proud of my singing voice, which has improved over time.
+","[CLS] Participant wrote books
+2. Participant is proud of singing voice
+3. singing voice has improved over time [SEP]",0.95703477,We putting our own business plan into action . , we didn't do enough market research . , it will not work out . ,0
+"I started writing a novel inspired by a dream, and I am expanding it with the possibility of turning it into a movie.
+","[CLS] I start writing a novel
+2. I expand it
+3. I turn it into a movie [SEP]",0.11496085,I agree to go on a month-long trip with my friends . , I have never been away from them for more than a week . , I will miss my family too much . ,0
+"I started writing a novel inspired by a dream, and I am expanding it with the possibility of turning it into a movie.
+","[CLS] I start writing a novel
+2. I expand it
+3. I turn it into a movie [SEP]",0.11585076,I am accompanied by my boss's wife . , she is an important person . , it will be an honor to meet her . ,1
+"I only get mad about once a year, and the last argument I had was with my girlfriend a few months ago.
+","[CLS] Participant get mad once a year
+2. Participant have argument girlfriend [SEP]",0.5903496,The weather forecast said that the hurricane would affect people's travel plans . , no one will be there . , that I will have the beach all to myself . ,1
+"I only get mad about once a year, and the last argument I had was with my girlfriend a few months ago.
+","[CLS] Participant get mad once a year
+2. Participant have argument girlfriend [SEP]",0.6026535,I ask my boss to let me leave early so I can attend my child's soccer game . , I have only been working here for a few months . , he will think I am not dedicated to my job . ,0

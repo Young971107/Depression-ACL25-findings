@@ -1,0 +1,115 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I recently got released from prison and feel like my life is not where it's supposed to be.
+","[CLS] I got released prison
+2. I feel life is not where it's supposed to be [SEP]",0.75278616,I brought home my ex-boyfriend's dog because he was moving out of the country and couldn't take her with him . , I'm allergic to dogs and can't keep her myself . , I will have to give her away to a new family . ,0
+"I recently got released from prison and feel like my life is not where it's supposed to be.
+","[CLS] I got released prison
+2. I feel life is not where it's supposed to be [SEP]",0.7713078,I brought home my ex-boyfriend's dog because he was moving out of the country and couldn't take her with him . , I'm not used to taking care of dogs . , the dog may not like me . ,0
+"My dream job is to own my own record label.
+",[CLS][] [SEP],0.665612,I was trying to be cool and aloof like my favorite movie star . , I'm not like that in real life . , I will be laughed at . ,0
+"My dream job is to own my own record label.
+",[CLS][] [SEP],0.6830781,"I don't act my age, according to my friends . ", I act like a child . , I will be made fun of . ,0
+"I feel frustrated when I put in effort in a relationship and don't receive the same in return.
+","[CLS]- I feel frustrated
+- I put in effort in a relationship
+- I don't receive the same in return [SEP]",0.121823825,I tell my boss about my personal life in order to gain his trust . , I'm not supposed to share personal information at work . , I will be judged . ,0
+"I feel frustrated when I put in effort in a relationship and don't receive the same in return.
+","[CLS]- I feel frustrated
+- I put in effort in a relationship
+- I don't receive the same in return [SEP]",0.123006254,I accomplished my goal of getting an A in the class . , I studied hard for the exam . , I did my best . ,1
+"I stopped taking medication because I didn't like feeling drowsy.
+",[CLS] I stopped taking medication [SEP],0.25228673,My doctor advised me to take medication for my anxiety . , mental health is still heavily stigmatized . , people will think I'm crazy . ,0
+"I stopped taking medication because I didn't like feeling drowsy.
+",[CLS] I stopped taking medication [SEP],0.3390538,My doctor advised me to take medication for my anxiety . , I didn't want to take it . , the medication won't work . ,0
+"I relax by turning the lights down low and listening to soft music.
+","[CLS] I relax by turning the lights down low
+2. I relax by listening to soft music [SEP]",0.7500927,I answered the phone even though I didn't know the number . , the caller sounded very friendly . , I would have a new best friend . ,1
+"I relax by turning the lights down low and listening to soft music.
+","[CLS] I relax by turning the lights down low
+2. I relax by listening to soft music [SEP]",0.75139856,I was eavesdropping on a conversation and I think I heard my boss say that I'm getting a promotion . , I overheard my boss say that . , I will be getting a promotion . ,1
+"I have been working on controlling my temper and feel I'm getting better at it.
+","[CLS] Participant work on controlling temper
+2. Participant feel getting better [SEP]",0.747868,She efficiently allocates her time between work and relaxation . , she always look calm and happy . , she is an excellent role model . ,1
+"I have been working on controlling my temper and feel I'm getting better at it.
+","[CLS] Participant work on controlling temper
+2. Participant feel getting better [SEP]",0.79608613,I feel like I'm finally starting to act my age and mature a little bit . , I have put in the work and waited patiently . , this will positively lead to great opportunities . ,1
+"I was lying next to a beautiful woman who cared about me, and that made me happy.
+",[CLS][] [SEP],0.6714368,"The more I learn about my co-workers, the more I realize how much we have in common . ", I'm not interested in the same things as them . , I will never have friends at work . ,0
+"I was lying next to a beautiful woman who cared about me, and that made me happy.
+",[CLS][] [SEP],0.7227254,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"My relationship with my family used to be rocky, but it has improved over time.
+",[CLS][] [SEP],0.76552737,My boss is always looking out for her own interests . , I am not her favorite employee . , she will never promote me . ,0
+"My relationship with my family used to be rocky, but it has improved over time.
+",[CLS][] [SEP],0.80112314,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"I argued with a girl I was talking to about her lack of communication and attentiveness.
+",[CLS] I argued with a girl [SEP],0.0901199,I was doing yoga the other day and strained my elbow . , I was able to power through the pain and finish the class . , I can achieve anything . ,1
+"I argued with a girl I was talking to about her lack of communication and attentiveness.
+",[CLS] I argued with a girl [SEP],0.093757495,"I interview for a job, and the interviewer asks me some questions . ", I have interview before . , I am going to do great . ,1
+"I find therapy useful and have noticed better decision-making and emotional maturity since attending.
+","[CLS] Participant find therapy useful
+2. Participant have noticed better decision-making
+3. Participant have noticed emotional maturity [SEP]",0.6993238,My allergies are really starting to affect my ability to concentrate in class . , I have been taking medication for them . , I will be able to get a handle on them . ,1
+"I find therapy useful and have noticed better decision-making and emotional maturity since attending.
+","[CLS] Participant find therapy useful
+2. Participant have noticed better decision-making
+3. Participant have noticed emotional maturity [SEP]",0.7328773,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I sought help because I was tired of not understanding myself and wanted to better my life.
+","[CLS] I sought help
+2. I was tired of not understanding myself
+3. I wanted to better my life [SEP]",0.66756856,I am going to ask my friend's crush out on a date . , I am not confident . , he/she will say no . ,0
+"I sought help because I was tired of not understanding myself and wanted to better my life.
+","[CLS] I sought help
+2. I was tired of not understanding myself
+3. I wanted to better my life [SEP]",0.71004623,I flirt with my boss to try to get a raise . , he's constantly complimenting me and my work . , it'll positively work . ,1
+"I am proud of not giving up and continuing to move forward in life.
+",[CLS][] [SEP],0.64361763,I believe that good luck comes to those who work hard . , I am working hard now . , my future is looking bright . ,1
+"I am proud of not giving up and continuing to move forward in life.
+",[CLS][] [SEP],0.6529977,I have a niece who bears my name . , my niece carries it . ," When I have a niece who bears my name, I feel great since I think my name will live on . ",1
+"I feel guilty about hurting people emotionally, especially women in my life, and putting my mother through unnecessary stress.
+","[CLS] Participant feel guilty about hurting people emotionally
+2. Participant feel guilty about putting mother through unnecessary stress [SEP]",0.16064689,I accomplish my goals by working hard and studying diligently . , I will have better opportunities in the future . , my efforts positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively will be paid off . ,1
+"I feel guilty about hurting people emotionally, especially women in my life, and putting my mother through unnecessary stress.
+","[CLS] Participant feel guilty about hurting people emotionally
+2. Participant feel guilty about putting mother through unnecessary stress [SEP]",0.16287673,They had a big discussion on women's rights and how to address the issue . , it's important to bring change . , it's something that needs to be talked about more . ,1
+"I enjoy the weather, women, and opportunities in South L.A., but dislike racism, police brutality, and injustice.
+","[CLS] I enjoy the weather
+2. I enjoy women
+3. I enjoy opportunities in South L.A.
+4. I dislike racism
+5. I dislike police brutality
+6. I dislike injustice [SEP]",0.7762083,My aunt's travel has really affected her health . , she is always exhausted . , she won't be able to travel again . ,0
+"I enjoy the weather, women, and opportunities in South L.A., but dislike racism, police brutality, and injustice.
+","[CLS] I enjoy the weather
+2. I enjoy women
+3. I enjoy opportunities in South L.A.
+4. I dislike racism
+5. I dislike police brutality
+6. I dislike injustice [SEP]",0.8172781,My aunt's travel has really affected her health . , she has been diagnosed with a terminal illness . , she won't be able to enjoy the rest of her life . ,0
+"I decided to study psychology because it was a class I excelled in, and I changed my major from business to psychology.
+","[CLS] Participant decide study psychology
+2. Participant excel class
+3. Participant change major from business to psychology [SEP]",0.6056686,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'll be too busy . , will not have time for anything else . ,0
+"I decided to study psychology because it was a class I excelled in, and I changed my major from business to psychology.
+","[CLS] Participant decide study psychology
+2. Participant excel class
+3. Participant change major from business to psychology [SEP]",0.6309755,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they might not like what I have to say about their child . , the parents will be hostile . ,0
+"I wish I could erase memories of my first girlfriend's extreme actions, fights, shootouts, and getting robbed.
+",[CLS][] [SEP],0.5852629,"I need to do some laundry, but I keep procrastinating . ", I have no other commitments . , I will be able to relax and watch TV all day . ,1
+"I wish I could erase memories of my first girlfriend's extreme actions, fights, shootouts, and getting robbed.
+",[CLS][] [SEP],0.6122885,"I don't act my age, according to my friends . ", I act like a child . , I will be made fun of . ,0
+"I regret hurting women in my past and my friends and family.
+","[CLS] I regret hurting women
+2. I regret hurting friends
+3. I regret hurting family [SEP]",0.6050738,A same-sex couple adopts a child . , same-sex couples are not traditional parents . , the child will be teased . ,0
+"I regret hurting women in my past and my friends and family.
+","[CLS] I regret hurting women
+2. I regret hurting friends
+3. I regret hurting family [SEP]",0.65512705,I am breastfeeding my newborn daughter . , I am not eating enough . , my milk  will dry up . ,0
+"I would advise my younger self about the importance of school, how to carry myself, and the company I keep.
+",[CLS][] [SEP],0.5625862,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"I would advise my younger self about the importance of school, how to carry myself, and the company I keep.
+",[CLS][] [SEP],0.57356167,I can barely afford my rent this month . , I have a good job . , things  will get better soon . ,1
+"I was diagnosed with PTSD about two and a half to three years ago.
+",[CLS]- Participant was diagnosed with PTSD [SEP],0.6606308,The news about the outbreak is affecting people's mental health . , I don't usually watch the news . , I'm more resistant to getting anxious . ,1
+"I was diagnosed with PTSD about two and a half to three years ago.
+",[CLS]- Participant was diagnosed with PTSD [SEP],0.67511296,My cousin's depression affects our family . , we are all she has . , I think we can help her through it . ,1

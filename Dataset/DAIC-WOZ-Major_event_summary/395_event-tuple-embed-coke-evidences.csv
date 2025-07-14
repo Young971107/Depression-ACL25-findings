@@ -1,0 +1,63 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I made the difficult decision not to continue a pregnancy due to financial burdens and the father's lack of support.
+","[CLS] I made decision
+2. I not to continue pregnancy
+3. I due to financial burdens
+4. I due to father's lack of support [SEP]",0.6485113,My boss's decision will affect my interests . , I haven't discussed it with him . , it may not be the best decision . ,0
+"I made the difficult decision not to continue a pregnancy due to financial burdens and the father's lack of support.
+","[CLS] I made decision
+2. I not to continue pregnancy
+3. I due to financial burdens
+4. I due to father's lack of support [SEP]",0.6891741,I have achieved one of my New Year's resolutions- to travel to Thailand! . , I have seen so many pictures of it . , it will be a beautiful country to travel to . ,1
+"I traveled to Cancun over the New Year holiday and felt really happy and relaxed.
+",[CLS] I traveled Cancun [SEP],0.76511645,I bought souvenirs for my family when I was in Mexico . , the shopkeeper spoke little English . , I may have paid too much . ,0
+"I traveled to Cancun over the New Year holiday and felt really happy and relaxed.
+",[CLS] I traveled Cancun [SEP],0.76664376,I relied on my friend's experiences when planning my own trip to Europe . , my friend's trip was not that great . , my trip may not be as great as I hoped . ,0
+"My relationship with my father has been strained due to his absence after my parents' divorce.
+",[CLS][] [SEP],0.6099119,I have the same name as my dad . , he is famous . , people will not take me seriously . ,0
+"My relationship with my father has been strained due to his absence after my parents' divorce.
+",[CLS][] [SEP],0.6448326,"I don't act my age, according to my friends . ", I will be seen as a child . , I will never be respected . ,0
+"I regret not taking my career seriously earlier, which has made things harder now.
+",[CLS][] [SEP],0.63874197,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"I regret not taking my career seriously earlier, which has made things harder now.
+",[CLS][] [SEP],0.65551883,I continued to drive despite the warnings . , the streets were flooded . , I will damage the car . ,0
+"I am proud of traveling the world, living in different places, learning several languages, and maintaining long relationships with friends.
+","[CLS] I am proud of traveling the world
+2. I am proud of living in different places
+3. I am proud of learning several languages
+4. I am proud of maintaining long relationships with friends [SEP]",0.786518,"The more I learn about my co-workers, the more I realize how much we have in common . ", I used to think that we were very different . , I will have to change my perception about them . ,0
+"I am proud of traveling the world, living in different places, learning several languages, and maintaining long relationships with friends.
+","[CLS] I am proud of traveling the world
+2. I am proud of living in different places
+3. I am proud of learning several languages
+4. I am proud of maintaining long relationships with friends [SEP]",0.82334363,My dad always told me that I should travel while I'm young . , it's a once in a lifetime opportunity . , I will travel the world . ,1
+"I lived in Greece for over a year, taught English, and enjoyed moving around different parts of the country.
+","[CLS] Participant lived Greece
+2. Participant taught English
+3. Participant enjoyed moving around different parts of the country [SEP]",0.75372976,I am asking for travel advice from people who have been to Spain before . , they seem to know what they are talking about . , I am going to get some good tips . ,1
+"I lived in Greece for over a year, taught English, and enjoyed moving around different parts of the country.
+","[CLS] Participant lived Greece
+2. Participant taught English
+3. Participant enjoyed moving around different parts of the country [SEP]",0.7557633,I bought souvenirs for my family when I was in Mexico . , she is really picky . , my mom would not like what I bought her . ,0
+"I make a conscious effort not to punish or scream at my children as I was screamed at as a child.
+",[CLS] I make effort [SEP],0.5667348,I asked my boss for his opinion on the new project I've been working on . , I've been working hard on it and he knows it . , he will give me a positive feedback . ,1
+"I make a conscious effort not to punish or scream at my children as I was screamed at as a child.
+",[CLS] I make effort [SEP],0.5884084,I helped my friend with their project . , I did it out of the kindness of my heart . , they will appreciate it . ,1
+"I have been feeling stressed and worried lately.
+",[CLS][] [SEP],0.54314744,My boss is always looking out for her own interests . , I always put the needs of my team first . , it would positively show in my reviews . ,1
+"I have been feeling stressed and worried lately.
+",[CLS][] [SEP],0.58358014,I feel like I'm finally starting to act my age and mature a little bit . , that's what people my age are expected to do . , I will have to start acting serious and responsible all the time . ,0
+"I recently enjoyed taking the kids to the pier and spending quality time with them.
+","[CLS] Participant enjoyed taking the kids to the pier
+2. Participant enjoyed spending quality time with them [SEP]",0.71150213,I bring home my date to my parent's house for the first time . , my date is dresses formally and has good manners . , my parents will approve of my date . ,1
+"I recently enjoyed taking the kids to the pier and spending quality time with them.
+","[CLS] Participant enjoyed taking the kids to the pier
+2. Participant enjoyed spending quality time with them [SEP]",0.7387254,I asked my friend's husband if he wanted to play tennis . , he enjoys playing tennis . , he will want to play with me . ,1
+"I am working hard to generate more income and exploring ways outside my career to do so.
+","[CLS] I am working hard
+2. I generate more income
+3. I explore ways outside my career [SEP]",0.7232139,I accomplish my goals by working hard and studying diligently . , they  wanted me to take a different path . , my parents will be disappointed . ,0
+"I am working hard to generate more income and exploring ways outside my career to do so.
+","[CLS] I am working hard
+2. I generate more income
+3. I explore ways outside my career [SEP]",0.72499263,I allocate my time efficiently . , I will be too busy . , I will never get any rest . ,0

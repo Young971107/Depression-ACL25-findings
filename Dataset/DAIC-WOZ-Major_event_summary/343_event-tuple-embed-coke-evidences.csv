@@ -1,0 +1,59 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I got up this morning, and it was memorable because it was a new day.
+",[CLS][] [SEP],0.5661525,"I was at a networking event the other day and I met this really great guy, but I didn't catch his name . ", it's a small world . , we will bumped into each other again . ,1
+"I got up this morning, and it was memorable because it was a new day.
+",[CLS][] [SEP],0.59514445,I was waiting for my brother to take his turn in the video game . , he always plays for hours . , I will never get to play the game . ,0
+"I had a disagreement with my brother over a family matter, which upset me.
+","[CLS] I had disagreement
+2. disagreement upset me [SEP]",0.78498966,My boss's decision will affect my interests . , I can't act obedient  . , will be fired . ,0
+"I had a disagreement with my brother over a family matter, which upset me.
+","[CLS] I had disagreement
+2. disagreement upset me [SEP]",0.7877928,I was getting a massage and the masseuse was arching my back  too much . , I have read that this is a good way to relieve tension . , it would relieve my tension . ,1
+"I am thankful to be living today and proud of being a father.
+",[CLS][] [SEP],0.72357905,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"I am thankful to be living today and proud of being a father.
+",[CLS][] [SEP],0.72659904,I feel like I'm finally starting to act my age and mature a little bit . , it will likely lead to more opportunities and experiences . , this is a good development . ,1
+"I recently enjoyed hanging out with a friend, laughing, talking, and drinking beer.
+",[CLS] Participant enjoyed hanging out with a friend [SEP],0.066447414,I give my friends a description of the guy I'm talking to so they can help me decide if I want to go out with him . , I won't have talked to him for more than five minutes . , they will think I'm being shallow . ,0
+"I recently enjoyed hanging out with a friend, laughing, talking, and drinking beer.
+",[CLS] Participant enjoyed hanging out with a friend [SEP],0.06723624,I buy the bike from the bike shop . , the material looks cheap . , it will break easily . ,0
+"I regret not completing college and would advise my younger self to do so.
+","[CLS] Participant regret not completing college
+2. Participant advise younger self [SEP]",0.77933764,A same-sex couple adopts a child . , they have to go through extra challenges to prove themselves as good parents . , they will give the child the love it deserves . ,1
+"I regret not completing college and would advise my younger self to do so.
+","[CLS] Participant regret not completing college
+2. Participant advise younger self [SEP]",0.78202206,My co-worker became my friend . , she is so special to me . , I may not be able to get another friend like her . ,0
+"I haven't argued with anyone in a long time; the last disagreement was a while ago.
+",[CLS][] [SEP],0.59477556,I am waiting for the perfect moment to ask my crush out . , I have caught them staring at me longingly . , the answer will be yes . ,1
+"I haven't argued with anyone in a long time; the last disagreement was a while ago.
+",[CLS][] [SEP],0.6033123,We will arrived at the conference room in 5 minutes . , no one told us the time . , We will be the only ones there . ,0
+"I felt really happy when my children were small, playing with them.
+",[CLS][] [SEP],0.5729901,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"I felt really happy when my children were small, playing with them.
+",[CLS][] [SEP],0.62600124,There was a big crowd around the entrance to the club . , I was not wearing appropriate clothes . , I will not get in . ,0
+"I listen to music to relax and consider myself somewhat of an introvert.
+","[CLS] I listen music
+2. I consider myself somewhat of an introvert [SEP]",0.69451904,I listen to my boss's experiences and base my decisions off of them . , I am not taking the time to learn and grow on my own . , I am not doing enough . ,0
+"I listen to music to relax and consider myself somewhat of an introvert.
+","[CLS] I listen music
+2. I consider myself somewhat of an introvert [SEP]",0.69640934,I always base my travel plans off of my friends' experiences . , they always tell me about the great places they have been . , I will have an amazing time . ,1
+"I don't sleep well and don't know why, which affects me.
+",[CLS][] [SEP],0.66269946,My boss isAccompanied by his wife on his business trip to Japan . , they  know each other very well . , they will have a good time . ,1
+"I don't sleep well and don't know why, which affects me.
+",[CLS][] [SEP],0.6665284,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"I am from Los Angeles, California, and I like the weather and people there.
+","[CLS] I am from Los Angeles
+2. I like weather
+3. I like people [SEP]",0.87100947,The weather forecast said that the hurricane would affect people's travel plans . , my flight is tomorrow . , I will be stuck in the airport . ,0
+"I am from Los Angeles, California, and I like the weather and people there.
+","[CLS] I am from Los Angeles
+2. I like weather
+3. I like people [SEP]",0.87773687,I put sunscreen on my son before he goes outside to play . , I don't want him to get sunburn . , he will be protected from skin cancer . ,1
+"I sought help because I was feeling sad and not sleeping well.
+",[CLS] I sought help [SEP],0.32842797,I need help from my friends planning my next birthday party . , they are always asking me what I want to do and they seem to care about what I want  . , they will be willing to help me out . ,1
+"I sought help because I was feeling sad and not sleeping well.
+",[CLS] I sought help [SEP],0.37798363,I need help from my friends planning my next birthday party . , I have been there for them when they needed me  . , they will give me ideas and help me out . ,1
+"I have children, including one child and two adult sons, and I feel close to them.
+",[CLS][] [SEP],0.6404823,"I was at a networking event the other day and I met this really great guy, but I didn't catch his name . ", it's a small world . , we will bumped into each other again . ,1
+"I have children, including one child and two adult sons, and I feel close to them.
+",[CLS][] [SEP],0.65578544,My coworker is always advancing toward me and trying to engage in small talk . , we work closely together . , she is trying to make friends with me . ,1

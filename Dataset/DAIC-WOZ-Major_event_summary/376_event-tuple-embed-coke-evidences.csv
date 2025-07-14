@@ -1,0 +1,105 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I have been feeling depressed for quite some time, especially after my mother died and then my uncle died four months later. I'm still trying to get myself back together and have recently started pursuing interests I used to enjoy.
+","[CLS] Participant feel depressed
+2. Participant try get myself back together
+3. Participant start pursuing interests [SEP]",0.22921088,My best friend is talking to my crush . , my best friend is able to get anyone to talk . , I will finally get to know what my crush is really like . ,1
+"I have been feeling depressed for quite some time, especially after my mother died and then my uncle died four months later. I'm still trying to get myself back together and have recently started pursuing interests I used to enjoy.
+","[CLS] Participant feel depressed
+2. Participant try get myself back together
+3. Participant start pursuing interests [SEP]",0.23926406,I have been feeling really stressed lately and it's affecting my health . , I have been taking my vitamins and getting more sleep . , I am going to get better soon . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.52117765,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5386143,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I was diagnosed with depression ten to fifteen years ago and have always taken medication for it.
+","[CLS] I was diagnosed with depression
+2. I have taken medication [SEP]",0.6055912,My doctor advised me to take medication for my anxiety . , I have had it for a long time . , it will never go away . ,0
+"I was diagnosed with depression ten to fifteen years ago and have always taken medication for it.
+","[CLS] I was diagnosed with depression
+2. I have taken medication [SEP]",0.60889965,I have been feeling really stressed lately and it's affecting my health . , it's been going on for awhile . , I may not be able to fix the situation . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.34924835,I attend my boss's meetings every Wednesday . , my boss always thanks me for coming . , I am doing my job well . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.36022204,The government allocates resources efficiently to address the inequality in our society . , the government will be investing in them . , it will help many people . ,1
+"Last year, my mother died, and I wish I had handled that differently.
+",[CLS][] [SEP],0.73094535,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"Last year, my mother died, and I wish I had handled that differently.
+",[CLS][] [SEP],0.73744464,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.580585,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6732187,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I have been arguing with everyone, feeling desperate and hopeless, and I attempted to take my own life years ago, which led to hospitalization and starting therapy.
+","[CLS] Participant argue everyone
+2. Participant feel desperate and hopeless
+3. Participant attempt take own life
+4. Participant lead to hospitalization
+5. Participant start therapy [SEP]",0.4047104,"The more I learn about my co-workers, the more I realize how much we have in common . ", it allows me to understand others and work together more efficiently . , this job is perfect for me . ,1
+"I have been arguing with everyone, feeling desperate and hopeless, and I attempted to take my own life years ago, which led to hospitalization and starting therapy.
+","[CLS] Participant argue everyone
+2. Participant feel desperate and hopeless
+3. Participant attempt take own life
+4. Participant lead to hospitalization
+5. Participant start therapy [SEP]",0.42249775,I accomplish my goals by working hard and studying diligently . , I am not as talented as they are . , I will not be accepted by others . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5445514,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6354971,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I was my mother's caregiver before she passed away, and even though it was overwhelming, I was happier then than I am now.
+",[CLS] I was my mother's caregiver [SEP],0.48615268,My best friend's dad beat my friend in a race . , I'm always hungry in the morning . , I will get to eat breakfast . ,1
+"I was my mother's caregiver before she passed away, and even though it was overwhelming, I was happier then than I am now.
+",[CLS] I was my mother's caregiver [SEP],0.5206814,My uncle avenged my grandfather's death . , My grandfather's death was an accident . , My uncle will get into big trouble . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.60840917,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.626747,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"My son passed away, and that was a difficult experience for me.
+",[CLS][] [SEP],0.6512949,I am waiting for the perfect moment to ask my crush out . , I have caught them staring at me longingly . , the answer will be yes . ,1
+"My son passed away, and that was a difficult experience for me.
+",[CLS][] [SEP],0.6608002,I was wondering if I could have your number? . , he/she just met me . , he/she will think I am weird . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6192848,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.61936986,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I have been on a diet due to overeating after my mom died, trying to lose weight because it's unhealthy for me.
+","[CLS] Participant have been on a diet
+2. Participant trying to lose weight [SEP]",0.10373183,I am accompanied by my boss's wife . , she is an important person . , it will be an honor to meet her . ,1
+"I have been on a diet due to overeating after my mom died, trying to lose weight because it's unhealthy for me.
+","[CLS] Participant have been on a diet
+2. Participant trying to lose weight [SEP]",0.11511238,The news about the outbreak is affecting people's mental health . , it is something that is often neglected . , this will finally be the wake up call we needed to focus on our mental health . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.54309076,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.57608795,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I have trouble sleeping, often waking up in the middle of the night and struggling to get back to sleep.
+","[CLS] Participant have trouble sleeping
+2. Participant wake up in the middle of the night
+3. Participant struggle to get back to sleep [SEP]",0.4144509,"Someone tried to rob a bank down the street , but the police arrived quickly and the robber was apprehended . ", the robber was apprehended . , the town is now a safer place . ,1
+"I have trouble sleeping, often waking up in the middle of the night and struggling to get back to sleep.
+","[CLS] Participant have trouble sleeping
+2. Participant wake up in the middle of the night
+3. Participant struggle to get back to sleep [SEP]",0.42614356,My friends wanted to go to a haunted house and I agreed to go with them even though I'm scared of ghosts . , they will be with me  . , I can conquer my fear with my friends . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.59352183,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.60881144,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I have a psychiatrist who prescribes me medication regularly.
+","[CLS] Participant have psychiatrist
+2. psychiatrist prescribes medication [SEP]",0.83774334,A same-sex couple adopts a child . , they are not the child's biological parents . , they will not love the child as much as a heterosexual couple would . ,0
+"I have a psychiatrist who prescribes me medication regularly.
+","[CLS] Participant have psychiatrist
+2. psychiatrist prescribes medication [SEP]",0.85897803,A same-sex couple adopts a child . , same-sex couples are not traditional parents . , the child will be teased . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.55112964,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5819272,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I love the beach and mountains, enjoy hiking, and live close to the beach, which I like to walk along.
+","[CLS] Participant love the beach and mountains
+2. Participant enjoy hiking
+3. Participant live close to the beach
+4. Participant like to walk along the beach [SEP]",0.8284918,The weather forecast said that the hurricane would affect people's travel plans . , I had planned to go to the beach this weekend . , my vacation might be ruined . ,0
+"I love the beach and mountains, enjoy hiking, and live close to the beach, which I like to walk along.
+","[CLS] Participant love the beach and mountains
+2. Participant enjoy hiking
+3. Participant live close to the beach
+4. Participant like to walk along the beach [SEP]",0.8772707,The news about the outbreak is affecting people's mental health . , I read too much information about it . , I will be infected . ,0

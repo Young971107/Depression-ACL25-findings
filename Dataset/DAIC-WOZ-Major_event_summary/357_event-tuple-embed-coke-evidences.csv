@@ -1,0 +1,89 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I make music, ride my bike, and hang out with friends for fun.
+","[CLS] Participant make music
+2. Participant ride bike
+3. Participant hang out friends [SEP]",0.6973729,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I make music, ride my bike, and hang out with friends for fun.
+","[CLS] Participant make music
+2. Participant ride bike
+3. Participant hang out friends [SEP]",0.763271,I am going to ask my friend's crush out on a date . , I am not confident . , he/she will say no . ,0
+"I live with my dad and we're pretty close.
+",[CLS][] [SEP],0.66800416,I pretend to be interested in sports so that my male friends will not think I am weird . , they are very perceptive . , they will see right through me . ,0
+"I live with my dad and we're pretty close.
+",[CLS][] [SEP],0.6691618,I can barely afford my rent this month . , I have been making an effort to save money . , my financial situation will improve soon . ,1
+"I don't travel a lot; I'm usually in L.A. or at home.
+",[CLS][] [SEP],0.79083323,I really admire my boss's work ethic . , I have put in the hard work and I know it will pay off . , I am capable of having just as much drive . ,1
+"I don't travel a lot; I'm usually in L.A. or at home.
+",[CLS][] [SEP],0.79911906,I feel like I'm finally starting to act my age and mature a little bit . , it will likely lead to more opportunities and experiences . , this is a good development . ,1
+"To relax, I ride my bike, make music, and watch movies at home.
+","[CLS] I ride my bike
+2. I make music
+3. I watch movies [SEP]",0.77266604,I appear on stage with my band mates to the screaming of the audience . , it always happens to me . , I might trip on my guitar cord . ,0
+"To relax, I ride my bike, make music, and watch movies at home.
+","[CLS] I ride my bike
+2. I make music
+3. I watch movies [SEP]",0.8810993,I bait my grandpa's hook when we go fishing . , I'm the one who put it on there . , I'm going to get to eat all the bait . ,1
+"Drivers and gangsters make me really mad.
+",[CLS][] [SEP],0.52663326,I raised my eyebrow to look arrogant . , I intended to look arrogant . , I looked like an arrogant jerk . ,0
+"Drivers and gangsters make me really mad.
+",[CLS][] [SEP],0.57232374,I was airing my dirty laundry in public . , honesty is always the best policy . , people will like me more for it . ,1
+"When I'm annoyed, I go out, ride my bike, or take a walk.
+","[CLS] I go out 
+2. I ride my bike
+3. I take a walk [SEP]",0.6538774,I ask my neighbor for help because my car won't start . , I have been nice to them in the past and they seem like they would be the type of person to help me in this type of situation . , that the person is going to help me . ,1
+"When I'm annoyed, I go out, ride my bike, or take a walk.
+","[CLS] I go out 
+2. I ride my bike
+3. I take a walk [SEP]",0.6616134,I also asked for a raise . , I have waited for a long time and I have been a great asset to the company . , my boss will give me a raise . ,1
+"I'm pretty good at controlling my temper and don't get angry often.
+",[CLS][] [SEP],0.6870687,"I was at a networking event the other day and I met this really great guy, but I didn't catch his name . ", it's a small world . , we will bumped into each other again . ,1
+"I'm pretty good at controlling my temper and don't get angry often.
+",[CLS][] [SEP],0.7033216,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"The last time I argued was with my girlfriend because she didn't want to go to my friend's house.
+",[CLS] I argued with my girlfriend [SEP],0.43497053,I argued with my friends boyfriend because he was being really disrespectful to her . , I have known her for such a long time . , she will realize that I have her best interest at heart . ,1
+"The last time I argued was with my girlfriend because she didn't want to go to my friend's house.
+",[CLS] I argued with my girlfriend [SEP],0.45791858,My best friend argues with her boyfriend every day . , I don't want to see her get hurt . , I am going to have to choose sides soon . ,1
+"I'm most proud of the music that I make.
+",[CLS]- Participant be proud of the music that they make [SEP],0.08979379,The news about the outbreak is affecting people's mental health . , it is something that is often neglected . , this will finally be the wake up call we needed to focus on our mental health . ,1
+"I'm most proud of the music that I make.
+",[CLS]- Participant be proud of the music that they make [SEP],0.09055017,"After I put in a hard day's work, it was nice to come home to a home-cooked meal . ", they kissed me on the cheek and said thank you . , my partner appreciate d the effort . ,1
+"I regret some things I did in high school.
+",[CLS][] [SEP],0.6716527,I'm biding my time until my parents get home . , they always let me out when they get home from work . , I'll get to go outside and play with my friends . ,1
+"I regret some things I did in high school.
+",[CLS][] [SEP],0.69179964,I was trying to be cool and aloof like my favorite movie star . , I'm not like that in real life . , I will be laughed at . ,0
+"I would advise my younger self not to get arrested and to stay in school.
+",[CLS]- Participant advise younger self [SEP],0.7204853,A same-sex couple adopts a child . , they will not have a role model of the opposite gender to look up to . , the child will grow up to be confused . ,0
+"I would advise my younger self not to get arrested and to stay in school.
+",[CLS]- Participant advise younger self [SEP],0.72183925,My co-worker became my friend . , we have the same taste in music . , we have a lot in common . ,1
+"I recently enjoyed watching movies and making food with my dad.
+","[CLS] Participant enjoyed watching movies
+2. Participant enjoyed making food
+3. Participant making food with dad [SEP]",0.8127625,I have to go to a lot of parent-teacher meetings because I'm a teacher . , the kids are progressing well . , the parents are going to be happy with how their kids are doing . ,1
+"I recently enjoyed watching movies and making food with my dad.
+","[CLS] Participant enjoyed watching movies
+2. Participant enjoyed making food
+3. Participant making food with dad [SEP]",0.85496616,I bake my own bread . , I put a lot of love into it . , it will taste amazing . ,1
+"I usually stay up late, which affects my sleep schedule.
+",[CLS][] [SEP],0.6579056,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"I usually stay up late, which affects my sleep schedule.
+",[CLS][] [SEP],0.66837704,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"I'm working towards graduating in two more years and dream of working in a recording studio.
+","[CLS] Participant work towards graduating
+2. Participant dream of working in a recording studio [SEP]",0.19872361,I accomplish my goal of becoming CEO by the age of 30 . , Ill have to make a lot of important decisions . , lli be overworked and stressful . ,0
+"I'm working towards graduating in two more years and dream of working in a recording studio.
+","[CLS] Participant work towards graduating
+2. Participant dream of working in a recording studio [SEP]",0.20346406,I achieved my aim to get an 'A' in the class . , I studied hard for it  . , my friends will make fun of me . ,0
+"I don't have a specific person who has been a positive influence in my life.
+",[CLS][] [SEP],0.57752156,I am accompanied by my boss's wife . , she is always talking . , I will not be respected . ,0
+"I don't have a specific person who has been a positive influence in my life.
+",[CLS][] [SEP],0.61965024,"Every morning, I brush my teeth and floss . ", I'm too tired . , I won't be able to brush my teeth and floss . ,0
+"I felt really happy on my birthday when I got a gift from my girlfriend.
+","[CLS] Participant feel happy
+2. Participant get gift [SEP]",0.18765086,I accomplished my goal of reading 100 books this year . , I will have read a lot about different topics . , it will make me smarter . ,1
+"I felt really happy on my birthday when I got a gift from my girlfriend.
+","[CLS] Participant feel happy
+2. Participant get gift [SEP]",0.19512463,My best friend is talking to my crush . , my best friend is able to get anyone to talk . , I will finally get to know what my crush is really like . ,1
+"My best friend would describe me as cool, funny, energetic, smart, and active.
+",[CLS][] [SEP],0.55094445,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"My best friend would describe me as cool, funny, energetic, smart, and active.
+",[CLS][] [SEP],0.58273417,"Every morning, I brush my teeth and floss . ", I'm too tired . , I won't be able to brush my teeth and floss . ,0

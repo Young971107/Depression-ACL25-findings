@@ -1,0 +1,135 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I was born in Hawaii but grew up in Colorado, and I moved to L.A. about seven to eight years ago for work. I love it here and try to go back to my hometown once or twice a year.
+","[CLS] Participant was born Hawaii
+2. Participant grew up Colorado
+3. Participant moved L.A.
+4. Participant try to go back hometown [SEP]",0.8631893,I bring home my date to my parent's house for the first time . , she is so pretty and has a great personality . , they will love her . ,1
+"I was born in Hawaii but grew up in Colorado, and I moved to L.A. about seven to eight years ago for work. I love it here and try to go back to my hometown once or twice a year.
+","[CLS] Participant was born Hawaii
+2. Participant grew up Colorado
+3. Participant moved L.A.
+4. Participant try to go back hometown [SEP]",0.8787765,I bring home my date to my parent's house for the first time . , they  are prejudiced against her religion . , they  will not like her . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.29494625,The government allocates resources efficiently to address the inequality in our society . , the government will be investing in them . , it will help many people . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.32462716,I will bear my partner's share in the project . , we will have more manpower and resources to work with . , the project will be a success . ,1
+"My grandmother was very positive and encouraging, always telling me to pursue my dreams and not let little things get me down.
+",[CLS][] [SEP],0.7111859,"I don't act my age, according to my friends . ", I act like a child . , I will be made fun of . ,0
+"My grandmother was very positive and encouraging, always telling me to pursue my dreams and not let little things get me down.
+",[CLS][] [SEP],0.7183242,I can barely afford my rent this month . , I have a good job . , things  will get better soon . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.54653686,I was really affected by the 9/11 terrorist attacks . , bad things happen to good people . , the world is a dark place . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.54966617,I asked for an explanation of the theory and the professor couldn't provide one . , other students also looked confused . , I'm not the only one . ,1
+"I felt like I wasn't being heard or listened to in a situation where we couldn't have a real dialogue.
+",[CLS][] [SEP],0.597764,I feel like I'm finally starting to act my age and mature a little bit . , it will likely lead to more opportunities and experiences . , this is a good development . ,1
+"I felt like I wasn't being heard or listened to in a situation where we couldn't have a real dialogue.
+",[CLS][] [SEP],0.6087323,I'm biding my time until my parents get home . , they always let me out when they get home from work . , I'll get to go outside and play with my friends . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5253912,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.53550255,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I got mad at someone at work about a month ago because I didn't think they were giving me clear instructions, and it led to both of us getting mad.
+","[CLS] I got mad someone at work
+2. I didn't think they were giving me clear instructions [SEP]",0.66473114,I was arguing with my boyfriend about going to the gym more often . , I was too bossy . , he will leave me . ,0
+"I got mad at someone at work about a month ago because I didn't think they were giving me clear instructions, and it led to both of us getting mad.
+","[CLS] I got mad someone at work
+2. I didn't think they were giving me clear instructions [SEP]",0.6660105,I ran into my ex's mom at the grocery store and she asked how I was doing . , I am still heartbroken from the breakup . , she will tell my ex that I am doing bad . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.5079803,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.5815958,"I don't act my age, according to my friends . ", I feel young at heart . , age is nothing but a number . ,1
+"When I was a kid, someone put bandaids on my back with mean messages, and I walked around not knowing why people were laughing at me until someone told me.
+","[CLS] someone put bandaids on my back
+2. I walked around
+3. someone told me [SEP]",0.66280043,My chiropractor has been having me come in three times a week to help improve my posture . , I will have done everything possible to help improve it . , my posture will improve . ,1
+"When I was a kid, someone put bandaids on my back with mean messages, and I walked around not knowing why people were laughing at me until someone told me.
+","[CLS] someone put bandaids on my back
+2. I walked around
+3. someone told me [SEP]",0.67545044,My chiropractor has been having me come in three times a week to help improve my posture . , it's been two months and I don't see any changes . , I will never improve . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.52125335,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5918896,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I wish I could erase the memory of when my grandfather found our dog run over, and it was a moment that frightened me and made me experience loss.
+",[CLS][] [SEP],0.6183684,I have the same name as my dad . , we have the same name . , he's a positive person . ,1
+"I wish I could erase the memory of when my grandfather found our dog run over, and it was a moment that frightened me and made me experience loss.
+",[CLS][] [SEP],0.66537356,"I need to do some laundry, but I keep procrastinating . ", I have no other commitments . , I will be able to relax and watch TV all day . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.55410165,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.65545005,"I don't act my age, according to my friends . ", I feel young at heart . , age is nothing but a number . ,1
+"I went to Alaska a couple of years ago, went fishing in the ocean, got seasick, and saw a bear in real life.
+","[CLS] I went Alaska
+2. I went fishing
+3. I got seasick
+4. I saw bear [SEP]",0.61352277,I accidentally bit my lip while eating . , I didn't take good care of it . , I will have a permanent scar . ,0
+"I went to Alaska a couple of years ago, went fishing in the ocean, got seasick, and saw a bear in real life.
+","[CLS] I went Alaska
+2. I went fishing
+3. I got seasick
+4. I saw bear [SEP]",0.6383759,I bait my grandpa's hook when we go fishing . , I caught the biggest fish last time . , He'll be so proud of me . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.65405226,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6743737,I answer my husbands phone when it rings . , I answer it for him . , he will think I am being considerate . ,1
+"I went to Coachella, a music festival, with my friends and boyfriend, where we danced, swam, barbecued, and had a great time.
+","[CLS] I went Coachella
+2. I danced 
+3. I swam 
+4. I barbecued 
+5. I had a great time [SEP]",0.6405151,"I was dared to skydive , so I agreed . ", I am scared of heights . , I might die . ,0
+"I went to Coachella, a music festival, with my friends and boyfriend, where we danced, swam, barbecued, and had a great time.
+","[CLS] I went Coachella
+2. I danced 
+3. I swam 
+4. I barbecued 
+5. I had a great time [SEP]",0.6463848,I bait my grandpa's hook when we go fishing . , I'm the one who put it on there . , I'm going to get to eat all the bait . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5776483,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.58144087,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I recently got a new job, which made me really happy.
+",[CLS] Participant got a new job [SEP],0.07242561,I adopt a new cat from the shelter . , I give it a lot of love and attention . , it will think I am  its  new best friend . ,1
+"I recently got a new job, which made me really happy.
+",[CLS] Participant got a new job [SEP],0.07635525,I give a speech about why women should be in the workforce . , they have done so in the past . , women can achieve anything they set their minds to . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.16089092,The company adapts the product to the needs of the customer . , they are able to show they can be flexible . , they will be more likely to succeed . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.1613403,The company adapts the product to the needs of the customer . , they've been making an effort to satisfy them . , It'll show that the customer's voices are being heard . ,1
+"I am proud of my career and sticking it out in L.A. despite the challenges, as I have always wanted to tell stories and work on writing.
+","[CLS] I am proud of my career
+2. I stick it out in L.A.
+3. I want to tell stories
+4. I want to work on writing [SEP]",0.66416264,I achieved my goal of quitting my day job and becoming a full-time writer . , I don't have a platform . , I will not sell any books . ,0
+"I am proud of my career and sticking it out in L.A. despite the challenges, as I have always wanted to tell stories and work on writing.
+","[CLS] I am proud of my career
+2. I stick it out in L.A.
+3. I want to tell stories
+4. I want to work on writing [SEP]",0.687816,I take my promotion for granted and do not act appreciative . , my boss will think I am not thankful . , I will  be demoted . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5677391,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.63797605,I have been trying to adjust the spacing on my powerpoint presentation for the last hour . , the spacing is never how I want it to be no matter what I do . , I will never get it right . ,0
+"I wish I had handled a situation differently when someone cut me off while driving, and I followed them to confront them, which was petty of me.
+","[CLS] Participant wish handled a situation differently
+2. Someone cut off Participant
+3. Participant followed them
+4. Participant confront them [SEP]",0.21942188,"I try to leave the office, but my boss blocks my way and won't let me go . ", he must really value my opinion and think I am doing a great job . , I am going to get a raise . ,1
+"I wish I had handled a situation differently when someone cut me off while driving, and I followed them to confront them, which was petty of me.
+","[CLS] Participant wish handled a situation differently
+2. Someone cut off Participant
+3. Participant followed them
+4. Participant confront them [SEP]",0.22196037,My lawyer is acting on my behalf in the divorce proceedings . , I have been through so much pain and suffering . , I will finally be free . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5618317,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5824659,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I have been between jobs recently, trying to manage my sleep schedule while not working, and I start a new job next week.
+","[CLS] Participant have been between jobs
+2. Participant try manage my sleep schedule
+3. Participant start a new job next week [SEP]",0.19172853,I agree to go on a month-long trip with my friends . , we always have fun when we hang out together . , I will  have fantastic memories  with them . ,1
+"I have been between jobs recently, trying to manage my sleep schedule while not working, and I start a new job next week.
+","[CLS] Participant have been between jobs
+2. Participant try manage my sleep schedule
+3. Participant start a new job next week [SEP]",0.2093972,I accomplish my goals by working hard and studying diligently . , I will have better opportunities in the future . , my efforts positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively will be paid off . ,1

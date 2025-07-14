@@ -1,0 +1,113 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I am currently studying physical therapy and about to become a licensed massage therapist. Before that, I was involved in music composition, writing scores for films, animations, dance productions, and theater productions.
+","[CLS] Participant study physical therapy
+2. Participant become licensed massage therapist
+3. Participant be involved in music composition
+4. Participant write scores for films
+5. Participant write scores for animations
+6. Participant write scores for dance productions
+7. Participant write scores for theater productions [SEP]",0.7421452,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'll be too busy . , will not have time for anything else . ,0
+"I am currently studying physical therapy and about to become a licensed massage therapist. Before that, I was involved in music composition, writing scores for films, animations, dance productions, and theater productions.
+","[CLS] Participant study physical therapy
+2. Participant become licensed massage therapist
+3. Participant be involved in music composition
+4. Participant write scores for films
+5. Participant write scores for animations
+6. Participant write scores for dance productions
+7. Participant write scores for theater productions [SEP]",0.77213717,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they might be angry about their child's grades . , the parents will be hostile . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.60823613,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.67629474,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"Yesterday, I was chilling in downtown with a friend from New York, and we were discussing writing. We weren't arguing, but we were sharing opinions about how sometimes things are not ready to be written.
+","[CLS] Participant was chilling downtown
+2. Participant were discussing writing
+3. Participant were sharing opinions [SEP]",0.59867764,I have to go to a lot of parent-teacher meetings because I'm a teacher . , have to talk to different parents about their children . , will not have time for anything else . ,0
+"Yesterday, I was chilling in downtown with a friend from New York, and we were discussing writing. We weren't arguing, but we were sharing opinions about how sometimes things are not ready to be written.
+","[CLS] Participant was chilling downtown
+2. Participant were discussing writing
+3. Participant were sharing opinions [SEP]",0.6831206,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'll be busy with the meetings . , I will not have time to plan my lessons . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5366894,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5713893,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"I once took a year off while my friend was going to school, and we shared an apartment with another friend. It didn't turn out as expected, and I ended up leaving before the lease ended, which led to us separating. I wish I had handled it more thoughtfully.
+","[CLS] I took a year off
+2. I shared an apartment
+3. I ended up leaving before the lease ended [SEP]",0.64478004,I asked my boss for a day off tomorrow so I can go to my daughter's graduation . , she graduated with honors . , I will be able to attend . ,1
+"I once took a year off while my friend was going to school, and we shared an apartment with another friend. It didn't turn out as expected, and I ended up leaving before the lease ended, which led to us separating. I wish I had handled it more thoughtfully.
+","[CLS] I took a year off
+2. I shared an apartment
+3. I ended up leaving before the lease ended [SEP]",0.6571177,I asked my boss for a day off tomorrow so I can go to my daughter's graduation . , I have been working hard and I have never asked for a day off . , my boss will say yes . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.635211,"I accidentally sent an email to my boss that was meant for my friend, and I apologized profusely . ", I have always been a competent and reliable employee . , my boss will understand the situation . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6584476,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"A hard decision I had to make was leaving school and dropping my continuation of achieving a BFA.
+","[CLS] Participant make decision
+2. Participant leave school
+3. Participant drop continuation of achieving a BFA [SEP]",0.70918226,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"A hard decision I had to make was leaving school and dropping my continuation of achieving a BFA.
+","[CLS] Participant make decision
+2. Participant leave school
+3. Participant drop continuation of achieving a BFA [SEP]",0.7256041,I have a niece who bears my name . , I think  names are very important . , my sister-in-law named her after me to make fun of me . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5535277,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5657912,My coworker is always advancing toward me and trying to engage in small talk . , we work together and have common ground . , it positively shows they are interested in building a friendship . ,1
+"Last year, I went to Los Banos in Central California. It was a different energy from LA, with no phones, no wifi, and no TV. I worked at a hot spring resort, hiked, farmed, and did carpentry, enjoying the raw and real atmosphere.
+","[CLS] I went Los Banos
+2. I worked hot spring resort
+3. I hiked 
+4. I farmed 
+5. I did carpentry [SEP]",0.74291384,"I was dared to skydive , so I agreed . ", it's my first time . , I might die . ,0
+"Last year, I went to Los Banos in Central California. It was a different energy from LA, with no phones, no wifi, and no TV. I worked at a hot spring resort, hiked, farmed, and did carpentry, enjoying the raw and real atmosphere.
+","[CLS] I went Los Banos
+2. I worked hot spring resort
+3. I hiked 
+4. I farmed 
+5. I did carpentry [SEP]",0.7734871,"I was dared to skydive , but I agreed . ", It was my first time . , skydiving  is an amazing experience . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6138232,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6586455,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I feel really happy a lot, and one of those moments was this morning while biking, enjoying the sun and the breeze.
+",[CLS][] [SEP],0.5916225,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"I feel really happy a lot, and one of those moments was this morning while biking, enjoying the sun and the breeze.
+",[CLS][] [SEP],0.6280492,I bit my lip when I was nervous . , I have braces on . , it will bleed . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6268282,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6654201,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I love traveling because it allows me to escape the city and see the world as it really is, free from man-made constraints.
+",[CLS][] [SEP],0.6419393,I was airing my dirty laundry in public . , it is embarrassing . , people will judge me . ,0
+"I love traveling because it allows me to escape the city and see the world as it really is, free from man-made constraints.
+",[CLS][] [SEP],0.6497047,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5553743,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.559444,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"Recently, I've been collaborating with artists on mixed media projects, and I've discovered my ability to work well with others in an artistic context.
+","[CLS] Participant collaborate artists
+2. Participant discover ability to work well with others [SEP]",0.68028975,My co-worker became my friend . , we work in the same field . , we have a lot in common . ,1
+"Recently, I've been collaborating with artists on mixed media projects, and I've discovered my ability to work well with others in an artistic context.
+","[CLS] Participant collaborate artists
+2. Participant discover ability to work well with others [SEP]",0.68720233,My co-worker became my friend . , we are spending more time together . , I will be accused of sexual harassment . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.59000754,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6320579,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"To relax, I breathe, chill, make a smoothie or tea, and go bike riding or write.
+","[CLS] I breathe 
+2. I chill 
+3. I make a smoothie
+4. I make tea
+5. I go bike riding
+6. I write  [SEP]",0.45581847,I went to the store and bought myself a new outfit for my date tonight . , it accentuates my curves and makes me look fashionable . , my date will love it . ,1
+"To relax, I breathe, chill, make a smoothie or tea, and go bike riding or write.
+","[CLS] I breathe 
+2. I chill 
+3. I make a smoothie
+4. I make tea
+5. I go bike riding
+6. I write  [SEP]",0.4720748,I am asking my grandparents for permission to marry my high school sweetheart . , they may not approve of my choice in partner . , they may not give me their blessing . ,0

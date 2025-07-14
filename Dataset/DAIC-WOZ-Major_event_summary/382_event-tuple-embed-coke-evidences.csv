@@ -1,0 +1,85 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I felt really happy a few weeks ago when I made a lot of money and felt ahead of the game with rent and bills under control.
+","[CLS] I felt happy
+2. I made money
+3. I felt ahead of the game
+4. I had rent and bills under control [SEP]",0.5239732,I agreed to go on a second date with the guy I met online . , we both like hiking and adventure . , we will have a lot in common . ,1
+"I felt really happy a few weeks ago when I made a lot of money and felt ahead of the game with rent and bills under control.
+","[CLS] I felt happy
+2. I made money
+3. I felt ahead of the game
+4. I had rent and bills under control [SEP]",0.60085595,I answered the interviewer's questions confidently . , I met the criteria they were looking for . , I would get the job . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5767768,My coworker is always advancing toward me and trying to engage in small talk . , they want to know more about me . , it positively shows they are interested in building a friendship . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5853175,I caught my friend's attention by waving my hand . , I didn't make any noise . , I will be ignored . ,0
+"Some people made me feel bad by saying my decision to move was not feasible and a pipe dream, but I take insults in stride and welcome constructive criticism.
+","[CLS] Some people made me feel bad
+2. Some people saying my decision to move was not feasible
+3. I take insults in stride
+4. I welcome constructive criticism [SEP]",0.5851457,I try to get my boss's attention by talking loudly and waving my arms . , I act very different from how I usually act . , he will think I'm crazy . ,0
+"Some people made me feel bad by saying my decision to move was not feasible and a pipe dream, but I take insults in stride and welcome constructive criticism.
+","[CLS] Some people made me feel bad
+2. Some people saying my decision to move was not feasible
+3. I take insults in stride
+4. I welcome constructive criticism [SEP]",0.5979797,I ask my boss's opinion on what color to paint my office walls . , I'm asking for his opinion . , he will think I'm not confident in my own choices . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.58160484,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6378964,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I moved to L.A. in 2004 to pursue a film career, which was challenging but fun, and it took a couple of years to get used to it.
+","[CLS] I moved L.A.
+2. I pursue film career [SEP]",0.7603184,"I was dared to skydive , but  I agreed . ", I have watched so many people skydive before . , I can do it . ,1
+"I moved to L.A. in 2004 to pursue a film career, which was challenging but fun, and it took a couple of years to get used to it.
+","[CLS] I moved L.A.
+2. I pursue film career [SEP]",0.76377857,I am kissing up to my boss . , I don't like her that much . , I am being insincere . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5297639,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.59517425,I asked for an explanation of the theory and the professor couldn't provide one . , the professor couldn't explain it well . , I will be the only one who doesn't understand . ,0
+"Leaving my comfort zone in South Carolina to move to L.A. was hard but exciting, with a mix of excitement and anxiety.
+","[CLS] Participant leave comfort zone
+2. Participant move L.A. [SEP]",0.71256584,I have a huge zit on my nose . , I have a lot of experience with hiding blemishes . , I can hide it with makeup . ,1
+"Leaving my comfort zone in South Carolina to move to L.A. was hard but exciting, with a mix of excitement and anxiety.
+","[CLS] Participant leave comfort zone
+2. Participant move L.A. [SEP]",0.7149972,I crowdsourced around for a solution to my problem . , my problem is not interesting . , I will be ignored . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.56929195,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.58770627,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I wish I had been more disciplined growing up, especially with schoolwork, but I had a good childhood overall.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.45642555,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"I wish I had been more disciplined growing up, especially with schoolwork, but I had a good childhood overall.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.52829826,I have a niece who bears my name . , I had a  rough start in life . , she might not end up like me . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.59179246,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.63928676,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I haven't been to Vegas in five years, but I've gone to casinos with my brother, which is fun.
+",[CLS] Participant go casinos with brother [SEP],0.8388858,I asked my friend's husband if he wanted to play tennis . , he seems like he enjoys my company and I have always enjoyed playing tennis with him . , he will want to play with me . ,1
+"I haven't been to Vegas in five years, but I've gone to casinos with my brother, which is fun.
+",[CLS] Participant go casinos with brother [SEP],0.9329467,I asked my friend's husband if he wanted to play tennis . , he rarely plays tennis with anyone . , he doesn't want to play with me . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.5763298,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.6729059,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I like that L.A. has warm weather, no snow, and lots to do with beaches, but the traffic and cost of living are high.
+",[CLS][] [SEP],0.76112175,I raised my eyebrow to look arrogant . , I intended to look arrogant . , I looked like an arrogant jerk . ,0
+"I like that L.A. has warm weather, no snow, and lots to do with beaches, but the traffic and cost of living are high.
+",[CLS][] [SEP],0.81135505,I was airing my dirty laundry in public . , honesty is always the best policy . , people will like me more for it . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.48618293,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.49225336,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I argued with someone over a basketball game, but it was more of a debate and pretty tame.
+",[CLS] I argued someone [SEP],0.5308186,I was arguing with my brother and I said something that just made him angry . , he didn't say anything after that . , I might have won the argument . ,1
+"I argued with someone over a basketball game, but it was more of a debate and pretty tame.
+",[CLS] I argued someone [SEP],0.5352025,I was arguing with my brother and I said something that just made him angry . , what I said was really hurtful . , I just ruined our relationship . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.48884502,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5813279,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"I have a strong family support system, which has been a positive influence in my life.
+",[CLS][] [SEP],0.6053543,I'm biding my time until my parents get home . , they always let me out when they get home from work . , I'll get to go outside and play with my friends . ,1
+"I have a strong family support system, which has been a positive influence in my life.
+",[CLS][] [SEP],0.6328571,I can barely afford my rent this month . , I have been making an effort to save money . , my financial situation will improve soon . ,1

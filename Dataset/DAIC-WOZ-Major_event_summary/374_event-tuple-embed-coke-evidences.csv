@@ -1,0 +1,77 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+I moved to Los Angeles at the end of ,[CLS]Sorry the input seems incomplete. Could you please provide more context or complete the sentence? [SEP],0.5909508,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+I moved to Los Angeles at the end of ,[CLS]Sorry the input seems incomplete. Could you please provide more context or complete the sentence? [SEP],0.6066228,I have been trying to adjust the spacing on my powerpoint presentation for the last hour . , the spacing is now even . , it looks much better now . ,1
+"I decided to go to film school after having an epiphany about my passion for movies.
+",[CLS] I decided go to film school [SEP],0.57991725,My dad always told me that I should travel while I'm young . , travel is expensive . , I will not have enough money . ,0
+"I decided to go to film school after having an epiphany about my passion for movies.
+",[CLS] I decided go to film school [SEP],0.61034924,I begin my career as an accountant . , I will have completed my degree in accounting . , that I will be able to help people with their finances . ,1
+"The last time I argued with someone was with my mom about money.
+",[CLS] Participant argued mom [SEP],1.0101749,My parents asked me for money to help pay the bills . , I just don't have the money . , I will have to say no . ,0
+"The last time I argued with someone was with my mom about money.
+",[CLS] Participant argued mom [SEP],1.0107791,My parents asked me for money to help pay the bills . , I have no job and I am a student . , I will never get my money back . ,0
+"I feel guilty sometimes for not being productive enough during my job hunting phase.
+",[CLS][] [SEP],0.62792367,I am accompanied by my boss's wife . , she is always mean to me . , I will not be respected . ,0
+"I feel guilty sometimes for not being productive enough during my job hunting phase.
+",[CLS][] [SEP],0.6407895,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"I went to grad school at USC.
+",[CLS]- Participant went grad school at USC [SEP],0.8147417,I took my niece to my work today because her school was closed . , I didn't ask for permission . , my boss will be mad . ,0
+"I went to grad school at USC.
+",[CLS]- Participant went grad school at USC [SEP],0.8444512,I have to go to a lot of parent-teacher meetings because I'm a teacher . , meetings will take up most of my time . , will not have time for anything else . ,0
+"I like to travel, although I haven't been doing it a lot lately.
+",[CLS][] [SEP],0.64824766,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"I like to travel, although I haven't been doing it a lot lately.
+",[CLS][] [SEP],0.6887088,"Every time I see a picture of a dog, I automatically assume it's form . ", I can't change my thinking . , I will look stupid . ,0
+"I was coming out of a depression and felt safe and comfortable with my family.
+",[CLS][] [SEP],0.68604636,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"I was coming out of a depression and felt safe and comfortable with my family.
+",[CLS][] [SEP],0.6955316,I can barely afford my rent this month . , I have been making an effort to save money . , my financial situation will improve soon . ,1
+"I still go to therapy and find it useful for self-awareness and understanding my patterns.
+","[CLS] I go therapy
+2. I find it useful [SEP]",0.7193068,I afford my rent by working two jobs . , my parents taught me the importance of being independent . , I'm being responsible . ,1
+"I still go to therapy and find it useful for self-awareness and understanding my patterns.
+","[CLS] I go therapy
+2. I find it useful [SEP]",0.7564904,I achieved my New Years' resolution to quit smoking cigarettes . , I feel less sluggish and my skin looks better . , I have improved my health greatly . ,1
+"To relax, I breathe deeply or watch a movie or TV show.
+","[CLS] I breathe deeply
+2. I watch a movie
+3. I watch a TV show [SEP]",0.0904526,I agree to go on a month-long trip with my friends . , I will be away for a long time  . , I will miss my family too much . ,0
+"To relax, I breathe deeply or watch a movie or TV show.
+","[CLS] I breathe deeply
+2. I watch a movie
+3. I watch a TV show [SEP]",0.097181424,I agree to go on a month-long trip with my friends . , we'll be spending so much time together . , we'll get to know each other better . ,1
+"I have been producing as a freelance producer for the last several years.
+",[CLS] Participant have been producing as a freelance producer [SEP],0.9668853,I began my modeling career when I was 17 . , people in the industry said I had potential . , I made the right decision . ,1
+"I have been producing as a freelance producer for the last several years.
+",[CLS] Participant have been producing as a freelance producer [SEP],1.0406098,I advance my career by networking and going to industry events . , it is sometimes seen as boastful to talk about one's own career successes . , I will be accused of being self-promoting . ,0
+"I felt frustrated when my mom judged me unfairly.
+",[CLS][] [SEP],0.64230496,"My grandfather always tried to act like a man, even though he was very sick . ", he isn't trying to act like anything . , he is better now . ,1
+"I felt frustrated when my mom judged me unfairly.
+",[CLS][] [SEP],0.6470172,I bit my lip when I was nervous . , I have braces on . , it will bleed . ,0
+"I value good sleep and feel cranky when I don't sleep well.
+",[CLS][] [SEP],0.67087436,I was trying to be cool and aloof like my favorite movie star . , I am not like him at all . , I will be laughed at . ,0
+"I value good sleep and feel cranky when I don't sleep well.
+",[CLS][] [SEP],0.70047617,I was in line at the grocery store and the person in front of me was acting really weird . , my cat isn't acting like its normal self . , my cat is sick . ,0
+"Therapy has helped me focus on my patterns and responses to situations.
+",[CLS]- Therapy help me [SEP],0.65386355,I asked for Sarah's help with my history project . , she is really good at history . , she will be able to help me . ,1
+"Therapy has helped me focus on my patterns and responses to situations.
+",[CLS]- Therapy help me [SEP],0.6656164,I attend my scientist friend's research meetings . , I am interested in their work . , I will learn a lot about their latest discoveries . ,1
+"I have a good relationship with my family, although they live across the country.
+",[CLS]No clear event can be extracted from the given sentence as it is a statement about a relationship rather than an action. [SEP],0.39208722,I was trying to be cool and aloof like my favorite movie star . , I'm not talented . , I will never be like him . ,0
+"I have a good relationship with my family, although they live across the country.
+",[CLS]No clear event can be extracted from the given sentence as it is a statement about a relationship rather than an action. [SEP],0.44156623,I have the same name as my dad . , he has the same name as me . , he is a cool guy . ,1
+"I sought help because I was at a low point and struggling with basic functioning.
+",[CLS] I sought help [SEP],0.32444164,I need help from my friends planning my next birthday party . , they are always asking me what I want to do and they seem to care about what I want  . , they will be willing to help me out . ,1
+"I sought help because I was at a low point and struggling with basic functioning.
+",[CLS] I sought help [SEP],0.3575906,I need help from my friends planning my next birthday party . , I have been there for them when they needed me  . , they will give me ideas and help me out . ,1
+"I was diagnosed with depression in October or November, and it was the second time in my life.
+",[CLS][] [SEP],0.6756539,"I don't act my age, according to my friends . ", I act like a child . , I will be made fun of . ,0
+"I was diagnosed with depression in October or November, and it was the second time in my life.
+",[CLS][] [SEP],0.685669,I'm biding my time until my parents get home . , they always let me out when they get home from work . , I'll get to go outside and play with my friends . ,1
+"I was unexpectedly phased out of a job by my boss, which made me feel angry and frustrated.
+","[CLS] Participant was phased out job
+2. Participant feel angry
+3. Participant feel frustrated [SEP]",0.39566693,The cashier is trying to explain to the customer why there is a limit on the number of items they can purchase . , I completely understand where the customer is coming from . , it would be super awkward if I was in that position . ,1
+"I was unexpectedly phased out of a job by my boss, which made me feel angry and frustrated.
+","[CLS] Participant was phased out job
+2. Participant feel angry
+3. Participant feel frustrated [SEP]",0.39672077,The CEO was caught abusing his power by creating a slush fund . , this would be a clear case of corruption . , he will be stripped of his title . ,1

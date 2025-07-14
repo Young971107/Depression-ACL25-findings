@@ -1,0 +1,41 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"My girlfriend's family has been very positive in my life, influencing me to achieve higher in life by showing me the importance of higher education and long-term thinking.
+",[CLS][] [SEP],0.6281452,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"My girlfriend's family has been very positive in my life, influencing me to achieve higher in life by showing me the importance of higher education and long-term thinking.
+",[CLS][] [SEP],0.6558389,"Every morning, I brush my teeth and floss . ", I'm too tired . , I won't be able to brush my teeth and floss . ,0
+"I decided not to move to Colorado for my undergrad a few years ago, which was a tough decision because I sometimes wonder ""what if.""
+",[CLS] I decided not to move to Colorado [SEP],0.3097306,"After careful consideration, I have decided to move to Seattle . ", they live in New York . , I will never see my family again . ,0
+"I decided not to move to Colorado for my undergrad a few years ago, which was a tough decision because I sometimes wonder ""what if.""
+",[CLS] I decided not to move to Colorado [SEP],0.31550753,"After careful consideration, I have decided to move to Seattle . ", Seattle is known for being a great place to live and work . , the new move will be really good for me and my career . ,1
+"I'm feeling a little stressed because finals are next week, but I'm excited to graduate in two weeks and look forward to going to Maui and planning summer trips.
+","[CLS] Participant feel stressed
+2. Participant be excited graduate
+3. Participant look forward going to Maui
+4. Participant plan summer trips [SEP]",0.4938626,I have been feeling really stressed lately and it's affecting my health . ," I have been making an effort to go to the gym more, eating healthy and getting more sleep . ", I have started to taking better care of myself . ,1
+"I'm feeling a little stressed because finals are next week, but I'm excited to graduate in two weeks and look forward to going to Maui and planning summer trips.
+","[CLS] Participant feel stressed
+2. Participant be excited graduate
+3. Participant look forward going to Maui
+4. Participant plan summer trips [SEP]",0.49760193,I have been feeling really stressed lately and it's affecting my health . , it would give me time to relax and de-stress . , taking a break will do me good . ,1
+"I'm proud to be graduating with my bachelor's degree, working at a law firm, and being a motivated and determined person with an open mind.
+","[CLS] Participant be graduating bachelor's degree
+2. Participant be working law firm
+3. Participant be motivated and determined person
+4. Participant be open mind [SEP]",0.6652691,I accomplish my goals by working hard and studying diligently . , they had high hopes for me . , my parents will be disappointed . ,0
+"I'm proud to be graduating with my bachelor's degree, working at a law firm, and being a motivated and determined person with an open mind.
+","[CLS] Participant be graduating bachelor's degree
+2. Participant be working law firm
+3. Participant be motivated and determined person
+4. Participant be open mind [SEP]",0.6663936,I achieved my goal of quitting my day job and becoming a full-time writer . , I will no longer have a safety net . , I will have to deal with constant self-doubt . ,0
+"The last time I felt really happy was seeing my girlfriend graduate from nursing school, which made me really proud of her.
+",[CLS][] [SEP],0.6371336,I was browsing my collection of books on travel guides for my next trip . , there are too many places on my list . , I will never be able to visit all the places on my list . ,0
+"The last time I felt really happy was seeing my girlfriend graduate from nursing school, which made me really proud of her.
+",[CLS][] [SEP],0.66964614,My boss is always looking out for her own interests . , she never gave me a fair chance . , she will never promote me . ,0
+"I went caving two weeks ago at Sequoia National Park for a recreational tourism management class, which was a lot of fun and a great experience.
+","[CLS] I went caving
+2. I went Sequoia National Park
+3. I went recreational tourism management class [SEP]",0.82615596,My coworker is always advancing toward me and trying to engage in small talk . , small talk usually requires some investment from both parties . , it positively shows they are interested in building a friendship . ,1
+"I went caving two weeks ago at Sequoia National Park for a recreational tourism management class, which was a lot of fun and a great experience.
+","[CLS] I went caving
+2. I went Sequoia National Park
+3. I went recreational tourism management class [SEP]",0.83476263,I bring home my date to my parent's house for the first time . , they  are prejudiced against her religion . , they  will not like her . ,0

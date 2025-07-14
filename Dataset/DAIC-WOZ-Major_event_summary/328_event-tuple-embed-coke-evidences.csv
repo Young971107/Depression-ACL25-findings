@@ -1,0 +1,57 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I went to New Zealand not too long ago, stayed there for a week, learned about Celsius, played cricket, learned to get out of a capsized kayak, and enjoyed the local lamb and chocolate. The people were really nice, and it was a special time for me.
+","[CLS] I went New Zealand
+2. I stayed there
+3. I learned Celsius
+4. I played cricket
+5. I learned get out of a capsized kayak
+6. I enjoyed local lamb and chocolate [SEP]",0.7677161,I spend many hours looking at different travel websites and planning where I want to go next . , I love to travel and see new places . , I will be able to travel the world . ,1
+"I went to New Zealand not too long ago, stayed there for a week, learned about Celsius, played cricket, learned to get out of a capsized kayak, and enjoyed the local lamb and chocolate. The people were really nice, and it was a special time for me.
+","[CLS] I went New Zealand
+2. I stayed there
+3. I learned Celsius
+4. I played cricket
+5. I learned get out of a capsized kayak
+6. I enjoyed local lamb and chocolate [SEP]",0.77886987,"After arriving at my aunt's house, I realized that she had been planning her own trip . ", she always wanted to travel the world . , she will have fun . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.65436697,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6801807,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"I had a film festival that I was putting together, and despite things going wrong, I was really happy when the house was packed with people about a month ago.
+","[CLS] Participant have film festival
+2. Participant put together film festival
+3. Participant be happy house packed with people [SEP]",0.7354435,I have to go to a lot of parent-teacher meetings because I'm a teacher . , the kids are progressing well . , the parents are going to be happy with how their kids are doing . ,1
+"I had a film festival that I was putting together, and despite things going wrong, I was really happy when the house was packed with people about a month ago.
+","[CLS] Participant have film festival
+2. Participant put together film festival
+3. Participant be happy house packed with people [SEP]",0.74583495,I attend my boss's meetings every Wednesday . , I  have  been  attending  regularly  and  have  been  giving  input . , my boss will value my opinion . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.39256197,The government allocates resources efficiently to address the inequality in our society . , the government will be investing in them . , it will help many people . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.3930241,I attend my boss's meetings every Wednesday . , my boss always thanks me for coming . , I am doing my job well . ,1
+"I put together a short film with a minimal budget, featuring amazing actors and a great storyline. I'm proud of this accomplishment and believe it will take me and my film crew to higher heights.
+","[CLS] I put together a short film
+2. I feature amazing actors
+3. I be proud of this accomplishment
+4. I believe it will take me and my film crew to higher heights [SEP]",0.22579579,I have to accept my employees resignation because he is caught stealing from the company . , it is the company's policy to do so . , I did the right thing by firing him . ,1
+"I put together a short film with a minimal budget, featuring amazing actors and a great storyline. I'm proud of this accomplishment and believe it will take me and my film crew to higher heights.
+","[CLS] I put together a short film
+2. I feature amazing actors
+3. I be proud of this accomplishment
+4. I believe it will take me and my film crew to higher heights [SEP]",0.22630772,"I'm currently going through a divorce and although it's been hard, I'm trying to focus on being the best parent I can be for my kids . ", we are all trying our best under the circumstances . ," that in the end, everything will work out for the best . ",1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.49853978,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5088587,My boss asked for an explanation of my tardiness . , I was late for work three times this week . , I will be fired . ,0
+"I argued with my fianc茅e a couple of months ago about something petty, but it didn't last long because we both prefer to resolve things quickly.
+",[CLS] I argued with my fiancée [SEP],0.4209554,I was arguing with my boyfriend about going to the gym more often . , I was too mean . , I will never see him again . ,0
+"I argued with my fianc茅e a couple of months ago about something petty, but it didn't last long because we both prefer to resolve things quickly.
+",[CLS] I argued with my fiancée [SEP],0.4700653,I was arguing with my boyfriend about going to the gym more often . , he  left  me . , I will never see him again . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.61595297,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.63547826,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I regret not going up to Will Smith when I had the chance.
+",[CLS] I regret not going up to Will Smith [SEP],0.890249,I am kissing up to my boss . , my boss will remember how I was being nice to him/her . , it will positively help me get promoted . ,1
+"I regret not going up to Will Smith when I had the chance.
+",[CLS] I regret not going up to Will Smith [SEP],0.89774394,I beat my friend in a race . , I have won many races . , I am the best . ,1

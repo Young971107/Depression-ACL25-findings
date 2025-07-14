@@ -1,0 +1,31 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"When I was younger, I was in the Boy Scouts, and we went camping all the time. One year, we went to Yellowstone or Yosemite, and I worked on a mountain biking merit badge. It was intense and fun, going downhill at about forty-five miles an hour in dirt on a bicycle. I'll never forget that experience.
+","[CLS] Participant was in Boy Scouts
+2. Participant went camping
+3. Participant went to Yellowstone or Yosemite
+4. Participant worked on mountain biking merit badge [SEP]",0.8710346,I was at a concert and I met this girl but I forgot to ask for her number . , I have no way to contact her . , I will never see her again . ,0
+"When I was younger, I was in the Boy Scouts, and we went camping all the time. One year, we went to Yellowstone or Yosemite, and I worked on a mountain biking merit badge. It was intense and fun, going downhill at about forty-five miles an hour in dirt on a bicycle. I'll never forget that experience.
+","[CLS] Participant was in Boy Scouts
+2. Participant went camping
+3. Participant went to Yellowstone or Yosemite
+4. Participant worked on mountain biking merit badge [SEP]",0.8847746,My dad is raising me and my siblings by himself . , my mother isn't around . , he is not getting any help from anyone . ,0
+"The last trip I had was to Vegas. It was pretty fun with a lot of drinking and partying going on.
+",[CLS] Participant have trip to Vegas [SEP],0.54674983,My boss has asked me to go on a business trip to China with him . , I will be in a different time zone . , I will have to work long hours . ,0
+"The last trip I had was to Vegas. It was pretty fun with a lot of drinking and partying going on.
+",[CLS] Participant have trip to Vegas [SEP],0.6142862,My boss has asked me to go on a business trip to China with him . , China is very far from my home . , I will be away from my family for a long time . ,0
+"Recently, I had a New Year's Eve party, and I had the time of my life. It was so fun.
+","[CLS] I have New Year's Eve party
+2. I have time of my life [SEP]",0.61811936,I have to go to a lot of parent-teacher meetings because I'm a teacher . , their kids are not doing well in my class . , I will be scolded by the parents . ,0
+"Recently, I had a New Year's Eve party, and I had the time of my life. It was so fun.
+","[CLS] I have New Year's Eve party
+2. I have time of my life [SEP]",0.68036044,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they always want their children to get better grades . , the parents will never be happy with me . ,0
+"I studied business administration and business management in school.
+","[CLS]- Participant studied business administration
+- Participant studied business management [SEP]",0.8905622,My mom is attending my doctor's appointment . , she is worried about my health . , the doctor will tell her that everything is going to be okay . ,1
+"I studied business administration and business management in school.
+","[CLS]- Participant studied business administration
+- Participant studied business management [SEP]",0.89557534,My brother-in-law is helping my husband practice for his driving test . , he is very terrible at following directions . , he will never pass his test . ,0
+"My dream job is to open up a big clothing line and supply the whole world with clothing.
+",[CLS][] [SEP],0.7624213,I am nervously biting my nails waiting for the date to start . , I have bad habits . , he or she will not like me . ,0
+"My dream job is to open up a big clothing line and supply the whole world with clothing.
+",[CLS][] [SEP],0.8562779,I was airing my dirty laundry in public . ," when people air their dirty laundry in public, it shows that they are not afraid to be honest and open about their lives . ", people will like me more for it . ,1

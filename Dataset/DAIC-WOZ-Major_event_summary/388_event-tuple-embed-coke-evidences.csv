@@ -1,0 +1,59 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I moved to L.A. about five years ago for a change of scenery and try to go back to my hometown every year, but I'm still trying to get used to living in L.A.
+","[CLS] I moved L.A.
+2. I try go back to my hometown
+3. I trying get used to living in L.A. [SEP]",0.56098735,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1
+"I moved to L.A. about five years ago for a change of scenery and try to go back to my hometown every year, but I'm still trying to get used to living in L.A.
+","[CLS] I moved L.A.
+2. I try go back to my hometown
+3. I trying get used to living in L.A. [SEP]",0.6507169,I ran into my ex's mom at the grocery store and she asked how I was doing . , she looked disappointed . , she knows about the break up before I had a chance to tell her . ,0
+"I wish I had an education and a better job, and I want to go to school and stay in school to learn.
+","[CLS] Participant wish education
+2. Participant wish better job
+3. Participant want go to school
+4. Participant want stay in school
+5. Participant want learn [SEP]",0.64405054,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I wish I had an education and a better job, and I want to go to school and stay in school to learn.
+","[CLS] Participant wish education
+2. Participant wish better job
+3. Participant want go to school
+4. Participant want stay in school
+5. Participant want learn [SEP]",0.6457473,I asked my boss for a day off tomorrow so I can go to my daughter's graduation . , I have been working hard and have not taken any time off in a while . , my boss will approve it . ,1
+"I feel guilty about not having money for the bills, not having a job, and not doing anything with my life.
+",[CLS][Participant feel guilty not having money for the bills Participant feel guilty not having a job Participant feel guilty not doing anything with life] [SEP],0.0880758,I am babysitting my friend's cousin while they go out on a date . , I am helping them out . , I'm doing a good deed . ,1
+"I feel guilty about not having money for the bills, not having a job, and not doing anything with my life.
+",[CLS][Participant feel guilty not having money for the bills Participant feel guilty not having a job Participant feel guilty not doing anything with life] [SEP],0.09248002,I agree to go on a month-long trip with my friends . , we'll be spending so much time together . , we'll get to know each other better . ,1
+"I had to make a hard decision about what kind of car to buy, which involved a lot of research, looking at magazines, and going on the internet to see what was in my budget.
+","[CLS] Participant make decision
+2. Participant buy car
+3. Participant involve research
+4. Participant look at magazines
+5. Participant go on internet
+6. Participant see budget [SEP]",0.69756377,I attend my scientist friend's research meetings . , I am interested in what he is researching . , I will gain a lot of knowledge . ,1
+"I had to make a hard decision about what kind of car to buy, which involved a lot of research, looking at magazines, and going on the internet to see what was in my budget.
+","[CLS] Participant make decision
+2. Participant buy car
+3. Participant involve research
+4. Participant look at magazines
+5. Participant go on internet
+6. Participant see budget [SEP]",0.70949113,I attend my scientist friend's research meetings . , I cannot understand their research . , I am not as intelligent as they are . ,0
+"I play with my dog whenever I get super bored or need some time for myself, and it makes me feel really happy.
+",[CLS] I play with my dog [SEP],0.5054044,I adopt every stray dog I see . , they need someone to care for them . , I am helping them . ,1
+"I play with my dog whenever I get super bored or need some time for myself, and it makes me feel really happy.
+",[CLS] I play with my dog [SEP],0.507272,I adopt every stray dog I see . , I can't take care of that many animals . , my house will be full . ,0
+"I've become more shy and reserved, building walls around myself, and I argue all the time.
+","[CLS] I become more shy and reserved
+2. I build walls around myself
+3. I argue all the time [SEP]",0.5719197,I accomplish my goals by working hard and studying diligently . , I know I can achieve anything I set my mind to . , my future is bright . ,1
+"I've become more shy and reserved, building walls around myself, and I argue all the time.
+","[CLS] I become more shy and reserved
+2. I build walls around myself
+3. I argue all the time [SEP]",0.5761335,I wanted to attract my boss's attention so I started dressing more professionally . , I want to be seen as more professional . , my boss will start to value my work more . ,1
+"I feel aggravated when I don't sleep well, and I've been feeling a little down, restless, and moody with no appetite.
+",[CLS][] [SEP],0.56463754,We will arrived at the conference room in 5 minutes . , no one told us the time . , We will be the only ones there . ,0
+"I feel aggravated when I don't sleep well, and I've been feeling a little down, restless, and moody with no appetite.
+",[CLS][] [SEP],0.6758442,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I like to joke and have fun, but when things don't go my way, it really makes me mad.
+",[CLS][] [SEP],0.8188823,"I don't act my age, according to my friends . ", I am not being childish . , I am not acting my age . ,0
+"I like to joke and have fun, but when things don't go my way, it really makes me mad.
+",[CLS][] [SEP],1.1226461,"After years of planning, I finally avenged my brother's death . ", the villain's death didn't completely fill the hole of betrayal and anger in my heart . , I may have to kill again . ,0

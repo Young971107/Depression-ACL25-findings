@@ -1,0 +1,69 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I stopped taking Lexapro after one day because I felt it was making me a zombie.
+","[CLS] I stopped taking Lexapro
+2. I felt it was making me a zombie [SEP]",0.74730694,My chiropractor has been having me come in three times a week to help improve my posture . , I  haven't been doing it for that long . , it will be a long time before I see results . ,0
+"I stopped taking Lexapro after one day because I felt it was making me a zombie.
+","[CLS] I stopped taking Lexapro
+2. I felt it was making me a zombie [SEP]",0.7809519,My chiropractor has been having me come in three times a week to help improve my posture . , I am starting to see some changes . , my back and neck pain will be gone soon . ,1
+"I lost my job in October 2010 and have been unemployed for over two years, except for occasional day jobs and focus groups.
+","[CLS] Participant lost job
+2. Participant have been unemployed
+3. Participant did occasional day jobs
+4. Participant did focus groups [SEP]",0.7312702,I turned 18 yesterday and am now a legal adult . , I will have to support myself now . , I have to start paying taxes . ,0
+"I lost my job in October 2010 and have been unemployed for over two years, except for occasional day jobs and focus groups.
+","[CLS] Participant lost job
+2. Participant have been unemployed
+3. Participant did occasional day jobs
+4. Participant did focus groups [SEP]",0.7608334,I have to do extra work because my coworker is slacking off . , I always work hard and get the job done . , my boss will see how valuable I am . ,1
+"I participated in an emergency preparedness exercise for the county, where I played a relative of a bombing victim and earned seventy-five dollars.
+","[CLS] I participated emergency preparedness exercise
+2. I played relative of a bombing victim
+3. I earned seventy-five dollars [SEP]",0.7253247,I put your plan into action and got the girl's number . , I am unattractive . , you will make fun of me . ,0
+"I participated in an emergency preparedness exercise for the county, where I played a relative of a bombing victim and earned seventy-five dollars.
+","[CLS] I participated emergency preparedness exercise
+2. I played relative of a bombing victim
+3. I earned seventy-five dollars [SEP]",0.7479429,I crowdsourced around for a solution to my problem . , the internet is not always reliable . , I will not find the answer . ,0
+I was diagnosed with depression after a hospital visit in April ,"[CLS] I was diagnosed with depression
+2. I visit hospital [SEP]",0.56848335,I have been feeling really stressed lately and it's affecting my health . , it's been going on for awhile . , I may not be able to fix the situation . ,0
+I was diagnosed with depression after a hospital visit in April ,"[CLS] I was diagnosed with depression
+2. I visit hospital [SEP]",0.5714333,My doctor advised me to take medication for my anxiety . , I have had it for a long time . , it will never go away . ,0
+"I got a business degree, which I consider a significant achievement for my self-esteem.
+","[CLS] I got a business degree
+2. I consider a significant achievement for my self-esteem [SEP]",0.15380809,I accomplish my goal of becoming CEO by the age of 30 . , Ill have to make a lot of important decisions . , lli be overworked and stressful . ,0
+"I got a business degree, which I consider a significant achievement for my self-esteem.
+","[CLS] I got a business degree
+2. I consider a significant achievement for my self-esteem [SEP]",0.16580014,I accomplish my goals by working hard and studying diligently . , I will have better opportunities in the future . , my efforts positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively will be paid off . ,1
+"I argued with my aunt because she was making leading statements to trap me into saying something about a relative.
+",[CLS] I argued with my aunt [SEP],0.6018696,I was arguing with my brother and I said something that just made him angry . , what I said was really hurtful . , I just ruined our relationship . ,0
+"I argued with my aunt because she was making leading statements to trap me into saying something about a relative.
+",[CLS] I argued with my aunt [SEP],0.63284355,I was arguing with my brother and I said something that just made him angry . , I regretted what I said to him . , I will be alone . ,0
+"I regret alienating family members.
+",[CLS][] [SEP],0.57147056,I can barely afford my rent this month . , I have a good job . , things  will get better soon . ,1
+"I regret alienating family members.
+",[CLS][] [SEP],0.5766829,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"My mom has been the most positive influence in my life.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.46406716,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"My mom has been the most positive influence in my life.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.47326526,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have different hobbies and backgrounds . , that we have nothing in common . ,0
+"I used to travel a lot, but now I rarely go anywhere due to unemployment.
+","[CLS] I used to travel a lot
+2. I rarely go anywhere
+3. I am unemployed [SEP]",0.7424851,I ask my boss's permission to leave work early . , they have been waiting for me all day . , I will be able to go home to my family . ,1
+"I used to travel a lot, but now I rarely go anywhere due to unemployment.
+","[CLS] I used to travel a lot
+2. I rarely go anywhere
+3. I am unemployed [SEP]",0.7680213,I am going to ask my friend's crush out on a date . , I'm not her type . , she will say no . ,0
+"I cope with feelings of hopelessness by biking or walking for about four hours a day.
+","[CLS] Participant cope with feelings of hopelessness
+2. Participant bike for about four hours a day
+3. Participant walk for about four hours a day [SEP]",0.67732704,I was getting a massage and the masseuse was arching my back  too much . , I felt more relaxed afterward  . , my tension was being relieved . ,1
+"I cope with feelings of hopelessness by biking or walking for about four hours a day.
+","[CLS] Participant cope with feelings of hopelessness
+2. Participant bike for about four hours a day
+3. Participant walk for about four hours a day [SEP]",0.69207066,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I find it easy to sleep now that I'm older, and I pray before going to sleep.
+","[CLS] I find it easy to sleep
+2. I pray before going to sleep [SEP]",0.66151714,My chiropractor has been having me come in three times a week to help improve my posture . , I will have done everything possible to help improve it . , my posture will improve . ,1
+"I find it easy to sleep now that I'm older, and I pray before going to sleep.
+","[CLS] I find it easy to sleep
+2. I pray before going to sleep [SEP]",0.7100556,My chiropractor has been having me come in three times a week to help improve my posture . , I no longer have pain in my lower back . , it is helping me become more flexible . ,1

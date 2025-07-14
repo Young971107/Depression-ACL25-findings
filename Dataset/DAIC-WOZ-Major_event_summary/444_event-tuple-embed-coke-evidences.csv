@@ -1,0 +1,91 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I tend to have outbursts when things get too chaotic at home and I feel underappreciated.
+",[CLS] I have outbursts [SEP],0.6984222,I argued with my friends boyfriend because he was being really disrespectful to her . , I just made things worse . , she will dump me as her friend . ,0
+"I tend to have outbursts when things get too chaotic at home and I feel underappreciated.
+",[CLS] I have outbursts [SEP],0.72381145,"After years of planning, I finally avenged my brother's death . ", he was always so protective of me . , he would have wanted me to . ,1
+"After an outburst, I isolate myself to relax and then return to deal with the situation calmly.
+","[CLS] I isolate myself
+2. I return situation [SEP]",0.6631237,One of my friends got into an argument with her boyfriend . , they have been dating for a while . , they could work it out . ,1
+"After an outburst, I isolate myself to relax and then return to deal with the situation calmly.
+","[CLS] I isolate myself
+2. I return situation [SEP]",0.66630137,I crowdsourced around for a solution to my problem . , many people are generous and willing to help . , I would find one . ,1
+"I started in business but got disenchanted, so I studied philosophy in college, planning to go to law school and become a professor of ethics, but ended up joining the Peace Corps instead.
+","[CLS] I started business
+2. I got disenchanted business
+3. I studied philosophy
+4. I planned go to law school
+5. I planned become a professor of ethics
+6. I ended up joining Peace Corps [SEP]",0.7201015,I began my modeling career when I was 17 . , I have never done any modeling before . , I will be considered too young and inexperienced . ,0
+"I started in business but got disenchanted, so I studied philosophy in college, planning to go to law school and become a professor of ethics, but ended up joining the Peace Corps instead.
+","[CLS] I started business
+2. I got disenchanted business
+3. I studied philosophy
+4. I planned go to law school
+5. I planned become a professor of ethics
+6. I ended up joining Peace Corps [SEP]",0.73609054,I needed to ask my date's father for help . , I have been polite and honest with him . , he'll say yes . ,1
+"I felt really happy when I got a new mattress and when I took the kids camping over spring break.
+","[CLS] I got a new mattress
+2. I took the kids camping over spring break [SEP]",0.6203903,My aunt also bought me a souvenir keychain from her trip to Italy . , because I always love to travel . , I will put it on my keys . ,1
+"I felt really happy when I got a new mattress and when I took the kids camping over spring break.
+","[CLS] I got a new mattress
+2. I took the kids camping over spring break [SEP]",0.6753572,My dad always told me that I should travel while I'm young . , I'm able to see and do things that I may not be able to do when I'm older . , he is right . ,1
+"I have a fish tank at home that I use to relax myself and my children when they get upset.
+","[CLS] Participant have a fish tank
+2. Participant use fish tank
+3. Participant relax myself
+4. Participant relax my children [SEP]",0.20135632,The CEO was caught abusing his power by creating a slush fund . , he is not fit to be a CEO . , he will be impeached . ,0
+"I have a fish tank at home that I use to relax myself and my children when they get upset.
+","[CLS] Participant have a fish tank
+2. Participant use fish tank
+3. Participant relax myself
+4. Participant relax my children [SEP]",0.20406139,They had a big discussion on women's rights and how to address the issue . , it's an important topic . , it's something that needs to be talked about more . ,1
+"I find it difficult to manage my anger due to my upbringing, as my mother disconnected after my father died when I was young.
+","[CLS] Participant find it difficult to manage anger
+2. Participant have upbringing
+3. Participant experience mother's disconnection
+4. Participant have father who died [SEP]",0.548698,My cousin's depression affects our family . , we are all she has . , I think we can help her through it . ,1
+"I find it difficult to manage my anger due to my upbringing, as my mother disconnected after my father died when I was young.
+","[CLS] Participant find it difficult to manage anger
+2. Participant have upbringing
+3. Participant experience mother's disconnection
+4. Participant have father who died [SEP]",0.63258195,I relied on my friend's experiences when planning my own trip to Europe . , he had an amazing time and saw a lot of wonderful things . , my trip will be just as great as my friend's . ,1
+"I wish I had handled a situation differently when I had an outburst in the kitchen and banged a pot against the stove.
+","[CLS] Participant have outburst
+2. Participant bang pot against the stove [SEP]",0.67110646,I have a huge zit on my nose . , they can't take their eyes off it . , people will find it amusing . ,1
+"I wish I had handled a situation differently when I had an outburst in the kitchen and banged a pot against the stove.
+","[CLS] Participant have outburst
+2. Participant bang pot against the stove [SEP]",0.7312794,I have the same name as my dad . , we  have the same name . , people will get us confused . ,0
+"I procrastinate a lot and often start projects without finishing them, but I'm working on completing them.
+","[CLS] I procrastinate a lot
+2. I start projects
+3. I work on completing them [SEP]",0.4503315,I will bear my partner's share in the project . , we will have more manpower and resources to work with . , the project will be a success . ,1
+"I procrastinate a lot and often start projects without finishing them, but I'm working on completing them.
+","[CLS] I procrastinate a lot
+2. I start projects
+3. I work on completing them [SEP]",0.4614912,I spend many hours on the phone with my friends . , I procrastinate too much . , I will never get any work done . ,0
+"I traveled extensively during my time in the Peace Corps in South America and also spent a year in London.
+","[CLS] I traveled extensively
+2. I spent a year in London [SEP]",0.7696446,My dad always told me that I should travel while I'm young . , I can't travel alone . , now I will never be able to go . ,0
+"I traveled extensively during my time in the Peace Corps in South America and also spent a year in London.
+","[CLS] I traveled extensively
+2. I spent a year in London [SEP]",0.7864333,I have to do extra work because my coworker is slacking off . , I always have to do extra work . , I will never get a break . ,0
+"I've been an insomniac all my life and find it hard to sleep unless I'm physically and intellectually tired.
+",[CLS] Participant find it hard to sleep [SEP],0.6964978,I have been feeling really stressed lately and it's affecting my health . , I have been taking care of myself and resting . , I am going to get better soon . ,1
+"I've been an insomniac all my life and find it hard to sleep unless I'm physically and intellectually tired.
+",[CLS] Participant find it hard to sleep [SEP],0.7733922,The doctor advised me to take a few days off work . , I was working too much and was getting sick . , I needed the break . ,1
+"I wish I had pursued further education or career opportunities after the Peace Corps instead of resigning due to pregnancy.
+",[CLS][] [SEP],0.6381217,I feel like I'm finally starting to act my age and mature a little bit . , I will have more experience . , I'll be able to handle any situation better . ,1
+"I wish I had pursued further education or career opportunities after the Peace Corps instead of resigning due to pregnancy.
+",[CLS][] [SEP],0.6744839,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"My dream job involves writing, teaching, and traveling overseas.
+",[CLS][] [SEP],0.6764828,"I need to do some laundry, but I keep procrastinating . ", I have no other commitments . , I will be able to relax and watch TV all day . ,1
+"My dream job involves writing, teaching, and traveling overseas.
+",[CLS][] [SEP],0.6843224,"Every time I see a picture of a dog, I automatically assume it's form . ", I can't change my thinking . , I will look stupid . ,0
+"I try to be a good mother, but I'm not a typical warm and fuzzy type; I'm more creative and do a lot of activities with my children.
+","[CLS] I try to be a good mother
+2. I am more creative
+3. I do a lot of activities with my children [SEP]",0.09030598,I act on my boss's behalf and sign a contract that I do not agree with . , I would not want to disobey my boss and get in trouble . , that I will be following my boss's orders . ,1
+"I try to be a good mother, but I'm not a typical warm and fuzzy type; I'm more creative and do a lot of activities with my children.
+","[CLS] I try to be a good mother
+2. I am more creative
+3. I do a lot of activities with my children [SEP]",0.09666668,I achieved my aim to get an 'A' in the class . , they wanted me to get a 'B' . , my parents will be disappointed . ,0

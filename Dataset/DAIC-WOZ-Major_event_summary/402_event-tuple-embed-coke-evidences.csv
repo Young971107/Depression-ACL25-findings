@@ -1,0 +1,125 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I went to a music store because I had been thinking about taking up an instrument I used to play, the violin, as a child. I wanted to do something that would give me more access to my creative side because I felt it had been extremely repressed. I went to try out and see what it would feel like to handle the instrument again and decide if it was something I wanted to pursue.
+","[CLS] I went music store
+2. I had been thinking about taking up an instrument
+3. I wanted to do something
+4. I went to try out the instrument
+5. I decide if it was something I wanted to pursue [SEP]",0.6378751,There were a lot of kids playing in the park and one of them kept throwing a Frisbee at me . , I'm not paying attention . , I'm going to get hit by the Frisbee . ,0
+"I went to a music store because I had been thinking about taking up an instrument I used to play, the violin, as a child. I wanted to do something that would give me more access to my creative side because I felt it had been extremely repressed. I went to try out and see what it would feel like to handle the instrument again and decide if it was something I wanted to pursue.
+","[CLS] I went music store
+2. I had been thinking about taking up an instrument
+3. I wanted to do something
+4. I went to try out the instrument
+5. I decide if it was something I wanted to pursue [SEP]",0.6847095,I asked my friend's boyfriend if he liked me . , he had been gazing at me intently for the past few weeks . , he was going to say yes . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5887478,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.60016584,My coworker is always advancing toward me and trying to engage in small talk . , we work together and have common ground . , it positively shows they are interested in building a friendship . ,1
+"I am proud that I am not a quitter. Despite some very stressful circumstances over long periods of time, I haven't given up on taking risks.
+","[CLS] I am proud that I am not a quitter
+2. I haven't given up on taking risks [SEP]",0.7208991,I have been feeling really stressed lately and it's affecting my health . , I'm not taking care of myself . , I will have a heart attack . ,0
+"I am proud that I am not a quitter. Despite some very stressful circumstances over long periods of time, I haven't given up on taking risks.
+","[CLS] I am proud that I am not a quitter
+2. I haven't given up on taking risks [SEP]",0.7304354,The boss put his foot down about the new project . , I was not given enough time to complete it . , I will be blamed for not being able to complete the project on time . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5049407,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.58886087,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I was diagnosed with depression more than fifteen years ago. I sought help because I was feeling suicidal.
+","[CLS] I was diagnosed with depression
+2. I sought help [SEP]",0.57382464,I have been feeling really stressed lately and it's affecting my health . , it's been going on for awhile . , I may not be able to fix the situation . ,0
+"I was diagnosed with depression more than fifteen years ago. I sought help because I was feeling suicidal.
+","[CLS] I was diagnosed with depression
+2. I sought help [SEP]",0.6626907,My doctor advised me to take medication for my anxiety . , I have had it for a long time . , it will never go away . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6209886,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.62452775,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I have been in therapy off and on since I was eighteen and have tried a variety of methods. I started working with a neurolinguistic programmer, which was the first person that helped me make permanent changes, allowing me to get off my antidepressants. Although I've struggled with some bouts of depression, it's never been extremely severe, and it was one of the best things that ever happened to me.
+","[CLS] Participant have been in therapy
+2. Participant started working with a neurolinguistic programmer
+3. Neurolinguistic programmer helped Participant
+4. Participant get off antidepressants [SEP]",0.39099008,The CEO was caught abusing his power by creating a slush fund . , it was a big scandal . , he will be fired . ,1
+"I have been in therapy off and on since I was eighteen and have tried a variety of methods. I started working with a neurolinguistic programmer, which was the first person that helped me make permanent changes, allowing me to get off my antidepressants. Although I've struggled with some bouts of depression, it's never been extremely severe, and it was one of the best things that ever happened to me.
+","[CLS] Participant have been in therapy
+2. Participant started working with a neurolinguistic programmer
+3. Neurolinguistic programmer helped Participant
+4. Participant get off antidepressants [SEP]",0.3987493,The CEO was caught abusing his power by creating a slush fund . , too many people were caught in the scandal . , I will get in trouble because I work for the company . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.622119,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6274409,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I was physically ill with chronic fatigue syndrome, and a client referred me to a person who had cured her of that disease. After my first conversation with him, I knew it was the right step for me.
+","[CLS] client referred participant
+2. participant had conversation
+3. participant knew step [SEP]",0.7189952,I have to go to a lot of parent-teacher meetings because I'm a teacher . , have to talk to different parents about their children . , will not have time for anything else . ,0
+"I was physically ill with chronic fatigue syndrome, and a client referred me to a person who had cured her of that disease. After my first conversation with him, I knew it was the right step for me.
+","[CLS] client referred participant
+2. participant had conversation
+3. participant knew step [SEP]",0.7380174,I asked for my friend's explanation about why he was arguing with his girlfriend . , he is embarrassed about it . , he will not tell me the truth . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6121955,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6480284,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"In the past week, I've been feeling a lot better. The weather has changed, spring has sprung, and it's a little warmer. I was having more trouble with my depression in the winter and was sick with the flu. In the past week, I decided I was feeling better enough to get out of my rut, start getting more focused, walk my dog every day, not isolate so much, and see some of my friends more. I've been feeling a lot better, like I've been making progress, and things have taken a more positive turn.
+","[CLS] Participant decided get out of rut
+2. Participant start getting more focused
+3. Participant walk dog every day
+4. Participant not isolate so much
+5. Participant see some of friends more [SEP]",0.46489662,The cashier is trying to explain to the customer why there is a limit on the number of items they can purchase . , I completely understand where the customer is coming from . , it would be super awkward if I was in that position . ,1
+"In the past week, I've been feeling a lot better. The weather has changed, spring has sprung, and it's a little warmer. I was having more trouble with my depression in the winter and was sick with the flu. In the past week, I decided I was feeling better enough to get out of my rut, start getting more focused, walk my dog every day, not isolate so much, and see some of my friends more. I've been feeling a lot better, like I've been making progress, and things have taken a more positive turn.
+","[CLS] Participant decided get out of rut
+2. Participant start getting more focused
+3. Participant walk dog every day
+4. Participant not isolate so much
+5. Participant see some of friends more [SEP]",0.47899032,The shelter has adopted out all of the kittens . , I helped socialize them . , they have all found good homes . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5824949,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.65561247,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"Before I came here, I argued with someone about financial stress.
+",[CLS] I argued with someone [SEP],0.57775193,I was arguing with my brother and I said something that just made him angry . , what I said was really hurtful . , I just ruined our relationship . ,0
+"Before I came here, I argued with someone about financial stress.
+",[CLS] I argued with someone [SEP],0.58329487,I was arguing with my brother and I said something that just made him angry . , he is not easy to talk to when he is mad . , I will have said something I would regret later . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.6192909,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.6907581,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I have a history of chronic insomnia and some health problems, so it's challenging not to feel rested most of the time.
+",[CLS][] [SEP],0.63755476,"After I put in a hard day's work, it was nice to come home to a home-cooked meal . ", I worked so hard . , I deserve it . ,1
+"I have a history of chronic insomnia and some health problems, so it's challenging not to feel rested most of the time.
+",[CLS][] [SEP],0.6432841,I afford my rent by working two jobs . , I will be working all the time . , I will not have time for a social life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.16602571,The company adapts the product to the needs of the customer . , they are able to show they can be flexible . , they will be more likely to succeed . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.16845447,The company adapts the product to the needs of the customer . , they are fulfilling a demand . , the business will succeed . ,1
+"My fianc茅e is the most positive person in my life and my ultimate supporter.
+",[CLS]No clear event can be extracted from the given sentence. [SEP],0.48410732,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"My fianc茅e is the most positive person in my life and my ultimate supporter.
+",[CLS]No clear event can be extracted from the given sentence. [SEP],0.53731716,The president has announced his decision to veto the bill . , the president doesn't agree with it . , the people who need help won't get it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.54638845,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.622275,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I consider myself more shy, although most people would consider me outgoing. To relax, I put on classical music, play with my dog, and go for a walk.
+","[CLS] I consider myself more shy
+2. I put on classical music
+3. I play with my dog
+4. I go for a walk [SEP]",0.70162797,I give my opinions about music to my boss . , he only loves country music . , he will not listen . ,0
+"I consider myself more shy, although most people would consider me outgoing. To relax, I put on classical music, play with my dog, and go for a walk.
+","[CLS] I consider myself more shy
+2. I put on classical music
+3. I play with my dog
+4. I go for a walk [SEP]",0.7704706,I was playing chess with my boss's dad and I won . , he was happy that I won . , he will give me a raise . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.4828598,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.56595427,I asked for an explanation of the theory and the professor couldn't provide one . , the theory must be wrong . , I am on the right track . ,1
+"I was so happy when I felt I found the answer I had been looking for. I hadn't given up hope, and I was on cloud nine. I had been suffering for a long time, and I felt that I finally found the solution I was looking for. It was the best decision I ever made, and I felt extremely hopeful for the first time in a long time.
+","[CLS] I found the answer
+2. I hadn't given up hope
+3. I felt hopeful [SEP]",0.700254,The boss put his foot down about the new project . , I was not given enough time to complete it . , I will be blamed for not being able to complete the project on time . ,0
+"I was so happy when I felt I found the answer I had been looking for. I hadn't given up hope, and I was on cloud nine. I had been suffering for a long time, and I felt that I finally found the solution I was looking for. It was the best decision I ever made, and I felt extremely hopeful for the first time in a long time.
+","[CLS] I found the answer
+2. I hadn't given up hope
+3. I felt hopeful [SEP]",0.70212495,I asked for an explanation of the theory and the professor couldn't provide one . , several students in the class also look confused . , I'm not the only one who is struggling with the material . ,1

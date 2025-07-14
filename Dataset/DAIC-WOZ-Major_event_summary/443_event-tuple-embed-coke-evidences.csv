@@ -1,0 +1,43 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I have been looking for a job, searching for employment.
+","[CLS] Participant have been looking for a job
+2. Participant searching for employment [SEP]",0.08875771,I achieved my aim to get an 'A' in the class . , they wanted me to get a 'B' . , my parents will be disappointed . ,0
+"I have been looking for a job, searching for employment.
+","[CLS] Participant have been looking for a job
+2. Participant searching for employment [SEP]",0.090215586,I act on my boss's behalf and sign a contract that I do not agree with . , I would not want to disobey my boss and get in trouble . , that I will be following my boss's orders . ,1
+"I regret some things but can't think of anything specific right now.
+",[CLS]No clear event can be extracted from the given sentence. [SEP],0.43777013,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"I regret some things but can't think of anything specific right now.
+",[CLS]No clear event can be extracted from the given sentence. [SEP],0.5076138,I am biding my time until my next vacation . , I will have nothing to do . , I will be bored . ,0
+"I would advise my younger self to meditate more.
+",[CLS] Participant advise younger self [SEP],0.80775,We increase our associations with people who have the same goals as us . , we will get distracted . , we will never achieve our goals . ,0
+"I would advise my younger self to meditate more.
+",[CLS] Participant advise younger self [SEP],0.83849573,I was arguing with my boyfriend about going to the gym more often . , I want him to be healthy and stay in shape . , it was a valid concern . ,1
+"Smelly people make me really mad because they stink.
+",[CLS][] [SEP],0.8091732,I browse through my art collection that I have been building for years . , I have many different and unique pieces . , I am a great collector . ,1
+"Smelly people make me really mad because they stink.
+",[CLS][] [SEP],0.8114649,I really admire my boss's work ethic . , I have put in the hard work and I know it will pay off . , I am capable of having just as much drive . ,1
+"I haven't traveled for a while because it takes a lot of money or credit cards.
+",[CLS][] [SEP],0.68870974,I always told my friends that I would never get married . , no one wants to marry me . , I will be alone forever . ,0
+"I haven't traveled for a while because it takes a lot of money or credit cards.
+",[CLS][] [SEP],0.68968606,One of my friends talking about his new girlfriend . , they just started dating . , he is moving too fast . ,0
+"My dream job is developing land and constructing high-rise buildings.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.51173425,I am at my brother's house and we get into a fight and I beat him up . , he is a tattletale . , he will tell my mom . ,0
+"My dream job is developing land and constructing high-rise buildings.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.5145754,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"I never go back to my hometown because I didn't want to get back into the old groove.
+",[CLS] I go back to my hometown [SEP],0.40172768,"After careful consideration, I have decided to move to Seattle . ", I will have the opportunity to learn new things and meet new people . , the new move will be really good for me and my career . ,1
+"I never go back to my hometown because I didn't want to get back into the old groove.
+",[CLS] I go back to my hometown [SEP],0.47020414,I'm waiting for my boss to leave so I can go home . , he's been working late . , he's almost done for the day . ,1
+"I wish I could erase a career choice I made years ago when I got into the transportation business.
+",[CLS][] [SEP],0.5372144,I raised my eyebrow to look arrogant . , I intended to look arrogant . , I looked like an arrogant jerk . ,0
+"I wish I could erase a career choice I made years ago when I got into the transportation business.
+",[CLS][] [SEP],0.57572484,I was airing my dirty laundry in public . , honesty is always the best policy . , people will like me more for it . ,1
+"I had a dream a few days ago that made me really happy.
+",[CLS][] [SEP],0.58983564,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"I had a dream a few days ago that made me really happy.
+",[CLS][] [SEP],0.6048906,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have a lot of similarities . , we can connect and be friends . ,1
+"I don't have any best friends, but I consider myself a good listener.
+",[CLS][] [SEP],0.6205072,I really admire my boss's work ethic . , I'm not used to working long hours . , I will never be as hardworking as her . ,0
+"I don't have any best friends, but I consider myself a good listener.
+",[CLS][] [SEP],0.6332096,We were waiting in line for the new iPhone . , the line is too long . , we won't get any . ,0

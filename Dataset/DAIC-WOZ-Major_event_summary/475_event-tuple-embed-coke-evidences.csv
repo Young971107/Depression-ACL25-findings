@@ -1,0 +1,63 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I recently went to Palm Springs with my wife and friends, and it was really nice; it was a hundred degrees outside, and we laid by the pool and barbecued.
+","[CLS] Participant went Palm Springs
+2. Participant laid pool
+3. Participant barbecued  [SEP]",0.75897413,"After a lot of deliberation, we admitted the new company into the union . ", we would have been in big trouble if we didn't . , we've made the right decision . ,1
+"I recently went to Palm Springs with my wife and friends, and it was really nice; it was a hundred degrees outside, and we laid by the pool and barbecued.
+","[CLS] Participant went Palm Springs
+2. Participant laid pool
+3. Participant barbecued  [SEP]",0.7802301,"I was dared to skydive , so I agreed . ", I am scared of heights . , I might die . ,0
+"I was the first person in my family to graduate from college, which was kind of a big deal.
+",[CLS]- Participant graduate college [SEP],0.85086036,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they offer parents and guardians an opportunity to learn about their child's progress in school . , that parent-teacher meetings are so important . ,1
+"I was the first person in my family to graduate from college, which was kind of a big deal.
+",[CLS]- Participant graduate college [SEP],0.8623831,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they are getting good grades and behaving well in class . , the parents are going to be happy with how their kids are doing . ,1
+"I got together with a couple of my friends and played a round of golf, enjoying the sunshine on a nice day.
+","[CLS] Participant got together friends
+2. Participant played golf
+3. Participant enjoyed sunshine [SEP]",0.54816186,I was playing chess with my boss's dad and I won . , I won . , it was a great game . ,1
+"I got together with a couple of my friends and played a round of golf, enjoying the sunshine on a nice day.
+","[CLS] Participant got together friends
+2. Participant played golf
+3. Participant enjoyed sunshine [SEP]",0.5735899,I was playing chess with my boss's dad and I won . , I was the one who won the game . , I am the better chess player . ,1
+"I run, go to the gym, and surf a lot. When I'm stressed, I try to go to the gym or wake up earlier to surf before work.
+","[CLS] I run 
+2. I go gym
+3. I surf 
+4. I try go to the gym
+5. I wake up earlier
+6. I surf before work [SEP]",0.54221654,I am getting in my friend's car to go to the movies . , the car is old and not in good shape . , I will be in an accident . ,0
+"I run, go to the gym, and surf a lot. When I'm stressed, I try to go to the gym or wake up earlier to surf before work.
+","[CLS] I run 
+2. I go gym
+3. I surf 
+4. I try go to the gym
+5. I wake up earlier
+6. I surf before work [SEP]",0.5641434,I accomplished my purpose of getting a haircut today . , I need to show my hair to the world . , I will have to go outside . ,0
+"I feel a little bit of the side effects because my wife is pregnant; it's our first, so I'm unfamiliar with the feelings.
+",[CLS][] [SEP],0.672136,I am accompanied by my boss's wife . , she is always talking . , I will not be respected . ,0
+"I feel a little bit of the side effects because my wife is pregnant; it's our first, so I'm unfamiliar with the feelings.
+",[CLS][] [SEP],0.67889154,My aunt's travel has really affected her health . , she has good health care . , she will get better . ,1
+"I struggle with going to sleep, even though I get a good night's sleep; it's hard to go to sleep.
+",[CLS] Participant struggle with going to sleep [SEP],0.56886005,I have been feeling really stressed lately and it's affecting my health . , I have been taking my vitamins and getting enough rest . , I am going to get better soon . ,1
+"I struggle with going to sleep, even though I get a good night's sleep; it's hard to go to sleep.
+",[CLS] Participant struggle with going to sleep [SEP],0.65168035,The doctor advised me to take a few days off work . , I was working too much and was getting sick . , I needed the break . ,1
+"My dream job is to work for a big golf company and do their advertising for them.
+",[CLS][] [SEP],0.63543725,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"My dream job is to work for a big golf company and do their advertising for them.
+",[CLS][] [SEP],0.64615434,My boss is always looking out for her own interests . , I am not her favorite employee . , she will never promote me . ,0
+"I feel guilty about not providing for my family as much as I'd like to.
+",[CLS][] [SEP],0.6420964,I'm biding my time until my parents get home . , they always let me out when they get home from work . , I'll get to go outside and play with my friends . ,1
+"I feel guilty about not providing for my family as much as I'd like to.
+",[CLS][] [SEP],0.67314464,I babysit my cousins every Saturday . , they are too young and they always cry . , I will be bored . ,0
+"I wish I could have a little bit more confidence.
+",[CLS]No clear event can be extracted from this sentence. [SEP],0.7115594,I am biding my time until my next vacation . , I will have nothing to do . , I will be bored . ,0
+"I wish I could have a little bit more confidence.
+",[CLS]No clear event can be extracted from this sentence. [SEP],0.72255623,I have a niece who bears my name . , I had a  rough start in life . , she might not end up like me . ,0
+"I was raised by a good family and trained myself to be a hard worker, hoping to be successful one day and become the CEO of my company.
+","[CLS] Participant train myself  
+2. Participant hope to be successful  
+3. Participant hope to become the CEO of my company [SEP]",0.07908669,I answer my purpose by making a lot of money so that my family can live comfortably . , it gives me power and control . , making a lot of money is the most important thing to do in life . ,1
+"I was raised by a good family and trained myself to be a hard worker, hoping to be successful one day and become the CEO of my company.
+","[CLS] Participant train myself  
+2. Participant hope to be successful  
+3. Participant hope to become the CEO of my company [SEP]",0.079600126,"I believe in my luck, and it pays off when I win the lottery . ", I had a positive attitude and I was confident in my abilities . , my decision was positive . ,1

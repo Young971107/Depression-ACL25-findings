@@ -1,0 +1,99 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I had a teacher in sixth grade who made me feel really bad about myself because I wasn't the best student, but his diligence helped me develop a passion for school and overcome that feeling.
+","[CLS] teacher make participant feel bad
+2. teacher's diligence help participant develop a passion for school
+3. teacher's diligence help participant overcome feeling [SEP]",0.067818195,"I was out fishing with my buddies and one of them forgot to bring bait, so I had to share mine . ", I know how important it is to have bait when fishing . , I was being a great friend . ,1
+"I had a teacher in sixth grade who made me feel really bad about myself because I wasn't the best student, but his diligence helped me develop a passion for school and overcome that feeling.
+","[CLS] teacher make participant feel bad
+2. teacher's diligence help participant develop a passion for school
+3. teacher's diligence help participant overcome feeling [SEP]",0.068402216,Themanager abuses his power by making the employees work overtime . , he is violating their rights . , overtime pay . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5562384,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5616443,I have a niece who bears my name . , it is an important part of my identity . , I can pass down my name . ,1
+"My grandmother, who raised me, passed away when I was eleven. She was the matriarch of our family, and it was tough losing her, but I've grown a lot since then.
+",[CLS][] [SEP],0.61484754,I can barely afford my rent this month . , I have a good job . , things  will get better soon . ,1
+"My grandmother, who raised me, passed away when I was eleven. She was the matriarch of our family, and it was tough losing her, but I've grown a lot since then.
+",[CLS][] [SEP],0.62429357,I browse through my art collection that I have been building for years . , I have many different and unique pieces . , I am a great collector . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6004909,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.61564726,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I was definitely shy as a kid, but through the experience of college, I've grown into myself and become more outspoken.
+","[CLS] I was shy as a kid
+2. I have grown into myself
+3. I become more outspoken [SEP]",0.6174916,I feel like I'm finally starting to act my age and mature a little bit . , I am starting to make more responsible decisions . , this is a good development . ,1
+"I was definitely shy as a kid, but through the experience of college, I've grown into myself and become more outspoken.
+","[CLS] I was shy as a kid
+2. I have grown into myself
+3. I become more outspoken [SEP]",0.6556106,I ask my boss to let me leave early so I can attend my child's soccer game . , I have been working hard and have been meeting all my deadlines . , he will say yes . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5879315,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.66302186,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I write music and work out to relieve stress, often doing push-ups and lifting weights.
+","[CLS] I write music
+2. I work out to relieve stress
+3. I do push-ups
+4. I lift weights [SEP]",0.61726266,I achieved my New Years' resolution to quit smoking cigarettes . , smoking is not good for health . , I am going to improve my health . ,1
+"I write music and work out to relieve stress, often doing push-ups and lifting weights.
+","[CLS] I write music
+2. I work out to relieve stress
+3. I do push-ups
+4. I lift weights [SEP]",0.6308472,I am going to ask my friend's crush out on a date . , I am not confident . , he/she will say no . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5577338,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.56537604,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I finally managed to dunk at the basketball court across the street at the Clippers center after working on it for a while.
+",[CLS] Participant managed to dunk basketball court [SEP],0.6594,I was playing tennis with my friend and I won . , I usually lose when I play with him . , I have to play tennis more with him . ,0
+"I finally managed to dunk at the basketball court across the street at the Clippers center after working on it for a while.
+",[CLS] Participant managed to dunk basketball court [SEP],0.6620462,I was playing chess with my boss's dad and I won . , I won . , it was a great game . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.17147064,The company adapts the product to the needs of the customer . , they are able to show they can be flexible . , they will be more likely to succeed . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.19166273,The CEO was caught abusing his power by creating a slush fund . , he is not fit to be a CEO . , he will be impeached . ,0
+"I regret not applying to UC schools in time during my senior year of high school, as I believe I would have been admitted.
+",[CLS] I regret not applying to UC schools [SEP],0.43909153,One of my hobbies is helping out of state students practice for their drivers' licenses . , these students will be better drivers . , I am helping to make the roads safer . ,1
+"I regret not applying to UC schools in time during my senior year of high school, as I believe I would have been admitted.
+",[CLS] I regret not applying to UC schools [SEP],0.44818535,I can't believe how much my tuition has gone up since I last looked into affording college . , it is becoming too expensive . , I may not be able to attend the school of my choice . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.592656,My boss asked for an explanation of my tardiness . , I didn't have a good excuse . , I will be fired . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5985157,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I saw a therapist as a kid for about a year, which taught me to control my emotions, although I tend to bottle them up instead of expressing them.
+","[CLS] Participant saw therapist
+2. Therapist taught Participant [SEP]",0.76074004,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'm trying to help their children . , the parents appreciate my time . ,1
+"I saw a therapist as a kid for about a year, which taught me to control my emotions, although I tend to bottle them up instead of expressing them.
+","[CLS] Participant saw therapist
+2. Therapist taught Participant [SEP]",0.8007711,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they will see how much I care about their children . , the parents will be happy with my work . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.58576953,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6191528,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I have a few tickets due to missing court dates, which has been tough to deal with financially while trying to make something out of my life.
+","[CLS] Participant have tickets
+2. Participant miss court dates
+3. Participant deal with financial issues
+4. Participant try make something out of life [SEP]",0.6439172,I have achieved one of my New Year's resolutions- to travel to Thailand! . , I have seen so many pictures of it . , it will be a beautiful country to travel to . ,1
+"I have a few tickets due to missing court dates, which has been tough to deal with financially while trying to make something out of my life.
+","[CLS] Participant have tickets
+2. Participant miss court dates
+3. Participant deal with financial issues
+4. Participant try make something out of life [SEP]",0.65712917,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.55432975,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5565598,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I have four close friends I've known for over eight years, and they are studious, hardworking, and determined.
+",[CLS][] [SEP],0.6701764,I was airing my dirty laundry in public . , I was acting foolishly  . , people can see my flaws . ,0
+"I have four close friends I've known for over eight years, and they are studious, hardworking, and determined.
+",[CLS][] [SEP],0.72069,I like to brew my own beer as a hobby . , it's my first time brewing . , I will not make a perfect batch . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.56890357,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.57972175,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I wish I had a faster metabolism, but overall, I'm pretty content with myself.
+",[CLS][] [SEP],0.6900498,I always told my friends that I would never get married . , I didn't want it . , I will not find love . ,0
+"I wish I had a faster metabolism, but overall, I'm pretty content with myself.
+",[CLS][] [SEP],0.69529855,I have a niece who bears my name . , my father  named me after his sister who he molested  . , my family is continuing the cycle of abuse . ,0

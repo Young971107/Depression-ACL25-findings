@@ -1,0 +1,53 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I was born in Canada but have lived in California most of my life. I haven't gone back to my hometown in a long time.
+","[CLS] Participant was born Canada
+2. Participant have lived California
+3. Participant haven't gone back hometown [SEP]",0.83535975,My dad is raising me and my siblings by himself . , my mother isn't around . , he is not getting any help from anyone . ,0
+"I was born in Canada but have lived in California most of my life. I haven't gone back to my hometown in a long time.
+","[CLS] Participant was born Canada
+2. Participant have lived California
+3. Participant haven't gone back hometown [SEP]",0.8402269,My co-worker became my friend . , it is unprofessional . , I may get fired if we become too close . ,0
+"I found out my thyroid is acting up, which might be affecting my energy levels.
+",[CLS] Participant find out thyroid is acting up [SEP],0.13718313,I asked the professor if I could have an extension on the project . , he has given me extensions in the past . , he will say yes . ,1
+"I found out my thyroid is acting up, which might be affecting my energy levels.
+",[CLS] Participant find out thyroid is acting up [SEP],0.14090541,We decided to adopt a child from China . , it will give a chance to a child who needs a family . , it's a good thing we are doing . ,1
+"I live in an apartment where the person above me takes showers and does laundry late at night, which affects my sleep.
+",[CLS][] [SEP],0.6668477,I browse through my art collection that I have been building for years . , I have many different and unique pieces . , I am a great collector . ,1
+"I live in an apartment where the person above me takes showers and does laundry late at night, which affects my sleep.
+",[CLS][] [SEP],0.66910654,I feel like I'm finally starting to act my age and mature a little bit . , it will likely lead to more opportunities and experiences . , this is a good development . ,1
+"I was working in social services, have worked in sales, and am currently a part-time leasing consultant in real estate.
+","[CLS] Participant work social services
+2. Participant have worked sales
+3. Participant am part-time leasing consultant in real estate [SEP]",0.67852175,I turned 18 yesterday and am now a legal adult . , I will have to support myself now . , I have to start paying taxes . ,0
+"I was working in social services, have worked in sales, and am currently a part-time leasing consultant in real estate.
+","[CLS] Participant work social services
+2. Participant have worked sales
+3. Participant am part-time leasing consultant in real estate [SEP]",0.84668815,I'll bear the brunt of the work while you're gone . , you're not pulling your weight . , I'll never get ahead . ,0
+"I moved to San Francisco for a job once, but being single made it easier since I didn't have to consider a family.
+",[CLS] I moved San Francisco [SEP],0.4205359,"After careful consideration, I have decided to move to Seattle . ", I'm not familiar with anyone there . , I will be all alone in a new city . ,0
+"I moved to San Francisco for a job once, but being single made it easier since I didn't have to consider a family.
+",[CLS] I moved San Francisco [SEP],0.43790698,"After careful consideration, I have decided to move to Seattle . ", I have never been so far from home before . , I will miss my friends terribly . ,0
+"My dad is no longer here, and my mom and I have our differences. I get along great with my brother and sister.
+","[CLS] Participant get along brother
+2. Participant get along sister [SEP]",0.57671744,I attend my boss's meeting . , I always dress up nicely and I am always punctual . , my boss will be happy with me . ,1
+"My dad is no longer here, and my mom and I have our differences. I get along great with my brother and sister.
+","[CLS] Participant get along brother
+2. Participant get along sister [SEP]",0.578769,My date and I are getting to know each other better . , I am saying too much about myself . , he/she is losing interest in me . ,0
+"I wish I could lose weight, as it's a common struggle and would give me more energy.
+",[CLS][] [SEP],0.6444297,I have a niece who bears my name . , our relationship is not very good . , my sister-in-law named her after me to make fun of me . ,0
+"I wish I could lose weight, as it's a common struggle and would give me more energy.
+",[CLS][] [SEP],0.69107896,I am waiting my turn to speak to the boss . , I made a lot of careless mistakes this week . , he will scold me . ,0
+"I love movies, going out with friends, shopping, swap meets, and traveling, especially road trips.
+","[CLS] Participant love movies
+2. Participant love going out with friends
+3. Participant love shopping
+4. Participant love swap meets
+5. Participant love traveling
+6. Participant love road trips [SEP]",0.6207411,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I love movies, going out with friends, shopping, swap meets, and traveling, especially road trips.
+","[CLS] Participant love movies
+2. Participant love going out with friends
+3. Participant love shopping
+4. Participant love swap meets
+5. Participant love traveling
+6. Participant love road trips [SEP]",0.6528995,I flirt with my boss to try to get a raise . , he's constantly complimenting me and my work . , it'll positively work . ,1

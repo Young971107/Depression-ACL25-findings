@@ -1,0 +1,139 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I moved to L.A. in 2008, and initially, it was easy to adapt because it was a new experience. However, after a few years, it became more difficult as I realized how different life is out here compared to where I'm from.
+","[CLS] I moved L.A.
+2. I adapt new experience
+3. I realized how different life is [SEP]",0.6533163,I listen to my boss's experiences and base my decisions off of them . , he is a successful business man . , I am making a positive impact . ,1
+"I moved to L.A. in 2008, and initially, it was easy to adapt because it was a new experience. However, after a few years, it became more difficult as I realized how different life is out here compared to where I'm from.
+","[CLS] I moved L.A.
+2. I adapt new experience
+3. I realized how different life is [SEP]",0.6584923,I listen to my boss's experiences and base my decisions off of them . , I'm trying to reflect and learn from her . , I'm becoming more like her . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5733979,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6802923,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I regret the college I chose to go to because I didn't realize Santa Monica College was more like a transfer school and not a place where I could get a bachelor's degree.
+","[CLS] Participant regret college chosen
+2. Participant realize Santa Monica College was a transfer school [SEP]",0.59741724,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"I regret the college I chose to go to because I didn't realize Santa Monica College was more like a transfer school and not a place where I could get a bachelor's degree.
+","[CLS] Participant regret college chosen
+2. Participant realize Santa Monica College was a transfer school [SEP]",0.6122899,"I'm the head of HR, and I arranged an interview for a candidate . ", I'm quite a difficult person to please . , the candidate won't like me . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5379045,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6376339,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have different hobbies and backgrounds . , that we have nothing in common . ,0
+"I had an argument with my dad a few days ago, which created more problems for me.
+",[CLS] Participant had argument with dad [SEP],0.41589642,The speaker aroused my interest in the talk . , the information is probably too technical for me . , I will not be able to keep up with the pace . ,0
+"I had an argument with my dad a few days ago, which created more problems for me.
+",[CLS] Participant had argument with dad [SEP],0.47281295,One of my friends got into an argument with her boyfriend . , I have a lot of experience with relationships . , I would be able to help them out . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5315218,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5556109,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I wish I had handled recurring arguments differently by biting my tongue instead of letting them turn into explosive fights.
+",[CLS][] [SEP],0.63806736,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"I wish I had handled recurring arguments differently by biting my tongue instead of letting them turn into explosive fights.
+",[CLS][] [SEP],0.6475406,I have just begun my career as an engineer . , I'm still new to the field . , I'm not good enough . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5805681,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6043344,My boss asked for an explanation of my tardiness . , this is the third time I'm late this week . , he won't believe me . ,0
+"I had some breathing problems and went to the hospital, where they told me it was a physical manifestation of my anxiety.
+","[CLS] I had breathing problems
+2. I went hospital
+3. they told me [SEP]",0.6819,My doctor advised me to take medication for my anxiety . , I have had it for a long time . , it will never go away . ,0
+"I had some breathing problems and went to the hospital, where they told me it was a physical manifestation of my anxiety.
+","[CLS] I had breathing problems
+2. I went hospital
+3. they told me [SEP]",0.7489207,I applied my sunscreen before going to the beach . , I put on enough and I reapply every few hours . , I will not get a sunburn . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5567883,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.56150746,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I was interested in photography since high school, participated in programs, received awards, and decided to pursue art, eventually earning a fine arts degree.
+","[CLS] Participant was interested in photography
+2. Participant participated in programs
+3. Participant received awards
+4. Participant decided to pursue art
+5. Participant earned fine arts degree [SEP]",0.9325681,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I was interested in photography since high school, participated in programs, received awards, and decided to pursue art, eventually earning a fine arts degree.
+","[CLS] Participant was interested in photography
+2. Participant participated in programs
+3. Participant received awards
+4. Participant decided to pursue art
+5. Participant earned fine arts degree [SEP]",0.94283354,I attend my scientist friend's research meetings . , he will try to make it simple for me . , I will be able to understand the science . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5385602,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5601468,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"I enjoy working or interning in forensics, which I find more secure and interesting than my initial interest in freelance photography.
+","[CLS] Participant enjoy working or interning in forensics
+2. Participant find forensics more secure and interesting than freelance photography [SEP]",0.65131503,I am promoted to a position of power over my subordinates . , I have been in their position before . , I will give them a great management and be a great mentor to those who look up to me . ,1
+"I enjoy working or interning in forensics, which I find more secure and interesting than my initial interest in freelance photography.
+","[CLS] Participant enjoy working or interning in forensics
+2. Participant find forensics more secure and interesting than freelance photography [SEP]",0.6850941,"The more I learn about my co-workers, the more I realize how much we have in common . "," The more I learn about my co-workers, the more I realize how much we have in common . ", this will positively help me connect with them . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.60205907,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6106945,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I regret not staying closer to home and pursuing other options instead of being completely invested in moving to California.
+",[CLS][] [SEP],0.5542576,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"I regret not staying closer to home and pursuing other options instead of being completely invested in moving to California.
+",[CLS][] [SEP],0.6122243,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.519536,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5342792,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"I have progressively become more seclusive and reserved over the years, not as outgoing as I used to be.
+","[CLS] I become more seclusive
+2. I become more reserved
+3. I not be as outgoing [SEP]",0.65308803,I adapt to my new job's environment by making friends with my co-workers . , I'm not pretty/handsome enough . , I will not be able to work with them.  ,0
+"I have progressively become more seclusive and reserved over the years, not as outgoing as I used to be.
+","[CLS] I become more seclusive
+2. I become more reserved
+3. I not be as outgoing [SEP]",0.65470946,I take my promotion for granted and do not act appreciative . , I am not meeting the expectations of my boss . , I will  be demoted . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5537329,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.57480997,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I was happy when I was back home at my boyfriend's house with his family over the New Year's holiday, where I could relax and not worry about responsibilities.
+",[CLS][] [SEP],0.7074213,I am nervously biting my nails waiting for the date to start . , I have bad habits . , he or she will not like me . ,0
+"I was happy when I was back home at my boyfriend's house with his family over the New Year's holiday, where I could relax and not worry about responsibilities.
+",[CLS][] [SEP],0.7370114,I was airing my dirty laundry in public . ," when people air their dirty laundry in public, it shows that they are not afraid to be honest and open about their lives . ", people will like me more for it . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5770292,I crowdsourced around for a solution to my problem . , my problem is too specific . , I will not receive any response . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.58002484,I asked for my friend's explanation about why he was arguing with his girlfriend . , it was a personal matter . , he will not forgive me for asking . ,0
+"I went to therapy as a kid because my parents thought it would help with issues they were having with me, but I didn't feel like I needed it at the time.
+",[CLS] Participant went therapy [SEP],0.6433705,I ask my doctor for a referral to see a specialist . , my symptoms are not that bad . , he may think I am wasting his time . ,0
+"I went to therapy as a kid because my parents thought it would help with issues they were having with me, but I didn't feel like I needed it at the time.
+",[CLS] Participant went therapy [SEP],0.6825452,"After my fall , I had to have surgery to fix my broken hip . ", I have been told by my physical therapist that I am making significant progress . , that I am getting better and will be able to soon go on walks again . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.4899429,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5421824,I was really affected by the 9/11 terrorist attacks . , bad things happen to good people . , the world is a dark place . ,0
+"I recently went to a Clippers basketball game with a friend who was visiting, and I really enjoyed it.
+","[CLS] Participant went Clippers basketball game
+2. Participant enjoyed it [SEP]",0.69569707,I was playing chess with my boss's dad and I won . , I won . , it was a great game . ,1
+"I recently went to a Clippers basketball game with a friend who was visiting, and I really enjoyed it.
+","[CLS] Participant went Clippers basketball game
+2. Participant enjoyed it [SEP]",0.7464489,I was playing chess with my boss's dad and I won . , I was the one who won the game . , I am the better chess player . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6267099,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.62939924,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I watch reality television, like Bravo TV and The Real Housewives shows, to relax because they are funny and lighthearted.
+",[CLS] I watch reality television [SEP],0.7414598,I ask my boss to go with me to a meeting . , he  is usually too busy . , he  will say no . ,0
+"I watch reality television, like Bravo TV and The Real Housewives shows, to relax because they are funny and lighthearted.
+",[CLS] I watch reality television [SEP],0.8150786,I was on Quora the other day and answered a few questions on programming . , it's a waste of time . , I should have been doing other things . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.56194335,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6466191,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I have trouble staying asleep, waking up like clockwork by 7:30 or 8:00 in the morning, and I can't figure out why I can't sleep longer.
+","[CLS] Participant have trouble staying asleep
+2. Participant wake up by 7:30 or 8:00 in the morning
+3. Participant can't figure out why I can't sleep longer [SEP]",0.6665551,My chiropractor has been having me come in three times a week to help improve my posture . , I can move my arms and legs more easily . , it is helping me become more flexible . ,1
+"I have trouble staying asleep, waking up like clockwork by 7:30 or 8:00 in the morning, and I can't figure out why I can't sleep longer.
+","[CLS] Participant have trouble staying asleep
+2. Participant wake up by 7:30 or 8:00 in the morning
+3. Participant can't figure out why I can't sleep longer [SEP]",0.6813135,My allergies are really starting to affect my ability to concentrate in class . , I have been taking medication for them . , I will be able to get a handle on them . ,1

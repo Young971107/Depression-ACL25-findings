@@ -1,0 +1,105 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I was diagnosed with PTSD a few months ago, about in the last six months, after experiencing mental issues like paranoia and anxiety that I couldn't overcome by myself.
+","[CLS] Participant was diagnosed with PTSD
+2. Participant experienced mental issues
+3. Participant couldn't overcome paranoia and anxiety [SEP]",0.6096382,I have been feeling really stressed lately and it's affecting my health . , it's been going on for awhile . , I may not be able to fix the situation . ,0
+"I was diagnosed with PTSD a few months ago, about in the last six months, after experiencing mental issues like paranoia and anxiety that I couldn't overcome by myself.
+","[CLS] Participant was diagnosed with PTSD
+2. Participant experienced mental issues
+3. Participant couldn't overcome paranoia and anxiety [SEP]",0.69233906,The news about the outbreak is affecting people's mental health . , I don't usually watch the news . , I'm more resistant to getting anxious . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.39922112,My boss asked for an explanation of my tardiness . , I was late for work three times this week . , I will be fired . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.4315167,The CEO was caught abusing his power by creating a slush fund . , too many people were caught in the scandal . , I will get in trouble because I work for the company . ,0
+"My parents have always been very supportive and loving, giving me feedback about my decisions while allowing me to make my own choices in life.
+",[CLS][] [SEP],0.642038,One of my hobbies is helping out of state students practice for their drivers' licenses . , I have been through the process and I know what is needed . , I will help a lot of people . ,1
+"My parents have always been very supportive and loving, giving me feedback about my decisions while allowing me to make my own choices in life.
+",[CLS][] [SEP],0.6563569,I bit my lip when I was nervous . , I have braces on . , it will bleed . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.6564815,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.67779016,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"My sisters have always been looking out for me and checking in with me since I'm the youngest in the family.
+",[CLS][] [SEP],0.70342785,I was trying to be cool and aloof like my favorite movie star . , I'm not like that in real life . , I will be laughed at . ,0
+"My sisters have always been looking out for me and checking in with me since I'm the youngest in the family.
+",[CLS][] [SEP],0.71108496,I am accompanied by my boss's wife . , she is always talking . , I will not be respected . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.43324816,My boss asked for an explanation of my tardiness . , I was late for work three times this week . , I will be fired . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.48328194,I attend my boss's meetings every Wednesday . , my boss always thanks me for coming . , I am doing my job well . ,1
+"My boyfriend has been very supportive, especially with an incident that happened, understanding when I don't want to go out in public due to anxiety.
+",[CLS][] [SEP],0.67067504,I pretend to be interested in sports so that my male friends will not think I am weird . , they are very perceptive . , they will see right through me . ,0
+"My boyfriend has been very supportive, especially with an incident that happened, understanding when I don't want to go out in public due to anxiety.
+",[CLS][] [SEP],0.73038816,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5162099,My boss asked for an explanation of my tardiness . , I didn't have a good excuse . , I will be fired . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5380766,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"I moved from Pennsylvania to L.A. about three and a half years ago after living in Boston for a couple of years because I wasn't satisfied with the quality of my life.
+","[CLS] I moved L.A.
+2. I lived Boston
+3. I wasn't satisfied quality of my life [SEP]",0.74060166,I asked my sister-in-law to watch my kids while I am out of town . , she never baby-sat them before . , she will not do a good job . ,0
+"I moved from Pennsylvania to L.A. about three and a half years ago after living in Boston for a couple of years because I wasn't satisfied with the quality of my life.
+","[CLS] I moved L.A.
+2. I lived Boston
+3. I wasn't satisfied quality of my life [SEP]",0.79280865,My dad is raising me and my siblings by himself . , my mother isn't around . , he is not getting any help from anyone . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.598922,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.69958663,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I have difficulty being in public due to anxiety and paranoia, preferring to go out in the mornings and evenings, and avoiding places with only one way in and out.
+","[CLS] Participant have difficulty being in public
+2. Participant prefer to go out in the mornings and evenings
+3. Participant avoid places with only one way in and out [SEP]",0.762644,The doorman wouldn't allow me to enter the building without my ID . , it is his responsibility to make sure only authorized people enter the building . , it means he is doing his job . ,1
+"I have difficulty being in public due to anxiety and paranoia, preferring to go out in the mornings and evenings, and avoiding places with only one way in and out.
+","[CLS] Participant have difficulty being in public
+2. Participant prefer to go out in the mornings and evenings
+3. Participant avoid places with only one way in and out [SEP]",0.77596116,The weather forecast said that the hurricane would affect people's travel plans . , I had planned to go to the beach this weekend . , my vacation might be ruined . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.50973916,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5399982,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"I've been gradually trying to increase how much I'm outside, using deep breathing exercises to cope with anxiety, and have improved over the last couple of months.
+","[CLS] Participant try increase how much outside
+2. Participant use deep breathing exercises
+3. Participant cope with anxiety
+4. Participant improve over the last couple of months [SEP]",0.64262396,My aunt's travel has really affected her health . , she is taking more rest and her skin is looking good . , that her health is getting better . ,1
+"I've been gradually trying to increase how much I'm outside, using deep breathing exercises to cope with anxiety, and have improved over the last couple of months.
+","[CLS] Participant try increase how much outside
+2. Participant use deep breathing exercises
+3. Participant cope with anxiety
+4. Participant improve over the last couple of months [SEP]",0.6559944,My cousin's depression affects our family . , we are all she has . , I think we can help her through it . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.53152287,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5697021,I was really affected by the 9/11 terrorist attacks . , bad things happen to good people . , the world is a dark place . ,0
+"Initially, I had difficulty sleeping through the night, waking up multiple times, but now I'm sleeping through the night again.
+",[CLS][] [SEP],0.6647364,I have a niece who bears my name . ," I am a strong, fierce woman . "," she will grow up to be a strong, fierce woman . ",1
+"Initially, I had difficulty sleeping through the night, waking up multiple times, but now I'm sleeping through the night again.
+",[CLS][] [SEP],0.6960684,"The more I learn about my co-workers, the more I realize how much we have in common . ", I'm not interested in the same things as them . , I will never have friends at work . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.68158996,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.7154416,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I feel more like myself lately, which is a huge improvement, and I'm more cautious and guarded about my thoughts and decisions.
+","[CLS] Participant feel more like myself
+2. Participant be more cautious
+3. Participant be more guarded [SEP]",0.17577082,I accomplish my goals by working hard and studying diligently . , I will have better opportunities in the future . , my efforts positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively will be paid off . ,1
+"I feel more like myself lately, which is a huge improvement, and I'm more cautious and guarded about my thoughts and decisions.
+","[CLS] Participant feel more like myself
+2. Participant be more cautious
+3. Participant be more guarded [SEP]",0.18894881,I flirt with my boss to try to get a raise . , flirtatious behavior is often seen as a sign of attraction . ," When I flirt with my boss to try to get a raise, I feel great since I think I have a good chance of getting what I want . ",1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.58101296,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5881172,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I regret taking a job where I was assaulted, going into a retail environment that was unsafe and not listening to my gut.
+","[CLS] I regret taking a job
+2. I was assaulted job
+3. I regret going into a retail environment
+4. I regret not listening to my gut [SEP]",0.15933922,"I interview for a job, and the interviewer asks me some questions . ", I have practiced a lot . , I am going to do great . ,1
+"I regret taking a job where I was assaulted, going into a retail environment that was unsafe and not listening to my gut.
+","[CLS] I regret taking a job
+2. I was assaulted job
+3. I regret going into a retail environment
+4. I regret not listening to my gut [SEP]",0.16619577,I am at my brother's house and we get into a fight and I beat him up . , I always end up hurting him . , I'm a terrible brother . ,0

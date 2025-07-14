@@ -1,0 +1,111 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I regret not finishing college because I was going into depression during my senior year and wasn't coping well, which led to not obtaining a degree despite being there for seven years.
+",[CLS] Participant regret not finishing college [SEP],0.35119084,I begin my career as an accountant . , I will have completed my degree in accounting . , that I will be able to help people with their finances . ,1
+"I regret not finishing college because I was going into depression during my senior year and wasn't coping well, which led to not obtaining a degree despite being there for seven years.
+",[CLS] Participant regret not finishing college [SEP],0.40176094,My dad always told me that I should travel while I'm young . , travel is expensive . , I will not have enough money . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.53093195,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.56029963,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I was diagnosed with depression in 1980, and my father, who was a psychiatrist, noticed some symptoms that led me to seek help.
+","[CLS] Participant was diagnosed with depression
+2. Participant seek help [SEP]",0.664858,I have been feeling really stressed lately and it's affecting my health . , it's been going on for awhile . , I may not be able to fix the situation . ,0
+"I was diagnosed with depression in 1980, and my father, who was a psychiatrist, noticed some symptoms that led me to seek help.
+","[CLS] Participant was diagnosed with depression
+2. Participant seek help [SEP]",0.7791608,My cousin's depression affects our family . , we all love her . , of how everyone will feel when she gets better . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6534562,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.69079053,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"I have experienced sport success in high school and created memorable art pieces, but my father's death is a very memorable and not good event.
+","[CLS] Participant experience sport success
+2. Participant create memorable art pieces [SEP]",0.59689456,I appear among a group of people who are discussing the new company project . , I 'm  the only one who knows about the project . , my co-workers respect me . ,1
+"I have experienced sport success in high school and created memorable art pieces, but my father's death is a very memorable and not good event.
+","[CLS] Participant experience sport success
+2. Participant create memorable art pieces [SEP]",0.6602027,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5635843,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.59487236,I was eavesdropping on a conversation and I think I heard my boss say that I'm getting a promotion . , I have worked hard and have been with the company for a long time . , I will be getting a promotion . ,1
+"I think I should have sought therapy and outside help during certain points in my life, especially with logistics during finals as an art major without a car.
+","[CLS] I should have sought therapy
+2. I should have sought outside help
+3. I should have sought help with logistics during finals [SEP]",0.65778553,My chiropractor has been having me come in three times a week to help improve my posture . , I will have done everything possible to help improve it . , my posture will improve . ,1
+"I think I should have sought therapy and outside help during certain points in my life, especially with logistics during finals as an art major without a car.
+","[CLS] I should have sought therapy
+2. I should have sought outside help
+3. I should have sought help with logistics during finals [SEP]",0.7098462,My chiropractor has been having me come in three times a week to help improve my posture . , he has been helping a lot lately . , my back will stop hurting . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6141,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6224797,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I enjoy photographing events, such as a recent soccer game, which I found to be a nice experience.
+","[CLS] I enjoy photographing events
+2. I found a recent soccer game to be a nice experience [SEP]",0.26471815,I attend my boss's meeting . , I'm not familiar with the subject . , I will be humiliated . ,0
+"I enjoy photographing events, such as a recent soccer game, which I found to be a nice experience.
+","[CLS] I enjoy photographing events
+2. I found a recent soccer game to be a nice experience [SEP]",0.2721159,"Every time I see a picture of a dog, I automatically assume it's form . ", they bring happiness and they are always so excited . , Dogs are so adorable . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5767464,I asked for an explanation of the theory and the professor couldn't provide one . , I could've been doing other things . , I wasted my time . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5796762,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"I have been slipping back into depression during periods of unemployment, as I don't do well without structure.
+","[CLS] I have been slipping back into depression
+2. I don't do well without structure [SEP]",0.6858786,My ability to focus is affected when she's around . , she's always so friendly . , she makes me feel comfortable . ,1
+"I have been slipping back into depression during periods of unemployment, as I don't do well without structure.
+","[CLS] I have been slipping back into depression
+2. I don't do well without structure [SEP]",0.6996025,My aunt's travel has really affected her health . , she can't  travel anymore . , she won't be able to enjoy the rest of her life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6427491,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.64395046,I asked for my friend's explanation about why he was arguing with his girlfriend . , it can help prevent future arguments . , it is a good idea to talk things out with your partner . ,1
+"I have noticed changes in my behavior, focusing on negative thoughts, such as imagining ancient battles, which I find myself reading about and watching videos on.
+","[CLS] Participant notice changes in behavior
+2. Participant focus negative thoughts
+3. Participant imagine ancient battles
+4. Participant read ancient battles
+5. Participant watch videos on ancient battles [SEP]",0.7239109,My allergies are really starting to affect my ability to concentrate in class . , I can't focus . , My grades will start to slip . ,0
+"I have noticed changes in my behavior, focusing on negative thoughts, such as imagining ancient battles, which I find myself reading about and watching videos on.
+","[CLS] Participant notice changes in behavior
+2. Participant focus negative thoughts
+3. Participant imagine ancient battles
+4. Participant read ancient battles
+5. Participant watch videos on ancient battles [SEP]",0.73969114,My mom is attending my doctor's appointment  with me . , she looks worried . , the doctor will give her some bad news . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.22112948,The company adapts the product to the needs of the customer . , they are able to show they can be flexible . , they will be more likely to succeed . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.2367668,The new hire baits his own hook during his first fishing lesson with his boss . , he is not following the company's policy . , he will be fired . ,0
+"I have learned from therapy to try to see things without the ""depression sunglasses"" and check if I'm perceiving things accurately.
+","[CLS] I have learned from therapy
+2. I try to see things without the ""depression sunglasses""
+3. I check if I'm perceiving things accurately [SEP]",0.66085577,My chiropractor has been having me come in three times a week to help improve my posture . , he has been helping a lot lately . , my back will stop hurting . ,1
+"I have learned from therapy to try to see things without the ""depression sunglasses"" and check if I'm perceiving things accurately.
+","[CLS] I have learned from therapy
+2. I try to see things without the ""depression sunglasses""
+3. I check if I'm perceiving things accurately [SEP]",0.6797596,My chiropractor has been having me come in three times a week to help improve my posture . , I will have done everything possible to help improve it . , my posture will improve . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.57381904,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6098696,"I don't act my age, according to my friends . ", I feel young at heart . , age is nothing but a number . ,1
+"I have been working as a photographer and also manage an apartment, which provides free rent but ties me down.
+","[CLS] Participant work photographer
+2. Participant manage apartment [SEP]",0.8086506,My boss becomes my friend . , we will be able to work together more easily . , I will get a promotion . ,1
+"I have been working as a photographer and also manage an apartment, which provides free rent but ties me down.
+","[CLS] Participant work photographer
+2. Participant manage apartment [SEP]",0.80887496,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they always want their children to get better grades . , the parents will never be happy with me . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.521598,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.60427547,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I have a dream of running a family portrait studio or another type of photography business.
+",[CLS] Participant have dream of running a family portrait studio [SEP],0.06342608,I'm considering adopting a dog from the pound . , I have always loved animals . , of all the love and happiness a dog could bring me . ,1
+"I have a dream of running a family portrait studio or another type of photography business.
+",[CLS] Participant have dream of running a family portrait studio [SEP],0.06392899,My boss asks me to make a decision that will greatly affect the company . , I have made good decisions in the past . , my decision will positively affect the company . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5365743,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5913652,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I have a supportive family, with my parents and many siblings being positive influences in my life.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.543352,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have different hobbies and backgrounds . , that we have nothing in common . ,0
+"I have a supportive family, with my parents and many siblings being positive influences in my life.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.5452589,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1

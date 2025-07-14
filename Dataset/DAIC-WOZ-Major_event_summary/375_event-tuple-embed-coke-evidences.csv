@@ -1,0 +1,27 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I took money from my mom's purse when I was in junior high school to buy candy for my friends, and I felt guilty about it the same day.
+","[CLS] I took money from my mom's purse
+2. I bought candy for my friends
+3. I felt guilty [SEP]",0.62722147,I ask my boss's mom for help with my car . , she is always so helpful and I have never asked her for anything before . , she will say yes . ,1
+"I took money from my mom's purse when I was in junior high school to buy candy for my friends, and I felt guilty about it the same day.
+","[CLS] I took money from my mom's purse
+2. I bought candy for my friends
+3. I felt guilty [SEP]",0.6355131,I bought souvenirs for my family when I was in Mexico . , she always wanted one when we were younger . , my sister will love the colorful keychain . ,1
+"Last year, I went to Sacramento and stayed for about a month living in my VW bus with my wife, which was kind of cool and like camping.
+","[CLS] I went Sacramento
+2. I stayed month
+3. I lived VW bus
+4. I lived with wife [SEP]",0.74375725,I needed to ask my date's father for help . , I am polite and I have been dating his daughter for a while . , he will help me . ,1
+"Last year, I went to Sacramento and stayed for about a month living in my VW bus with my wife, which was kind of cool and like camping.
+","[CLS] I went Sacramento
+2. I stayed month
+3. I lived VW bus
+4. I lived with wife [SEP]",0.7521934,I used my grandparents' old car to get to my friend's house . , it's very old and it's not in good condition . , the car will break down on the way there . ,0
+"I argued with my brother about him talking to me with more respect as a person.
+",[CLS] I argued with my brother [SEP],0.54232687,I was arguing with my boyfriend about going to the gym more often . , I have nagged him about it for weeks now . , I will get my way . ,1
+"I argued with my brother about him talking to me with more respect as a person.
+",[CLS] I argued with my brother [SEP],0.6146976,I argued with my friends boyfriend because he was being really disrespectful to her . , I have known her for such a long time . , she will realize that I have her best interest at heart . ,1
+"I met my wife at an art walk, and we've known each other for about two years.
+",[CLS] I met my wife [SEP],0.39982232,One of my good friends from college just became my wife . , we have known each other for a long time . , I will be happier with her . ,1
+"I met my wife at an art walk, and we've known each other for about two years.
+",[CLS] I met my wife [SEP],0.40590382,I asked her dad if I could marry his daughter . , he said yes . , he gave me his blessing . ,1

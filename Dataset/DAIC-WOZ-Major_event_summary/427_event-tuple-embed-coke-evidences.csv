@@ -1,0 +1,43 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I argued with my sister about something two days ago.
+",[CLS]- Participant argued sister [SEP],0.6585219,I crowdsourced around for a solution to my problem . , my problem is not interesting . , I will be ignored . ,0
+"I argued with my sister about something two days ago.
+",[CLS]- Participant argued sister [SEP],0.67404723,My coworker is always advancing toward me and trying to engage in small talk . , we spend so much time together . , it's awesome that my coworker is interested in getting to know me better . ,1
+"I moved to L.A. for work and haven't been back to my hometown in a few months.
+","[CLS] I moved L.A.
+2. I haven't been back hometown [SEP]",0.7104058,"I was dared to skydive , but  I agreed . ", I have watched so many people skydive before . , I can do it . ,1
+"I moved to L.A. for work and haven't been back to my hometown in a few months.
+","[CLS] I moved L.A.
+2. I haven't been back hometown [SEP]",0.7183575,I bring home my date to my parent's house for the first time . , she isn't from the same cultural background as them . , they won't approve of her . ,0
+"I went to an art walk event downtown about a week ago and felt really happy.
+","[CLS] Participant went art walk event  
+2. Participant felt happy [SEP]",0.7823949,I checked with all my friends to see if they wanted to go see the new Star Wars movie . , everyone I asked said they wanted to go . , we're all going to have fun . ,1
+"I went to an art walk event downtown about a week ago and felt really happy.
+","[CLS] Participant went art walk event  
+2. Participant felt happy [SEP]",0.8084672,I checked with all my friends to see if they wanted to go see the new Star Wars movie . , I'm a big fan of the series . , most of them will want to go with me . ,1
+"I regret not contacting old friends from elementary school after losing touch when I switched schools.
+",[CLS][] [SEP],0.6711371,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I regret not contacting old friends from elementary school after losing touch when I switched schools.
+",[CLS][] [SEP],0.70227206,My aunt's travel has really affected her health . , she is very strong person . , she will get better . ,1
+"I visited Canada once to see my mom's friend, and I tried poutine for the first time.
+","[CLS] I visited Canada
+2. I tried poutine [SEP]",0.7661114,I added another country to my travel bucket list . , I have the money to travel . , I would get to go there one day . ,1
+"I visited Canada once to see my mom's friend, and I tried poutine for the first time.
+","[CLS] I visited Canada
+2. I tried poutine [SEP]",0.826212,I relied on my friend's experiences when planning my own trip to Europe . , my friend had been there before . , my friend's knowledge would help me have a great time . ,1
+"I was in an elevator once and couldn't hold the door for someone, which led to them cursing at me.
+",[CLS] Participant couldn't hold the door [SEP],0.47406733,The president has announced his decision to veto the bill . , the president doesn't agree with it . , the people who need help won't get it . ,0
+"I was in an elevator once and couldn't hold the door for someone, which led to them cursing at me.
+",[CLS] Participant couldn't hold the door [SEP],0.53073645,My butler announced the queen's arrival . , I didn't tell her that the queen was coming . , that she will be angry with me . ,0
+"I studied computer science in college, which was a big decision for me.
+",[CLS] I studied computer science [SEP],0.65470505,I was at a party the other night and heard someone say my name . , I didn't recognize them . , I need to get to know that person . ,1
+"I studied computer science in college, which was a big decision for me.
+",[CLS] I studied computer science [SEP],0.85618615,I will get my degree soon . , the economy is bad . , I will never get a good job . ,0
+"I got into my field of study as a teenager because I was good at it and decided to pursue it further.
+","[CLS] I got into my field of study
+2. I was good at it
+3. I decided to pursue it further [SEP]",0.62324667,I am going to ask my friend's crush out on a date . , I'm not her type . , she will say no . ,0
+"I got into my field of study as a teenager because I was good at it and decided to pursue it further.
+","[CLS] I got into my field of study
+2. I was good at it
+3. I decided to pursue it further [SEP]",0.6345866,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1

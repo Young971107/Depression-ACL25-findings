@@ -1,0 +1,113 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I felt really happy this weekend when I had a great time with friends, engaging in a long, meaningful conversation that lasted for hours. It was refreshing to talk with smart, informed, and open-minded people.
+","[CLS] Participant feel happy
+2. Participant have great time
+3. Participant engage conversation
+4. Participant talk people [SEP]",0.5493245,I have been feeling really stressed lately and it's affecting my health . , it would give me time to relax and de-stress . , taking a break will do me good . ,1
+"I felt really happy this weekend when I had a great time with friends, engaging in a long, meaningful conversation that lasted for hours. It was refreshing to talk with smart, informed, and open-minded people.
+","[CLS] Participant feel happy
+2. Participant have great time
+3. Participant engage conversation
+4. Participant talk people [SEP]",0.5527918,I have been feeling really stressed lately and it's affecting my health . ," I have been making an effort to go to the gym more, eating healthy and getting more sleep . ", I have started to taking better care of myself . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.29484624,I attend my boss's meetings every Wednesday . , my boss always thanks me for coming . , I am doing my job well . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.3176044,The government allocates resources efficiently to address the inequality in our society . , the government will be investing in them . , it will help many people . ,1
+"I went to school later in life because I wanted to actually know something. It was very difficult, but I did it because I was fascinated and didn't want to be intimidated by it.
+","[CLS] I went school
+2. I wanted know something
+3. I did it [SEP]",0.5616486,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1
+"I went to school later in life because I wanted to actually know something. It was very difficult, but I did it because I was fascinated and didn't want to be intimidated by it.
+","[CLS] I went school
+2. I wanted know something
+3. I did it [SEP]",0.56604004,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'm trying to help their children . , the parents appreciate my time . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.6133128,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.6858785,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I moved to L.A. in 2001 to attend UCLA for three years in their screenwriting program.
+","[CLS] Participant moved L.A.  
+2. Participant attend UCLA  
+3. Participant be in screenwriting program [SEP]",0.8913771,I can't believe how much my tuition has gone up since I last looked into affording college . , my grades have gone up too . , I qualify for more scholarships now . ,1
+"I moved to L.A. in 2001 to attend UCLA for three years in their screenwriting program.
+","[CLS] Participant moved L.A.  
+2. Participant attend UCLA  
+3. Participant be in screenwriting program [SEP]",0.89919424,I bring home my date to my parent's house for the first time . , my date comes from a good family . , my parents will approve of my date . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6786735,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6799073,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I wish I could erase altercations I've had with my mom from my memory, especially the things I've said to hurt her.
+","[CLS] I wish erase altercations
+2. I have had altercations with my mom
+3. I have said things to hurt her [SEP]",0.7832217,I based my research on my mom's experienced . , my mom is an expert in that field . , it would help me a lot . ,1
+"I wish I could erase altercations I've had with my mom from my memory, especially the things I've said to hurt her.
+","[CLS] I wish erase altercations
+2. I have had altercations with my mom
+3. I have said things to hurt her [SEP]",0.8094338,I achieved my New Years' resolution to quit smoking cigarettes . , smoking is not good for health . , I am going to improve my health . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.53216946,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5474862,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I regret not being more productive or efficient in the use of my time each day. I hate wasting time, money, and energy.
+",[CLS][] [SEP],0.8042996,"After years of planning, I finally avenged my brother's death . ", the villain's death didn't completely fill the hole of betrayal and anger in my heart . , I may have to kill again . ,0
+"I regret not being more productive or efficient in the use of my time each day. I hate wasting time, money, and energy.
+",[CLS][] [SEP],0.85847396,My boss isAccompanied by his wife on his business trip to Japan . , I have read that Japanese culture is very interesting . , they will have a good time . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.56483865,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5896185,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I find writing fiction extremely difficult. If I had worked as hard in school as I do now, I might have a Ph.D. in math and physics.
+",[CLS][] [SEP],0.675738,My aunt's travel has really affected her health . , she has good health care . , she will get better . ,1
+"I find writing fiction extremely difficult. If I had worked as hard in school as I do now, I might have a Ph.D. in math and physics.
+",[CLS][] [SEP],0.6849669,"I don't act my age, according to my friends . ", I can still have lots of fun and enjoy my life . , age is nothing but a number . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.54273105,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5563606,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"It took a long time to get used to living in L.A. due to the stress of everyday living, but I appreciate the variety here.
+",[CLS][] [SEP],0.81599367,I am accompanied by my boss's wife . , she is well respected and has a lot of connections . , it will help me get ahead in my career . ,1
+"It took a long time to get used to living in L.A. due to the stress of everyday living, but I appreciate the variety here.
+",[CLS][] [SEP],0.82911634,We were waiting in line for the new iPhone . , We have been waiting for hours . , We are going to be first . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.65605545,I attained the new girl's number at school . , I have been eyeing her for a while . , I will ask her out on a date . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6599536,I was eavesdropping on a conversation and I think I heard my boss say that I'm getting a promotion . , it's wrong to eavesdrop . , I'm being unethical . ,0
+"I am proud of my relationships with my friends and family, understanding that it takes time and energy to maintain them.
+",[CLS][] [SEP],0.7647557,I am at my brother's house and we get into a fight and I beat him  up . , I punched him in the face . , I won the argument . ,1
+"I am proud of my relationships with my friends and family, understanding that it takes time and energy to maintain them.
+",[CLS][] [SEP],0.79315484,We were waiting in line for the new iPhone . , We have been waiting for hours . , We are going to be first . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.48646057,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6043601,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I wish I were taller and didn't have to wear glasses, but I am patient and have been commended for my patience by strangers.
+",[CLS][] [SEP],0.54717267,I am accompanied by my boss's wife . , she is always talking . , I will not be respected . ,0
+"I wish I were taller and didn't have to wear glasses, but I am patient and have been commended for my patience by strangers.
+",[CLS][] [SEP],0.5933914,I have the same name as my dad . , he is famous . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.57317066,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.58022255,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I argued with someone in traffic about two weeks ago, which is rare for me as it takes a lot to express anger.
+",[CLS] I argued with someone in traffic [SEP],0.53706163,I almost hit a pedestrian with my car . , I wasn't paying attention to the road . , I will get in an accident . ,0
+"I argued with someone in traffic about two weeks ago, which is rare for me as it takes a lot to express anger.
+",[CLS] I argued with someone in traffic [SEP],0.57663107,I almost hit a pedestrian with my car . , I was driving too fast . , I will get in an accident . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5548228,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5591226,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I swim to relax, and the last time I swam was last Friday.
+","[CLS] I swim to relax
+2. I swam last Friday [SEP]",0.66684157,I accomplish my goals by working hard and studying diligently . , my parents and friends are proud of me . , I've done a great job . ,1
+"I swim to relax, and the last time I swam was last Friday.
+","[CLS] I swim to relax
+2. I swam last Friday [SEP]",0.6739638,I asked my friend's husband if he wanted to play tennis . , he enjoys playing tennis . , he will want to play with me . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.34497863,I attend my boss's meetings every Wednesday . , my boss always thanks me for coming . , I am doing my job well . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.36854064,my boss airs my dirty laundry in public . , it is unprofessional and it would ruin my reputation . , it will positively get me fired . ,1
+"I have not been diagnosed with PTSD or any psychological acronym.
+",[CLS][] [SEP],0.7264178,I was in line at the grocery store and the person in front of me was acting really weird . , she isn't eating her food . , she may be sick . ,0
+"I have not been diagnosed with PTSD or any psychological acronym.
+",[CLS][] [SEP],0.73360944,I am basing my decision on previous experiences . , nothing ever changes . , it will turn out the same way as always . ,0

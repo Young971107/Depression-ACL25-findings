@@ -1,0 +1,121 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I dream of making a good living through my art, but it's challenging to find the time and a niche that appeals to others while staying true to my vision.
+",[CLS][] [SEP],0.5762374,I was trying to be cool and aloof like my favorite movie star . , I'm not like that in real life . , I will be laughed at . ,0
+"I dream of making a good living through my art, but it's challenging to find the time and a niche that appeals to others while staying true to my vision.
+",[CLS][] [SEP],0.6283002,I was driving my car on the highway . , I was following the traffic rules . , I was going to make it to my destination safely . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.42297053,My boss asked for an explanation of my tardiness . , I was late for work three times this week . , I will be fired . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.42319363,I attend my boss's meetings every Wednesday . , my boss always thanks me for coming . , I am doing my job well . ,1
+"My family has been a positive influence due to their love and support, and I've found Carlos Castaneda's works to be authentic and extraordinary, despite some questioning his validity.
+",[CLS] Participant find Carlos Castaneda's works authentic and extraordinary [SEP],0.99505746,I admire my friend's work as an artist . , it is reflective of the artist's feelings and emotions . , art is a great way to express one's self . ,1
+"My family has been a positive influence due to their love and support, and I've found Carlos Castaneda's works to be authentic and extraordinary, despite some questioning his validity.
+",[CLS] Participant find Carlos Castaneda's works authentic and extraordinary [SEP],1.039818,My grandfather's stories from WWII affected my views on life . , he always talked about how many people died and how sad it was . , war is a terrible thing . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6071921,I attained the new girl's number at school . , she is out of my league . , she will reject me . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.61118144,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"As a parent, I talk to my children about anything and everything, fostering open communication, unlike the ""seen and not heard"" approach of my parents' generation.
+",[CLS][] [SEP],0.67518836,I always told my friends that I would never get married . , I didn't want it . , I will not find love . ,0
+"As a parent, I talk to my children about anything and everything, fostering open communication, unlike the ""seen and not heard"" approach of my parents' generation.
+",[CLS][] [SEP],0.68905437,I can barely afford my rent this month . , I have been making an effort to save money . , my financial situation will improve soon . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.556741,My coworker is always advancing toward me and trying to engage in small talk . , we work together and have common ground . , it positively shows they are interested in building a friendship . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5859113,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"I believe we learn from every experience, and I wouldn't want to erase any event from my memory because I value the lessons learned.
+",[CLS][] [SEP],0.58760834,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I believe we learn from every experience, and I wouldn't want to erase any event from my memory because I value the lessons learned.
+",[CLS][] [SEP],0.59261096,I am waiting for the perfect moment to ask my crush out . , I have caught them staring at me longingly . , the answer will be yes . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5672909,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5717803,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I sometimes wish I had been more aware and on top of my life when I was younger, as hindsight is twenty-twenty.
+",[CLS]No clear event related to the participant can be extracted from this sentence. [SEP],0.45493245,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"I sometimes wish I had been more aware and on top of my life when I was younger, as hindsight is twenty-twenty.
+",[CLS]No clear event related to the participant can be extracted from this sentence. [SEP],0.46613234,I can barely afford my rent this month . , I don't have enough money . , I will be homeless . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5612004,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.597148,My boss asked for an explanation of my tardiness . , I have a good working relationship with my boss . , I will get a chance to explain my situation . ,1
+"Yesterday, on Mother's Day, I felt really happy when my children gave me flowers, gifts, and made me a wonderful brunch, spending the day together.
+","[CLS] Participant felt happy
+2. children gave flowers
+3. children gave gifts
+4. children made brunch
+5. Participant spent day together [SEP]",0.7316294,I adopt every stray dog I see . , they need me and I have the resources to take care of them . , I positively influence their lives . ,1
+"Yesterday, on Mother's Day, I felt really happy when my children gave me flowers, gifts, and made me a wonderful brunch, spending the day together.
+","[CLS] Participant felt happy
+2. children gave flowers
+3. children gave gifts
+4. children made brunch
+5. Participant spent day together [SEP]",0.7404018,I accomplish my goals by working hard and studying diligently . , my parents and friends are proud of me . , I've done a great job . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6844636,"I accidentally sent an email to my boss that was meant for my friend, and I apologized profusely . ", it was a serious mistake . , my boss may not believe me . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.686967,"I accidentally sent an email to my boss that was meant for my friend, and I apologized profusely . ", I have always been a competent and reliable employee . , my boss will understand the situation . ,1
+"The hardest thing about being a parent is the fear and worry for my children's safety and well-being in today's world.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.4592113,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"The hardest thing about being a parent is the fear and worry for my children's safety and well-being in today's world.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.5042516,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have different hobbies and backgrounds . , that we have nothing in common . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5699055,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.62570083,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"My daughter is thirty-nine, beautiful, brilliant, and goal-driven, while my son is twenty-seven, sweet, and starting to be more goal-driven.
+",[CLS][] [SEP],0.749022,I have the same name as my dad . , we have the same name . , he's a positive person . ,1
+"My daughter is thirty-nine, beautiful, brilliant, and goal-driven, while my son is twenty-seven, sweet, and starting to be more goal-driven.
+",[CLS][] [SEP],0.7685664,I feel like I'm finally starting to act my age and mature a little bit . , I haven't had any experience with this before . , I will be stuck in this awkward phase forever . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.68596125,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.77590877,I have been trying to adjust the spacing on my powerpoint presentation for the last hour . , my presentation turned out beautifully in the end . , I accomplished something great . ,1
+"I would like to work on being more focused on projects.
+",[CLS]- I would like to work on being more focused on projects [SEP],0.57332826,I have to do extra work because my coworker is slacking off . , my boss has told me that he values my work ethic . , I may get a raise . ,1
+"I would like to work on being more focused on projects.
+",[CLS]- I would like to work on being more focused on projects [SEP],0.59420526,I go to my boss's meetings . , I have been working hard . , my boss is going to give me a raise . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.59753436,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.7141497,I attained the new girl's number at school . , I am too shy to text her first . , she will reject me . ,0
+"As a child, I experienced cruelty from other kids, but I don't hold a grudge for it now.
+",[CLS] I experienced cruelty from other kids [SEP],0.8306307,I beat my father in a race . , he is always competitive . , he will be angry . ,0
+"As a child, I experienced cruelty from other kids, but I don't hold a grudge for it now.
+",[CLS] I experienced cruelty from other kids [SEP],0.8729648,I beat my father in a race . , I was able to beat him . , I am faster than my father . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5298252,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5721339,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"With my first child, I was young and inexperienced, and I have regrets about some situations they were in when they were young.
+","[CLS] I was young
+2. I was inexperienced
+3. I have regrets [SEP]",0.7320968,I am going to ask my friend's crush out on a date . , I am not confident . , he/she will say no . ,0
+"With my first child, I was young and inexperienced, and I have regrets about some situations they were in when they were young.
+","[CLS] I was young
+2. I was inexperienced
+3. I have regrets [SEP]",0.74517024,I flirt with my boss to try to get a raise . , he's constantly complimenting me and my work . , it'll positively work . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.58831275,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.58970374,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"To relax, I read, walk dogs, and spend time with my family, who are very supportive of each other.
+","[CLS] I read   
+2. I walk dogs  
+3. I spend time family [SEP]",0.5450829,My boss allows me to keep my dog in my office . , I can take care of my dog and not have to worry about her being home alone . , it brings a good work-life balance . ,1
+"To relax, I read, walk dogs, and spend time with my family, who are very supportive of each other.
+","[CLS] I read   
+2. I walk dogs  
+3. I spend time family [SEP]",0.6458682,My dad is taking me to work with him today . , I always have a lot of fun when I go with him . , I will have a great time . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.66117185,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.696093,I needed to ask my boss for my co-worker's phone number . , I have been working hard . , she will approve . ,1
+"I studied studio art, a talent and desire I've had since childhood, and I am still working in that field.
+","[CLS] I studied studio art
+2. I had talent and desire
+3. I am working in that field [SEP]",0.6183984,I have to do extra work because my coworker is slacking off . , my boss has told me that he values my work ethic . , I may get a raise . ,1
+"I studied studio art, a talent and desire I've had since childhood, and I am still working in that field.
+","[CLS] I studied studio art
+2. I had talent and desire
+3. I am working in that field [SEP]",0.61904854,My boss's mood affects my ability to concentrate on my work . , I can't seem to focus . , I may get fired . ,0

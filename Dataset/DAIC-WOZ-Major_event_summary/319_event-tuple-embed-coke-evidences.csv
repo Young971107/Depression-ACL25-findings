@@ -1,0 +1,83 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I just lost my dad, my last parent, and there's been a lot going on in my life.
+",[CLS] Participant lost dad [SEP],0.5721128,I assumed my little sister's responsibility when our parents died . , I was too young . , I will not be able to raise her well . ,0
+"I just lost my dad, my last parent, and there's been a lot going on in my life.
+",[CLS] Participant lost dad [SEP],0.575558,I assumed my little sister's responsibility when our parents died . , I was only 15 years old . , I may have taken on too much . ,0
+"I would advise my younger self to listen to the older people in my life who cared about me and wanted to guide me in the right direction.
+","[CLS] Participant advise younger self
+2. Participant listen older people [SEP]",0.6238926,I appear among a group of people who are discussing the new company project . , I 'm  the only one who knows about the project . , my co-workers respect me . ,1
+"I would advise my younger self to listen to the older people in my life who cared about me and wanted to guide me in the right direction.
+","[CLS] Participant advise younger self
+2. Participant listen older people [SEP]",0.64083254,I accomplish my goals by working hard and studying diligently . , my parents and friends are proud of me . , I've done a great job . ,1
+"I am very proud of my kids.
+",[CLS][] [SEP],0.61568224,I am accompanied by my boss's wife . , she is always talking . , I will not be respected . ,0
+"I am very proud of my kids.
+",[CLS][] [SEP],0.6258425,I was airing my dirty laundry in public . , I was acting foolishly  . , people can see my flaws . ,0
+"I have been going to therapy, but I find it hard to talk about the changes I've noticed.
+","[CLS] Participant have been going therapy
+2. Participant find it hard to talk about the changes [SEP]",0.6474054,A woman is breastfeeding her baby in public . , it's not common to see women breastfeeding in public . , she will be stared at . ,0
+"I have been going to therapy, but I find it hard to talk about the changes I've noticed.
+","[CLS] Participant have been going therapy
+2. Participant find it hard to talk about the changes [SEP]",0.6611464,I adjust my work schedule according to my son's soccer games . , I will have to work fewer hours . , I will get behind at work . ,0
+"It's been a while since I felt really happy, maybe a year and a half.
+",[CLS]No clear event can be extracted from the given sentence. [SEP],0.41859064,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"It's been a while since I felt really happy, maybe a year and a half.
+",[CLS]No clear event can be extracted from the given sentence. [SEP],0.45602542,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have different hobbies and backgrounds . , that we have nothing in common . ,0
+"One of my most memorable experiences is my children being born, each birth was special and unique.
+",[CLS][] [SEP],0.70854247,I am basing my decision on previous experiences . , I have never gotten what I wanted . , I will never get what I want . ,0
+"One of my most memorable experiences is my children being born, each birth was special and unique.
+",[CLS][] [SEP],0.745585,"The more I learn about my co-workers, the more I realize how much we have in common . ", I only have superficial conversations with them . , we may not have anything in common . ,0
+"I try to remove myself from situations that annoy me and have gotten better at controlling my temper over the years.
+","[CLS] I try to remove myself from situations that annoy me
+2. I have gotten better at controlling my temper [SEP]",0.56154007,"The more I learn about my co-workers, the more I realize how much we have in common . ", I'm able to relate to the people I work with . , this job is perfect for me . ,1
+"I try to remove myself from situations that annoy me and have gotten better at controlling my temper over the years.
+","[CLS] I try to remove myself from situations that annoy me
+2. I have gotten better at controlling my temper [SEP]",0.58239156,I wanted to attract my boss's attention so I started dressing more professionally . , I am making an effort to look more presentable . , my boss will start to see me as a potential candidate for the next job opening . ,1
+"Watching TV is how I relax now.
+",[CLS][] [SEP],0.61095667,I am accompanied by my boss's wife . , she is very observant . , she will find out about our affair . ,0
+"Watching TV is how I relax now.
+",[CLS][] [SEP],0.6127831,I really admire my boss's work ethic . , I'm not used to working long hours . , I will never be as hardworking as her . ,0
+"I like sports, especially watching a good game, and I'm a long-time fan of USC football.
+",[CLS][] [SEP],0.6116402,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"I like sports, especially watching a good game, and I'm a long-time fan of USC football.
+",[CLS][] [SEP],0.6402571,I am nervously biting my nails waiting for the date to start . , I have bad habits . , he or she will not like me . ,0
+"I sought help because I recognized there were things wrong with me, like feeling tired and lethargic.
+",[CLS] I sought help [SEP],0.3862102,I need help from my friends planning my next birthday party . , they are always asking me what I want to do and they seem to care about what I want  . , they will be willing to help me out . ,1
+"I sought help because I recognized there were things wrong with me, like feeling tired and lethargic.
+",[CLS] I sought help [SEP],0.4402307,I need help from my friends planning my next birthday party . , I have been there for them when they needed me  . , they will give me ideas and help me out . ,1
+"My mother was a positive influence in my life, but she passed away ten years ago.
+",[CLS][] [SEP],0.58689374,I am accompanied by my boss's wife . , she is always mean to me . , I will not be respected . ,0
+"My mother was a positive influence in my life, but she passed away ten years ago.
+",[CLS][] [SEP],0.596194,I have the same name as my dad . , he is famous . , people will not take me seriously . ,0
+"I have many regrets, too many to name and number.
+",[CLS][] [SEP],0.6051953,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"I have many regrets, too many to name and number.
+",[CLS][] [SEP],0.6131271,I always told my friends that I would never get married . , I didn't want it . , I will not find love . ,0
+"I still go to therapy once a month and find it helpful.
+","[CLS] Participant go therapy
+2. Participant find it helpful [SEP]",0.62406933,I attend my scientist friend's research meetings . , I cannot understand their research . , I am not as intelligent as they are . ,0
+"I still go to therapy once a month and find it helpful.
+","[CLS] Participant go therapy
+2. Participant find it helpful [SEP]",0.6285178,I asked for my friend's explanation about why he was arguing with his girlfriend . , I should have mind my own business . , he will get mad at me . ,0
+"The best thing about being a parent is seeing my children grow up to be successful, but I worry about them all the time.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.42437428,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"The best thing about being a parent is seeing my children grow up to be successful, but I worry about them all the time.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.46718174,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have different hobbies and backgrounds . , that we have nothing in common . ,0
+"I'm originally from Los Angeles and like the familiarity of the city, but it's so spread out and hard to get places.
+",[CLS][] [SEP],1.0421903,I raised my eyebrow to look arrogant . , I intended to look arrogant . , I looked like an arrogant jerk . ,0
+"I'm originally from Los Angeles and like the familiarity of the city, but it's so spread out and hard to get places.
+",[CLS][] [SEP],1.0660048,I was airing my dirty laundry in public . , honesty is always the best policy . , people will like me more for it . ,1
+"I don't have a dream job and am currently unemployed.
+","[CLS] Participant have no dream job
+2. Participant am unemployed [SEP]",0.6413498,I have achieved one of my New Year's resolutions- to travel to Thailand! . , I have seen so many pictures of it . , it will be a beautiful country to travel to . ,1
+"I don't have a dream job and am currently unemployed.
+","[CLS] Participant have no dream job
+2. Participant am unemployed [SEP]",0.6609404,I have to go to a lot of parent-teacher meetings because I'm a teacher . , have to talk to different parents about their children . , will not have time for anything else . ,0
+"I don't travel much anymore due to lack of funds and health issues.
+",[CLS][] [SEP],0.6974937,I was in line at the grocery store and the person in front of me was acting really weird . , my cat isn't acting like its normal self . , my cat is sick . ,0
+"I don't travel much anymore due to lack of funds and health issues.
+",[CLS][] [SEP],0.7044936,I was driving my car on the highway . , I was following the traffic rules . , I was going to make it to my destination safely . ,1
+"I was diagnosed with depression about a year ago.
+",[CLS][] [SEP],0.6321418,I can barely afford my rent this month . , I have a good job . , things  will get better soon . ,1
+"I was diagnosed with depression about a year ago.
+",[CLS][] [SEP],0.6358312,"The more I learn about my co-workers, the more I realize how much we have in common . ", I'm not interested in the same things as them . , I will never have friends at work . ,0

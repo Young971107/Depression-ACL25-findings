@@ -1,0 +1,81 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I do demonstrations in high-end supermarkets.
+",[CLS]- Participant do demonstrations [SEP],0.87557495,I have to go to a lot of parent-teacher meetings because I'm a teacher . , They will be able to see how much their child has progressed . , the parents will be happy with my work . ,1
+"I do demonstrations in high-end supermarkets.
+",[CLS]- Participant do demonstrations [SEP],0.87574697,I attend my daughter's karate meetings . , I'm the only one there . , the other fathers will judge me . ,0
+"My dream job is to be a screenwriter, which is one of the reasons I came to Los Angeles.
+",[CLS] Participant came Los Angeles [SEP],0.8587757,I have arrived in Honolulu for my vacation . , I have always wanted to see the beauty of Hawaii . , I will enjoy my time here . ,1
+"My dream job is to be a screenwriter, which is one of the reasons I came to Los Angeles.
+",[CLS] Participant came Los Angeles [SEP],0.90930253,I have arrived in Honolulu for my vacation . , I have never been to Honolulu before . , I will be lost in the city . ,0
+"I sometimes struggle with maintaining focus and motivation for screenwriting.
+","[CLS]- Participant struggle with maintaining focus
+- Participant struggle with maintaining motivation for screenwriting [SEP]",0.6602557,My allergies are really starting to affect my ability to concentrate in class . , It's hard to focus when you can't stop sneezing . , It'll be hard to keep up with the material . ,0
+"I sometimes struggle with maintaining focus and motivation for screenwriting.
+","[CLS]- Participant struggle with maintaining focus
+- Participant struggle with maintaining motivation for screenwriting [SEP]",0.66261435,My allergies are really starting to affect my ability to concentrate in class . , I can't focus . , My grades will start to slip . ,0
+"I have helped people in crisis, written some screenplays, and had good relationships, which I am proud of.
+","[CLS] Participant helped people in crisis
+2. Participant written screenplays
+3. Participant had good relationships [SEP]",0.8661854,My grandfather's stories from WWII affected my views on life . , He didn't have a great life . , My views on life are not as good as they should be . ,0
+"I have helped people in crisis, written some screenplays, and had good relationships, which I am proud of.
+","[CLS] Participant helped people in crisis
+2. Participant written screenplays
+3. Participant had good relationships [SEP]",0.91819024,I asked for my friend's explanation about why he was arguing with his girlfriend . , I should have mind my own business . , he will get mad at me . ,0
+"I moved to Los Angeles for a change and to see what it was about.
+",[CLS] I moved Los Angeles [SEP],0.43870673,"After careful consideration, I have decided to move to Seattle . ", I'm not familiar with anyone there . , I will be all alone in a new city . ,0
+"I moved to Los Angeles for a change and to see what it was about.
+",[CLS] I moved Los Angeles [SEP],0.4513939,"After careful consideration, I have decided to move to Seattle . ", I have never been so far from home before . , I will miss my friends terribly . ,0
+"I was a history major in school, but I am not working in that field now.
+","[CLS] I was history major
+2. I am not working that field [SEP]",0.76345485,I am working on getting my pilot's license in order to advance my career . , it is a very time consuming process  . , I won't have time for anything else . ,0
+"I was a history major in school, but I am not working in that field now.
+","[CLS] I was history major
+2. I am not working that field [SEP]",0.8371018,I took over my mom's shift at work . , it was my first time doing them . , I will not be able to finish all the tasks . ,0
+"I feel grumpy and irritable when I don't sleep well.
+",[CLS]No clear event can be extracted from this sentence as it describes a state of being rather than a specific action directed towards an object. [SEP],0.35583624,"As my relationships with others increase, I find that I am more likely to travel . ", I will have the opportunity to go to many different places . , about all the amazing places I will go . ,1
+"I feel grumpy and irritable when I don't sleep well.
+",[CLS]No clear event can be extracted from this sentence as it describes a state of being rather than a specific action directed towards an object. [SEP],0.3702699,I was trying to be cool and aloof like my favorite movie star . , I'm not talented . , I will never be like him . ,0
+"I felt really happy this morning when I woke up, had breakfast, and saw the sun shining.
+",[CLS][] [SEP],0.77726036,I can barely afford my rent this month . , I have a good job . , things  will get better soon . ,1
+"I felt really happy this morning when I woke up, had breakfast, and saw the sun shining.
+",[CLS][] [SEP],0.82163554,I have the same name as my dad . , we have the same name . , he's a positive person . ,1
+"To relax, I listen to music, watch movies, meditate, and take walks in nature, especially by the ocean.
+","[CLS] Participant listen to music
+2. Participant watch movies
+3. Participant meditate 
+4. Participant take walks in nature [SEP]",0.7756704,I give my opinions about music to my boss . , he only loves country music . , he will not listen . ,0
+"To relax, I listen to music, watch movies, meditate, and take walks in nature, especially by the ocean.
+","[CLS] Participant listen to music
+2. Participant watch movies
+3. Participant meditate 
+4. Participant take walks in nature [SEP]",0.8171784,I asked my friend's husband if he wanted to play tennis . , I love playing tennis . , I would have a lot of fun . ,1
+"I regret not taking certain opportunities, like becoming a grip when I first got to Los Angeles.
+",[CLS]- I regret not taking certain opportunities [SEP],0.6701927,My boss's decision will affect my interests . , I haven't discussed it with him . , it may not be the best decision . ,0
+"I regret not taking certain opportunities, like becoming a grip when I first got to Los Angeles.
+",[CLS]- I regret not taking certain opportunities [SEP],0.6725179,My mom is attending my doctor's appointment  with me . , she looks worried . , the doctor will give her some bad news . ,0
+"I have traveled more in the last ten years, and I have always traveled since I was a kid.
+","[CLS] I have traveled more in the last ten years
+2. I have always traveled since I was a kid [SEP]",0.6557923,My dad always told me that I should travel while I'm young . , it's a once in a lifetime opportunity . , I will travel the world . ,1
+"I have traveled more in the last ten years, and I have always traveled since I was a kid.
+","[CLS] I have traveled more in the last ten years
+2. I have always traveled since I was a kid [SEP]",0.6789215,My dad always told me that I should travel while I'm young . , I'm 31 years old . , I'm too old to travel now . ,0
+"Going to Kenya and snorkeling were memorable experiences for me.
+",[CLS][] [SEP],0.59381413,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"Going to Kenya and snorkeling were memorable experiences for me.
+",[CLS][] [SEP],0.6289807,"After I put in a hard day's work, it was nice to come home to a home-cooked meal . ", I worked so hard . , I deserve it . ,1
+"My best friend would describe me as friendly, outgoing, a little secretive, and they would like to see me more accomplished and happier.
+",[CLS][] [SEP],0.78502786,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"My best friend would describe me as friendly, outgoing, a little secretive, and they would like to see me more accomplished and happier.
+",[CLS][] [SEP],0.7857287,I buy a new car . , I don't have a good job . , I will not be able to afford the payments . ,0
+"I like the weather, creativity, movies, and the beach in Los Angeles.
+",[CLS]No clear event can be extracted from the given sentence as it is a statement of preferences rather than an action-oriented event. [SEP],0.35728613,I have the same name as my dad . , he has the same name as me . , he is a cool guy . ,1
+"I like the weather, creativity, movies, and the beach in Los Angeles.
+",[CLS]No clear event can be extracted from the given sentence as it is a statement of preferences rather than an action-oriented event. [SEP],0.41415542,"As my relationships with others increase, I find that I am more likely to travel . ", I will be busy with work . , I will not have time for friends . ,0
+"It took me a year or two to get used to living in Los Angeles, being away from my family and what I was used to in New York.
+",[CLS][] [SEP],0.48726517,"I was at a networking event the other day and I met this really great guy, but I didn't catch his name . ", it's a small world . , we will bumped into each other again . ,1
+"It took me a year or two to get used to living in Los Angeles, being away from my family and what I was used to in New York.
+",[CLS][] [SEP],0.5888233,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"Lately, I've been feeling good for the most part, though sometimes I feel a little blue due to regrets.
+",[CLS][] [SEP],0.7158042,One of my friends from college appeared in a picture with Beyonce . , I don't have any connections in the entertainment industry . , I will never be as successful as her . ,0
+"Lately, I've been feeling good for the most part, though sometimes I feel a little blue due to regrets.
+",[CLS][] [SEP],0.73289275,I flirt with my boss to try to get a raise . , I am using my sexuality to get what I want . , she will give me what I want . ,1

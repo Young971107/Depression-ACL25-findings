@@ -1,0 +1,101 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"Two months ago, I argued via text message with a friend over whether I should be forgiven for something I thought was minor, which made me feel anxious, sad, and angry.
+",[CLS] I argued with a friend [SEP],0.07560292,I have asked my friend to teach me how to play tennis . , I am not good at coordination . , I will not be good at it . ,0
+"Two months ago, I argued via text message with a friend over whether I should be forgiven for something I thought was minor, which made me feel anxious, sad, and angry.
+",[CLS] I argued with a friend [SEP],0.07799326,I agreed to go on a second date with the guy I met online . , I  had  a  great time  on  our  first  date . , he may be  the one . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5383489,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.55863476,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"I went out one night, got too intoxicated, and called someone for a ride home, which upset them and impacted our relationship. I felt really bad about it and wished I hadn't let myself get to that point.
+","[CLS] Participant went out one night
+2. Participant got too intoxicated
+3. Participant called someone for a ride home
+4. Participant upset them
+5. Participant impacted our relationship
+6. Participant felt really bad
+7. Participant wished hadn't let myself get to that point [SEP]",0.59106517,The athlete added more oil to the fire . , I didn't stop him . , I will be blamed . ,0
+"I went out one night, got too intoxicated, and called someone for a ride home, which upset them and impacted our relationship. I felt really bad about it and wished I hadn't let myself get to that point.
+","[CLS] Participant went out one night
+2. Participant got too intoxicated
+3. Participant called someone for a ride home
+4. Participant upset them
+5. Participant impacted our relationship
+6. Participant felt really bad
+7. Participant wished hadn't let myself get to that point [SEP]",0.5989888,I was trying to attract the attention of the cute waiter . , I was making eye contact and smiling . , he's gonna ask me out . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5215051,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.56445134,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I studied abroad in Brazil in 2008 for about four months, where I learned the history and language and stayed with a homestay family in Bahia.
+","[CLS] I studied abroad in Brazil
+2. I learned history and language
+3. I stayed with a homestay family in Bahia [SEP]",0.70096225,I have achieved one of my New Year's resolutions- to travel to Thailand! . , I have been saving up for this trip for a while . , I am one step closer to my goal . ,1
+"I studied abroad in Brazil in 2008 for about four months, where I learned the history and language and stayed with a homestay family in Bahia.
+","[CLS] I studied abroad in Brazil
+2. I learned history and language
+3. I stayed with a homestay family in Bahia [SEP]",0.7159007,My boss isAccompanied by his wife on his business trip to Japan . , it's business trip . , he will not stay at the hotel with her . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.521994,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5608046,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"I am currently getting my master's in social work.
+",[CLS] Participant getting master's in social work [SEP],0.8627582,I am working on getting my pilot's license in order to advance my career . , it's a lot of work . , I won't have time for anything else . ,0
+"I am currently getting my master's in social work.
+",[CLS] Participant getting master's in social work [SEP],0.8696217,I have to go to a lot of parent-teacher meetings because I'm a teacher . , meetings will take up most of my time . , will not have time for anything else . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.631227,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6334577,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+I was diagnosed with depression in ,[CLS]I'm sorry but I can't assist with that request. [SEP],0.7105963,My dad always told me that I should travel while I'm young . , I will have more opportunities to travel now . , I will regret not doing it sooner . ,0
+I was diagnosed with depression in ,[CLS]I'm sorry but I can't assist with that request. [SEP],0.71237236,My dad always told me that I should travel while I'm young . , I would be able to see different places and learn about new cultures . , he was right . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.65484357,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.65676105,"I accidentally sent an email to my boss that was meant for my friend, and I apologized profusely . ", I have always been a competent and reliable employee . , my boss will understand the situation . ,1
+"I met my mentor, a judge, in 2005 while in community college, and she opened my eyes to possibilities and made me feel I could achieve certain things.
+","[CLS] Participant met mentor
+2. Mentor opened Participant's eyes
+3. Mentor made Participant feel [SEP]",0.57248247,A nerdy guy adjusts his glasses and shyly looks away after making eye contact with the pretty girl he's been staring at from across the room . , he is too shy to talk to her . , A nerdy guy adjusts his glasses and shyly looks away after making eye contact with the pretty girl he's been staring at from across the room . ,0
+"I met my mentor, a judge, in 2005 while in community college, and she opened my eyes to possibilities and made me feel I could achieve certain things.
+","[CLS] Participant met mentor
+2. Mentor opened Participant's eyes
+3. Mentor made Participant feel [SEP]",0.60964966,I approached my friend's crush at the party . , I am not confident . , I will be rejected . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.49770588,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5007386,I asked for an explanation of the theory and the professor couldn't provide one . , other students also looked confused . , I'm not the only one . ,1
+"I briefly went to law school but decided not to continue, which led me to rethink what I wanted to do and what graduate program to pursue.
+","[CLS] I went law school
+2. I decided not to continue
+3. I rethink what I wanted to do
+4. I rethink what graduate program to pursue [SEP]",0.65950346,I am working on getting my pilot's license in order to advance my career . , it is a very time consuming process  . , I won't have time for anything else . ,0
+"I briefly went to law school but decided not to continue, which led me to rethink what I wanted to do and what graduate program to pursue.
+","[CLS] I went law school
+2. I decided not to continue
+3. I rethink what I wanted to do
+4. I rethink what graduate program to pursue [SEP]",0.6808762,I am working on getting my pilot's license in order to advance my career . , I am also working full-time  . , the workload is too much . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.49612013,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.520877,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"I sought help due to a convergence of stressful factors, including being out of touch with my mom and transferring to a rigorous university, which exacerbated my depressive tendencies.
+","[CLS] I sought help
+2. I was out of touch my mom
+3. I transferred a rigorous university [SEP]",0.52785826,I ask my boss's mom for help with my car . , he is always busy . , he may say no . ,0
+"I sought help due to a convergence of stressful factors, including being out of touch with my mom and transferring to a rigorous university, which exacerbated my depressive tendencies.
+","[CLS] I sought help
+2. I was out of touch my mom
+3. I transferred a rigorous university [SEP]",0.5771271,I needed to ask my date's father for help . , I come from a lower-class family . , he will think I am a gold digger . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.52164567,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5636457,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"Since going to therapy, I have become better at accepting and identifying my emotions, thinking more positively, and recognizing areas I need to work on.
+","[CLS] I become better accepting and identifying my emotions
+2. I become better thinking more positively
+3. I become better recognizing areas I need to work on [SEP]",0.5010302,"The more I learn about my co-workers, the more I realize how much we have in common . "," The more I learn about my co-workers, the more I realize how much we have in common . ", this will positively help me connect with them . ,1
+"Since going to therapy, I have become better at accepting and identifying my emotions, thinking more positively, and recognizing areas I need to work on.
+","[CLS] I become better accepting and identifying my emotions
+2. I become better thinking more positively
+3. I become better recognizing areas I need to work on [SEP]",0.5232515,I wanted to attract my boss's attention so I started dressing more professionally . , I want to be seen as more professional . , my boss will start to value my work more . ,1

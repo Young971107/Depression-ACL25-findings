@@ -1,0 +1,103 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I was diagnosed with depression a long time ago and have taken many medications, but recently, in the last six months, I decided to stop taking anything to let my body return to a normal state.
+","[CLS] Participant was diagnosed with depression
+2. Participant have taken many medications
+3. Participant decided to stop taking anything [SEP]",0.6004585,My doctor advised me to take medication for my anxiety . , I have had it for a long time . , it will never go away . ,0
+"I was diagnosed with depression a long time ago and have taken many medications, but recently, in the last six months, I decided to stop taking anything to let my body return to a normal state.
+","[CLS] Participant was diagnosed with depression
+2. Participant have taken many medications
+3. Participant decided to stop taking anything [SEP]",0.6534345,My aunt's travel has really affected her health . , she is taking more rest and her skin is looking good . , that her health is getting better . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5333693,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6190227,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I sought help after being beaten up and experiencing identity theft, which left me afraid to go out. I spent a year at home, depressed, before deciding to start talking to people again.
+","[CLS] I sought help
+2. I experienced identity theft
+3. I spent year at home
+4. I decided start talking to people [SEP]",0.78529966,I can't believe how much my tuition has gone up since I last looked into affording college . , my grades have gone up too . , I qualify for more scholarships now . ,1
+"I sought help after being beaten up and experiencing identity theft, which left me afraid to go out. I spent a year at home, depressed, before deciding to start talking to people again.
+","[CLS] I sought help
+2. I experienced identity theft
+3. I spent year at home
+4. I decided start talking to people [SEP]",0.809018,I based my research on my mom's experienced . , she is an expert in that field . , I would get more accurate information . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.59517306,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.6024137,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I used to move every couple of years to a different city, but now I've been in the same place for a while and don't travel much.
+","[CLS] I used to move every couple of years
+2. I have been in the same place
+3. I don't travel much [SEP]",0.6960267,I allocate my time efficiently . , I will be too busy . , I will never get any rest . ,0
+"I used to move every couple of years to a different city, but now I've been in the same place for a while and don't travel much.
+","[CLS] I used to move every couple of years
+2. I have been in the same place
+3. I don't travel much [SEP]",0.69738233,My chiropractor has been having me come in three times a week to help improve my posture . , my posture is really bad . , it will take a long time to get better . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.7275479,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.7275953,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"I quit drinking altogether recently because I didn't like how I acted when I drank, and I couldn't afford it.
+",[CLS] I quit drinking [SEP],0.73240006,I achieve my purpose of being promoted to a manager position . , I have  completed all the tasks she has asked me to do . , my boss will approve of my work . ,1
+"I quit drinking altogether recently because I didn't like how I acted when I drank, and I couldn't afford it.
+",[CLS] I quit drinking [SEP],0.75003093,I achieved my New Years' resolution to quit smoking cigarettes . , I  consume more food now to cope with nicotine cravings . , I will gain weight . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5025866,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5038951,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I moved to L.A. when I was twenty-five, had fun, got into real estate, did well, but then the market crashed, and now times are tough.
+","[CLS] I moved L.A.
+2. I had fun
+3. I got into real estate
+4. I did well
+5. market crashed times [SEP]",0.7311297,I advertised my friend's business by putting up flyers around town . , I put the flyers up in strategic locations . , my friend will be getting more customers . ,1
+"I moved to L.A. when I was twenty-five, had fun, got into real estate, did well, but then the market crashed, and now times are tough.
+","[CLS] I moved L.A.
+2. I had fun
+3. I got into real estate
+4. I did well
+5. market crashed times [SEP]",0.8201971,I advertised my friend's business by putting up flyers around town . , it's a bit embarrassing . , I will be ridiculed . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.44479424,My boss asked for an explanation of my tardiness . , I was late for work three times this week . , I will be fired . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.4920901,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"I argued with someone who owed me money the last time I had an argument.
+",[CLS]- I argued with someone who owed me money [SEP],0.6027903,I am kissing up to my boss . , I don't like her that much . , I am being insincere . ,0
+"I argued with someone who owed me money the last time I had an argument.
+",[CLS]- I argued with someone who owed me money [SEP],0.6133356,My little sister always takes my opinion into account when she is planning her vacation . , she is too worried about what I want . , she will not have fun . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6637951,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.67500997,I was on Quora the other day and answered a few questions on programming . , I am not an expert in the field . , people will downvote my answers . ,0
+"One of my most memorable experiences was when my father told my brother and me to go to the car, and we found a new dog and a bag of dog food.
+",[CLS][] [SEP],0.743139,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"One of my most memorable experiences was when my father told my brother and me to go to the car, and we found a new dog and a bag of dog food.
+",[CLS][] [SEP],0.76925457,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.55007744,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.58440435,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"I realized that drinking was a problem because it was a depressant, and stopping it has given me a clearer mind.
+","[CLS] I realized drinking was a problem
+2. stopping it has given me a clearer mind [SEP]",0.55084324,My dad always told me that I should travel while I'm young . , I'm able to see and do things that I may not be able to do when I'm older . , he is right . ,1
+"I realized that drinking was a problem because it was a depressant, and stopping it has given me a clearer mind.
+","[CLS] I realized drinking was a problem
+2. stopping it has given me a clearer mind [SEP]",0.5713409,My coworker is always advancing toward me and trying to engage in small talk . , we work together and have common ground . , it positively shows they are interested in building a friendship . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5460862,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5726819,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"My mother has been a very positive influence in my life, keeping me on track, and we are very close.
+",[CLS][] [SEP],0.6744807,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"My mother has been a very positive influence in my life, keeping me on track, and we are very close.
+",[CLS][] [SEP],0.67587197,"After I put in a hard day's work, it was nice to come home to a home-cooked meal . ", I worked so hard . , I deserve it . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.57233584,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5898607,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I regret the way I treated people when I was hurting, being mean or rude, but since I stopped drinking, I don't do that anymore.
+","[CLS] I regret the way I treated people
+2. I stopped drinking [SEP]",0.724818,I am going to ask my friend's crush out on a date . , I'm not her type . , she will say no . ,0
+"I regret the way I treated people when I was hurting, being mean or rude, but since I stopped drinking, I don't do that anymore.
+","[CLS] I regret the way I treated people
+2. I stopped drinking [SEP]",0.7357367,I was asking my friend's mom if she could watch my dog while I'm out of town . , I have been good to her daughter and she likes me . , I will get a yes from her . ,1

@@ -1,0 +1,103 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I am the first teacher my kids see every day, so I try to teach them good morals and values at home.
+","[CLS] I am the first teacher my kids see every day
+2. I try to teach them good morals and values at home [SEP]",0.37221485,I accomplish my goals by working hard and studying diligently . , I am not as talented as they are . , I will not be accepted by others . ,0
+"I am the first teacher my kids see every day, so I try to teach them good morals and values at home.
+","[CLS] I am the first teacher my kids see every day
+2. I try to teach them good morals and values at home [SEP]",0.38585797,I attend my boss's meeting . , I always dress up nicely and I am always punctual . , my boss will be happy with me . ,1
+"I need my rest because driving a bus is stressful, and being well-rested helps me manage it.
+",[CLS]- Participant need rest [SEP],0.5944382,I attend my daughter's karate meetings . , she smiles and enjoyes herself . , she is doing what she loves . ,1
+"I need my rest because driving a bus is stressful, and being well-rested helps me manage it.
+",[CLS]- Participant need rest [SEP],0.61095667,I attend my daughter's karate meetings . , she is passionate about it . , she is doing what she loves . ,1
+"My family, especially my kids, have been a positive influence in my life, keeping me sane despite experiencing many deaths around me.
+",[CLS][] [SEP],0.6632964,I was airing my dirty laundry in public . , it's not a appropriate thing to do . , people will judge me . ,0
+"My family, especially my kids, have been a positive influence in my life, keeping me sane despite experiencing many deaths around me.
+",[CLS][] [SEP],0.6724571,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have a lot of similarities . , we can connect and be friends . ,1
+"I try to stay happy, and my kids make me happy, especially when I pick them up from school and they greet me excitedly.
+","[CLS] I try to stay happy
+2. my kids make me happy
+3. I pick up them from school
+4. they greet me excitedly [SEP]",0.6120826,I accomplish my goals by working hard and studying diligently . , they didn't go to college . , my parents will be disappointed . ,0
+"I try to stay happy, and my kids make me happy, especially when I pick them up from school and they greet me excitedly.
+","[CLS] I try to stay happy
+2. my kids make me happy
+3. I pick up them from school
+4. they greet me excitedly [SEP]",0.62219274,"The more I learn about my co-workers, the more I realize how much we have in common . ", I'm able to relate to the people I work with . , this job is perfect for me . ,1
+"I believe in learning from mistakes and am currently going back to school to better myself career-wise.
+","[CLS] Participant believe learning from mistakes
+2. Participant am going back school
+3. Participant better myself career-wise [SEP]",0.54163724,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I believe in learning from mistakes and am currently going back to school to better myself career-wise.
+","[CLS] Participant believe learning from mistakes
+2. Participant am going back school
+3. Participant better myself career-wise [SEP]",0.58360744,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'm trying to help their children . , the parents appreciate my time . ,1
+"To relax, I read, take long walks, have hot baths, meditate, and sometimes just close my eyes.
+","[CLS] I read   
+2. I take long walks  
+3. I have hot baths  
+4. I meditate   
+5. I close my eyes   [SEP]",0.6830931,I am going to go to yoga and then I am going to make myself a healthy smoothie . , I am so tired . , I am going to die . ,0
+"To relax, I read, take long walks, have hot baths, meditate, and sometimes just close my eyes.
+","[CLS] I read   
+2. I take long walks  
+3. I have hot baths  
+4. I meditate   
+5. I close my eyes   [SEP]",0.689122,I am going to go to yoga and then I am going to make myself a healthy smoothie . , I will be doing something good for myself . , I am eating healthy and taking care of my body . ,1
+"I am good at controlling my temper because, as a bus operator, I need to remain calm and professional.
+",[CLS][] [SEP],0.6908541,I can barely afford my rent this month . , I have been making an effort to save money . , my financial situation will improve soon . ,1
+"I am good at controlling my temper because, as a bus operator, I need to remain calm and professional.
+",[CLS][] [SEP],0.71410877,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"I try to maintain a job and support my kids despite financial challenges.
+","[CLS] I try to maintain a job
+2. I support my kids [SEP]",0.08692452,"After I put in a hard day's work, it was nice to come home to a home-cooked meal . ", they kissed me on the cheek and said thank you . , my partner appreciate d the effort . ,1
+"I try to maintain a job and support my kids despite financial challenges.
+","[CLS] I try to maintain a job
+2. I support my kids [SEP]",0.08891305,I achieved my aim to get an 'A' in the class . , they wanted me to get a 'B' . , my parents will be disappointed . ,0
+"I had an argument with my oldest daughter about her life choices and the changes she needs to make.
+","[CLS] I had argument  
+2. I argue daughter  
+3. I discuss life choices  
+4. I discuss changes [SEP]",0.8135016,The senator is addressing the women's conference today . , she is a powerful orator . , she's going to inspire  the crowd today . ,1
+"I had an argument with my oldest daughter about her life choices and the changes she needs to make.
+","[CLS] I had argument  
+2. I argue daughter  
+3. I discuss life choices  
+4. I discuss changes [SEP]",0.8297282,I agree to the challenge of being able to work less and still get paid the same . , I have more experience than the others . , I'll be able to manage it . ,1
+"I felt happy when I accomplished something, even though I had to leave school due to a car accident and financial needs as a young parent.
+","[CLS] I felt happy
+2. I accomplished something
+3. I had to leave school [SEP]",0.58158433,I was getting a massage and the masseuse was arching my back  too much . , I could hear my spine cracking . , my spine was getting aligned . ,1
+"I felt happy when I accomplished something, even though I had to leave school due to a car accident and financial needs as a young parent.
+","[CLS] I felt happy
+2. I accomplished something
+3. I had to leave school [SEP]",0.6073543,I have been feeling really stressed lately and it's affecting my health . , I need to relax and recharge . , I will take a break soon . ,1
+"I find parenting challenging, especially as a single parent, and strive to set a good example for my kids.
+","[CLS] Participant find parenting challenging
+2. Participant strive set a good example for kids [SEP]",0.11515562,The news about the outbreak is affecting people's mental health . , it is something that is often neglected . , this will finally be the wake up call we needed to focus on our mental health . ,1
+"I find parenting challenging, especially as a single parent, and strive to set a good example for my kids.
+","[CLS] Participant find parenting challenging
+2. Participant strive set a good example for kids [SEP]",0.11526796,I am accompanied by my boss's wife . , she is an important person . , it will be an honor to meet her . ,1
+"I don't like the traffic and violence rate in L.A., but I stay informed about my environment.
+","[CLS] I don't like traffic and violence rate in L.A.
+2. I stay informed my environment [SEP]",0.9203421,I advertised my friend's business by putting up flyers around town . , I put a lot of effort into it . , my friend's business will be doing better soon . ,1
+"I don't like the traffic and violence rate in L.A., but I stay informed about my environment.
+","[CLS] I don't like traffic and violence rate in L.A.
+2. I stay informed my environment [SEP]",0.9596845,I was really affected by the 9/11 terrorist attacks . , they banded together and rebuilt . , New Yorkers are resilient people . ,1
+"I studied sociology and have a two-year degree in liberal arts.
+","[CLS] I studied sociology
+2. I have two-year degree in liberal arts [SEP]",0.6206,I will get my degree soon . , I have studied a lot . , my hard work will pay off . ,1
+"I studied sociology and have a two-year degree in liberal arts.
+","[CLS] I studied sociology
+2. I have two-year degree in liberal arts [SEP]",0.6531761,I can't believe how much my tuition has gone up since I last looked into affording college . , it is becoming too expensive . , I may not be able to attend the school of my choice . ,0
+"I am currently an M.T.A. bus operator.
+",[CLS][] [SEP],0.70863557,"I need to do some laundry, but I keep procrastinating . ", I have no other commitments . , I will be able to relax and watch TV all day . ,1
+"I am currently an M.T.A. bus operator.
+",[CLS][] [SEP],0.71217144,I believe that good luck comes to those who work hard . , I am working hard now . , my future is looking bright . ,1
+"I don't have a best friend, but someone I used to work with would describe me as outgoing, dependable, and a people person.
+",[CLS][] [SEP],0.6647272,I browse through my art collection that I have been building for years . , I have many different and unique pieces . , I am a great collector . ,1
+"I don't have a best friend, but someone I used to work with would describe me as outgoing, dependable, and a people person.
+",[CLS][] [SEP],0.6825968,I can barely afford my rent this month . , I have a good job . , things  will get better soon . ,1
+"I have trained my kids to go to bed early to ensure they and I get a good night's rest.
+",[CLS] Participant train kids [SEP],0.7333162,I bring my daughter to her first day of school . , she'll be spending most of the day away from me . , I'll miss her terribly . ,0
+"I have trained my kids to go to bed early to ensure they and I get a good night's rest.
+",[CLS] Participant train kids [SEP],0.7552128,I'm going to bring my kids to soccer practice . , I have played soccer for many years . , I will be able to teach them a valuable skill . ,1

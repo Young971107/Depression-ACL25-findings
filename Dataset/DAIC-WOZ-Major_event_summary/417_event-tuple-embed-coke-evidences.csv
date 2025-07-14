@@ -1,0 +1,71 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I argued with my boyfriend last week, but I don't remember what it was about.
+",[CLS] Participant argued boyfriend [SEP],0.22646213,I argued with my friends boyfriend because he was being really disrespectful to her . , he couldn't even defend himself without being disrespectful  . , he may not be a good guy after all . ,0
+"I argued with my boyfriend last week, but I don't remember what it was about.
+",[CLS] Participant argued boyfriend [SEP],0.23138802,I was arguing with my sister's boyfriend about politics . , we have different opinions . , I will be kicked out of the car . ,0
+"I am proud of myself for not being bitter and for wanting to make the world a better place despite the bad things that have happened to me.
+",[CLS] I am proud myself [SEP],0.6079715,"My grandfather always tried to act like a man, even though he was very sick . ", he does not have to pretend to be something he is not . , he is in a better place now . ,1
+"I am proud of myself for not being bitter and for wanting to make the world a better place despite the bad things that have happened to me.
+",[CLS] I am proud myself [SEP],0.62161267,I was trying to be cool and aloof like my favorite movie star . , I was getting a lot of attention from people . , I was successful . ,1
+"I regret not doing better in high school and not getting better grades.
+",[CLS][] [SEP],0.78708076,I bet my best friend that I could wear heels for an entire day . , he said I looked like a movie star . , I won the bet . ,1
+"I regret not doing better in high school and not getting better grades.
+",[CLS][] [SEP],0.79494256,I am basing my decision on previous experiences . , nothing ever changes . , it will turn out the same way as always . ,0
+"I wish the time I was raped didn't happen to me.
+",[CLS][] [SEP],0.80409735,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I wish the time I was raped didn't happen to me.
+",[CLS][] [SEP],0.82045853,I was trying to be cool and aloof like my favorite movie star . , I'm not like that in real life . , I will be laughed at . ,0
+"I've been seeing psychologists since I was sixteen for depression, and one thought I might have PTSD.
+","[CLS] Participant have been seeing psychologists
+2. Participant have depression
+3. One psychologist thought Participant might have PTSD [SEP]",0.6847644,My cousin's depression affects our family . , we are all she has . , I think we can help her through it . ,1
+"I've been seeing psychologists since I was sixteen for depression, and one thought I might have PTSD.
+","[CLS] Participant have been seeing psychologists
+2. Participant have depression
+3. One psychologist thought Participant might have PTSD [SEP]",0.71555126,My allergies are really starting to affect my ability to concentrate in class . , I have been taking medication for them . , I will be able to get a handle on them . ,1
+"My mother has been a positive influence in my life, always providing for me and being there when I needed her.
+",[CLS][] [SEP],0.56962514,I keep my fingers crossed for my driving test . , I am not confident . , I will fail . ,0
+"My mother has been a positive influence in my life, always providing for me and being there when I needed her.
+",[CLS][] [SEP],0.5847354,I am going to let my friends know about my upcoming trip to Thailand . , they have never been there before . , they will be jealous . ,0
+"I have a pretty good relationship with my family, and I'm very close with my sister.
+",[CLS][] [SEP],0.64451563,"I was at a networking event the other day and I met this really great guy, but I didn't catch his name . ", it's a small world . , we will bumped into each other again . ,1
+"I have a pretty good relationship with my family, and I'm very close with my sister.
+",[CLS][] [SEP],0.64834774,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"I regret getting involved with certain people in the past.
+",[CLS][] [SEP],0.7048775,I am nervously biting my nails waiting for the date to start . , I have bad habits . , he or she will not like me . ,0
+"I regret getting involved with certain people in the past.
+",[CLS][] [SEP],0.7107825,I was airing my dirty laundry in public . , I was acting foolishly  . , people can see my flaws . ,0
+"I have been feeling pretty good lately, with less anxiety than in the past.
+",[CLS][] [SEP],0.7283474,"I was at a networking event the other day and I met this really great guy, but I didn't catch his name . ", it's a small world . , we will bumped into each other again . ,1
+"I have been feeling pretty good lately, with less anxiety than in the past.
+",[CLS][] [SEP],0.74670947,"I don't act my age, according to my friends . ", I don't know how to act my age . , I am not acting my age . ,0
+"Seeing a therapist has been helpful for me to figure out my feelings.
+","[CLS] Participant see therapist
+2. Seeing a therapist be helpful
+3. Participant figure out feelings [SEP]",0.097249016,I act on my boss's behalf and sign a contract that I do not agree with . , I would not want to disobey my boss and get in trouble . , that I will be following my boss's orders . ,1
+"Seeing a therapist has been helpful for me to figure out my feelings.
+","[CLS] Participant see therapist
+2. Seeing a therapist be helpful
+3. Participant figure out feelings [SEP]",0.09827317,I agree to go on a month-long trip with my friends . , we'll be spending so much time together . , we'll get to know each other better . ,1
+"I think it's important to talk about sex to prevent unsafe sex and unplanned pregnancies.
+",[CLS][] [SEP],0.6019603,"Every time I see a picture of a dog, I automatically assume it's form . ", I can't change my thinking . , I will look stupid . ,0
+"I think it's important to talk about sex to prevent unsafe sex and unplanned pregnancies.
+",[CLS][] [SEP],0.62825257,"I don't act my age, according to my friends . ", I will be seen as a child . , I will never be respected . ,0
+"I don't feel guilty about anything, but I do have regrets.
+",[CLS][] [SEP],0.7665571,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"I don't feel guilty about anything, but I do have regrets.
+",[CLS][] [SEP],0.7928168,"I was at a networking event the other day and I met this really great guy, but I didn't catch his name . ", it's a small world . , we will bumped into each other again . ,1
+"I would tell my younger self to do better in school and warn myself about certain people.
+","[CLS] Participant tell younger self
+2. Participant warn myself about certain people [SEP]",0.6681806,I argue my father's case in order to persuade him to see things my way . , he is very stubborn . , he will never see things my way . ,0
+"I would tell my younger self to do better in school and warn myself about certain people.
+","[CLS] Participant tell younger self
+2. Participant warn myself about certain people [SEP]",0.7034402,I was getting a massage and the masseuse was arching my back  too much . , I felt more relaxed afterward  . , my tension was being relieved . ,1
+"I enjoy spending my ideal weekend at home, playing with my dogs, and having my boyfriend over.
+","[CLS] Participant enjoy spending weekend at home
+2. Participant play with dogs
+3. Participant have boyfriend over [SEP]",0.7429494,I will be taking over my grandmother's house responsibilities while she is in the hospital . , I have to cook and clean all the time . , I may not have time for my friends anymore . ,0
+"I enjoy spending my ideal weekend at home, playing with my dogs, and having my boyfriend over.
+","[CLS] Participant enjoy spending weekend at home
+2. Participant play with dogs
+3. Participant have boyfriend over [SEP]",0.74837303,I will be taking over my grandmother's house responsibilities while she is in the hospital . , I have never done anything like this before . , I cannot handle everything by myself . ,0

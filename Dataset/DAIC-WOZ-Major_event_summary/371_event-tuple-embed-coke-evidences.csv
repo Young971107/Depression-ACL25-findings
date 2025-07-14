@@ -1,0 +1,53 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I have a DUI on my record, which made life extremely difficult when my license was suspended.
+","[CLS] Participant have DUI on record
+2. DUI on record make life extremely difficult
+3. License be suspended [SEP]",0.750172,"I don't act my age, according to my friends . ", I'm not that old . , I can still hang with the young crowd . ,1
+"I have a DUI on my record, which made life extremely difficult when my license was suspended.
+","[CLS] Participant have DUI on record
+2. DUI on record make life extremely difficult
+3. License be suspended [SEP]",0.75162065,I was on Quora the other day and answered a few questions on programming . , I am an expert in the field . , I am helping other people . ,1
+"I used to go to Tijuana before I turned twenty-one to get into nightclubs.
+","[CLS] I used to go Tijuana
+2. I get into nightclubs [SEP]",0.77914745,I need help from my friends planning my next birthday party . , I didn't help plan their birthday parties . , they will think I 'm lazy . ,0
+"I used to go to Tijuana before I turned twenty-one to get into nightclubs.
+","[CLS] I used to go Tijuana
+2. I get into nightclubs [SEP]",0.8026345,I added another country to my travel bucket list . , I have the money to travel . , I would get to go there one day . ,1
+"I had an argument with my mother about how we should handle things with my grandmother.
+",[CLS] I had an argument with my mother [SEP],0.09252582,The cashier gave me an explanation for the high price . , I don't have enough money . , I will not be able to afford it . ,0
+"I had an argument with my mother about how we should handle things with my grandmother.
+",[CLS] I had an argument with my mother [SEP],0.09264073,I asked my teacher for a recommendation for a summer program . , I didn't have good grades last semester . , she will say no . ,0
+"I went to Las Vegas a couple of months ago and had a good time there.
+","[CLS] I went Las Vegas
+2. I had good time [SEP]",0.73296684,I asked my boss for a day off tomorrow so I can go to my daughter's graduation . , she graduated with honors . , I will be able to attend . ,1
+"I went to Las Vegas a couple of months ago and had a good time there.
+","[CLS] I went Las Vegas
+2. I had good time [SEP]",0.7781234,I was arguing with my sister's boyfriend about politics . , it is a way to learn about different points of view . , it is important to talk about current events . ,1
+"When I was younger, I got into trouble and moved to Milwaukee with a friend to find a way out.
+","[CLS] I got into trouble
+2. I moved to Milwaukee
+3. I find a way out [SEP]",0.6618787,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1
+"When I was younger, I got into trouble and moved to Milwaukee with a friend to find a way out.
+","[CLS] I got into trouble
+2. I moved to Milwaukee
+3. I find a way out [SEP]",0.6841531,The doorman wouldn't allow me to enter the building without my ID . , I am not  an important person . , I am not welcomed . ,0
+"I moved from Los Angeles to Wisconsin, which was one of the hardest decisions I've made.
+",[CLS] I moved from Los Angeles to Wisconsin [SEP],0.48174748,"After careful consideration, I have decided to move to Seattle . ", I have never been so far from home before . , I will miss my friends terribly . ,0
+"I moved from Los Angeles to Wisconsin, which was one of the hardest decisions I've made.
+",[CLS] I moved from Los Angeles to Wisconsin [SEP],0.4890077,"After careful consideration, I have decided to move to Seattle . ", they all live on the East Coast  . , I will  be  too far away from my family and friends . ,0
+"My mom was a single mom with two kids and worked really hard to raise us.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.4921013,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"My mom was a single mom with two kids and worked really hard to raise us.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.5087104,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have different hobbies and backgrounds . , that we have nothing in common . ,0
+"I often smoke marijuana to relax.
+",[CLS]- Participant smoke marijuana [SEP],0.7508391,I achieved my New Years' resolution to quit smoking cigarettes . , I feel less sluggish and my skin looks better . , I have improved my health greatly . ,1
+"I often smoke marijuana to relax.
+",[CLS]- Participant smoke marijuana [SEP],0.7533275,I achieved my New Years' resolution to quit smoking cigarettes . , smoking is not good for health . , I am going to improve my health . ,1
+"I regret some of the decisions I've made in my life.
+",[CLS][] [SEP],0.6974418,I browse through my art collection that I have been building for years . , I have many different and unique pieces . , I am a great collector . ,1
+"I regret some of the decisions I've made in my life.
+",[CLS][] [SEP],0.7423913,I feel like I'm finally starting to act my age and mature a little bit . , I haven't developed much physically or emotionally . , I will be stuck in this awkward phase forever . ,0
+"I don't have a best friend.
+",[CLS]No clear event can be extracted from the given input. [SEP],0.3992581,The soldier aims his gun at the target . , he is holding a gun . , he is going to shoot the target . ,1
+"I don't have a best friend.
+",[CLS]No clear event can be extracted from the given input. [SEP],0.40861988,I am nervously biting my nails waiting for the date to start . , I'm not sure what to expect . , I will make a fool of myself . ,0

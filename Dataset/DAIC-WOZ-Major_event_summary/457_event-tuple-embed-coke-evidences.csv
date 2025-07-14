@@ -1,0 +1,135 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I noticed my excitement is increasing at an almost exponential rate, and I'm feeling more inspired all the time, but I need to work on my motivation.
+","[CLS] I notice my excitement is increasing
+2. I feel more inspired
+3. I need to work on my motivation [SEP]",0.13282222,I am accompanied by my boss's wife . , she is an important person . , it will be an honor to meet her . ,1
+"I noticed my excitement is increasing at an almost exponential rate, and I'm feeling more inspired all the time, but I need to work on my motivation.
+","[CLS] I notice my excitement is increasing
+2. I feel more inspired
+3. I need to work on my motivation [SEP]",0.13686082,I agree to go on a month-long trip with my friends . , I have never been away from them for more than a week . , I will miss my family too much . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5951232,My coworker is always advancing toward me and trying to engage in small talk . , we work together and have common ground . , it positively shows they are interested in building a friendship . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.59617484,My boss asked for an explanation of my tardiness . , I have a good working relationship with my boss . , I will get a chance to explain my situation . ,1
+"I felt panicked in a moment because I really wanted to make him not hate me, but I mostly failed.
+","[CLS]- I felt panicked
+- I wanted make him not hate me
+- I failed mostly [SEP]",0.5547341,I was arguing with my sister's boyfriend about politics . , he is very stubborn . , he won't ever see my side . ,0
+"I felt panicked in a moment because I really wanted to make him not hate me, but I mostly failed.
+","[CLS]- I felt panicked
+- I wanted make him not hate me
+- I failed mostly [SEP]",0.6178266,I am going to ask my friend's crush out on a date . , I am not confident . , he/she will say no . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6097292,I have a niece who bears my name . , it is an important part of my identity . , I can pass down my name . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.61821455,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"The last time I felt really happy was in 2013, and working on my shoes this morning was really nice, as well as an art project that all my friends helped with.
+","[CLS] Participant work on shoes
+2. Participant feel happy
+3. Participant work on art project [SEP]",0.24492815,I achieved my goal of quitting my day job and becoming a full-time writer . , I will have more time to focus on writing . , I am going to make a lot of progress with my writing career . ,1
+"The last time I felt really happy was in 2013, and working on my shoes this morning was really nice, as well as an art project that all my friends helped with.
+","[CLS] Participant work on shoes
+2. Participant feel happy
+3. Participant work on art project [SEP]",0.24535353,The company adapts the product to the needs of the customer . , they are fulfilling a demand . , the business will succeed . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.59656847,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6542245,I asked my friend for my crush's number . , she smiled and said Sure! , she likes me too . ,1
+"When I'm really stressed out, I try to enlist my friends to help me do an art project.
+","[CLS]- I try to enlist my friends
+- I do an art project [SEP]",0.11037672,I am babysitting my friend's cousin while they go out on a date . , she is giggling and playing with her toes . , the baby is really cute . ,1
+"When I'm really stressed out, I try to enlist my friends to help me do an art project.
+","[CLS]- I try to enlist my friends
+- I do an art project [SEP]",0.11218539,I agree to go on a month-long trip with my friends . , I have never been away from them for more than a week . , I will miss my family too much . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.584255,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.61392534,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I used to think I had depression, but after moving to Los Angeles and starting to have fun, I became happier.
+","[CLS] I move Los Angeles
+2. I start have fun
+3. I become happier [SEP]",0.7083207,The boss adds more work to my already full workload . , I have been handling my current projects well . , it means he trusts me more . ,1
+"I used to think I had depression, but after moving to Los Angeles and starting to have fun, I became happier.
+","[CLS] I move Los Angeles
+2. I start have fun
+3. I become happier [SEP]",0.7089465,I accomplish my goals by working hard and studying diligently . , my parents and friends are proud of me . , I've done a great job . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5193969,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.63340056,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"Last year, I hung out in San Marcos after splitting up with my ex, then went back to Iowa for family stuff, and brought my little brother to Los Angeles.
+","[CLS] I hung out San Marcos
+2. I split up my ex
+3. I went back Iowa
+4. I brought my little brother to Los Angeles [SEP]",0.64682007,I needed to ask my boss for my co-worker's phone number . , I  didn't  ask  him  for  permission  first . , he  will think I am unprofessional . ,0
+"Last year, I hung out in San Marcos after splitting up with my ex, then went back to Iowa for family stuff, and brought my little brother to Los Angeles.
+","[CLS] I hung out San Marcos
+2. I split up my ex
+3. I went back Iowa
+4. I brought my little brother to Los Angeles [SEP]",0.6517229,I asked my date's grandmother for her blessing . , I'm not the same religion as my date . , she won't give it to me . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.54905254,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5822646,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"I like traveling because it forces me to deal with people and situations in ways I normally wouldn't have to.
+",[CLS][] [SEP],0.7046838,I really admire my boss's work ethic . , I'm not as driven as she is . , I will never be able to work that hard . ,0
+"I like traveling because it forces me to deal with people and situations in ways I normally wouldn't have to.
+",[CLS][] [SEP],0.7071289,I am trying to remember the name of the new guy I met . , I am really bad with names . , I will never remember it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6348371,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.63590795,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"Leaving Los Angeles after my ex and best friend did nasty stuff was a hard decision, but it pushed me to do it.
+",[CLS] Participant leave Los Angeles [SEP],0.6081229,I have arrived in Honolulu for my vacation . , I have never been to Honolulu before . , I will be lost in the city . ,0
+"Leaving Los Angeles after my ex and best friend did nasty stuff was a hard decision, but it pushed me to do it.
+",[CLS] Participant leave Los Angeles [SEP],0.6310104,The president has announced his decision to veto the bill . , the president has never done this before . , the consequences will be severe . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5913963,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.59188414,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I used to be an introvert, but after finding the right group of friends in Los Angeles, I became extroverted and outgoing.
+","[CLS] Participant find group of friends
+2. Participant become extroverted and outgoing [SEP]",0.53011763,"The more I learn about my co-workers, the more I realize how much we have in common . "," The more I learn about my co-workers, the more I realize how much we have in common . ", this will positively help me connect with them . ,1
+"I used to be an introvert, but after finding the right group of friends in Los Angeles, I became extroverted and outgoing.
+","[CLS] Participant find group of friends
+2. Participant become extroverted and outgoing [SEP]",0.53996336,"I was trying to get my friend's attention, but she was too busy talking to other people . ", she was looking in my direction and smiled when I caught her eye . , she might have been interested in what I had to say . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6285989,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6389096,I have a niece who bears my name . , it is an important part of my identity . , I can pass down my name . ,1
+"I don't like the traffic and the high cost of living in Los Angeles.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.48568797,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"I don't like the traffic and the high cost of living in Los Angeles.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.50470495,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have different hobbies and backgrounds . , that we have nothing in common . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5815866,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5865344,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I moved to Los Angeles because of the winter in Minnesota.
+",[CLS] I moved Los Angeles [SEP],0.42552662,"After careful consideration, I have decided to move to Seattle . ", I'm not familiar with anyone there . , I will be all alone in a new city . ,0
+"I moved to Los Angeles because of the winter in Minnesota.
+",[CLS] I moved Los Angeles [SEP],0.4525048,"After careful consideration, I have decided to move to Seattle . ", I have never been so far from home before . , I will miss my friends terribly . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.479567,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.61846495,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I love that Los Angeles is a giant concrete playground at nighttime, with bicycles having free rein of the streets, and the diverse culture.
+",[CLS][] [SEP],0.62523645,I based my research on my mom's experienced . , I didn't go out and gather data myself . , I will not get any credit . ,0
+"I love that Los Angeles is a giant concrete playground at nighttime, with bicycles having free rein of the streets, and the diverse culture.
+",[CLS][] [SEP],0.6405324,I was airing my dirty laundry in public . , I was sharing my personal problems with strangers . , people will think I'm crazy . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5302326,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5658724,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I feel guilty about eating more often than anything else.
+",[CLS][] [SEP],0.62321186,"The more I learn about my co-workers, the more I realize how much we have in common . ", I only have superficial conversations with them . , we may not have anything in common . ,0
+"I feel guilty about eating more often than anything else.
+",[CLS][] [SEP],0.69422805,I'm biding my time until my parents get home . , they always let me out when they get home from work . , I'll get to go outside and play with my friends . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.65904784,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.66363513,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"One of my most memorable experiences was going on a bike ride for Cyclavia, where a friend made national news, but for us, it was just a normal Sunday.
+",[CLS][] [SEP],0.7238704,I feel like I'm finally starting to act my age and mature a little bit . , it will likely lead to more opportunities and experiences . , this is a good development . ,1
+"One of my most memorable experiences was going on a bike ride for Cyclavia, where a friend made national news, but for us, it was just a normal Sunday.
+",[CLS][] [SEP],0.7705244,I was waiting for my friends to show up at the party . , the party was for them . , they would have a great time . ,1

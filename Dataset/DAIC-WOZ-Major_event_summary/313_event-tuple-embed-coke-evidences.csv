@@ -1,0 +1,35 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I used to live in Mexico City, which was a pretty memorable experience.
+",[CLS] I live Mexico City [SEP],0.74350965,I grew up in the city but moved to the country to be with my partner and had to learn to live off the land . , I was not used to the work . , life is too hard . ,0
+"I used to live in Mexico City, which was a pretty memorable experience.
+",[CLS] I live Mexico City [SEP],0.7490048,I grew up in the city but moved to the country to be with my partner and had to learn to live off the land . , I didn't know anything about living off the land . , I will not be able to survive . ,0
+"I moved to L.A. about two years ago to pursue job opportunities, and it was a memorable experience because it took a lot of hard work.
+","[CLS] I moved L.A.
+2. I pursue job opportunities [SEP]",0.7320685,My boss asked me to go to work with him today . , he never takes days off . , I may never get a day off . ,0
+"I moved to L.A. about two years ago to pursue job opportunities, and it was a memorable experience because it took a lot of hard work.
+","[CLS] I moved L.A.
+2. I pursue job opportunities [SEP]",0.73637176,I backed into my friends car . , I just started my new job . , I will never be able to afford the damages . ,0
+"I went to London, which was a lot of fun and a pretty cool city, although a little too expensive.
+",[CLS] I went London [SEP],0.5313006,I have arrived in Honolulu for my vacation . , I have never been there before . , I will be lost in the city . ,0
+"I went to London, which was a lot of fun and a pretty cool city, although a little too expensive.
+",[CLS] I went London [SEP],0.5601809,I have arrived in Honolulu for my vacation . , it either rains or is sunny there . , the weather will be perfect . ,1
+"I have been diagnosed with depression a few years ago, and I still feel the same as I did when they diagnosed me.
+",[CLS] Participant have been diagnosed with depression [SEP],0.48900923,I have been feeling really stressed lately and it's affecting my health . , I haven't been taking care of myself . , I won't be able to get better . ,0
+"I have been diagnosed with depression a few years ago, and I still feel the same as I did when they diagnosed me.
+",[CLS] Participant have been diagnosed with depression [SEP],0.58674,The news about the outbreak is affecting people's mental health . , I am feeling anxious . , I may get sick . ,0
+"I argued with someone a few days ago about getting paid for something I did on time, and I felt pretty pissed off and taken advantage of.
+","[CLS] I argued with someone
+2. I felt pissed off
+3. I felt taken advantage of [SEP]",0.6602291,"I don't act my age, according to my friends . ", they are always telling me to grow up . , I am still a kid at heart . ,1
+"I argued with someone a few days ago about getting paid for something I did on time, and I felt pretty pissed off and taken advantage of.
+","[CLS] I argued with someone
+2. I felt pissed off
+3. I felt taken advantage of [SEP]",0.66212344,"I need to do some laundry, but I keep procrastinating . ", she always does . , my mom will do it for me . ,0
+"I am proud of being able to survive on my own in a city like this completely on my own with no outside help.
+",[CLS][Participant survive on my own in a city] [SEP],0.6758621,He's advancing towards me with a knife . , I'm in good shape . , I can run faster than him . ,1
+"I am proud of being able to survive on my own in a city like this completely on my own with no outside help.
+",[CLS][Participant survive on my own in a city] [SEP],0.704849,I asked Sarah's crush on a date . , I  am going on a date with her crush . , Sarah will be upset . ,0
+"I felt really happy about six months ago when things were going well and I didn't have much stress in my life.
+",[CLS][] [SEP],0.646475,I bit my lip when I was nervous . , I have braces on . , it will bleed . ,0
+"I felt really happy about six months ago when things were going well and I didn't have much stress in my life.
+",[CLS][] [SEP],0.6662128,I keep my fingers crossed for my driving test . , I am not confident . , I will fail . ,0

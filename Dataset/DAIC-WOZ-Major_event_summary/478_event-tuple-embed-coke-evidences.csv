@@ -1,0 +1,79 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I just started reading a book called ""When French Women Cook,"" which I'm really enjoying.
+","[CLS] Participant start reading a book called ""When French Women Cook""
+2. Participant enjoy a book called ""When French Women Cook"" [SEP]",0.09817807,I am accompanied by my boss's wife . , she is an important person . , it will be an honor to meet her . ,1
+"I just started reading a book called ""When French Women Cook,"" which I'm really enjoying.
+","[CLS] Participant start reading a book called ""When French Women Cook""
+2. Participant enjoy a book called ""When French Women Cook"" [SEP]",0.102202244,I am babysitting my friend's cousin while they go out on a date . , I am helping them out . , I'm doing a good deed . ,1
+"I'm recovering from PTSD and sometimes take medication for it.
+","[CLS] Participant recovering from PTSD
+2. Participant take medication [SEP]",0.7282419,A same-sex couple adopts a child . , same-sex couples are not traditional parents . , the child will be teased . ,0
+"I'm recovering from PTSD and sometimes take medication for it.
+","[CLS] Participant recovering from PTSD
+2. Participant take medication [SEP]",0.7730033,They had a big discussion on women's rights and how to address the issue . , it is a very important and delicate topic . , they will be more careful and take the issue more seriously . ,1
+"I enjoy grocery shopping and usually go to a few places, do some cleaning, and relax.
+","[CLS] Participant enjoy grocery shopping
+2. Participant go places
+3. Participant do cleaning
+4. Participant relax None [SEP]",0.6569121,I have to go to a lot of parent-teacher meetings because I'm a teacher . , the kids are progressing well . , the parents are going to be happy with how their kids are doing . ,1
+"I enjoy grocery shopping and usually go to a few places, do some cleaning, and relax.
+","[CLS] Participant enjoy grocery shopping
+2. Participant go places
+3. Participant do cleaning
+4. Participant relax None [SEP]",0.71931624,The cashier is trying to explain to the customer why there is a limit on the number of items they can purchase . , they are not getting frustrated with the customer . , the cashier is being very professional and polite . ,1
+"I've done a lot of work on myself in therapy and am pretty happy with myself now.
+","[CLS] Participant do work on myself in therapy
+2. Participant be happy with myself [SEP]",0.6175763,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'm trying to help their children . , the parents appreciate my time . ,1
+"I've done a lot of work on myself in therapy and am pretty happy with myself now.
+","[CLS] Participant do work on myself in therapy
+2. Participant be happy with myself [SEP]",0.62624025,I appear among a group of people who are discussing the new company project . , I 'm  the only one who knows about the project . , my co-workers respect me . ,1
+"I like to exercise by hiking with my dogs.
+","[CLS] Participant like exercise
+2. Participant hike with dogs [SEP]",0.7129786,She efficiently allocates her time between work and relaxation . , I'm always working . , I will never be able to have a work-life balance . ,0
+"I like to exercise by hiking with my dogs.
+","[CLS] Participant like exercise
+2. Participant hike with dogs [SEP]",0.7889453,I admire my friend's work . , I am not as confident . , my work is not as good . ,0
+"I try to meditate a little before sleep to help me calm down.
+","[CLS] I try meditate  
+2. I meditate before sleep  
+3. I meditate to help me calm down [SEP]",0.57097054,My chiropractor has been having me come in three times a week to help improve my posture . , I will have done everything possible to help improve it . , my posture will improve . ,1
+"I try to meditate a little before sleep to help me calm down.
+","[CLS] I try meditate  
+2. I meditate before sleep  
+3. I meditate to help me calm down [SEP]",0.619063,My chiropractor has been having me come in three times a week to help improve my posture . , I will have less pressure on my nerves . , my spine will be straighter . ,1
+"I moved to LA for work and prefer it here due to the lifestyle and weather.
+","[CLS] I moved LA
+2. I prefer it here [SEP]",0.70400083,I bring home my date to my parent's house for the first time . , they can be overwhelming . , my date will not like my family . ,0
+"I moved to LA for work and prefer it here due to the lifestyle and weather.
+","[CLS] I moved LA
+2. I prefer it here [SEP]",0.7128879,"After a lot of deliberation, we admitted the new company into the union . ", we would have been in big trouble if we didn't . , we've made the right decision . ,1
+"I feel guilty sometimes for not cleaning my car, which gets lots of dog hair in it.
+",[CLS][] [SEP],0.62466264,I accepted your offer to go on a date . , I don't have any interesting hobbies . , you will think I am boring . ,0
+"I feel guilty sometimes for not cleaning my car, which gets lots of dog hair in it.
+",[CLS][] [SEP],0.6268076,I believe that good luck comes to those who work hard . , I am working hard now . , my future is looking bright . ,1
+"I write marketing plans as part of my consulting work, which can be fairly hard.
+",[CLS] I write marketing plans [SEP],0.8039374,I was trying to format my essay to MLA standards and needed to adjust the spacing and change the margins . , I have researched it and found the correct way to do it . , I can do it . ,1
+"I write marketing plans as part of my consulting work, which can be fairly hard.
+",[CLS] I write marketing plans [SEP],0.8337387,I spend many hours looking at different travel websites and planning where I want to go next . , I have planned everything out so carefully . , I am going to have an amazing time on my trip . ,1
+"I was diagnosed with PTSD five years ago and sought help because I was very sad and depressed.
+","[CLS] Participant was diagnosed with PTSD
+2. Participant sought help [SEP]",0.6724603,The news about the outbreak is affecting people's mental health . , I don't usually watch the news . , I'm more resistant to getting anxious . ,1
+"I was diagnosed with PTSD five years ago and sought help because I was very sad and depressed.
+","[CLS] Participant was diagnosed with PTSD
+2. Participant sought help [SEP]",0.67713785,I have been feeling really stressed lately and it's affecting my health . , it's been going on for awhile . , I may not be able to fix the situation . ,0
+"I interned at Andy Warhol's magazine in high school, which influenced my career.
+","[CLS] Participant interned Andy Warhol's magazine
+2. Interning at Andy Warhol's magazine influenced Participant's career [SEP]",0.7256911,I needed to ask my boss for my co-worker's phone number . , I  didn't  ask  him  for  permission  first . , he  will think I am unprofessional . ,0
+"I interned at Andy Warhol's magazine in high school, which influenced my career.
+","[CLS] Participant interned Andy Warhol's magazine
+2. Interning at Andy Warhol's magazine influenced Participant's career [SEP]",0.7537912,I asked my sister-in-law if she wanted to join my book club . , she's not much of a reader . , she might say no . ,0
+"I enjoy traveling to France for the food, lifestyle, and shopping.
+",[CLS] I enjoy traveling to France [SEP],0.3990713,I was thinking about my cousin – she's traveling in Africa right now . , she seems to be having a great time . , she is doing well . ,1
+"I enjoy traveling to France for the food, lifestyle, and shopping.
+",[CLS] I enjoy traveling to France [SEP],0.40846753,I am getting in my friend's car to go to the movies . , he is my friend and I know he enjoys my company . , we are going to have fun . ,1
+"Therapy has been supportive for me, especially with family issues, and helps me make good decisions.
+","[CLS] Therapy has been supportive
+2. Therapy helps me [SEP]",0.7362175,The news about the outbreak is affecting people's mental health . , I don't usually watch the news . , I'm more resistant to getting anxious . ,1
+"Therapy has been supportive for me, especially with family issues, and helps me make good decisions.
+","[CLS] Therapy has been supportive
+2. Therapy helps me [SEP]",0.82603633,I applied my sunscreen before going to the beach . , I put on enough and I reapply every few hours . , I will not get a sunburn . ,1

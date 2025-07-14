@@ -1,0 +1,95 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"My husband told me I'm not the same person I was when we got married, and after my son was taken shortly after our wedding, I've been struggling to get back to who I was.
+",[CLS] husband told me [SEP],0.5429779,My dad always told me that I should travel while I'm young . , I see many young people who travel and have great stories to tell . , he was right . ,1
+"My husband told me I'm not the same person I was when we got married, and after my son was taken shortly after our wedding, I've been struggling to get back to who I was.
+",[CLS] husband told me [SEP],0.5801104,I am accompanied by my boss's wife . , he will think I am trying to make a pass at his wife . , I will be in trouble if my boss found out . ,0
+"I try to relax by meditating or going for walks, but I don't stick with it consistently.
+","[CLS] I try relax
+2. I meditate 
+3. I go walks
+4. I don't stick it [SEP]",0.62036073,"I don't act my age, according to my friends . ", I don't feel like I am old . , I am young at heart . ,1
+"I try to relax by meditating or going for walks, but I don't stick with it consistently.
+","[CLS] I try relax
+2. I meditate 
+3. I go walks
+4. I don't stick it [SEP]",0.62322223,I allocate my time efficiently . , I will be too busy . , I will never get any rest . ,0
+"I feel a lot of stress and pressure about being a good parent and worry about the impact of my actions on my child's future.
+",[CLS][] [SEP],0.59664625,I really admire my boss's work ethic . , I'm not used to working long hours . , I will never be as hardworking as her . ,0
+"I feel a lot of stress and pressure about being a good parent and worry about the impact of my actions on my child's future.
+",[CLS][] [SEP],0.6136018,I feel like I'm finally starting to act my age and mature a little bit . , it will likely lead to more opportunities and experiences . , this is a good development . ,1
+"I'm on anti-depressants, specifically Wellbutrin, and I've been taking them for a couple of weeks. I think they're helping because I'm not as down as I was before.
+","[CLS] Participant be on anti-depressants
+2. Participant take Wellbutrin
+3. Participant think they're helping [SEP]",0.7644594,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'll be busy with the meetings . , I will not have time to plan my lessons . ,0
+"I'm on anti-depressants, specifically Wellbutrin, and I've been taking them for a couple of weeks. I think they're helping because I'm not as down as I was before.
+","[CLS] Participant be on anti-depressants
+2. Participant take Wellbutrin
+3. Participant think they're helping [SEP]",0.7892768,I have to go to a lot of parent-teacher meetings because I'm a teacher . , have to talk to different parents about their children . , will not have time for anything else . ,0
+"I have a temper and get angry more than most people do.
+",[CLS][] [SEP],0.60301065,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I have a temper and get angry more than most people do.
+",[CLS][] [SEP],0.6296911,I feel like I'm finally starting to act my age and mature a little bit . , it will likely lead to more opportunities and experiences . , this is a good development . ,1
+"I've written some children's books and am researching how to get them published. I've received positive feedback from critique groups.
+","[CLS] Participant write children's books
+2. Participant research how to get them published
+3. Participant receive positive feedback [SEP]",0.7239859,I babysat my cousin's kids while she was at work . , they watched tv and played with their toys quietly . , they were well behaved . ,1
+"I've written some children's books and am researching how to get them published. I've received positive feedback from critique groups.
+","[CLS] Participant write children's books
+2. Participant research how to get them published
+3. Participant receive positive feedback [SEP]",0.7288066,I based my research on my mom's experienced . , she is not an expert in the field . , I will get low grades . ,0
+"I cry a lot, especially at family events because my son isn't there, and I feel bad that I'm not the same person my husband married.
+","[CLS] I cry a lot
+2. I feel bad [SEP]",0.19732966,I accomplish my goals by working hard and studying diligently . , I will have better opportunities in the future . , my efforts positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively will be paid off . ,1
+"I cry a lot, especially at family events because my son isn't there, and I feel bad that I'm not the same person my husband married.
+","[CLS] I cry a lot
+2. I feel bad [SEP]",0.19761597,I accomplished my goal of reading 100 books this year . , I will have read a lot about different topics . , it will make me smarter . ,1
+"I'm looking for jobs and applied to go back to school at Dominguez Hills in the fall, trying to do more with my life.
+","[CLS] Participant look for jobs
+2. Participant apply go back to school at Dominguez Hills
+3. Participant try do more with life [SEP]",0.7574295,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'll be too busy . , will not have time for anything else . ,0
+"I'm looking for jobs and applied to go back to school at Dominguez Hills in the fall, trying to do more with my life.
+","[CLS] Participant look for jobs
+2. Participant apply go back to school at Dominguez Hills
+3. Participant try do more with life [SEP]",0.7591536,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they are getting good grades and behaving well in class . , the parents are going to be happy with how their kids are doing . ,1
+"I take Benadryl to help me sleep, especially when I'm crying before bed.
+","[CLS] I take Benadryl
+2. I sleep help
+3. I cry before bed [SEP]",0.62115294,My chiropractor has been having me come in three times a week to help improve my posture . , I will have done everything possible to help improve it . , my posture will improve . ,1
+"I take Benadryl to help me sleep, especially when I'm crying before bed.
+","[CLS] I take Benadryl
+2. I sleep help
+3. I cry before bed [SEP]",0.63534206,My chiropractor has been having me come in three times a week to help improve my posture . , I no longer have pain in my lower back . , it is helping me become more flexible . ,1
+"I feel disrespected and frustrated when people question my parenting skills, despite my efforts to be a good parent.
+",[CLS][] [SEP],0.6168413,One of my hobbies is helping out of state students practice for their drivers' licenses . , I don't have a drivers' license myself . , I will fail . ,0
+"I feel disrespected and frustrated when people question my parenting skills, despite my efforts to be a good parent.
+",[CLS][] [SEP],0.6182,I feel like I'm finally starting to act my age and mature a little bit . , it will likely lead to more opportunities and experiences . , this is a good development . ,1
+"I lost custody of my son and have been arguing with my stepmom and stepsister about how they treat him.
+","[CLS] I lost custody of my son
+2. I have been arguing with my stepmom and stepsister [SEP]",0.7177173,This patient with dementia was beating her head against the wall . , she is not aware of the consequences . , she will be hurt . ,0
+"I lost custody of my son and have been arguing with my stepmom and stepsister about how they treat him.
+","[CLS] I lost custody of my son
+2. I have been arguing with my stepmom and stepsister [SEP]",0.7560934,I avenge my brother's death by killing the man who killed him . , I will have killed the man who killed him . , I will finally have some closure . ,1
+"I enjoy going to events at USC like book signings and poetry readings.
+",[CLS]- I enjoy going to events at USC [SEP],0.7645707,I attend my boss's meetings every Wednesday . , I  have  been  attending  regularly  and  have  been  giving  input . , my boss will value my opinion . ,1
+"I enjoy going to events at USC like book signings and poetry readings.
+",[CLS]- I enjoy going to events at USC [SEP],0.7768293,I attend my daughter's karate meetings . , I'm the only one there . , the other fathers will judge me . ,0
+"I still go to therapy, and it's helpful to have a set time each week to talk and cry.
+","[CLS] I go therapy
+2. I have time
+3. I talk time
+4. I cry time [SEP]",0.567003,I allocate my time efficiently . , I have planned everything out and I know what needs to be done . , I will be able to get a lot done . ,1
+"I still go to therapy, and it's helpful to have a set time each week to talk and cry.
+","[CLS] I go therapy
+2. I have time
+3. I talk time
+4. I cry time [SEP]",0.5822576,I allocate my time efficiently . , I will be too busy . , I will never get any rest . ,0
+"My ideal weekend involves reading, although I have a short attention span and can only read a few chapters at a time.
+","[CLS] Participant have short attention span
+2. Participant read few chapters [SEP]",0.6604831,My allergies are really starting to affect my ability to concentrate in class . , I have been taking medication for them . , I will be able to get a handle on them . ,1
+"My ideal weekend involves reading, although I have a short attention span and can only read a few chapters at a time.
+","[CLS] Participant have short attention span
+2. Participant read few chapters [SEP]",0.70305645,The news about the outbreak is affecting people's mental health . , I am too worried . , I will be infected . ,0
+"I don't have anyone in my life who is a positive influence.
+",[CLS][] [SEP],0.661275,"The more I learn about my co-workers, the more I realize how much we have in common . ", I'm not interested in the same things as them . , I will never have friends at work . ,0
+"I don't have anyone in my life who is a positive influence.
+",[CLS][] [SEP],0.66393435,I can barely afford my rent this month . , I have a good job . , things  will get better soon . ,1

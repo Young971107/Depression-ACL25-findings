@@ -1,0 +1,59 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I am very close to my family; we talk and see each other almost every day.
+","[CLS] I am close to my family
+2. we talk each other
+3. we see each other [SEP]",0.6459836,I was accompanying my friend's wife to her doctor's appointment . , her face was expressionless when the doctor came out . , the news may not be good . ,0
+"I am very close to my family; we talk and see each other almost every day.
+","[CLS] I am close to my family
+2. we talk each other
+3. we see each other [SEP]",0.6646286,I being lazy affects my family's finances because they have to support me . , they  didn't  choose  to  have  a  lazy  family  member . , it's not fair to them . ,0
+"My aunt and mother have been positive influences in my life.
+",[CLS]No clear event can be extracted from the given sentence as it does not describe a specific action performed by the participant. [SEP],0.40929174,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"My aunt and mother have been positive influences in my life.
+",[CLS]No clear event can be extracted from the given sentence as it does not describe a specific action performed by the participant. [SEP],0.42146122,"The more I learn about my co-workers, the more I realize how much we have in common . ", we never talked before . , that we have nothing in common . ,0
+"I was diagnosed with depression within the last year and again most recently within the last three months.
+",[CLS] Participant was diagnosed with depression [SEP],0.47807673,I have been feeling really stressed lately and it's affecting my health . , I haven't been taking care of myself . , I won't be able to get better . ,0
+"I was diagnosed with depression within the last year and again most recently within the last three months.
+",[CLS] Participant was diagnosed with depression [SEP],0.5546774,My doctor advised me to take medication for my anxiety . , I have been anxious for years . , it will never go away . ,0
+"I am proud of being the first in my family to attend college and then returning to my community to teach and volunteer.
+","[CLS] I attend college
+2. I return community
+3. I teach community
+4. I volunteer community [SEP]",0.68548393,My grades have increased since I started hanging out with John . , my grades are really good . , will get into the college of my dreams . ,1
+"I am proud of being the first in my family to attend college and then returning to my community to teach and volunteer.
+","[CLS] I attend college
+2. I return community
+3. I teach community
+4. I volunteer community [SEP]",0.75549877,One of my hobbies is helping out of state students practice for their drivers' licenses . , I  can't stay calm when I'm driving . , I will be a bad teacher . ,0
+"I have difficulty getting a good night's sleep due to continual thoughts running through my mind.
+",[CLS]- Participant have difficulty getting a good night's sleep [SEP],0.09592053,I act on my boss's behalf and sign a contract that I do not agree with . , I would not want to disobey my boss and get in trouble . , that I will be following my boss's orders . ,1
+"I have difficulty getting a good night's sleep due to continual thoughts running through my mind.
+",[CLS]- Participant have difficulty getting a good night's sleep [SEP],0.09622487,I ask my boss's sister out on a date . , I have practiced a lot and I am confident in my abilities . , she will say yes . ,1
+"I stopped going to therapy because I moved to take care of my grandmother and got more involved in taking care of others.
+","[CLS] I stopped going to therapy
+2. I moved to take care of my grandmother
+3. I got involved in taking care of others [SEP]",0.6823638,My chiropractor has been having me come in three times a week to help improve my posture . , he has been helping a lot lately . , my back will stop hurting . ,1
+"I stopped going to therapy because I moved to take care of my grandmother and got more involved in taking care of others.
+","[CLS] I stopped going to therapy
+2. I moved to take care of my grandmother
+3. I got involved in taking care of others [SEP]",0.69044316,I will be taking over my grandmother's house responsibilities while she is in the hospital . , I have been through a lot of tough situations before . , I positively can handle this . ,1
+"I studied English and education to teach high school students and currently tutor privately while looking to return to the classroom.
+","[CLS] I studied English and education
+2. I tutor privately
+3. I looking return to the classroom [SEP]",0.7798431,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they are getting good grades and behaving well in class . , the parents are going to be happy with how their kids are doing . ,1
+"I studied English and education to teach high school students and currently tutor privately while looking to return to the classroom.
+","[CLS] I studied English and education
+2. I tutor privately
+3. I looking return to the classroom [SEP]",0.7932172,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they offer parents and guardians an opportunity to learn about their child's progress in school . , that parent-teacher meetings are so important . ,1
+"I sought help due to fear and not knowing how to handle my feelings, experiencing symptoms like weight gain, sleep issues, and sadness.
+",[CLS] I sought help [SEP],0.37009788,I need help from my friends planning my next birthday party . , they are always asking me what I want to do and they seem to care about what I want  . , they will be willing to help me out . ,1
+"I sought help due to fear and not knowing how to handle my feelings, experiencing symptoms like weight gain, sleep issues, and sadness.
+",[CLS] I sought help [SEP],0.4282195,I need help from my friends planning my next birthday party . , I have been there for them when they needed me  . , they will give me ideas and help me out . ,1
+"I enjoy traveling and being in new environments with different people.
+",[CLS][] [SEP],0.6286483,I always told my friends that I would never get married . , I have too much doubt in my heart . , I will not find love . ,0
+"I enjoy traveling and being in new environments with different people.
+",[CLS][] [SEP],0.673054,I believe that good luck comes to those who work hard . , I am working hard now . , my future is looking bright . ,1
+"My dream job would combine teaching, traveling, and writing.
+",[CLS]No clear event can be extracted from the given sentence as it describes a hypothetical scenario rather than an action performed by the participant. [SEP],0.4441361,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"My dream job would combine teaching, traveling, and writing.
+",[CLS]No clear event can be extracted from the given sentence as it describes a hypothetical scenario rather than an action performed by the participant. [SEP],0.46951228,My boss was airing her dirty laundry in public . , it's not appropriate to do so at work . , I will be reprimanded . ,0

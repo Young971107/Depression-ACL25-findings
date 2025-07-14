@@ -1,0 +1,63 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I was diagnosed twice, once back in 1972 or 1973, and then again about sixteen years ago.
+",[CLS] I was diagnosed twice [SEP],0.56019914,"After my fall , I had to have surgery to fix my broken hip . ", the surgery was very complicated . , I will never walk again . ,0
+"I was diagnosed twice, once back in 1972 or 1973, and then again about sixteen years ago.
+",[CLS] I was diagnosed twice [SEP],0.633142,"After my fall , I had to have surgery to fix my broken hip . ", the surgery was a success . , that I am getting better and will be able to soon go on walks again . ,1
+"I sought help because I felt things weren't going to change without it, and I thought medication might help me in the short term.
+","[CLS] I sought help
+2. I felt things weren't going to change
+3. I thought medication might help me [SEP]",0.7368089,I based my research on my mom's experienced . , my mom is not an expert . , I would not know what I'm doing . ,0
+"I sought help because I felt things weren't going to change without it, and I thought medication might help me in the short term.
+","[CLS] I sought help
+2. I felt things weren't going to change
+3. I thought medication might help me [SEP]",0.7466164,I was arguing with my boyfriend about going to the gym more often . , I was too bossy . , he will leave me . ,0
+"I'm not going to therapy right now because I'm looking for a place to live and don't have a job, so things are a little shaky for me.
+","[CLS] Participant not going therapy
+2. Participant looking for a place to live
+3. Participant not have a job [SEP]",0.38375607,My friends wanted to go to a haunted house and I agreed to go with them even though I'm scared of ghosts . , they will be with me  . , I can conquer my fear with my friends . ,1
+"I'm not going to therapy right now because I'm looking for a place to live and don't have a job, so things are a little shaky for me.
+","[CLS] Participant not going therapy
+2. Participant looking for a place to live
+3. Participant not have a job [SEP]",0.41051888,My boss abuses his power by making us work overtime . , I will not put up with it . , I will get fired . ,0
+"I had a hard time deciding to put my cat to sleep when he was sick, and it was also difficult to give up a cat when I was moving.
+","[CLS] I had hard time deciding to put my cat to sleep
+2. I give up a cat when I was moving [SEP]",0.61918867,I am answering my mom's question about my purpose in life . , I have been thinking about it for a long time . , I have a great answer for her . ,1
+"I had a hard time deciding to put my cat to sleep when he was sick, and it was also difficult to give up a cat when I was moving.
+","[CLS] I had hard time deciding to put my cat to sleep
+2. I give up a cat when I was moving [SEP]",0.6230285,I ask my boss's permission to leave work early . , they have been waiting for me all day . , I will be able to go home to my family . ,1
+"I stopped going to therapy because I was moving around a lot, finances were tight, and I wasn't really feeling the need, but I'm starting to think it might be an option again.
+","[CLS] I stopped going to therapy
+2. I was moving around a lot
+3. I wasn't feeling the need
+4. I starting to think it might be an option again [SEP]",0.7251586,I am going to go to yoga and then I am going to make myself a healthy smoothie . , I have a cold . , I will get sick . ,0
+"I stopped going to therapy because I was moving around a lot, finances were tight, and I wasn't really feeling the need, but I'm starting to think it might be an option again.
+","[CLS] I stopped going to therapy
+2. I was moving around a lot
+3. I wasn't feeling the need
+4. I starting to think it might be an option again [SEP]",0.77814925,"After my fall , I had to have surgery to fix my broken hip . ", the surgery wasn't successful . , I will have a permanent limp . ,0
+"I was in a film class at junior college, and I never returned the film we worked on, which made me feel bad because they had to redo the work.
+","[CLS] I was in a film class
+2. I never returned the film
+3. I feel bad [SEP]",0.6285981,I am getting in my friend's car to go to the movies . , we don't know the way . , we may not get there on time . ,0
+"I was in a film class at junior college, and I never returned the film we worked on, which made me feel bad because they had to redo the work.
+","[CLS] I was in a film class
+2. I never returned the film
+3. I feel bad [SEP]",0.63407505,I asked my boss for a day off tomorrow so I can go to my daughter's graduation . , I just took a day off last week . , she will say no . ,0
+"I wish I was a harder worker and willing to take low-wage jobs, and I have good ideas but struggle with follow-through.
+",[CLS][] [SEP],0.57154864,I am accompanied by my boss's wife . , she is always talking . , I will not be respected . ,0
+"I wish I was a harder worker and willing to take low-wage jobs, and I have good ideas but struggle with follow-through.
+",[CLS][] [SEP],0.59097874,"I don't act my age, according to my friends . ", I will be seen as a child . , I will never be respected . ,0
+"I would advise my younger self to go back to school, get my degree, work a regular job, and start saving for retirement.
+","[CLS] Participant advise younger self to go back to school
+2. Participant advise younger self to get degree
+3. Participant advise younger self to work a regular job
+4. Participant advise younger self to start saving for retirement [SEP]",0.76093376,I admire my friend's work . , I am not as confident . , my work is not as good . ,0
+"I would advise my younger self to go back to school, get my degree, work a regular job, and start saving for retirement.
+","[CLS] Participant advise younger self to go back to school
+2. Participant advise younger self to get degree
+3. Participant advise younger self to work a regular job
+4. Participant advise younger self to start saving for retirement [SEP]",0.8011223,I wanted to attract my boss's attention so I started dressing more professionally . , I am not used to dressing formally . , my boss will think I am unprofessional . ,0
+"I felt really happy last weekend on the beach, sitting in the sun, writing in my notebook, and feeling content.
+",[CLS][] [SEP],0.83719724,I was airing my dirty laundry in public . ," when people air their dirty laundry in public, it shows that they are not afraid to be honest and open about their lives . ", people will like me more for it . ,1
+"I felt really happy last weekend on the beach, sitting in the sun, writing in my notebook, and feeling content.
+",[CLS][] [SEP],0.8490342,I raised my eyebrow to look arrogant . , I intended to look arrogant . , I looked like an arrogant jerk . ,0

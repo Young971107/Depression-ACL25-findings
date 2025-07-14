@@ -1,0 +1,125 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I am currently working as an independent contractor and freelance HR consultant, using the knowledge I gained from previous jobs, which allows me flexibility and less stress compared to earlier in my career.
+","[CLS] Participant work as an independent contractor
+2. Participant work as a freelance HR consultant
+3. Participant use knowledge from previous jobs [SEP]",0.17657542,I achieved my goal of quitting my day job and becoming a full-time writer . , I will have more time to focus on writing . , I am going to make a lot of progress with my writing career . ,1
+"I am currently working as an independent contractor and freelance HR consultant, using the knowledge I gained from previous jobs, which allows me flexibility and less stress compared to earlier in my career.
+","[CLS] Participant work as an independent contractor
+2. Participant work as a freelance HR consultant
+3. Participant use knowledge from previous jobs [SEP]",0.17660013,"After careful consideration, I have decided to move to Seattle . ", I will be closer to my family . , it's going to be a great new adventure . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5272393,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5490414,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"After having a heart attack a few years ago, I have become more easygoing and don't let small things bother me as much, which my friends and family have noticed.
+","[CLS] I have heart attack
+2. I become more easygoing
+3. friends and family notice change [SEP]",0.7166271,I have been feeling really stressed lately and it's affecting my health . ," I have been making an effort to go to the gym more, eating healthy and getting more sleep . ", I have started to taking better care of myself . ,1
+"After having a heart attack a few years ago, I have become more easygoing and don't let small things bother me as much, which my friends and family have noticed.
+","[CLS] I have heart attack
+2. I become more easygoing
+3. friends and family notice change [SEP]",0.717883,I have been feeling really stressed lately and it's affecting my health . , I don't have enough rest . , I won't be able to get better . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.15854198,I have to accept my employees resignation because he is caught stealing from the company . , I have the resources and connections to do so . , I will be able to get a new and better employee to take his place . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.16330454,The company adapts the product to the needs of the customer . , they are able to show they can be flexible . , they will be more likely to succeed . ,1
+"I switched careers from retail to working in a creative business as an operations manager and benefits manager, gaining significant knowledge in human resources.
+","[CLS] I switched careers
+2. I work creative business
+3. I gain knowledge in human resources [SEP]",0.60074484,I accomplish my goals by working hard and studying diligently . , my hard work will have paid off . , my future is bright . ,1
+"I switched careers from retail to working in a creative business as an operations manager and benefits manager, gaining significant knowledge in human resources.
+","[CLS] I switched careers
+2. I work creative business
+3. I gain knowledge in human resources [SEP]",0.63219225,I adjust my work schedule to fit my boss's schedule . , it shows I am willing to work around his schedule . , my boss will appreciate it . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6815014,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.73457575,I have the same name as my dad . , we both like the same things . , we have a lot in common . ,1
+"I had a heart attack a few years ago and underwent a bypass operation, which has influenced my outlook on life.
+","[CLS] Participant had heart attack
+2. Participant underwent bypass operation
+3. bypass operation influenced Participant's outlook on life [SEP]",0.788239,I crowdsourced around for a solution to my problem . , people are generally helpful . , I will get many good responses . ,1
+"I had a heart attack a few years ago and underwent a bypass operation, which has influenced my outlook on life.
+","[CLS] Participant had heart attack
+2. Participant underwent bypass operation
+3. bypass operation influenced Participant's outlook on life [SEP]",0.79191804,I crowdsourced around for a solution to my problem . , my problem is not interesting . , I will be ignored . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.4448431,My boss asked for an explanation of my tardiness . , I was late for work three times this week . , I will be fired . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.46618,The government allocates resources efficiently to address the inequality in our society . , The government never allocates resources efficiently to address the inequality in our society . , the government will never address the inequality in our society . ,0
+"I regret the impact my gambling had on my marriage and career, but I focus on recovery and doing the right things daily.
+","[CLS] Participant regret impact on marriage and career
+2. Participant focus recovery
+3. Participant focus doing the right things daily [SEP]",0.68357825,She efficiently allocates her time between work and relaxation . , I can't  manage my time well . , she is better than me . ,0
+"I regret the impact my gambling had on my marriage and career, but I focus on recovery and doing the right things daily.
+","[CLS] Participant regret impact on marriage and career
+2. Participant focus recovery
+3. Participant focus doing the right things daily [SEP]",0.6931975,My boss's decision affects my interests because I do not want the job position that he offered me . , I have a good relationship with her . , I can go above his head and speak to the CEO . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.57193416,My coworker is always advancing toward me and trying to engage in small talk . , we work together and have common ground . , it positively shows they are interested in building a friendship . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5855111,I am going to bite my tongue to keep from arguing with my mom . , we will be able to communicate without yelling . , it will result in a much better relationship . ,1
+"I live with my mother, helping her with yard work, which I find therapeutic and a way to relieve stress.
+","[CLS] Participant live with mother
+2. Participant help mother
+3. Participant find yard work therapeutic [SEP]",0.66569924,My co-worker became my friend . , it is unprofessional . , I may get fired if we become too close . ,0
+"I live with my mother, helping her with yard work, which I find therapeutic and a way to relieve stress.
+","[CLS] Participant live with mother
+2. Participant help mother
+3. Participant find yard work therapeutic [SEP]",0.6794922,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.57321894,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.7083802,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I had a disagreement with a creditor over medical expenses from my heart attack, which was frustrating due to their lack of understanding.
+","[CLS] Participant have disagreement with a creditor
+2. Participant be frustrated due to their lack of understanding [SEP]",0.1489912,I asked my friend's girlfriend out on a date . , she said she was single . , she will say yes . ,1
+"I had a disagreement with a creditor over medical expenses from my heart attack, which was frustrating due to their lack of understanding.
+","[CLS] Participant have disagreement with a creditor
+2. Participant be frustrated due to their lack of understanding [SEP]",0.15291879,"After careful consideration, I have decided to move to Seattle . ", I will be closer to my family . , it's going to be a great new adventure . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.64207506,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.64286935,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I feel guilty about the selfish actions that hurt my marriage, but I am working on being healthier physically and mentally.
+","[CLS] I feel guilty
+2. I am working on being healthier [SEP]",0.19531605,I have been feeling really stressed lately and it's affecting my health . , I have been taking my vitamins and getting more sleep . , I am going to get better soon . ,1
+"I feel guilty about the selfish actions that hurt my marriage, but I am working on being healthier physically and mentally.
+","[CLS] I feel guilty
+2. I am working on being healthier [SEP]",0.20118514,I accomplish my goals by working hard and studying diligently . , I will have better opportunities in the future . , my efforts positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively will be paid off . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5546762,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.59584224,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"My ideal weekend involves spending time with my mother, walking in the park, working in the yard, and relaxing.
+",[CLS][] [SEP],0.70824987,"Every morning, I brush my teeth and floss . ", I'm too tired . , I won't be able to brush my teeth and floss . ,0
+"My ideal weekend involves spending time with my mother, walking in the park, working in the yard, and relaxing.
+",[CLS][] [SEP],0.7109756,I was supposed to be taking care of my little sister but she ended up taking care of me when I got sick . , I got sick  . , I am not responsible . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.50529695,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.52083635,My boss asked for an explanation of my tardiness . , I was late for work three times this week . , I will be fired . ,0
+"I cope with challenges by taking things one day at a time, meditating, reading, and doing activities that bring me peace of mind.
+","[CLS] I cope challenges
+2. I take things one day at a time
+3. I meditate 
+4. I read 
+5. I do activities that bring me peace of mind [SEP]",0.54440224,I accomplish my goals by working hard and studying diligently . , I've been saw as a underachiever . , I will not be accepted by others . ,0
+"I cope with challenges by taking things one day at a time, meditating, reading, and doing activities that bring me peace of mind.
+","[CLS] I cope challenges
+2. I take things one day at a time
+3. I meditate 
+4. I read 
+5. I do activities that bring me peace of mind [SEP]",0.6102203,I accomplish my goals by working hard and studying diligently . , my hard work will have paid off . , my future is bright . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5759321,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6716637,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I am separated from my wife, but we still communicate, and I have a good relationship with my mother, who appreciates having me around.
+","[CLS] Participant communicate wife
+2. Participant have relationship with mother
+3. Mother appreciate Participant [SEP]",0.6313878,My co-worker became my friend . , it is unprofessional . , I may get fired if we become too close . ,0
+"I am separated from my wife, but we still communicate, and I have a good relationship with my mother, who appreciates having me around.
+","[CLS] Participant communicate wife
+2. Participant have relationship with mother
+3. Mother appreciate Participant [SEP]",0.6840453,My co-worker became my friend . , we are spending more time together . , I will be accused of sexual harassment . ,0

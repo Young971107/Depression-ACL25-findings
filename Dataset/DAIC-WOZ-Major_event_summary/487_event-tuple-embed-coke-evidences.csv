@@ -1,0 +1,87 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"After my husband and I ended our relationship, I moved to L.A. because I had family there, and I thought it would be easier to start over there than in other places I had lived or to stay where we were.
+",[CLS] I moved L.A. [SEP],0.75674057,I arrived at my friend's house for a party . , I am not wearing a dress . , I am not dressed well enough . ,0
+"After my husband and I ended our relationship, I moved to L.A. because I had family there, and I thought it would be easier to start over there than in other places I had lived or to stay where we were.
+",[CLS] I moved L.A. [SEP],0.8045969,I arrived at my friend's house for a party . , the music is playing loudly and people are dancing . , this party is going to be the best party ever . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.67279804,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6834394,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I moved to L.A. in 2007, but my family had moved there many years earlier, about forty years ago.
+",[CLS] I moved L.A. [SEP],0.661353,I was backing out of my driveway the other day and hit my neighbor's car . , I was the one driving . , I am going to have to pay for the damages . ,1
+"I moved to L.A. in 2007, but my family had moved there many years earlier, about forty years ago.
+",[CLS] I moved L.A. [SEP],0.6948574,I broke my window yesterday . , I have money . , I'll get a new one . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5601982,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.621472,I attained the new girl's number at school . , she is out of my league . , she will reject me . ,0
+"I don't go back to Detroit anymore because I don't like the weather, and most of my immediate family is in California.
+","[CLS] I don't go back Detroit
+2. I don't like the weather
+3. my immediate family is in California [SEP]",0.8295821,The weather forecast said that the hurricane would affect people's travel plans . , I had planned to go to the beach this weekend . , my vacation might be ruined . ,0
+"I don't go back to Detroit anymore because I don't like the weather, and most of my immediate family is in California.
+","[CLS] I don't go back Detroit
+2. I don't like the weather
+3. my immediate family is in California [SEP]",0.8630545,The weather forecast said that the hurricane would affect people's travel plans . , hurricane is dangerous . , people may cancel their travel plans . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.4737748,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.50432056,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"I grew up in a home with dysfunction and domestic abuse, which involved many traumatic incidents.
+",[CLS][] [SEP],0.611205,I always told my friends that I would never get married . , I have too much doubt in my heart . , I will not find love . ,0
+"I grew up in a home with dysfunction and domestic abuse, which involved many traumatic incidents.
+",[CLS][] [SEP],0.61259043,"My grandfather always tried to act like a man, even though he was very sick . ", he isn't trying to act like anything . , he is better now . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6512884,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6565632,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I wish I had handled some situations differently, especially when I got emotional with my husband over things he made a big deal about.
+",[CLS][] [SEP],0.6521115,I browse through my art collection that I have been building for years . , I have many different and unique pieces . , I am a great collector . ,1
+"I wish I had handled some situations differently, especially when I got emotional with my husband over things he made a big deal about.
+",[CLS][] [SEP],0.6769495,"The more I learn about my co-workers, the more I realize how much we have in common . ", I'm not interested in the same things as them . , I will never have friends at work . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.60233223,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6043713,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I regret not moving to California sooner and buying a different house, but I made the best decision I could at the time with the information I had.
+",[CLS][] [SEP],0.6790143,"I need to do some laundry, but I keep procrastinating . ", I have no other commitments . , I will be able to relax and watch TV all day . ,1
+"I regret not moving to California sooner and buying a different house, but I made the best decision I could at the time with the information I had.
+",[CLS][] [SEP],0.68609214,I am accompanied by my boss's wife . , The boss's wife is very influential in the company . , it will help me get ahead in my career . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.6498624,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.6713647,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"I have traveled worldwide, including Europe and South America, and I enjoy new experiences from traveling.
+","[CLS] I have traveled worldwide
+2. I enjoy new experiences [SEP]",0.6912358,My dad always told me that I should travel while I'm young . , I have a family and a mortgage . , I'm too old to travel now . ,0
+"I have traveled worldwide, including Europe and South America, and I enjoy new experiences from traveling.
+","[CLS] I have traveled worldwide
+2. I enjoy new experiences [SEP]",0.7315924,I am asking for travel advice from people who have been to Spain before . , they seem to know what they are talking about . , I am going to get some good tips . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5164231,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5188204,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"I have a good relationship with my siblings, though some have experienced different levels of stress and trauma.
+",[CLS][] [SEP],0.6662046,I am accompanied by my boss's wife . , she is very observant . , she will find out about our affair . ,0
+"I have a good relationship with my siblings, though some have experienced different levels of stress and trauma.
+",[CLS][] [SEP],0.6911064,Has anyone seen my cat? She's lost . , she's been gone for a while . , she won't be coming home . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.6254355,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.696803,"I accidentally sent an email to my boss that was meant for my friend, and I apologized profusely . ", I have always been a competent and reliable employee . , my boss will understand the situation . ,1
+"I find happiness in everyday moments, like a great meal or a beautiful view, rather than big celebratory events.
+",[CLS][] [SEP],0.6572681,I bet my best friend that I could wear heels for an entire day . , he said I looked like a movie star . , I won the bet . ,1
+"I find happiness in everyday moments, like a great meal or a beautiful view, rather than big celebratory events.
+",[CLS][] [SEP],0.6689596,"My grandfather always tried to act like a man, even though he was very sick . ", he was trying to act like a man . , he was trying to ignore his illness . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.56020206,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6000924,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I have been feeling less stressed lately as I get more things done and work on several projects.
+","[CLS] Participant feel less stressed
+2. Participant get more things done
+3. Participant work several projects [SEP]",0.09883154,I approach my friend's crush in order to try and set them up on a date . , they have been talking about this person a lot lately . , my friend will be really happy . ,1
+"I have been feeling less stressed lately as I get more things done and work on several projects.
+","[CLS] Participant feel less stressed
+2. Participant get more things done
+3. Participant work several projects [SEP]",0.09927302,I act on my boss's behalf and sign a contract that I do not agree with . , I would not want to disobey my boss and get in trouble . , that I will be following my boss's orders . ,1

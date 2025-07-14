@@ -1,0 +1,73 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I moved away from my family and felt uncomfortable and out of place, even after making friends.
+","[CLS] I moved away from my family
+2. I felt uncomfortable
+3. I felt out of place
+4. I made friends [SEP]",0.64413697,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1
+"I moved away from my family and felt uncomfortable and out of place, even after making friends.
+","[CLS] I moved away from my family
+2. I felt uncomfortable
+3. I felt out of place
+4. I made friends [SEP]",0.6972834,I have been feeling really stressed lately and it's affecting my health . , I need to relax and recharge . , I will take a break soon . ,1
+"I used to visit my hometown at least once a year, but now I go back every three years.
+","[CLS] I visit hometown
+2. I go back every three years [SEP]",0.6984899,I needed to ask my date's father for help . , I am polite and I have been dating his daughter for a while . , he will help me . ,1
+"I used to visit my hometown at least once a year, but now I go back every three years.
+","[CLS] I visit hometown
+2. I go back every three years [SEP]",0.70887583,I asked my boss for a day off tomorrow so I can go to my daughter's graduation . , she graduated with honors . , I will be able to attend . ,1
+"When I don't sleep well, I feel groggy, have no energy, and find it difficult to work and concentrate.
+",[CLS][] [SEP],0.76359785,I afford my rent by working two jobs . , I will be working all the time . , I will not have time for a social life . ,0
+"When I don't sleep well, I feel groggy, have no energy, and find it difficult to work and concentrate.
+",[CLS][] [SEP],0.76678294,"After I put in a hard day's work, it was nice to come home to a home-cooked meal . ", I worked so hard . , I deserve it . ,1
+"I have disturbing thoughts triggered by the neglect of children in society.
+",[CLS][] [SEP],0.61938834,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"I have disturbing thoughts triggered by the neglect of children in society.
+",[CLS][] [SEP],0.71780276,I babysit my cousins every Saturday . , they are too young and they always cry . , I will be bored . ,0
+"I sought help because I couldn't function, drive, sleep, or eat, and felt completely shut down.
+",[CLS] I sought help [SEP],0.32921922,I need help from my friends planning my next birthday party . , they are always asking me what I want to do and they seem to care about what I want  . , they will be willing to help me out . ,1
+"I sought help because I couldn't function, drive, sleep, or eat, and felt completely shut down.
+",[CLS] I sought help [SEP],0.37807244,I need help from my friends planning my next birthday party . , I have been there for them when they needed me  . , they will give me ideas and help me out . ,1
+"Lately, I've been feeling depressed and haven't had a good night's sleep in a year.
+","[CLS] Participant feel depressed
+2. Participant have not had good night's sleep [SEP]",0.21035391,My best friend is talking to my crush . , my best friend is able to get anyone to talk . , I will finally get to know what my crush is really like . ,1
+"Lately, I've been feeling depressed and haven't had a good night's sleep in a year.
+","[CLS] Participant feel depressed
+2. Participant have not had good night's sleep [SEP]",0.21232799,I accomplished my goal of reading 100 books this year . , I will have read a lot about different topics . , it will make me smarter . ,1
+"Since going to therapy, I feel more relaxed, some worries are lifted, and I can think clearer.
+",[CLS] I go therapy [SEP],0.58346933,I ask my doctor for a referral to see a specialist . , my symptoms are not that bad . , he may think I am wasting his time . ,0
+"Since going to therapy, I feel more relaxed, some worries are lifted, and I can think clearer.
+",[CLS] I go therapy [SEP],0.58864105,I advise my boss to take a vacation . , I'm new here . , he will think I'm slacking off . ,0
+"I regret not spending enough time on my education because I had children very young.
+",[CLS][] [SEP],0.6611554,My allergies are really starting to affect my ability to concentrate in class . , I have been trying my best to power through but it's just too much . , I can finally get a break from school and rest at home . ,1
+"I regret not spending enough time on my education because I had children very young.
+",[CLS][] [SEP],0.67038596,My aunt's travel has really affected her health . , she is taking her medicine . , she will get better . ,1
+"The last time I argued was with my daughter about her cancer therapy, which made me frustrated and angry.
+",[CLS] Participant argued daughter [SEP],0.64405125,A couple from our town just adopted a little girl from China . , they have always wanted children . , they will be a great family . ,1
+"The last time I argued was with my daughter about her cancer therapy, which made me frustrated and angry.
+",[CLS] Participant argued daughter [SEP],0.6616824,A couple in my neighborhood just adopted a baby  from China . , the couple seem like they really want a child and have been trying to conceive for a while . , positively that the baby will be brought into a loving home . ,1
+"I felt really happy when playing with my granddaughter about a month ago.
+",[CLS][] [SEP],0.66237205,"I don't act my age, according to my friends . ", I will be seen as a child . , I will never be respected . ,0
+"I felt really happy when playing with my granddaughter about a month ago.
+",[CLS][] [SEP],0.6668016,My coworker is always advancing toward me and trying to engage in small talk . , she never talks to me when we are not at work . , she is just trying to be friends with me and not actually interested . ,0
+"I stopped going to therapy because I couldn't afford it, but I found it useful.
+","[CLS] I stopped going to therapy
+2. I found it useful [SEP]",0.71965146,My chiropractor has been having me come in three times a week to help improve my posture . , my posture is really bad . , it will take a long time to get better . ,0
+"I stopped going to therapy because I couldn't afford it, but I found it useful.
+","[CLS] I stopped going to therapy
+2. I found it useful [SEP]",0.72350127,My chiropractor has been having me come in three times a week to help improve my posture . , I am starting to see some changes . , my back and neck pain will be gone soon . ,1
+"The hardest thing about being a parent is watching my children fail and not listening to my advice.
+",[CLS][] [SEP],0.72716844,I was in line at the grocery store and the person in front of me was acting really weird . , my cat isn't acting like its normal self . , my cat is sick . ,0
+"The hardest thing about being a parent is watching my children fail and not listening to my advice.
+",[CLS][] [SEP],0.7619468,"I don't act my age, according to my friends . ", I act like a child . , I will be made fun of . ,0
+"I was diagnosed with PTSD over five years ago.
+",[CLS]- Participant diagnosed with PTSD [SEP],0.738561,My health is Affected by my grandfather's death . , My grandfather's death is a big shock to me . , My condition will not improve . ,0
+"I was diagnosed with PTSD over five years ago.
+",[CLS]- Participant diagnosed with PTSD [SEP],0.74648106,I have been feeling really stressed lately and it's affecting my health . , it's been going on for awhile . , I may not be able to fix the situation . ,0
+"My grandparents were a positive influence, introducing me to church and showing me love.
+",[CLS][] [SEP],0.6137738,"I don't act my age, according to my friends . ", I can still have lots of fun and enjoy my life . , age is nothing but a number . ,1
+"My grandparents were a positive influence, introducing me to church and showing me love.
+",[CLS][] [SEP],0.6174844,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"Things that make me mad include rude people, harm to children and the elderly, and war.
+",[CLS][] [SEP],0.6129336,"I was at a networking event the other day and I met this really great guy, but I didn't catch his name . ", it's a small world . , we will bumped into each other again . ,1
+"Things that make me mad include rude people, harm to children and the elderly, and war.
+",[CLS][] [SEP],0.65555644,A woman is breastfeeding her baby in public . , I believe that it's a private act  . , it's disgusting . ,0

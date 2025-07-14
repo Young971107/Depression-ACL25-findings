@@ -1,0 +1,51 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I made the decision to serve the Lord and do the right things.
+","[CLS] Participant made decision
+2. Participant serve the Lord
+3. Participant do the right things [SEP]",0.6384285,I was at my friend's wedding and the officiant asked if anyone had any objections to the marriage . , I know they're getting married too quickly and they're not ready . , I will have to speak up and object . ,0
+"I made the decision to serve the Lord and do the right things.
+","[CLS] Participant made decision
+2. Participant serve the Lord
+3. Participant do the right things [SEP]",0.68351966,I will bear my partner's share in the project . , I have done more difficult things before . , I will be able to complete it successfully . ,1
+"I started going to church and gave my life to the Lord because I knew I needed to.
+","[CLS] I started going church
+2. I gave my life to the Lord [SEP]",0.73762536,I advertised my friend's business by putting up flyers around town . , it's a bit embarrassing . , I will be ridiculed . ,0
+"I started going to church and gave my life to the Lord because I knew I needed to.
+","[CLS] I started going church
+2. I gave my life to the Lord [SEP]",0.7684797,I backed into my friends car . , I am currently broke . , I will never be able to afford the damages . ,0
+"I went to Disneyland with my son for his birthday and my daughter, and I really enjoyed that.
+","[CLS] I went Disneyland
+2. I enjoyed that [SEP]",0.71532524,I will ask my doctor tomorrow about my test results . , I have been feeling really sick lately . , they will be bad . ,0
+"I went to Disneyland with my son for his birthday and my daughter, and I really enjoyed that.
+","[CLS] I went Disneyland
+2. I enjoyed that [SEP]",0.72191,I added another country to my travel bucket list . , I have the money to travel . , I would get to go there one day . ,1
+"I flew back home to visit my family, whom I hadn't seen in a couple of years, and it was pretty cool.
+","[CLS] I flew back home
+2. I visit my family [SEP]",0.6082592,"After arriving at my aunt's house, I realized that she had been planning her own trip . ", I am the one who wanted to go on a trip . , I should have planned my own trip . ,0
+"I flew back home to visit my family, whom I hadn't seen in a couple of years, and it was pretty cool.
+","[CLS] I flew back home
+2. I visit my family [SEP]",0.62369424,I asked my daughter to help me with the dishes . , we are talking and laughing while doing them . , we are spending more quality time together . ,1
+"I am studying culinary arts in college because I like cooking and decided to get an education on it.
+","[CLS] Participant study culinary arts
+2. Participant like cooking
+3. Participant decide get an education [SEP]",0.7314032,I have to go to a lot of parent-teacher meetings because I'm a teacher . , the kids are progressing well . , the parents are going to be happy with how their kids are doing . ,1
+"I am studying culinary arts in college because I like cooking and decided to get an education on it.
+","[CLS] Participant study culinary arts
+2. Participant like cooking
+3. Participant decide get an education [SEP]",0.74908245,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'll be too busy . , will not have time for anything else . ,0
+"I flew in an airplane for the first time and felt nervous because I had never been on a plane before.
+","[CLS] I flew airplane
+2. I felt nervous [SEP]",0.8171857,"I was dared to skydive , so I agreed . ", it's my first time . , I might die . ,0
+"I flew in an airplane for the first time and felt nervous because I had never been on a plane before.
+","[CLS] I flew airplane
+2. I felt nervous [SEP]",0.83400834,I was getting a massage and the masseuse was arching my back  too much . , she was  giving me a massage . , it would relieve my tension . ,1
+"I moved to L.A. and found it pretty hard to get used to the different environment, but I like the weather and the many things to do.
+","[CLS] I moved L.A.
+2. I found it pretty hard to get used to the different environment
+3. I like the weather
+4. I like the many things to do [SEP]",0.73973423,I walked into my roommate's room without knocking the other day and he was in the middle of changing . , I just stood there and stared at him . , he will think I am a perv . ,0
+"I moved to L.A. and found it pretty hard to get used to the different environment, but I like the weather and the many things to do.
+","[CLS] I moved L.A.
+2. I found it pretty hard to get used to the different environment
+3. I like the weather
+4. I like the many things to do [SEP]",0.7670772,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1

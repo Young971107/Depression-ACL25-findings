@@ -1,0 +1,91 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I have traveled to a few countries and enjoy exploring new places, meeting new people, and experiencing different cultures. It gives me an appreciation for life and the diversity of it.
+","[CLS] I have traveled a few countries
+2. I enjoy exploring new places
+3. I enjoy meeting new people
+4. I enjoy experiencing different cultures [SEP]",0.7220823,I have achieved one of my New Year's resolutions- to travel to Thailand! . , I have never been to Thailand before and I have always wanted to travel there . , it will be an amazing experience . ,1
+"I have traveled to a few countries and enjoy exploring new places, meeting new people, and experiencing different cultures. It gives me an appreciation for life and the diversity of it.
+","[CLS] I have traveled a few countries
+2. I enjoy exploring new places
+3. I enjoy meeting new people
+4. I enjoy experiencing different cultures [SEP]",0.7678243,The weather forecast said that the hurricane would affect people's travel plans . , no one will be there . , that I will have the beach all to myself . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6268959,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6536379,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I regret not continuing with college throughout. I burnt myself out by spreading myself too thin, working multiple jobs, and taking on too many responsibilities.
+","[CLS] Participant regret not continuing with college
+2. Participant burnt myself out
+3. Participant spread myself too thin
+4. Participant worked multiple jobs
+5. Participant took on too many responsibilities [SEP]",0.7099618,I'll bear the brunt of the work while you're gone . , you're not pulling your weight . , I'll never get ahead . ,0
+"I regret not continuing with college throughout. I burnt myself out by spreading myself too thin, working multiple jobs, and taking on too many responsibilities.
+","[CLS] Participant regret not continuing with college
+2. Participant burnt myself out
+3. Participant spread myself too thin
+4. Participant worked multiple jobs
+5. Participant took on too many responsibilities [SEP]",0.7221658,I turned 18 yesterday and am now a legal adult . , I will have to support myself now . , I have to start paying taxes . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5264282,I attained the new girl's number at school . , I have been eyeing her for a while . , I will ask her out on a date . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.607859,I was eavesdropping on a conversation and I think I heard my boss say that I'm getting a promotion . , I have worked hard and have been with the company for a long time . , I will be getting a promotion . ,1
+"I once told my dad he should act like a father during an argument about my education and work commitments. I regret the way I said it.
+",[CLS] Participant told dad [SEP],0.6411748,My dad always told me that I should travel while I'm young . , I see many young people who travel and have great stories to tell . , he was right . ,1
+"I once told my dad he should act like a father during an argument about my education and work commitments. I regret the way I said it.
+",[CLS] Participant told dad [SEP],0.6437906,My dad always told me that I should travel while I'm young . , I just graduated from college . , I will not have enough money . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6412647,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.64540887,My boss asked for an explanation of my tardiness . , this is the third time I'm late this week . , he won't believe me . ,0
+"I am proud of being there for my family, being mentally and emotionally strong, and ensuring everything goes okay during challenging times.
+","[CLS] I am proud of being there for my family
+2. I am proud of being mentally and emotionally strong
+3. I am proud of ensuring everything goes okay during challenging times [SEP]",0.6399334,I am bringing up my children to be independent . , I will be setting a good example for them to follow . , they will grow up to be polite and successful . ,1
+"I am proud of being there for my family, being mentally and emotionally strong, and ensuring everything goes okay during challenging times.
+","[CLS] I am proud of being there for my family
+2. I am proud of being mentally and emotionally strong
+3. I am proud of ensuring everything goes okay during challenging times [SEP]",0.6400149,I accomplish my goals by working hard and studying diligently . , they  wanted me to take a different path . , my parents will be disappointed . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6448617,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.676457,I needed to ask my boss for my co-worker's phone number . , I have been working hard . , she will approve . ,1
+"I wish I could better understand how much people care and love me, and I want to get a better grasp on that.
+",[CLS][] [SEP],0.6678974,I am accompanied by my boss's wife . , she is always mean to me . , I will not be respected . ,0
+"I wish I could better understand how much people care and love me, and I want to get a better grasp on that.
+",[CLS][] [SEP],0.67693555,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.27811465,The new hire baits his own hook during his first fishing lesson with his boss . , he is doing what is expected . , he will get the job . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.28430694,The government allocates resources efficiently to address the inequality in our society . , the government will be investing in them . , it will help many people . ,1
+"I have a close relationship with my family, especially with my mom, who is one of my best friends. My father is more out of the picture.
+",[CLS][] [SEP],0.5601423,"The more I learn about my co-workers, the more I realize how much we have in common . ", I'm not interested in the same things as them . , I will never have friends at work . ,0
+"I have a close relationship with my family, especially with my mom, who is one of my best friends. My father is more out of the picture.
+",[CLS][] [SEP],0.56349456,I feel like I'm finally starting to act my age and mature a little bit . , it will likely lead to more opportunities and experiences . , this is a good development . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6105911,I asked my friend for my crush's number . , she smiled and said Sure! , she likes me too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.62348723,I attained the new girl's number at school . , I am too shy to text her first . , she will reject me . ,0
+"I argued with my dad about when we were supposed to go back to Nigeria. He wasn't open to other people's suggestions, which started an argument.
+",[CLS] I argued with my dad [SEP],0.65937173,I was arguing with my boyfriend about going to the gym more often . , I have nagged him about it for weeks now . , I will get my way . ,1
+"I argued with my dad about when we were supposed to go back to Nigeria. He wasn't open to other people's suggestions, which started an argument.
+",[CLS] I argued with my dad [SEP],0.67831254,I was arguing with my brother and I said something that just made him angry . , he didn't say anything after that . , I might have won the argument . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.60391504,I have the same name as my dad . , we have the same name . , we have a lot in common . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6093141,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I wish I had continued with college without taking breaks. I was on track to graduate early but burnt myself out with too many commitments.
+","[CLS] I wish I had continued with college
+2. I was on track to graduate early
+3. I burnt myself out with too many commitments [SEP]",0.5289606,"After dating for six months, I became my girlfriend's wife . ", we didn't know each other that well . , I may have married too soon . ,0
+"I wish I had continued with college without taking breaks. I was on track to graduate early but burnt myself out with too many commitments.
+","[CLS] I wish I had continued with college
+2. I was on track to graduate early
+3. I burnt myself out with too many commitments [SEP]",0.55965906,I asked for my friend's explanation about why he was arguing with his girlfriend . , it can help prevent future arguments . , it is a good idea to talk things out with your partner . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5714757,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6199514,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I wish I was taller and want to better understand how people feel about me from their perspective.
+",[CLS][] [SEP],0.63844246,"The more I learn about my co-workers, the more I realize how much we have in common . ", we have a lot in common  . , we can connect and be friends . ,1
+"I wish I was taller and want to better understand how people feel about me from their perspective.
+",[CLS][] [SEP],0.64032066,I was airing my dirty laundry in public . , it was something that we all have in common . , it is a way to make friends . ,1

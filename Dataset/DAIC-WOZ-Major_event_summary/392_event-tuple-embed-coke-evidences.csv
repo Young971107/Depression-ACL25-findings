@@ -1,0 +1,53 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I dream of being a writer because I want to write what I am interested in, unlike the articles about teenager culture that I currently write.
+","[CLS] Participant dream being a writer
+2. Participant want write what I am interested in
+3. Participant write articles about teenager culture [SEP]",0.59256625,I achieved my goal of quitting my day job and becoming a full-time writer . , it demonstrates my commitment to my writing . , it will positively affect my career . ,1
+"I dream of being a writer because I want to write what I am interested in, unlike the articles about teenager culture that I currently write.
+","[CLS] Participant dream being a writer
+2. Participant want write what I am interested in
+3. Participant write articles about teenager culture [SEP]",0.73559237,I achieved my goal of quitting my day job and becoming a full-time writer . , I will be able to dedicate more time to writing . , it will positively affect my career . ,1
+"I would advise my younger self not to go out of my way to impress people, as those who like me will do so regardless.
+",[CLS][] [SEP],0.67417765,I was waiting for my brother to take his turn in the video game . , he always plays for hours . , I will never get to play the game . ,0
+"I would advise my younger self not to go out of my way to impress people, as those who like me will do so regardless.
+",[CLS][] [SEP],0.6814991,I can barely afford my rent this month . , I have been making an effort to save money . , my financial situation will improve soon . ,1
+"I sometimes feel lazy and wish I had a better work ethic.
+",[CLS][] [SEP],0.59805274,I always told my friends that I would never get married . , I have too much doubt in my heart . , I will not find love . ,0
+"I sometimes feel lazy and wish I had a better work ethic.
+",[CLS][] [SEP],0.63784814,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"Last night, I felt really happy while hanging out with my friends, sharing stories, and laughing.
+",[CLS][] [SEP],0.58301926,I was waiting for my brother to take his turn in the video game . , he's been playing for a long time . , he's not going to let me play . ,0
+"Last night, I felt really happy while hanging out with my friends, sharing stories, and laughing.
+",[CLS][] [SEP],0.5990482,I was trying to be cool and aloof like my favorite movie star . , I'm not like that in real life . , I will be laughed at . ,0
+"My grandmother was a positive influence on me from a young age because of her strong and powerful character.
+",[CLS][] [SEP],0.71221817,I was in line at the grocery store and the person in front of me was acting really weird . , my cat isn't acting like its normal self . , my cat is sick . ,0
+"My grandmother was a positive influence on me from a young age because of her strong and powerful character.
+",[CLS][] [SEP],0.73653734,"Every morning, I brush my teeth and floss . ", I'm too tired . , I won't be able to brush my teeth and floss . ,0
+"The hardest decision I ever made was deciding whether or not to divorce my husband because we weren't getting along.
+",[CLS] Participant made decision [SEP],0.4030608,I based my decision to change careers on my experience working in the corporate world . , it will allow me to have more free time and less stress . , this is the best decision I have ever made . ,1
+"The hardest decision I ever made was deciding whether or not to divorce my husband because we weren't getting along.
+",[CLS] Participant made decision [SEP],0.54433167,I am basing my decision on previous experiences . , it generally does . , it will turn out the same way as always . ,0
+"I am close with my grandparents because they raised me, unlike my parents who weren't really in the picture.
+",[CLS] grandparents raised me [SEP],0.39892423,My mother brought me up by herself . , she had to provide for me and my sister without any help from anyone else . , she is a strong and capable woman . ,1
+"I am close with my grandparents because they raised me, unlike my parents who weren't really in the picture.
+",[CLS] grandparents raised me [SEP],0.39907444,My dad is raising me and my siblings by himself . , he works three jobs . , he is overworked . ,0
+"When my sister died, it was really traumatizing for me.
+",[CLS][] [SEP],0.77085435,I will form my opinion after the presentation . , I'm not an expert . , no one will listen to me . ,0
+"When my sister died, it was really traumatizing for me.
+",[CLS][] [SEP],0.78049487,Has anyone seen my cat? She's lost . , it's been three days . , I will never see her again . ,0
+"I feel guilty about not talking to my grandparents as much as I should.
+",[CLS] Participant feel guilty not talking to grandparents [SEP],0.07030166,I flirt with my boss to try to get a raise . , I have been pretty successful in the past when I've tried this tactic . , it will work . ,1
+"I feel guilty about not talking to my grandparents as much as I should.
+",[CLS] Participant feel guilty not talking to grandparents [SEP],0.07033308,My son is waiting his turn to get a haircut . , it's taking too long . , he will be tired . ,0
+"I like the weather and people in L.A., but I don't like the traffic.
+",[CLS][] [SEP],0.54118973,I am basing my decision on previous experiences . , I have never gotten what I wanted . , I will never get what I want . ,0
+"I like the weather and people in L.A., but I don't like the traffic.
+",[CLS][] [SEP],0.56792057,I always told my friends that I would never get married . , I didn't want it . , I will not find love . ,0
+"I am proud of being satisfied with myself, my friends, and my status in the world.
+","[CLS] I am proud of being satisfied with myself  
+2. I am proud of my friends  
+3. I am proud of my status in the world [SEP]",0.6584503,I act my age and enjoy my life despite what other people say . , I am happy and I don't have to worry about what other people think . , I am doing what is best for me . ,1
+"I am proud of being satisfied with myself, my friends, and my status in the world.
+","[CLS] I am proud of being satisfied with myself  
+2. I am proud of my friends  
+3. I am proud of my status in the world [SEP]",0.69406545,I act my age and enjoy my life despite what other people say . , I'll be too busy living my life . , I'll miss out on a lot of things . ,0

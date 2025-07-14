@@ -1,0 +1,103 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I argued with my sister because she's very controlling, and I felt like she was trying to tell me what to do with my life.
+",[CLS] I argued with my sister [SEP],0.60573393,I babysit my cousins every Saturday . , they always cry and never listen to me . , I will never have any fun . ,0
+"I argued with my sister because she's very controlling, and I felt like she was trying to tell me what to do with my life.
+",[CLS] I argued with my sister [SEP],0.62495553,I babysit my cousins every Saturday . , they are too young and they don't know how to have fun . , I will be bored . ,0
+"
+",[CLS]I'm sorry but it seems there is no conversation provided for me to extract events from. Could you please provide the conversation or text you would like me to analyze? [SEP],0.64544475,I needed to ask my boss for my co-worker's phone number . , I have been working hard . , she will approve . ,1
+"
+",[CLS]I'm sorry but it seems there is no conversation provided for me to extract events from. Could you please provide the conversation or text you would like me to analyze? [SEP],0.64985156,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"Serving in the military made me more disciplined and motivated, helping me get things done even when I didn't want to.
+","[CLS] Serving in the military made me more disciplined
+2. Serving in the military made me more motivated
+3. Serving in the military helped me get things done [SEP]",0.6448058,I take my promotion for granted and do not act appreciative . , my boss will think I am not thankful . , I will  be demoted . ,0
+"Serving in the military made me more disciplined and motivated, helping me get things done even when I didn't want to.
+","[CLS] Serving in the military made me more disciplined
+2. Serving in the military made me more motivated
+3. Serving in the military helped me get things done [SEP]",0.6714634,"I don't act my age, according to my friends . ", I don't feel like I am old . , I am young at heart . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.3084337,I attend my boss's meetings every Wednesday . , my boss always thanks me for coming . , I am doing my job well . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.3138947,my boss airs my dirty laundry in public . , it is unprofessional and it would ruin my reputation . , it will positively get me fired . ,1
+"I sought help because I was experiencing nightmares, anger issues, and depression, and I realized something wasn't right with me.
+",[CLS] I sought help [SEP],0.37360245,I need help from my friends planning my next birthday party . , they are always asking me what I want to do and they seem to care about what I want  . , they will be willing to help me out . ,1
+"I sought help because I was experiencing nightmares, anger issues, and depression, and I realized something wasn't right with me.
+",[CLS] I sought help [SEP],0.43335077,I need help from my friends planning my next birthday party . , I have been there for them when they needed me  . , they will give me ideas and help me out . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.61583793,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6390052,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I suffer from PTSD, which makes it difficult for me to get a good night's sleep due to recurring nightmares.
+","[CLS] I suffer from PTSD
+2. PTSD make it difficult for me to get a good night's sleep
+3. PTSD cause recurring nightmares [SEP]",0.58364904,I have been feeling really stressed lately and it's affecting my health . , I don't have enough rest . , I won't be able to get better . ,0
+"I suffer from PTSD, which makes it difficult for me to get a good night's sleep due to recurring nightmares.
+","[CLS] I suffer from PTSD
+2. PTSD make it difficult for me to get a good night's sleep
+3. PTSD cause recurring nightmares [SEP]",0.6747366,The news about the outbreak is affecting people's mental health . , it is a novel virus . , about how quickly it could spread . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.44557542,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.47407648,My boss asked for an explanation of my tardiness . , I was late for work three times this week . , I will be fired . ,0
+"I am proud of being self-motivated and able to accomplish things I once thought I couldn't.
+",[CLS][] [SEP],0.59162503,I can't believe how much my tuition has gone up since I last looked into affording college . , it's too expensive . , I may never be able to go to the college I want to . ,0
+"I am proud of being self-motivated and able to accomplish things I once thought I couldn't.
+",[CLS][] [SEP],0.607882,I feel like I'm finally starting to act my age and mature a little bit . , that's what is expected of me now . , I will have to start acting serious and responsible all the time . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5569267,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.57205224,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"Recently, I enjoyed sitting down with my social worker to talk about getting things done in my life, including school.
+","[CLS] I enjoyed sitting down with my social worker
+2. I talk about getting things done in my life [SEP]",0.54209995,I try to get my boss's attention by talking loudly and waving my arms . , they all quiet down and look in my direction . , everyone in the office is watching me . ,1
+"Recently, I enjoyed sitting down with my social worker to talk about getting things done in my life, including school.
+","[CLS] I enjoyed sitting down with my social worker
+2. I talk about getting things done in my life [SEP]",0.54662585,"I was trying to get my friend's attention, but she was too busy talking to other people . ", I am not important to her . , she doesn't want to talk to me . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6643983,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6893004,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I started seeking help at the VA for my PTSD because I noticed it was triggered by something, though I'm not sure what.
+","[CLS] I started seeking help at the VA
+2. I noticed it was triggered by something [SEP]",0.6007592,My little sister always takes my opinion into account when she is planning her vacation . , she is always thinking about what would make me happy . , she is the best sister ever . ,1
+"I started seeking help at the VA for my PTSD because I noticed it was triggered by something, though I'm not sure what.
+","[CLS] I started seeking help at the VA
+2. I noticed it was triggered by something [SEP]",0.6265315,"I was trying to get my friend's attention, but she was too busy talking to other people . ", she didn't even noticed me . , she doesn't want to talk to me . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5914308,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.6008592,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I felt really happy this morning when I woke up and prayed, feeling connected with the universe.
+","[CLS] Participant felt happy
+2. Participant woke up morning
+3. Participant prayed universe [SEP]",0.4896814,I was getting a massage and the masseuse was arching my back  too much . , I could hear my spine cracking . , my spine was getting aligned . ,1
+"I felt really happy this morning when I woke up and prayed, feeling connected with the universe.
+","[CLS] Participant felt happy
+2. Participant woke up morning
+3. Participant prayed universe [SEP]",0.5532149,I have been feeling really stressed lately and it's affecting my health . ," I have been making an effort to go to the gym more, eating healthy and getting more sleep . ", I have started to taking better care of myself . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5511641,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.68471056,I have a niece who bears my name . , my name is not a typical name for girls . , I will be teased all my life . ,0
+"When I'm annoyed, I tend to get really upset and start cussing people out, but I'm learning to let go and accept things I can't control.
+","[CLS] I get upset
+2. I start cussing people out
+3. I learn let go
+4. I accept things I can't control [SEP]",0.5695403,I also asked for a raise . , I have waited for a long time and I have been a great asset to the company . , my boss will give me a raise . ,1
+"When I'm annoyed, I tend to get really upset and start cussing people out, but I'm learning to let go and accept things I can't control.
+","[CLS] I get upset
+2. I start cussing people out
+3. I learn let go
+4. I accept things I can't control [SEP]",0.59820735,I was asking my friend's mom if she could watch my dog while I'm out of town . , I have been good to her daughter and she likes me . , I will get a yes from her . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.5501102,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.611378,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"Going to therapy has helped me by allowing me to talk to a therapist about my situation, and I've been attending classes and one-on-one sessions with my doctor.
+","[CLS] Participant talk therapist
+2. Participant attend classes
+3. Participant attend one-on-one sessions [SEP]",0.7121843,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'll be too busy . , will not have time for anything else . ,0
+"Going to therapy has helped me by allowing me to talk to a therapist about my situation, and I've been attending classes and one-on-one sessions with my doctor.
+","[CLS] Participant talk therapist
+2. Participant attend classes
+3. Participant attend one-on-one sessions [SEP]",0.7238266,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they might not like what I have to say about their child . , the parents will be hostile . ,0

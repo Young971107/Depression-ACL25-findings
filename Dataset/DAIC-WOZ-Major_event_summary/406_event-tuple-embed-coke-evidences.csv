@@ -1,0 +1,43 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I haven't traveled in about five years because I just haven't been able to.
+",[CLS] I haven't traveled five years [SEP],0.658965,I have achieved one of my New Year's resolutions- to travel to Thailand! . , it has a rich culture and lovely scenery . , it will be a beautiful country to travel to . ,1
+"I haven't traveled in about five years because I just haven't been able to.
+",[CLS] I haven't traveled five years [SEP],0.6875328,I achieve my objective of getting a raise . , I have put in a lot of effort . , all of my hard work has paid off . ,1
+"The hardest decision I probably had to make was moving back to California from Oregon.
+","[CLS] Participant make decision
+2. Participant move California [SEP]",0.6560948,I crowdsourced around for a solution to my problem . , my problem is unique . , I will not find a solution . ,0
+"The hardest decision I probably had to make was moving back to California from Oregon.
+","[CLS] Participant make decision
+2. Participant move California [SEP]",0.6568182,I crowdsourced around for a solution to my problem . , many people offered their help . , I found the best answer . ,1
+"The last time I felt really happy was yesterday.
+",[CLS][] [SEP],0.72413003,My boss is always looking out for her own interests . , I always put the needs of my team first . , it would positively show in my reviews . ,1
+"The last time I felt really happy was yesterday.
+",[CLS][] [SEP],0.74565846,I feel like I'm finally starting to act my age and mature a little bit . , that's what people my age are expected to do . , I will have to start acting serious and responsible all the time . ,0
+"I argued with my boyfriend because he hung up in my face, but it got solved pretty quickly.
+","[CLS] I argued with my boyfriend
+2. he hung up in my face [SEP]",0.525019,I was arguing with my sister's boyfriend about politics . , it is a way to stay informed . , it is important to talk about current events . ,1
+"I argued with my boyfriend because he hung up in my face, but it got solved pretty quickly.
+","[CLS] I argued with my boyfriend
+2. he hung up in my face [SEP]",0.5369465,I am going to ask my friend's crush out on a date . , I am not confident . , he/she will say no . ,0
+"The last fun activity I did was ice skating in December in downtown L.A.
+",[CLS][] [SEP],0.6603273,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"The last fun activity I did was ice skating in December in downtown L.A.
+",[CLS][] [SEP],0.66486657,The economic recession has affected my family in many ways . , we always do what is necessary to survive difficult times . , we will all persevere and come out stronger . ,1
+"The last trip I took was to San Francisco, where I stayed downtown, went shopping, and rode a streetcar.
+","[CLS] Participant took trip
+2. Participant stayed downtown
+3. Participant went shopping
+4. Participant rode streetcar [SEP]",0.7210205,I spend many hours looking at different travel websites and planning where I want to go next . , I love to travel and see new places . , I will be able to travel the world . ,1
+"The last trip I took was to San Francisco, where I stayed downtown, went shopping, and rode a streetcar.
+","[CLS] Participant took trip
+2. Participant stayed downtown
+3. Participant went shopping
+4. Participant rode streetcar [SEP]",0.72501826,I have to go to a lot of parent-teacher meetings because I'm a teacher . , the kids are progressing well . , the parents are going to be happy with how their kids are doing . ,1
+"I decided to go back to school, went to junior college, and chose psychology as my major because I liked the courses and thought it didn't have a lot of math.
+","[CLS] I decided go back to school
+2. I went junior college
+3. I chose psychology as my major [SEP]",0.6769135,I am working on getting my pilot's license in order to advance my career . , it is a very time consuming process  . , I won't have time for anything else . ,0
+"I decided to go back to school, went to junior college, and chose psychology as my major because I liked the courses and thought it didn't have a lot of math.
+","[CLS] I decided go back to school
+2. I went junior college
+3. I chose psychology as my major [SEP]",0.7085626,I am working on getting my pilot's license in order to advance my career . , I am  not  very  good  at  learning  new  things . , I will never achieve my goal . ,0

@@ -1,0 +1,29 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I wish I could handle situations better when things don't go my way, by calming down and counting my blessings.
+",[CLS][] [SEP],0.66453046,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"I wish I could handle situations better when things don't go my way, by calming down and counting my blessings.
+",[CLS][] [SEP],0.7009482,I can't believe how much my tuition has gone up since I last looked into affording college . , it's too expensive . , I may never be able to go to the college I want to . ,0
+"I argued with my girlfriend last night because she thought my tone was too loud, even though I wasn't angry.
+",[CLS] I argued with my girlfriend [SEP],0.38225028,I kept my fingers crossed while my friend proposed to his girlfriend . , she looked really mad when he proposed . , she will say no . ,0
+"I argued with my girlfriend last night because she thought my tone was too loud, even though I wasn't angry.
+",[CLS] I argued with my girlfriend [SEP],0.3824913,My best friend argues with her boyfriend every day . , she'll need a shoulder to cry on . , I'll get to see her more often . ,1
+"I wish I could erase the memory of my mother being sick and dependent on oxygen for three years.
+",[CLS][] [SEP],0.84259534,I browse through my art collection that I have been building for years . , I have many different and unique pieces . , I am a great collector . ,1
+"I wish I could erase the memory of my mother being sick and dependent on oxygen for three years.
+",[CLS][] [SEP],0.8460872,We will arrived at the conference room in 5 minutes . , no one told us the time . , We will be the only ones there . ,0
+"I worked on cruise ships as a musical entertainer and traveled to places like Alaska, Korea, Japan, and the Caribbean.
+","[CLS] I worked on cruise ships
+2. I traveled to places like Alaska Korea Japan and the Caribbean [SEP]",0.8640239,I relied on my friend's experiences when planning my own trip to Europe . , my friend's trip was not that great . , my trip may not be as great as I hoped . ,0
+"I worked on cruise ships as a musical entertainer and traveled to places like Alaska, Korea, Japan, and the Caribbean.
+","[CLS] I worked on cruise ships
+2. I traveled to places like Alaska Korea Japan and the Caribbean [SEP]",0.9545504,I will bear my partner's share in the project . , he is not cooperative . , I will be cheated by my partner . ,0
+"I survived a snowstorm while traveling on a small airplane in Galena, Alaska.
+",[CLS] I survived snowstorm [SEP],0.7219002,The weather forecast said that the hurricane would affect people's travel plans . , my flight is tomorrow . , I will be stuck in the airport . ,0
+"I survived a snowstorm while traveling on a small airplane in Galena, Alaska.
+",[CLS] I survived snowstorm [SEP],0.73124325,I agree to go on a month-long trip with my friends . , I have never been away from home for that long . , I will get homesick . ,0
+"I chose not to tell my mother that her condition had worsened to spare her fear, even though it was difficult for me.
+","[CLS] I chose not to tell my mother
+2. I spare her fear [SEP]",0.5668781,I will be taking over my grandmother's house responsibilities while she is in the hospital . , I gained experience when my grandfather was ill . , I positively can handle this . ,1
+"I chose not to tell my mother that her condition had worsened to spare her fear, even though it was difficult for me.
+","[CLS] I chose not to tell my mother
+2. I spare her fear [SEP]",0.6062377,I will be taking over my grandmother's house responsibilities while she is in the hospital . , I have never done it before . , I cannot handle everything by myself . ,0

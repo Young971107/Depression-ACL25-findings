@@ -1,0 +1,129 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I felt like I was in a dishonest environment and wanted to switch classes, but I had no choice but to stay and deal with the professor's meanness for the whole semester.
+","[CLS] I felt dishonest environment
+2. I wanted switch classes
+3. I had no choice
+4. I stay deal with the professor's meanness [SEP]",0.629233,I will be taking over my grandmother's house responsibilities while she is in the hospital . , it will be a lot to handle . , I will not be able to cope with everything . ,0
+"I felt like I was in a dishonest environment and wanted to switch classes, but I had no choice but to stay and deal with the professor's meanness for the whole semester.
+","[CLS] I felt dishonest environment
+2. I wanted switch classes
+3. I had no choice
+4. I stay deal with the professor's meanness [SEP]",0.667016,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'll be busy with the meetings . , I will not have time to plan my lessons . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.53582096,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5416869,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I was diagnosed with PTSD about three years ago, and they were trying to link it to depression.
+",[CLS] I was diagnosed with PTSD [SEP],0.6302815,My doctor advised me to take medication for my anxiety . , I have had it for a long time . , it will never go away . ,0
+"I was diagnosed with PTSD about three years ago, and they were trying to link it to depression.
+",[CLS] I was diagnosed with PTSD [SEP],0.7060616,The news about the outbreak is affecting people's mental health . , it is a novel virus . , about how quickly it could spread . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.52879703,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6434133,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I stopped going to therapy because I couldn't afford it and couldn't find a committed counselor.
+","[CLS] I stopped going to therapy
+2. I couldn't afford it
+3. I couldn't find a committed counselor [SEP]",0.82267684,My doctor advised me to take medication for my anxiety . , I have had it for a long time . , it will never go away . ,0
+"I stopped going to therapy because I couldn't afford it and couldn't find a committed counselor.
+","[CLS] I stopped going to therapy
+2. I couldn't afford it
+3. I couldn't find a committed counselor [SEP]",0.842816,The doctor advised me to take a few days off work . , I will not get paid . , I will not have enough money to live . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5628263,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.57505643,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I wish I could erase the memory of a relative's death because I felt alone and misinformed.
+",[CLS][] [SEP],0.57400614,We were waiting in line for the new iPhone . , We have been waiting for hours . , We are going to be first . ,1
+"I wish I could erase the memory of a relative's death because I felt alone and misinformed.
+",[CLS][] [SEP],0.61370385,I am waiting for the perfect moment to ask my crush out . , I have caught them staring at me longingly . , the answer will be yes . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.579085,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.58973855,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I have fond memories of family vacations to Baja and Rosarito Beach, especially during Easter.
+",[CLS][] [SEP],0.7684444,The economic recession has affected my family in many ways . , we always do what is necessary to survive difficult times . , we will all persevere and come out stronger . ,1
+"I have fond memories of family vacations to Baja and Rosarito Beach, especially during Easter.
+",[CLS][] [SEP],0.7795644,I have to adapt to my new environment in college . , I'm not good at socializing . , I will be a stranger there . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.48035908,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.497437,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I had a seven-year relationship where the person wanted me to be in their life as a fallback if my current relationship failed.
+",[CLS] person wanted me to be in their life [SEP],0.6748031,I act my age and enjoy my life despite what other people say . , I'm living my life for myself . , I deserve to be happy . ,1
+"I had a seven-year relationship where the person wanted me to be in their life as a fallback if my current relationship failed.
+",[CLS] person wanted me to be in their life [SEP],0.69828314,I act my age and enjoy my life despite what other people say . , I 'll only live once . , I deserve to be happy . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.55786633,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.63635945,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I regret not knowing how sick a relative was, which prevented me from spending more time with them.
+",[CLS][] [SEP],0.73844844,I based my research on my mom's experienced . , I didn't go out and gather data myself . , I will not get any credit . ,0
+"I regret not knowing how sick a relative was, which prevented me from spending more time with them.
+",[CLS][] [SEP],0.76702726,I believe that good luck comes to those who work hard . , I don't work hard . , bad things will happen to me . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.4248289,My boss asked for an explanation of my tardiness . , I was late for work three times this week . , I will be fired . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.45251155,I based my research on my mom's experienced . , she is always supporting me . , she will be proud of me . ,1
+"I made the difficult decision to emotionally let go of a past relationship.
+","[CLS] I made decision
+2. I let go past relationship [SEP]",0.6141786,My boss's decision will affect my interests . , I  can't express my opinions directly to him . , I will be disadvantage . ,0
+"I made the difficult decision to emotionally let go of a past relationship.
+","[CLS] I made decision
+2. I let go past relationship [SEP]",0.6146954,My boss's decision will affect my interests . , I haven't discussed it with him . , it may not be the best decision . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5002335,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5765132,My coworker is always advancing toward me and trying to engage in small talk . , we work closely together . , she is trying to make friends with me . ,1
+"I have a bachelor's degree in communication studies because it's an open field with various opportunities.
+",[CLS][] [SEP],0.7382686,I assure you that the bride will be beautiful on her wedding day . , she didn't have time to prepare . , she may not be beautiful . ,0
+"I have a bachelor's degree in communication studies because it's an open field with various opportunities.
+",[CLS][] [SEP],0.74675107,I am avoiding my ex's eyes . , I know I am a great catch . , he will regret what he did to me . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.56897146,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.61757416,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I argued recently about making myself clear or repeating myself, which usually gets the other person in trouble.
+",[CLS] I argued about making myself clear [SEP],0.7823622,"I attempt to explain to my boss why I was late for our meeting, but he does not want to listen . ", I have been honest with him in the past . , that what I have to say is valid . ,1
+"I argued recently about making myself clear or repeating myself, which usually gets the other person in trouble.
+",[CLS] I argued about making myself clear [SEP],0.8771035,I was arguing with my boss about the new project proposal . , I have more experience than him . , I will get the job done . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5162114,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.62508863,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I would like to open a business in telecommunications or create all-natural soy candles.
+","[CLS] Participant like open a business in telecommunications
+2. Participant like create all-natural soy candles [SEP]",0.10603999,"I was getting a bit dizzy from standing up, so I asked my friend if I could sit down for a bit . ", he has done it before when I had a headache . , my friend will give me a shoulder massage . ,1
+"I would like to open a business in telecommunications or create all-natural soy candles.
+","[CLS] Participant like open a business in telecommunications
+2. Participant like create all-natural soy candles [SEP]",0.107071474,I ask my friend to join my book club . , she likes to read books . , she will like it . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.6757932,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.69457185,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"I traveled domestically, with my last trip being to San Diego.
+","[CLS] I traveled domestically
+2. I traveled to San Diego [SEP]",0.76643705,My coworker is always advancing toward me and trying to engage in small talk . , small talk usually requires some investment from both parties . , it positively shows they are interested in building a friendship . ,1
+"I traveled domestically, with my last trip being to San Diego.
+","[CLS] I traveled domestically
+2. I traveled to San Diego [SEP]",0.7694805,My boss isAccompanied by his wife on his business trip to Japan . , it's business trip . , he will not stay at the hotel with her . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.70649123,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.71219707,I needed to ask my boss for my co-worker's phone number . , I have been working hard . , she will approve . ,1
+"I sought help because I was having issues in my learning environment and felt emotionally attacked by a professor.
+","[CLS] I sought help
+2. I was having issues
+3. I felt attacked [SEP]",0.56359994,I needed to ask my date's father for help . , I am asking for money . , he will think I am a gold digger . ,0
+"I sought help because I was having issues in my learning environment and felt emotionally attacked by a professor.
+","[CLS] I sought help
+2. I was having issues
+3. I felt attacked [SEP]",0.58671033,I needed to ask my date's father for help . , I am not from a wealthy family . , he will think I am not good enough for his daughter . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5456686,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.576939,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"My mother encouraged me to continue my education and explore other ventures.
+",[CLS][] [SEP],0.5262926,I raised my eyebrow to look arrogant . , I intended to look arrogant . , I looked like an arrogant jerk . ,0
+"My mother encouraged me to continue my education and explore other ventures.
+",[CLS][] [SEP],0.56871593,I was airing my dirty laundry in public . , honesty is always the best policy . , people will like me more for it . ,1

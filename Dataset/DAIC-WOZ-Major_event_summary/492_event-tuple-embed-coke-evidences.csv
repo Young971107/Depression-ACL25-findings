@@ -1,0 +1,81 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I moved to Los Angeles in 1985 from Maryland.
+",[CLS] I moved Los Angeles [SEP],0.44224828,"After careful consideration, I have decided to move to Seattle . ", I'm not familiar with anyone there . , I will be all alone in a new city . ,0
+"I moved to Los Angeles in 1985 from Maryland.
+",[CLS] I moved Los Angeles [SEP],0.45346355,"After careful consideration, I have decided to move to Seattle . ", I have done research on the area and it seems like a great fit for me . , the city has a lot to offer . ,1
+"I am proud of the fact that I don't give up.
+",[CLS][] [SEP],0.800139,I achieved my goal of running a marathon under 4 hours . , I have proof that I can push my limits . , I am able to do anything . ,1
+"I am proud of the fact that I don't give up.
+",[CLS][] [SEP],0.8289782,I am basing my decision on previous experiences . , nothing ever changes . , it will turn out the same way as always . ,0
+"I am good at controlling my temper and know when it's appropriate to express it.
+",[CLS][] [SEP],0.66181666,I have a niece who bears my name . ," I am a strong, fierce woman . "," she will grow up to be a strong, fierce woman . ",1
+"I am good at controlling my temper and know when it's appropriate to express it.
+",[CLS][] [SEP],0.67037624,I believe that good luck comes to those who work hard . , I was born unlucky . ," no matter how much effort I put in, things will never go my way . ",0
+"My best friend would describe me as smart, well-dressed, and good at handling difficulties.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.60449123,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"My best friend would describe me as smart, well-dressed, and good at handling difficulties.
+",[CLS]No clear event related to the participant can be extracted from the given sentence. [SEP],0.60536385,I can barely afford my rent this month . , I don't have enough money . , I will be homeless . ,0
+"I have not had to make any very hard decisions in my life yet.
+",[CLS][] [SEP],0.5339773,The soldier aims his gun at the target . , his Training was good . , he will kill the enemy . ,0
+"I have not had to make any very hard decisions in my life yet.
+",[CLS][] [SEP],0.6132513,I am waiting for the perfect moment to ask my crush out . , I have caught them staring at me longingly . , the answer will be yes . ,1
+"I believe that everything that happens is under God's sovereignty and will work for my good.
+",[CLS][] [SEP],0.5949943,"I don't act my age, according to my friends . ", I can still have lots of fun and enjoy my life . , age is nothing but a number . ,1
+"I believe that everything that happens is under God's sovereignty and will work for my good.
+",[CLS][] [SEP],0.61719704,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I am more outgoing but can be shy depending on the situation.
+",[CLS]No clear event can be extracted from the given sentence. [SEP],0.49456438,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"I am more outgoing but can be shy depending on the situation.
+",[CLS]No clear event can be extracted from the given sentence. [SEP],0.5247493,I have the same name as my dad . , people with the same name generally tend to have similar personalities . , he's a positive person . ,1
+"To relax, I go to the movies.
+",[CLS] I go movies [SEP],0.25612882,I am asking you to go with me to the movies . , you like to watch documentaries . , you may not want to go with me . ,0
+"To relax, I go to the movies.
+",[CLS] I go movies [SEP],0.31551546,I am asking you to go with me to the movies . , it is a great movie . , you will like the movie . ,1
+"I had a disagreement with a woman at my church over micromanagement issues.
+",[CLS]- Participant have disagreement with a woman at church [SEP],0.147297,I have to accept my employees resignation because he is caught stealing from the company . , I have the resources and connections to do so . , I will be able to get a new and better employee to take his place . ,1
+"I had a disagreement with a woman at my church over micromanagement issues.
+",[CLS]- Participant have disagreement with a woman at church [SEP],0.14820196,The company adapts the product to the needs of the customer . , they are giving the customer what they want . , they will be able to sell more . ,1
+"I wish I had handled a situation with a neighbor differently by ignoring them instead of responding.
+","[CLS] I wish handled a situation differently
+2. I wish ignored them
+3. I wish responded [SEP]",0.69966584,I try to calm my boss's fears about the company's future . , I'm not sure about the company's future myself . , I may not be able to convince him . ,0
+"I wish I had handled a situation with a neighbor differently by ignoring them instead of responding.
+","[CLS] I wish handled a situation differently
+2. I wish ignored them
+3. I wish responded [SEP]",0.7239853,My boss asked for an explanation of my tardiness . , this is the third time I'm late this week . , he won't believe me . ,0
+"I was studying to be a nurse because I wanted a well-paying job that allowed me to use my service gift.
+","[CLS] I was studying to be a nurse  
+2. I wanted a well-paying job  
+3. I use my service gift [SEP]",0.22634311,I am going to ask my friend's crush out on a date . , I will be spending time with someone I like. , I will have a lot of fun . ,1
+"I was studying to be a nurse because I wanted a well-paying job that allowed me to use my service gift.
+","[CLS] I was studying to be a nurse  
+2. I wanted a well-paying job  
+3. I use my service gift [SEP]",0.22687188,I am working on getting my pilot's license in order to advance my career . , I have a lot of experience in the aviation industry . , it will give  me great opportunities . ,1
+"My dream job is to create new technology that changes the world.
+",[CLS][] [SEP],0.53146386,"I don't act my age, according to my friends . ", I can still have lots of fun and enjoy my life . , age is nothing but a number . ,1
+"My dream job is to create new technology that changes the world.
+",[CLS][] [SEP],0.5525049,I am waiting for the perfect moment to ask my crush out . , I have caught them staring at me longingly . , the answer will be yes . ,1
+"I sleep well every night and have been feeling normal lately.
+",[CLS][] [SEP],0.6783669,"I was at a networking event the other day and I met this really great guy, but I didn't catch his name . ", it's a small world . , we will bumped into each other again . ,1
+"I sleep well every night and have been feeling normal lately.
+",[CLS][] [SEP],0.6870693,I am accompanied by my boss's wife . , she is always talking . , I will not be respected . ,0
+"I recently felt really happy participating in a Pentecost Sunday prayer session at my church.
+","[CLS] Participant felt happy
+2. Participant participated Pentecost Sunday prayer session [SEP]",0.62048876,I adopted a baby . , I will love him/her unconditionally . , I can positively  provide him/her a wonderful life . ,1
+"I recently felt really happy participating in a Pentecost Sunday prayer session at my church.
+","[CLS] Participant felt happy
+2. Participant participated Pentecost Sunday prayer session [SEP]",0.6321538,I accomplish my goals by working hard and studying diligently . , my parents and friends are proud of me . , I've done a great job . ,1
+"I have not traveled much beyond local bus rides.
+",[CLS][] [SEP],0.75959736,One of my friends talking about his new girlfriend . , he has never been so sure about anything in his life . , he is going to marry her . ,1
+"I have not traveled much beyond local bus rides.
+",[CLS][] [SEP],0.78103435,My son is waiting his turn to get a haircut . , he has my eyes . , he looks so handsome . ,1
+"I want to be a better person by improving my listening, communication, and acceptance of my strengths and weaknesses.
+","[CLS] Participant want be a better person
+2. Participant improve listening
+3. Participant improve communication
+4. Participant improve acceptance of strengths and weaknesses [SEP]",0.096094504,I agree to go on a month-long trip with my friends . , we'll be spending so much time together . , we'll get to know each other better . ,1
+"I want to be a better person by improving my listening, communication, and acceptance of my strengths and weaknesses.
+","[CLS] Participant want be a better person
+2. Participant improve listening
+3. Participant improve communication
+4. Participant improve acceptance of strengths and weaknesses [SEP]",0.09667647,I achieved my aim to get an 'A' in the class . , they wanted me to get a 'B' . , my parents will be disappointed . ,0

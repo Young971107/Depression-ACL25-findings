@@ -1,0 +1,155 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I took twenty years to learn to be real with myself, embracing who I am and being honest with myself, which helped me avoid resentment in my family life.
+","[CLS] I took twenty years to learn to be real with myself
+2. I embrace who I am
+3. I be honest with myself
+4. I avoid resentment in my family life [SEP]",0.62285477,I accomplish my goals by working hard and studying diligently . , they  wanted me to take a different path . , my parents will be disappointed . ,0
+"I took twenty years to learn to be real with myself, embracing who I am and being honest with myself, which helped me avoid resentment in my family life.
+","[CLS] I took twenty years to learn to be real with myself
+2. I embrace who I am
+3. I be honest with myself
+4. I avoid resentment in my family life [SEP]",0.6406694,I accomplish my goals by working hard and studying diligently . , I know I can achieve anything I set my mind to . , my future is bright . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.57607776,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5784465,My boss asked for an explanation of my tardiness . , this is the third time I'm late this week . , he won't believe me . ,0
+"I relax by taking a deep breath, assessing my situation, and figuring out what I can control, always maintaining my own peace.
+","[CLS] I relax by taking a deep breath
+2. I assess my situation
+3. I figure out what I can control
+4. I maintain my own peace [SEP]",0.21162646,I accomplish my goals by working hard and studying diligently . , I will have better opportunities in the future . , my efforts positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively positively will be paid off . ,1
+"I relax by taking a deep breath, assessing my situation, and figuring out what I can control, always maintaining my own peace.
+","[CLS] I relax by taking a deep breath
+2. I assess my situation
+3. I figure out what I can control
+4. I maintain my own peace [SEP]",0.2189045,I agree to go on a month-long trip with my friends . , I have never been away from them for more than a week . , I will miss my family too much . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.65693754,I'm waiting for my date to arrive . , she  stood me up last time . , she may not come . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.72491705,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I had to make the hard decision to divorce my first husband after twenty years, knowing it would affect my kids, but I prioritized my well-being.
+","[CLS] Participant make decision to divorce first husband
+2. Participant prioritize well-being [SEP]",0.75943756,We putting our own business plan into action . , my partners and I have worked so hard on it . , it will be a success . ,1
+"I had to make the hard decision to divorce my first husband after twenty years, knowing it would affect my kids, but I prioritized my well-being.
+","[CLS] Participant make decision to divorce first husband
+2. Participant prioritize well-being [SEP]",0.7629752,My brother-in-law is helping my husband practice for his driving test . , he is very nervous . , he will never pass his test . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5030454,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5216154,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"I realized I needed to love myself first to be able to love my children and receive love in return, especially after feeling unfulfilled in my marriage.
+","[CLS] I realized I needed to love myself first
+2. I be able to love my children
+3. I receive love in return [SEP]",0.5051613,I am bringing up my children to be independent . , I will be setting a good example for them to follow . , they will grow up to be polite and successful . ,1
+"I realized I needed to love myself first to be able to love my children and receive love in return, especially after feeling unfulfilled in my marriage.
+","[CLS] I realized I needed to love myself first
+2. I be able to love my children
+3. I receive love in return [SEP]",0.53370225,I want to bring up my children in a safe and loving environment . , they will feel loved and supported . , they will be happy and content . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5154909,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5813302,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I have a mild temperament and do a self-check to stay calm when I feel agitated, reminding myself that some situations aren't worth reacting to.
+","[CLS] Participant do self-check
+2. Participant remind myself [SEP]",0.6871543,I have to go to a lot of parent-teacher meetings because I'm a teacher . , have to talk to different parents about their children . , will not have time for anything else . ,0
+"I have a mild temperament and do a self-check to stay calm when I feel agitated, reminding myself that some situations aren't worth reacting to.
+","[CLS] Participant do self-check
+2. Participant remind myself [SEP]",0.72252125,I have to go to a lot of parent-teacher meetings because I'm a teacher . , They will be able to see how much their child has progressed . , the parents will be happy with my work . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.58030945,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the text for analysis. [SEP],0.64144766,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I have an estranged relationship with my son and wish I had mothered him differently, treating him more like an adult earlier on.
+","[CLS] Participant have estranged relationship with son
+2. Participant wish mothered him differently [SEP]",0.64809394,I am breastfeeding my newborn daughter . , this is my first time doing it . , she won't latch on correctly . ,0
+"I have an estranged relationship with my son and wish I had mothered him differently, treating him more like an adult earlier on.
+","[CLS] Participant have estranged relationship with son
+2. Participant wish mothered him differently [SEP]",0.67432916,My brother-in-law is helping my husband practice for his driving test . , he is a very good driver . , he will pass his driving test on the first try . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.56106526,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5753081,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"I feel proud of my role as a wife and mother, as my family is my main source of fulfillment.
+",[CLS]No clear event can be extracted from the given sentence. [SEP],0.4695766,I have a huge zit on my nose . , it's not that big . , I can hide it with makeup . ,1
+"I feel proud of my role as a wife and mother, as my family is my main source of fulfillment.
+",[CLS]No clear event can be extracted from the given sentence. [SEP],0.498874,I have the same name as my dad . , I was named after him . , he's a positive person . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6984957,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.7248953,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I recently felt really happy when my teenage daughter and I reached an understanding in our relationship, and she accepted herself.
+","[CLS] Participant felt happy
+2. Participant reached understanding
+3. Participant accepted herself [SEP]",0.6135965,I appear among a group of people who are discussing the new company project . , I 'm  the only one who knows about the project . , my co-workers respect me . ,1
+"I recently felt really happy when my teenage daughter and I reached an understanding in our relationship, and she accepted herself.
+","[CLS] Participant felt happy
+2. Participant reached understanding
+3. Participant accepted herself [SEP]",0.6398232,I accomplish my goals by working hard and studying diligently . , my parents and friends are proud of me . , I've done a great job . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.54403394,I asked for my friend's explanation about why he was arguing with his girlfriend . , it was a personal matter . , he will not forgive me for asking . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5542772,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I went to Honduras to visit family, staying in a hotel to maintain my freedom while enjoying time with them.
+","[CLS] I went Honduras
+2. I visit family
+3. I stay hotel
+4. I enjoy time with them [SEP]",0.73567116,"After arriving at my aunt's house, I realized that she had been planning her own trip . ", I am the one who wanted to go on a trip . , I should have planned my own trip . ,0
+"I went to Honduras to visit family, staying in a hotel to maintain my freedom while enjoying time with them.
+","[CLS] I went Honduras
+2. I visit family
+3. I stay hotel
+4. I enjoy time with them [SEP]",0.7361753,"After arriving at my aunt's house, I realized that she had been planning her own trip . ", I had been looking forward to spending time with her . , I would have to cancel my plans . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5253507,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.56266636,My boss asked for an explanation of my tardiness . , I didn't have a good excuse . , I will be fired . ,0
+"I argued with my husband about my relationship with my father, wanting him to acknowledge my feelings.
+","[CLS] I argued with my husband
+2. I want him to acknowledge my feelings [SEP]",0.5379095,I ask my girlfriend's mom if I can marry her daughter . , I have been nothing but respectful and honest with her from the day we met . , she will give me a chance to be happy with the love of my life . ,1
+"I argued with my husband about my relationship with my father, wanting him to acknowledge my feelings.
+","[CLS] I argued with my husband
+2. I want him to acknowledge my feelings [SEP]",0.5568331,I was arguing with my sister's boyfriend about politics . , I'm usually pretty good about staying up to date on what's going on in the world . , it is important to talk about current events . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.539167,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5525551,My boss asked for an explanation of my tardiness . , I didn't have a good excuse . , I will be fired . ,0
+"I love cooking and would consider it my dream job if it remained as fun and joyous as it is now.
+",[CLS][] [SEP],0.7997082,I feel like I'm finally starting to act my age and mature a little bit . , that's what people my age are expected to do . , I will have to start acting serious and responsible all the time . ,0
+"I love cooking and would consider it my dream job if it remained as fun and joyous as it is now.
+",[CLS][] [SEP],0.8151487,"After I put in a hard day's work, it was nice to come home to a home-cooked meal . ", I worked so hard . , I deserve it . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.54447854,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.551734,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"I am different as a parent compared to my own parents, focusing more on the relationship with my children rather than just providing for them.
+",[CLS] I focus relationship with my children [SEP],0.4400226,A couple I know just adopted a baby from China . , I know they have always wanted to adopt a child and they have the means to do so . , they will give the baby everything she needs . ,1
+"I am different as a parent compared to my own parents, focusing more on the relationship with my children rather than just providing for them.
+",[CLS] I focus relationship with my children [SEP],0.52571315,A couple I know just adopted a baby from China . , they have always been so loving and nurturing with each of their nieces and nephews . , they will be awesome parents . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5676409,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5698099,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I am proud of my ability to maintain a simplistic lifestyle and enjoy my mini accomplishments every day.
+",[CLS][] [SEP],0.65913683,My aunt's travel has really affected her health . , she has good health care . , she will get better . ,1
+"I am proud of my ability to maintain a simplistic lifestyle and enjoy my mini accomplishments every day.
+",[CLS][] [SEP],0.67132163,I can barely afford my rent this month . , I have a good job . , things  will get better soon . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5817418,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.60339975,I have a huge zit on my nose . , they can't take their eyes off it . , people will find it amusing . ,1
+"I have a memorable experience from Hawaii, where I enjoyed a unique culinary experience with roasted pig.
+","[CLS] Participant have memorable experience
+2. Participant enjoy unique culinary experience
+3. Participant enjoy roasted pig [SEP]",0.78201795,My grandfather's stories from WWII affected my views on life . , He didn't have a great life . , My views on life are not as good as they should be . ,0
+"I have a memorable experience from Hawaii, where I enjoyed a unique culinary experience with roasted pig.
+","[CLS] Participant have memorable experience
+2. Participant enjoy unique culinary experience
+3. Participant enjoy roasted pig [SEP]",0.785208,I appear among a group of people who are discussing the new company project . , I 'm  the only one who knows about the project . , my co-workers respect me . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5451015,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5647198,My boss is always looking out for her own interests . , she is never satisfied with my work . , she will stab me in the back . ,0
+"I strive to be more aware of others, ensuring I'm not being selfish or offending anyone.
+",[CLS] I strive to be more aware of others [SEP],0.66392696,I bring together the people that I know will not get along in order to create a successful work environment . , communication and teamwork are essential . , the company will succeed . ,1
+"I strive to be more aware of others, ensuring I'm not being selfish or offending anyone.
+",[CLS] I strive to be more aware of others [SEP],0.6788028,We increase our associations with people who have the same goals as us . , we are like minded . , we will achieve our goals together . ,1

@@ -1,0 +1,109 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I moved to places I wanted to, like Ireland and California, achieving goals dear to my heart.
+","[CLS] I moved places
+2. I wanted places
+3. I achieving goals [SEP]",0.7326009,"I was going to ask my girlfriend's dad for permission to marry her, but he passed away before I could . ", he always wanted me to be happy . , he would have been happy for me . ,1
+"I moved to places I wanted to, like Ireland and California, achieving goals dear to my heart.
+","[CLS] I moved places
+2. I wanted places
+3. I achieving goals [SEP]",0.74549496,I bring home my date to my parent's house for the first time . , she isn't from the same cultural background as them . , they won't approve of her . ,0
+"I decided to move to L.A. after my main financial source in Santa Cruz ended, giving me the freedom to try something new.
+",[CLS] I decided move to L.A. [SEP],0.92938673,My dad is raising me and my siblings by himself . , my mother isn't around . , he is not getting any help from anyone . ,0
+"I decided to move to L.A. after my main financial source in Santa Cruz ended, giving me the freedom to try something new.
+",[CLS] I decided move to L.A. [SEP],0.95851636,I have accepted my friends offer to stay with her in New York for a week . , I will be able to explore the city and spend time with my friend . , I am going to enjoy the trip . ,1
+"I had an issue with the L.A. Times about a newspaper delivery for an elderly lady I care for, which led to frustration and an argument.
+","[CLS] Participant have issue with the L.A. Times
+2. Participant care for elderly lady
+3. Participant experience frustration
+4. Participant have argument [SEP]",0.8196144,My co-worker became my friend . , it is unprofessional . , I may get fired if we become too close . ,0
+"I had an issue with the L.A. Times about a newspaper delivery for an elderly lady I care for, which led to frustration and an argument.
+","[CLS] Participant have issue with the L.A. Times
+2. Participant care for elderly lady
+3. Participant experience frustration
+4. Participant have argument [SEP]",0.8261988,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"I was diagnosed with depression over twenty years ago when I was suicidal, but I don't currently go to therapy.
+","[CLS] I was diagnosed with depression
+2. I was suicidal
+3. I don't go to therapy [SEP]",0.70500714,I have been feeling really stressed lately and it's affecting my health . , it's been going on for awhile . , I may not be able to fix the situation . ,0
+"I was diagnosed with depression over twenty years ago when I was suicidal, but I don't currently go to therapy.
+","[CLS] I was diagnosed with depression
+2. I was suicidal
+3. I don't go to therapy [SEP]",0.7064823,My doctor advised me to take medication for my anxiety . , I have had it for a long time . , it will never go away . ,0
+"I traveled to Morocco for twelve days, visiting the Atlas Mountains and experiencing the culture.
+","[CLS] I traveled Morocco
+2. I visited Atlas Mountains
+3. I experienced culture [SEP]",0.77484494,I added another country to my travel bucket list . , I have the money to travel . , I would get to go there one day . ,1
+"I traveled to Morocco for twelve days, visiting the Atlas Mountains and experiencing the culture.
+","[CLS] I traveled Morocco
+2. I visited Atlas Mountains
+3. I experienced culture [SEP]",0.8444158,I relied on my friend's experiences when planning my own trip to Europe . , my friend had been there before . , my friend's knowledge would help me have a great time . ,1
+"I feel trapped and helpless in my current situation, struggling with work and finances.
+","[CLS] Participant feel trapped
+2. Participant feel helpless
+3. Participant struggle work
+4. Participant struggle finances [SEP]",0.55458534,I bring my team together for a meeting . , we will be able to communicate openly with each other . , we will be able to overcome our challenges . ,1
+"I feel trapped and helpless in my current situation, struggling with work and finances.
+","[CLS] Participant feel trapped
+2. Participant feel helpless
+3. Participant struggle work
+4. Participant struggle finances [SEP]",0.56929034,I have been feeling really stressed lately and it's affecting my health . , it would give me time to relax and de-stress . , taking a break will do me good . ,1
+"I am in a transition state, moving out of a house where I care for an elderly woman who causes me anxiety.
+","[CLS] Participant be in transition state
+2. Participant move out of house
+3. Participant care for elderly woman
+4. Elderly woman cause anxiety [SEP]",0.69372344,My co-worker became my friend . , it is unprofessional . , I may get fired if we become too close . ,0
+"I am in a transition state, moving out of a house where I care for an elderly woman who causes me anxiety.
+","[CLS] Participant be in transition state
+2. Participant move out of house
+3. Participant care for elderly woman
+4. Elderly woman cause anxiety [SEP]",0.7123396,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"Moving to Colorado was a tough decision because it meant being far from my family.
+",[CLS][] [SEP],0.5232806,"I don't act my age, according to my friends . ", I can still have lots of fun and enjoy my life . , age is nothing but a number . ,1
+"Moving to Colorado was a tough decision because it meant being far from my family.
+",[CLS][] [SEP],0.542256,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I reconnected with my birth mother, which was freeing and allowed me to create something new in the present.
+","[CLS] I reconnected birth mother
+2. I create something new [SEP]",0.5971719,I assumed my little sister's responsibility when our parents died . , I'm still young . , people will think I'm not capable . ,0
+"I reconnected with my birth mother, which was freeing and allowed me to create something new in the present.
+","[CLS] I reconnected birth mother
+2. I create something new [SEP]",0.60925674,I asked my sister-in-law if she wanted to join my book club . , she didn't want to join . , she will think I'm judging her reading habits . ,0
+"I love to travel and have visited places like Ireland, Morocco, Costa Rica, and Mexico.
+","[CLS] Participant love to travel
+2. Participant have visited places like Ireland Morocco Costa Rica and Mexico [SEP]",0.82880974,I have achieved one of my New Year's resolutions- to travel to Thailand! . , it was something I really wanted and I am so happy that I made it happen . , I positively can do anything I set my mind to! . ,1
+"I love to travel and have visited places like Ireland, Morocco, Costa Rica, and Mexico.
+","[CLS] Participant love to travel
+2. Participant have visited places like Ireland Morocco Costa Rica and Mexico [SEP]",0.834891,I am asking for travel advice from people who have been to Spain before . , they seem to know what they are talking about . , I am going to get some good tips . ,1
+"I stopped therapy after completing what needed to be worked on and moved to Ireland.
+","[CLS] I stopped therapy
+2. I completed what needed to be worked on
+3. I moved to Ireland [SEP]",0.6731474,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'm trying to help their children . , the parents appreciate my time . ,1
+"I stopped therapy after completing what needed to be worked on and moved to Ireland.
+","[CLS] I stopped therapy
+2. I completed what needed to be worked on
+3. I moved to Ireland [SEP]",0.69963574,My chiropractor has been having me come in three times a week to help improve my posture . , I no longer have pain in my lower back . , it is helping me become more flexible . ,1
+"I felt overwhelmed by a coaching program call, needing to be accountable and share personal things.
+","[CLS] Participant feel overwhelmed
+2. Participant need to be accountable
+3. Participant need to share personal things [SEP]",0.49851242,I have been feeling really stressed lately and it's affecting my health . ," I have been making an effort to go to the gym more, eating healthy and getting more sleep . ", I have started to taking better care of myself . ,1
+"I felt overwhelmed by a coaching program call, needing to be accountable and share personal things.
+","[CLS] Participant feel overwhelmed
+2. Participant need to be accountable
+3. Participant need to share personal things [SEP]",0.519979,I have been feeling really stressed lately and it's affecting my health . , it would give me time to relax and de-stress . , taking a break will do me good . ,1
+"The last time I felt really happy was when I saw my biological mother last May.
+",[CLS][] [SEP],0.7378062,My boss's mood affects my ability to concentrate on my work . , I will not be able to focus. , I will never get the job done . ,0
+"The last time I felt really happy was when I saw my biological mother last May.
+",[CLS][] [SEP],0.7715953,I act weird around people i am interested in . , I want to be seen as a good person . , I will give them a good impression of me . ,1
+"I moved to L.A. at the end of June last year, and it was challenging to get used to the big city.
+",[CLS] I moved L.A. [SEP],0.6590618,The art teacher arouses myinterest in painting . , I have no art skills . , I will be bad at it . ,0
+"I moved to L.A. at the end of June last year, and it was challenging to get used to the big city.
+",[CLS] I moved L.A. [SEP],0.67420024,"I was dared to skydive , so I agreed . ", I am scared of heights . , I might die . ,0
+"I grew up in Wisconsin, lived in Colorado, overseas, and then moved to California.
+","[CLS] Participant grew up Wisconsin
+2. Participant lived Colorado
+3. Participant lived overseas
+4. Participant moved California [SEP]",0.7440796,I relied on my friend's experiences when planning my own trip to Europe . , my friend's trip didn't go as planned . , my trip may not be as great as I hoped . ,0
+"I grew up in Wisconsin, lived in Colorado, overseas, and then moved to California.
+","[CLS] Participant grew up Wisconsin
+2. Participant lived Colorado
+3. Participant lived overseas
+4. Participant moved California [SEP]",0.75594175,I will bear my partner's share in the project . , he is not cooperative . , I will be cheated by my partner . ,0

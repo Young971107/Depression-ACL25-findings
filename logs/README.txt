@@ -1,0 +1,1 @@
+This folder contains raw and all kinds of processed data.

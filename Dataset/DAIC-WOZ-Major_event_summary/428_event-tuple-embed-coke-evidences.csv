@@ -1,0 +1,39 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I moved out of my mom's house to have my own space and independence.
+",[CLS] I moved out of my mom's house [SEP],0.6230575,I brought my kids to my ex's house . , they had so much fun there . , they won't want to leave . ,0
+"I moved out of my mom's house to have my own space and independence.
+",[CLS] I moved out of my mom's house [SEP],0.6239785,I went to my friends room to study together . , I would be focused on studying and wouldn't be thinking about anything else . , I wouldn't be distracted . ,1
+"I recently moved to a new house with a nice backyard where I host barbecues with friends and family.
+","[CLS] Participant moved new house
+2. Participant host barbecues [SEP]",0.81692886,I needed to ask my date's father for help . , he is always so nice and helpful . , he is going to be happy to help . ,1
+"I recently moved to a new house with a nice backyard where I host barbecues with friends and family.
+","[CLS] Participant moved new house
+2. Participant host barbecues [SEP]",0.8717631,My dad is raising me and my siblings by himself . , my mother isn't around . , he is not getting any help from anyone . ,0
+"I helped my mom through a difficult time by supporting her financially for almost nine years.
+","[CLS] I helped my mom
+2. I supported her financially [SEP]",0.52847385,My best friend's dad beat my friend in a race . , she doesn't like to lose . , she was really upset . ,0
+"I helped my mom through a difficult time by supporting her financially for almost nine years.
+","[CLS] I helped my mom
+2. I supported her financially [SEP]",0.539904,I had to ask my girlfriend's mom for help because I forgot her birthday . , I should have remembered it myself . , I will be seen as irresponsible . ,0
+"I felt really happy last night because I got a new game.
+",[CLS]- Participant got a new game [SEP],0.09133026,I act on my boss's behalf and sign a contract that I do not agree with . , I would not want to disobey my boss and get in trouble . , that I will be following my boss's orders . ,1
+"I felt really happy last night because I got a new game.
+",[CLS]- Participant got a new game [SEP],0.09314355,I approach my friend's crush in order to try and set them up on a date . , they have been talking about this person a lot lately . , my friend will be really happy . ,1
+"I enjoyed my sister's birthday party with lots of dancing and seeing family I hadn't seen in a while.
+","[CLS]- Participant enjoy sister's birthday party
+- Participant dance at the party
+- Participant see family [SEP]",0.16968186,I hold my friends place in line while they go to the bathroom . , I would want someone to do the same for me . , I am doing a good deed . ,1
+"I enjoyed my sister's birthday party with lots of dancing and seeing family I hadn't seen in a while.
+","[CLS]- Participant enjoy sister's birthday party
+- Participant dance at the party
+- Participant see family [SEP]",0.17007753,My best friend's dad beat my friend in a race . , he beat my friend . , my friend's dad is  better than me . ,0
+"I was thinking of pursuing a career as a sound engineer or mechanic because my dad used to do that.
+","[CLS] Participant think of pursuing career as a sound engineer
+2. Participant think of pursuing career as a mechanic [SEP]",0.7917687,My boss asked for an explanation of my tardiness . , he seems to trust me and values my work . , I will get a raise . ,1
+"I was thinking of pursuing a career as a sound engineer or mechanic because my dad used to do that.
+","[CLS] Participant think of pursuing career as a sound engineer
+2. Participant think of pursuing career as a mechanic [SEP]",0.8042949,I achieved my goal of quitting my day job and becoming a full-time writer . , I will be able to dedicate more time to writing . , it will positively affect my career . ,1
+"My dad recently returned and opened a shop, and I'm considering learning mechanics from him.
+",[CLS] Participant consider learning mechanics from dad [SEP],0.534089,We are going to have to adapt our lesson plans to the needs of the students . , they will be getting the material in a way that is best for them . , this is going to benefit our students  immensely . ,1
+"My dad recently returned and opened a shop, and I'm considering learning mechanics from him.
+",[CLS] Participant consider learning mechanics from dad [SEP],0.65135634,The company is adapting the product to the needs of the customer . , we always put the customer first . , we will succeed . ,1

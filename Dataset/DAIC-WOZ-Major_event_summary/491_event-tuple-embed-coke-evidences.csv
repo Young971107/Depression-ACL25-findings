@@ -1,0 +1,69 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I moved past my fear and decided to pursue my dream of becoming an attorney by enrolling in law school.
+","[CLS] Participant moved past fear
+2. Participant decided to pursue dream of becoming an attorney
+3. Participant enrolled in law school [SEP]",0.76863796,My boss asked for an explanation of my tardiness . , he seems to trust me and values my work . , I will get a raise . ,1
+"I moved past my fear and decided to pursue my dream of becoming an attorney by enrolling in law school.
+","[CLS] Participant moved past fear
+2. Participant decided to pursue dream of becoming an attorney
+3. Participant enrolled in law school [SEP]",0.7798343,I began my modeling career when I was 17 . , I have never done any modeling before . , I will be considered too young and inexperienced . ,0
+"I recently enjoyed catering a friend's CD release party and even got on stage to sing, overcoming my shyness.
+","[CLS] Participant enjoyed catering a friend's CD release party
+2. Participant got on stage to sing
+3. Participant overcame shyness [SEP]",0.3963222,I used my friend's car to get to the party . , he always drives carefully . , I will be able to get home safely . ,1
+"I recently enjoyed catering a friend's CD release party and even got on stage to sing, overcoming my shyness.
+","[CLS] Participant enjoyed catering a friend's CD release party
+2. Participant got on stage to sing
+3. Participant overcame shyness [SEP]",0.39699113,I am getting in my friend's car to go to the movies . , we're already running late . , we may not get there on time . ,0
+"I am dealing with overwhelming feelings due to attending a funeral and receiving health-related news.
+","[CLS] Participant deal with overwhelming feelings
+2. Participant attend funeral
+3. Participant receive health-related news [SEP]",0.6303407,My cousin's depression affects our family . , we are all she has . , I think we can help her through it . ,1
+"I am dealing with overwhelming feelings due to attending a funeral and receiving health-related news.
+","[CLS] Participant deal with overwhelming feelings
+2. Participant attend funeral
+3. Participant receive health-related news [SEP]",0.64701223,I relied on my friend's experiences when planning my own trip to Europe . , my friend's trip was a complete disaster . , my trip will be a disaster . ,0
+"I took a Mediterranean cruise as a student at Santa Monica College, which was the best trip of my life.
+",[CLS] I took Mediterranean cruise [SEP],0.5987787,My boss has asked me to go on a business trip to China with him . , I will be in a different time zone . , I will have to work long hours . ,0
+"I took a Mediterranean cruise as a student at Santa Monica College, which was the best trip of my life.
+",[CLS] I took Mediterranean cruise [SEP],0.66544974,My boss has asked me to go on a business trip to China with him . , China is very far from my home . , I will be away from my family for a long time . ,0
+"I was diagnosed with depression following my divorce and my mother's passing, experiencing symptoms like fatigue and emptiness.
+","[CLS] Participant was diagnosed with depression
+2. Participant experienced symptoms like fatigue and emptiness [SEP]",0.6505803,I have been feeling really stressed lately and it's affecting my health . , it's been going on for awhile . , I may not be able to fix the situation . ,0
+"I was diagnosed with depression following my divorce and my mother's passing, experiencing symptoms like fatigue and emptiness.
+","[CLS] Participant was diagnosed with depression
+2. Participant experienced symptoms like fatigue and emptiness [SEP]",0.7170664,My allergies are really starting to affect my ability to concentrate in class . , I have been managing them for a while now . , I will be able to get a handle on them . ,1
+"I have traveled to various places, including Europe, Jamaica, Canada, Mexico, Spain, Morocco, London, and Portugal, and I enjoy meeting new people and experiencing different cultures.
+","[CLS] I have traveled various places
+2. I enjoy meeting new people
+3. I enjoy experiencing different cultures [SEP]",0.7155827,I have achieved one of my New Year's resolutions- to travel to Thailand! . , I have never been to Thailand before and I have always wanted to travel there . , it will be an amazing experience . ,1
+"I have traveled to various places, including Europe, Jamaica, Canada, Mexico, Spain, Morocco, London, and Portugal, and I enjoy meeting new people and experiencing different cultures.
+","[CLS] I have traveled various places
+2. I enjoy meeting new people
+3. I enjoy experiencing different cultures [SEP]",0.7544418,"After arriving at my aunt's house, I realized that she had been planning her own trip . ", I am the one who wanted to go on a trip . , I should have planned my own trip . ,0
+"I have been influenced positively by college professors, friends, and church members, and faced challenges like my mother's illness and my divorce.
+","[CLS] Participant influenced positively by college professors
+2. Participant influenced positively by friends
+3. Participant influenced positively by church members
+4. Participant faced challenges like mother's illness
+5. Participant faced challenges like divorce [SEP]",0.70039696,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'll be too busy . , will not have time for anything else . ,0
+"I have been influenced positively by college professors, friends, and church members, and faced challenges like my mother's illness and my divorce.
+","[CLS] Participant influenced positively by college professors
+2. Participant influenced positively by friends
+3. Participant influenced positively by church members
+4. Participant faced challenges like mother's illness
+5. Participant faced challenges like divorce [SEP]",0.70756954,My co-worker became my friend . , it is unprofessional . , I may get fired if we become too close . ,0
+"I wish I could erase my marriage from my memory due to its negative impact, but it taught me valuable lessons.
+",[CLS][] [SEP],0.5845876,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"I wish I could erase my marriage from my memory due to its negative impact, but it taught me valuable lessons.
+",[CLS][] [SEP],0.6186342,"After I put in a hard day's work, it was nice to come home to a home-cooked meal . ", I worked so hard . , I deserve it . ,1
+"I am described by my best friend as outgoing, determined, trustworthy, faithful, and loyal.
+",[CLS]No clear event can be extracted from the given sentence as it is a description rather than an action-oriented statement. [SEP],0.36418146,I have the same name as my dad . , he has the same name as me . , he is a cool guy . ,1
+"I am described by my best friend as outgoing, determined, trustworthy, faithful, and loyal.
+",[CLS]No clear event can be extracted from the given sentence as it is a description rather than an action-oriented statement. [SEP],0.4227205,I was trying to be cool and aloof like my favorite movie star . , I'm not talented . , I will never be like him . ,0
+"I experienced family conflict over my mother's belongings after her passing, but I chose not to engage in arguments.
+","[CLS] I experienced family conflict
+2. I chose not to engage in arguments [SEP]",0.65203625,My cousin's depression affects our family . , we are all she has . , I think we can help her through it . ,1
+"I experienced family conflict over my mother's belongings after her passing, but I chose not to engage in arguments.
+","[CLS] I experienced family conflict
+2. I chose not to engage in arguments [SEP]",0.6916811,My cousin's depression affects our family . , we all love her . , of how everyone will feel when she gets better . ,1

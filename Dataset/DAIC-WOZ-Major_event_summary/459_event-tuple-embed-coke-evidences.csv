@@ -1,0 +1,81 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I went to hypnosis a few days ago, and it was really relaxing and calming. I feel like it could help me calm myself down when I'm angry and stay away from my trigger points to avoid becoming angry or depressed.
+","[CLS] I went hypnosis
+2. it was relaxing and calming
+3. I feel it could help me calm myself down
+4. I stay away my trigger points [SEP]",0.5945059,I afford my rent by working two jobs . , my parents taught me the importance of being independent . , I'm being responsible . ,1
+"I went to hypnosis a few days ago, and it was really relaxing and calming. I feel like it could help me calm myself down when I'm angry and stay away from my trigger points to avoid becoming angry or depressed.
+","[CLS] I went hypnosis
+2. it was relaxing and calming
+3. I feel it could help me calm myself down
+4. I stay away my trigger points [SEP]",0.6038386,I feel like I'm finally starting to act my age and mature a little bit . , I have put in the work and waited patiently . , this will positively lead to great opportunities . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.5890871,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6462327,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"My mom sought help for me because she saw that I was unhappy and became worried. I stopped going to therapy on June 1st when I graduated from my drug rehab program in Utah last year. I've learned coping skills, so I'm able to manage now.
+","[CLS] Participant stopped going therapy
+2. Participant graduated from drug rehab program
+3. Participant learned coping skills [SEP]",0.7491037,A same-sex couple adopts a child . , they have the same capacity to love as any other couple . , they will provide a loving home . ,1
+"My mom sought help for me because she saw that I was unhappy and became worried. I stopped going to therapy on June 1st when I graduated from my drug rehab program in Utah last year. I've learned coping skills, so I'm able to manage now.
+","[CLS] Participant stopped going therapy
+2. Participant graduated from drug rehab program
+3. Participant learned coping skills [SEP]",0.7802098,We putting our own business plan into action . , we didn't do enough market research . , it will not work out . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.3914796,My boss asked for an explanation of my tardiness . , I was late for work three times this week . , I will be fired . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.40076792,I asked for an explanation of the theory and the professor couldn't provide one . , I could have read the chapter on my own . , I wasted my time . ,0
+"I argued with my mom last night about buying a ticket for a Greyhound to go to Utah.
+","[CLS] I argued with my mom  
+2. I buy a ticket for a Greyhound  
+3. I go to Utah [SEP]",0.06284917,I agree to try the new burger at the restaurant . , it sounds delicious . , it will be fantastic . ,1
+"I argued with my mom last night about buying a ticket for a Greyhound to go to Utah.
+","[CLS] I argued with my mom  
+2. I buy a ticket for a Greyhound  
+3. I go to Utah [SEP]",0.06395848,I was the last person to board the plane and the guy in front of me was taking forever so I was a little frazzled by the time I got to my seat . , I calmly asked him to hurry up  . , I handled the situation well . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.516763,I have the same name as my dad . , he has always been there for me . , he is a great role model . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.54500985,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"I wish I could forget most of my high school years, especially my sophomore year. I didn't like high school.
+",[CLS][] [SEP],0.68207824,I really admire my boss's work ethic . , I'm not used to working long hours . , I will never be as hardworking as her . ,0
+"I wish I could forget most of my high school years, especially my sophomore year. I didn't like high school.
+",[CLS][] [SEP],0.7102148,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5192319,I have the same name as my dad . , they might think I am a child . , people will not take me seriously . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.53219175,I asked for an explanation of the theory and the professor couldn't provide one . , it's too difficult . , I'm not meant to understand it . ,0
+"When I was younger, my father once hit my dog in front of me because he was mad at me. That was probably the biggest thing that made me feel really badly about myself.
+",[CLS][] [SEP],0.8138429,I keep my fingers crossed for my driving test . , I am not confident . , I will fail . ,0
+"When I was younger, my father once hit my dog in front of me because he was mad at me. That was probably the biggest thing that made me feel really badly about myself.
+",[CLS][] [SEP],0.8414415,"The more I learn about my co-workers, the more I realize how much we have in common . ", I'm not interested in the same things as them . , I will never have friends at work . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.49945623,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text. [SEP],0.5265679,One of my friends talking about his new girlfriend . , he always has a beautiful girlfriend . , I want a new girlfriend too . ,1
+"When I was sixteen, I started doing a few different drugs, and it got out of hand. My mom was trying to get me help, but I didn't want it. I kept escaping to different places and running away until I finally agreed to go to Utah to try and get sober.
+","[CLS] I started doing drugs
+2. My mom was trying get me help
+3. I didn't want it
+4. I kept escaping different places
+5. I agreed go to Utah
+6. I try get sober [SEP]",0.7236709,I was arguing with my boyfriend about going to the gym more often . , I was too bossy . , he will leave me . ,0
+"When I was sixteen, I started doing a few different drugs, and it got out of hand. My mom was trying to get me help, but I didn't want it. I kept escaping to different places and running away until I finally agreed to go to Utah to try and get sober.
+","[CLS] I started doing drugs
+2. My mom was trying get me help
+3. I didn't want it
+4. I kept escaping different places
+5. I agreed go to Utah
+6. I try get sober [SEP]",0.7619356,"I asked my friend to come study with me at the library, but he wanted to go play soccer with his friends instead . ", my friend is not willing to help me . , I will have to study by myself . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.6475344,"The more I learn about my co-workers, the more I realize how much we have in common . ", I thought we are different . , I will have to change my perception about them . ,0
+"
+",[CLS]There is no conversation provided to extract events from. Please provide the conversation text for analysis. [SEP],0.658638,I have a niece who bears my name . , I have a very unique name . , I will be teased all my life . ,0
+"I was diagnosed with depression for the first time when I was twelve, and I've been diagnosed multiple times since then, with the most recent diagnosis being less than a year ago.
+","[CLS] Participant was diagnosed with depression
+2. Participant have been diagnosed multiple times
+3. Participant was diagnosed less than a year ago [SEP]",0.7048538,The news about the outbreak is affecting people's mental health . , I don't usually watch the news . , I'm more resistant to getting anxious . ,1
+"I was diagnosed with depression for the first time when I was twelve, and I've been diagnosed multiple times since then, with the most recent diagnosis being less than a year ago.
+","[CLS] Participant was diagnosed with depression
+2. Participant have been diagnosed multiple times
+3. Participant was diagnosed less than a year ago [SEP]",0.7199339,My doctor advised me to take medication for my anxiety . , I have had it for a long time . , it will never go away . ,0

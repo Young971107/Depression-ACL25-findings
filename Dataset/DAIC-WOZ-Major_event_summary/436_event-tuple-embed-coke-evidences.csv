@@ -1,0 +1,65 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I visited the pyramids in Mexico City to learn about my ancient Mayan and Aztec culture.
+","[CLS] I visited the pyramids in Mexico City
+2. I learn about my ancient Mayan and Aztec culture [SEP]",0.75598085,"I don't act my age, according to my friends . ", I don't feel like I am old . , I am young at heart . ,1
+"I visited the pyramids in Mexico City to learn about my ancient Mayan and Aztec culture.
+","[CLS] I visited the pyramids in Mexico City
+2. I learn about my ancient Mayan and Aztec culture [SEP]",0.7576253,I asked my friend's boyfriend if he wanted to go on a trip with us to the Caribbean . , he likes to travel and he has been talking about wanting to go on a trip for a while now . , he would say yes . ,1
+"I dropped out of school but returned to study graphic design.
+","[CLS] I dropped out of school
+2. I returned to study graphic design [SEP]",0.7097403,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they are getting good grades and behaving well in class . , the parents are going to be happy with how their kids are doing . ,1
+"I dropped out of school but returned to study graphic design.
+","[CLS] I dropped out of school
+2. I returned to study graphic design [SEP]",0.79203343,My grades have increased since I started hanging out with John . , my grades are really good . , will get into the college of my dreams . ,1
+"I moved to Los Angeles with my family for a better life.
+",[CLS] I moved Los Angeles [SEP],0.43414786,"After careful consideration, I have decided to move to Seattle . ", I have done research on the area and it seems like a great fit for me . , the city has a lot to offer . ,1
+"I moved to Los Angeles with my family for a better life.
+",[CLS] I moved Los Angeles [SEP],0.43448836,"After careful consideration, I have decided to move to Seattle . ", I'm not familiar with anyone there . , I will be all alone in a new city . ,0
+"I have visited my hometown in Mexico three or four times for vacation and find it less stressful than Los Angeles.
+",[CLS] Participant have visited hometown in Mexico [SEP],0.5428826,I was thinking about my cousin – she's traveling in Africa right now . , she's all alone in the safari . , she will get killed by a wild animal . ,0
+"I have visited my hometown in Mexico three or four times for vacation and find it less stressful than Los Angeles.
+",[CLS] Participant have visited hometown in Mexico [SEP],0.55198425,I was thinking about my cousin – she's traveling in Africa right now . , it's such a dangerous place . , she may get kidnapped or hurt . ,0
+"I argued with someone about a bill two days ago, even though I had already taken care of it.
+","[CLS] I argued someone
+2. I had taken care of bill [SEP]",0.616092,I was arguing with my sister's boyfriend about politics . , I raised my voice too much . , I will be kicked out of the car . ,0
+"I argued with someone about a bill two days ago, even though I had already taken care of it.
+","[CLS] I argued someone
+2. I had taken care of bill [SEP]",0.61840576,I ask my neighbor for help because my car won't start . , I have been nice to them in the past and they seem like they would be the type of person to help me in this type of situation . , that the person is going to help me . ,1
+"I felt overwhelmed waiting for a check, despite having made proper arrangements.
+",[CLS][] [SEP],0.6726127,My aunt's travel has really affected her health . , she has good health care . , she will get better . ,1
+"I felt overwhelmed waiting for a check, despite having made proper arrangements.
+",[CLS][] [SEP],0.70771456,"My grandfather always tried to act like a man, even though he was very sick . ", he isn't trying to act like anything . , he is better now . ,1
+"I aspire to have my own business, possibly making web pages, to have freedom and not rely on others.
+","[CLS] I aspire have my own business
+2. I aspire have freedom
+3. I aspire not rely on others [SEP]",0.8344581,I will be taking over my grandmother's house responsibilities while she is in the hospital . , I have never done it before . , I will not be able to handle it . ,0
+"I aspire to have my own business, possibly making web pages, to have freedom and not rely on others.
+","[CLS] I aspire have my own business
+2. I aspire have freedom
+3. I aspire not rely on others [SEP]",0.8567976,I will bear my partner's share in the project . , I have already done it before . , I will be able to manage it well . ,1
+"I felt demeaned when visiting Mexico because of how I was treated until they saw my American credit card.
+","[CLS] I felt demeaned visiting Mexico
+2. I was treated demeaningly
+3. they saw my American credit card [SEP]",0.6558624,A nerdy guy adjusts his glasses and shyly looks away after making eye contact with the pretty girl he's been staring at from across the room . , he's been making an effort to talk to her . , he will go talk to her . ,1
+"I felt demeaned when visiting Mexico because of how I was treated until they saw my American credit card.
+","[CLS] I felt demeaned visiting Mexico
+2. I was treated demeaningly
+3. they saw my American credit card [SEP]",0.66135955,A nerdy guy adjusts his glasses and shyly looks away after making eye contact with the pretty girl he's been staring at from across the room . , he's been working up the courage to do so all night . , he will ask her out . ,1
+"I regret dropping out of school and wish I had handled past decisions differently.
+","[CLS] Participant regret dropping out of school
+2. Participant wish handled past decisions differently [SEP]",0.6839328,I have achieved one of my New Year's resolutions- to travel to Thailand! . , I have other responsibilities . , I will not be able to travel as much as I want to . ,0
+"I regret dropping out of school and wish I had handled past decisions differently.
+","[CLS] Participant regret dropping out of school
+2. Participant wish handled past decisions differently [SEP]",0.71204394,My boss's decision affects my interests because I do not want the job position that he offered me . , it's not what I want . , I will have to confront him . ,0
+"My brother was involved in gangs, which led to unpleasant memories I prefer not to discuss.
+",[CLS][] [SEP],0.577932,"I don't act my age, according to my friends . ", I can still enjoy things that some people my age might not enjoy . , I am young at heart . ,1
+"My brother was involved in gangs, which led to unpleasant memories I prefer not to discuss.
+",[CLS][] [SEP],0.59171224,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I enjoy spending my ideal weekend relaxing with my girlfriend, either going out or staying at home without interruptions.
+","[CLS] I enjoy spending my ideal weekend relaxing with my girlfriend
+2. I enjoy going out
+3. I enjoy staying at home without interruptions [SEP]",0.633044,I have to do extra work because my coworker is slacking off . , I always have to do extra work . , I will never get a break . ,0
+"I enjoy spending my ideal weekend relaxing with my girlfriend, either going out or staying at home without interruptions.
+","[CLS] I enjoy spending my ideal weekend relaxing with my girlfriend
+2. I enjoy going out
+3. I enjoy staying at home without interruptions [SEP]",0.6389602,I approached my friend's crush at the party . , I have all the qualities she likes in a guy . , she would start dating me . ,1

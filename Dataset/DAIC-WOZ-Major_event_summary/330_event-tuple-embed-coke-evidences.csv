@@ -1,0 +1,73 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I recently went on a walk at night, which I really enjoyed.
+","[CLS] Participant went on a walk
+2. Participant enjoyed walk [SEP]",0.24069059,They had a big discussion on women's rights and how to address the issue . , it's an important topic . , it's something that needs to be talked about more . ,1
+"I recently went on a walk at night, which I really enjoyed.
+","[CLS] Participant went on a walk
+2. Participant enjoyed walk [SEP]",0.2551164,I flirt with my boss to try to get a raise . , flirtatious behavior is often seen as a sign of attraction . ," When I flirt with my boss to try to get a raise, I feel great since I think I have a good chance of getting what I want . ",1
+"I am currently a student going back to school for biological sciences.
+",[CLS] Participant go back school [SEP],0.31765974,I brought my son to school for the first time . , I will be at work . , I will not be able to see him during the day . ,0
+"I am currently a student going back to school for biological sciences.
+",[CLS] Participant go back school [SEP],0.31889364,I brought my son to school for the first time . , he is a social person . , he will  have great friends . ,1
+"I started reading some textbooks, which led me to decide to study biological sciences.
+","[CLS] I started reading textbooks
+2. I decide study biological sciences [SEP]",0.6445914,I have to go to a lot of parent-teacher meetings because I'm a teacher . , have to talk to different parents about their children . , will not have time for anything else . ,0
+"I started reading some textbooks, which led me to decide to study biological sciences.
+","[CLS] I started reading textbooks
+2. I decide study biological sciences [SEP]",0.66724247,I based my research on my mom's experienced . , she is not an expert in the field . , I will get low grades . ,0
+"My dream job is to become a medical doctor.
+",[CLS][] [SEP],0.58702755,I have the same name as my dad . , we have the same name . , he's a positive person . ,1
+"My dream job is to become a medical doctor.
+",[CLS][] [SEP],0.6301596,I spend most of my day either working or at school . , I have made a  schedule for myself . , I  am going to have a very productive day . ,1
+"I listen to music to relax.
+",[CLS] I listen music [SEP],0.45763028,I give my opinions about music to my boss . , he asked for them in the first place . , he will take them into consideration . ,1
+"I listen to music to relax.
+",[CLS] I listen music [SEP],0.46750468,I give my opinions about music to my boss . , I am very passionate about it . , she will listen to me . ,1
+"I consider myself an introvert.
+",[CLS][] [SEP],0.63700575,I am accompanied by my boss's wife . , she is always talking . , I will not be respected . ,0
+"I consider myself an introvert.
+",[CLS][] [SEP],0.6390798,"I don't act my age, according to my friends . ", I will be seen as a child . , I will never be respected . ,0
+"I cope with challenges by going for a walk, reading a book, or listening to music.
+","[CLS] I cope challenges
+2. I go walk
+3. I read book
+4. I listen music [SEP]",0.5691859,My chiropractor has been having me come in three times a week to help improve my posture . , I will have done everything possible to help improve it . , my posture will improve . ,1
+"I cope with challenges by going for a walk, reading a book, or listening to music.
+","[CLS] I cope challenges
+2. I go walk
+3. I read book
+4. I listen music [SEP]",0.6544221,My chiropractor has been having me come in three times a week to help improve my posture . , he said it takes time and a lot of effort . , my spine will be straighter . ,1
+"I am very good at controlling my temper and breathe in and out when I'm annoyed.
+",[CLS][] [SEP],0.6646584,I was airing my dirty laundry in public . , I was acting foolishly  . , people can see my flaws . ,0
+"I am very good at controlling my temper and breathe in and out when I'm annoyed.
+",[CLS][] [SEP],0.68914735,"Every time I see a picture of a dog, I automatically assume it's form . ", I can't change my thinking . , I will look stupid . ,0
+"I like jogging, walking, bicycling, reading, and listening to music for fun.
+",[CLS][] [SEP],0.7053126,I always base my travel plans off of my friends' experiences . , my friends are always happy when they come back from their trips . , I will have a good time no matter what . ,1
+"I like jogging, walking, bicycling, reading, and listening to music for fun.
+",[CLS][] [SEP],0.7155358,I am trying to remember the name of the new guy I met . , I am really bad with names . , I will never remember it . ,0
+"I studied math, engineering, and computers at school.
+","[CLS] Participant studied math
+2. Participant studied engineering
+3. Participant studied computers [SEP]",0.7202413,I will ask my doctor tomorrow about my test results . , I have been feeling really sick lately . , they will be bad . ,0
+"I studied math, engineering, and computers at school.
+","[CLS] Participant studied math
+2. Participant studied engineering
+3. Participant studied computers [SEP]",0.7287121,I asked for my friend's explanation about why he was arguing with his girlfriend . , I was prying into his business . , he will get mad at me . ,0
+"I am most proud of my academic achievements, particularly the time I've spent studying math and science.
+","[CLS] Participant be proud of academic achievements
+2. Participant spend time studying math and science [SEP]",0.6187501,I accomplish my goals by working hard and studying diligently . , my hard work will have paid off . , my future is bright . ,1
+"I am most proud of my academic achievements, particularly the time I've spent studying math and science.
+","[CLS] Participant be proud of academic achievements
+2. Participant spend time studying math and science [SEP]",0.6224517,I accomplish my goals by working hard and studying diligently . , I've been saw as a underachiever . , I will not be accepted by others . ,0
+"I sometimes feel down when thinking about challenges ahead of me.
+",[CLS]No clear event can be extracted from the given sentence as it describes a feeling rather than an action directed towards an object. [SEP],0.43958095,I was trying to be cool and aloof like my favorite movie star . , I'm not talented . , I will never be like him . ,0
+"I sometimes feel down when thinking about challenges ahead of me.
+",[CLS]No clear event can be extracted from the given sentence as it describes a feeling rather than an action directed towards an object. [SEP],0.47897613,I believe that good luck comes to those who work hard . , luck is not something that can be forced . ," no matter how much effort I put in, things will never go my way . ",0
+"I tend to excel at things that involve spending time alone rather than with lots of people.
+",[CLS][] [SEP],0.7149669,I browse through my art collection that I have been building for years . , it's not worth anything . , I will never be able to sell it . ,0
+"I tend to excel at things that involve spending time alone rather than with lots of people.
+",[CLS][] [SEP],0.7222503,I always told my friends that I would never get married . , I didn't want it . , I will not find love . ,0
+"I argued with someone recently about how to pack something into the car.
+",[CLS] I argued with someone [SEP],0.57573426,I was arguing with my brother and I said something that just made him angry . , what I said was really hurtful . , I just ruined our relationship . ,0
+"I argued with someone recently about how to pack something into the car.
+",[CLS] I argued with someone [SEP],0.5887083,I was arguing with my brother and I said something that just made him angry . , he didn't say anything after that . , I might have won the argument . ,1

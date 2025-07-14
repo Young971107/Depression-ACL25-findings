@@ -1,0 +1,79 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"Twenty years ago, I was fifteen, and I would advise myself to keep doing what I was doing because it worked out well for me.
+",[CLS][] [SEP],0.8231324,One of my friends talking about his new girlfriend . , he has never been so sure about anything in his life . , he is going to marry her . ,1
+"Twenty years ago, I was fifteen, and I would advise myself to keep doing what I was doing because it worked out well for me.
+",[CLS][] [SEP],0.84016865,I am trying to remember the name of the new guy I met . , I am really bad with names . , I will never remember it . ,0
+"I feel happy when I have a good workout, do well in video games, or when my research in mathematics or physics goes well.
+",[CLS][] [SEP],0.6581078,"The more I learn about my co-workers, the more I realize how much we have in common . ", we may have different backgrounds and interests . , we may not have anything in common . ,0
+"I feel happy when I have a good workout, do well in video games, or when my research in mathematics or physics goes well.
+",[CLS][] [SEP],0.6648917,I was trying to be cool and aloof like my favorite movie star . , I am not like him at all . , I will be laughed at . ,0
+"I started off in school reading about Einstein and got interested in particle physics and quantum mechanics, eventually realizing I could do research in physics and contribute to scientific knowledge.
+","[CLS] I started reading about Einstein
+2. I got interested particle physics and quantum mechanics
+3. I realized I could do research in physics
+4. I contribute scientific knowledge [SEP]",0.7041935,I have been trying to adjust the spacing on my powerpoint presentation for the last hour . , the spacing is more even . , my presentation looks much better . ,1
+"I started off in school reading about Einstein and got interested in particle physics and quantum mechanics, eventually realizing I could do research in physics and contribute to scientific knowledge.
+","[CLS] I started reading about Einstein
+2. I got interested particle physics and quantum mechanics
+3. I realized I could do research in physics
+4. I contribute scientific knowledge [SEP]",0.71697676,I have been trying to adjust the spacing on my powerpoint presentation for the last hour . , my presentation looks very professional now . , I accomplished something great . ,1
+"Serving in the military didn't change me much because I grew up expecting it, and after the military, I went to graduate school in physics.
+","[CLS] Participant serve military
+2. Participant go graduate school in physics [SEP]",1.0306692,I am working on getting my pilot's license in order to advance my career . , it's a lot of work . , I won't have time for anything else . ,0
+"Serving in the military didn't change me much because I grew up expecting it, and after the military, I went to graduate school in physics.
+","[CLS] Participant serve military
+2. Participant go graduate school in physics [SEP]",1.0357332,My boss is always looking out for her own interests . , she is always looking out for her own interests . , she will get what she deserves . ,1
+"I teach community college physics and astronomy, do research in physics, and plan to go back to grad school.
+","[CLS] I teach community college physics and astronomy
+2. I do research in physics
+3. I plan go back to grad school [SEP]",0.64726007,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they are getting good grades and behaving well in class . , the parents are going to be happy with how their kids are doing . ,1
+"I teach community college physics and astronomy, do research in physics, and plan to go back to grad school.
+","[CLS] I teach community college physics and astronomy
+2. I do research in physics
+3. I plan go back to grad school [SEP]",0.7046483,I have to go to a lot of parent-teacher meetings because I'm a teacher . , have to talk to different parents about their children . , will not have time for anything else . ,0
+"I am most proud of the research I have done and making it this far in my research career.
+","[CLS] I am proud of the research I have done
+2. I am proud of making it this far in my research career [SEP]",0.64197206,"I don't act my age, according to my friends . ", I don't feel like I am old . , I am young at heart . ,1
+"I am most proud of the research I have done and making it this far in my research career.
+","[CLS] I am proud of the research I have done
+2. I am proud of making it this far in my research career [SEP]",0.6711874,I ask my boss to let me leave early so I can attend my child's soccer game . , I have been working hard and have been meeting all my deadlines . , he will say yes . ,1
+"I am really good at math, patient, and disciplined, spending many hours reading books that might be important.
+",[CLS] Participant spend hours reading books [SEP],0.3976411,I was browsing my collection of books on travel guides for my next trip . , it's too expensive to go . , I will have to cancel it . ,0
+"I am really good at math, patient, and disciplined, spending many hours reading books that might be important.
+",[CLS] Participant spend hours reading books [SEP],0.43106675,I was browsing my collection of books on travel guides for my next trip . , I love to travel and learn about new cultures . , I am going to have a lot of fun . ,1
+"A few weeks ago, I felt really happy when I got a good grade in a class.
+","[CLS] Participant felt happy
+2. Participant got good grade [SEP]",0.4757926,I just adopted a new kitten from the animal shelter . , I am its new mommy . , I have saved its life . ,1
+"A few weeks ago, I felt really happy when I got a good grade in a class.
+","[CLS] Participant felt happy
+2. Participant got good grade [SEP]",0.5155592,I bring forth my best work in order to be considered for a promotion . , the others who are also vying for the position may have more experience . , my best may not be good enough . ,0
+"I am applying to grad school again, feeling apprehensive but hopeful.
+",[CLS] Participant apply grad school [SEP],0.74535793,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they offer parents and guardians an opportunity to learn about their child's progress in school . , that parent-teacher meetings are so important . ,1
+"I am applying to grad school again, feeling apprehensive but hopeful.
+",[CLS] Participant apply grad school [SEP],0.7818233,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they always want their children to get better grades . , the parents will never be happy with me . ,0
+"I argued with my brother about video games, which is a rare occurrence since I'm single and don't argue much.
+",[CLS] I argued with my brother [SEP],0.63337207,I was arguing with my boyfriend about going to the gym more often . , I have nagged him about it for weeks now . , I will get my way . ,1
+"I argued with my brother about video games, which is a rare occurrence since I'm single and don't argue much.
+",[CLS] I argued with my brother [SEP],0.69769573,I beat my friend in a video game . , my friend is a sore loser . , I will be accused of cheating . ,0
+"I am fairly close to my family, seeing my parents and brother often and tutoring my sister's kids.
+","[CLS] Participant see parents
+2. Participant see brother
+3. Participant tutor sister's kids [SEP]",0.56905013,My brother-in-law is helping my husband practice for his driving test . , he is a very nervous driver . , he will not pass . ,0
+"I am fairly close to my family, seeing my parents and brother often and tutoring my sister's kids.
+","[CLS] Participant see parents
+2. Participant see brother
+3. Participant tutor sister's kids [SEP]",0.59039366,A same-sex couple adopts a child . , I was raised in a family with two moms . , positively about it and I have a lot of love to give . ,1
+"I am introverted, spending long periods doing math and reading, and I relax by playing video games and working out.
+","[CLS] Participant spend long periods doing math and reading
+2. Participant relax by playing video games
+3. Participant relax by working out [SEP]",0.63178855,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'll be too busy . , will not have time for anything else . ,0
+"I am introverted, spending long periods doing math and reading, and I relax by playing video games and working out.
+","[CLS] Participant spend long periods doing math and reading
+2. Participant relax by playing video games
+3. Participant relax by working out [SEP]",0.6466651,I have to go to a lot of parent-teacher meetings because I'm a teacher . , I'm trying to help their children . , the parents appreciate my time . ,1
+"I used to travel a lot for school conferences but not as much now, and I don't enjoy traveling.
+","[CLS] I used to travel a lot for school conferences
+2. I don't enjoy traveling [SEP]",0.623217,I have to go to a lot of parent-teacher meetings because I'm a teacher . , they are getting good grades and behaving well in class . , the parents are going to be happy with how their kids are doing . ,1
+"I used to travel a lot for school conferences but not as much now, and I don't enjoy traveling.
+","[CLS] I used to travel a lot for school conferences
+2. I don't enjoy traveling [SEP]",0.6254667,I have to go to a lot of parent-teacher meetings because I'm a teacher . , their kids are not doing well in my class . , I will be scolded by the parents . ,0

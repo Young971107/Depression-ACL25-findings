@@ -1,0 +1,39 @@
+event,event_tuple,distance,situation,clue,thought,polarity
+"I feel really happy when I'm around someone I like, playing games, talking, and doing a book club together.
+",[CLS][] [SEP],0.7177539,I feel like I'm finally starting to act my age and mature a little bit . , that's what people my age are expected to do . , I will have to start acting serious and responsible all the time . ,0
+"I feel really happy when I'm around someone I like, playing games, talking, and doing a book club together.
+",[CLS][] [SEP],0.81509554,I am accompanied by my boss's wife . , she is very observant . , she will find out about our affair . ,0
+"I love my living situation with roommates near the beach, where I can walk and hang out with friends, feeling like I'm on vacation.
+","[CLS] Participant love living situation
+2. Participant walk beach
+3. Participant hang out friends [SEP]",0.8042684,I have a huge zit on my nose . , I have a lot of experience with hiding blemishes . , I can hide it with makeup . ,1
+"I love my living situation with roommates near the beach, where I can walk and hang out with friends, feeling like I'm on vacation.
+","[CLS] Participant love living situation
+2. Participant walk beach
+3. Participant hang out friends [SEP]",0.8231225,My co-worker became my friend . , it is unprofessional . , I may get fired if we become too close . ,0
+"I meditate almost every day, walk on the beach, and enjoy the peacefulness of the ocean.
+","[CLS] Participant meditate almost every day
+2. Participant walk on the beach
+3. Participant enjoy the peacefulness of the ocean [SEP]",0.6429884,The weather forecast said that the hurricane would affect people's travel plans . , no one will be there . , that I will have the beach all to myself . ,1
+"I meditate almost every day, walk on the beach, and enjoy the peacefulness of the ocean.
+","[CLS] Participant meditate almost every day
+2. Participant walk on the beach
+3. Participant enjoy the peacefulness of the ocean [SEP]",0.65506536,They had a big discussion on women's rights and how to address the issue . , I'm only seventeen . , I will be laughed at . ,0
+"I traveled to Singapore in February with a friend, flying first class using frequent flyer miles, which was a great experience.
+","[CLS] I traveled Singapore
+2. I flew first class [SEP]",0.669314,I added another country to my travel bucket list . , I have the money to travel . , I would get to go there one day . ,1
+"I traveled to Singapore in February with a friend, flying first class using frequent flyer miles, which was a great experience.
+","[CLS] I traveled Singapore
+2. I flew first class [SEP]",0.75424004,The weather forecast said that the hurricane would affect people's travel plans . , my flight is tomorrow . , I will be stuck in the airport . ,0
+"I feel guilty about not spending enough time with my nephew on the east coast, as I used to when I lived closer.
+",[CLS] I feel guilty about not spending enough time with my nephew [SEP],0.08141419,I pretend to be interested in sports so that my male friends will not think I am weird . , sports are a big part of most men's lives . , I am being more like everyone else . ,1
+"I feel guilty about not spending enough time with my nephew on the east coast, as I used to when I lived closer.
+",[CLS] I feel guilty about not spending enough time with my nephew [SEP],0.08186536,I bring together the people that I know will not get along in order to create a successful work environment . , they will not be able to compromise . , the environment will not be successful . ,0
+"I moved to L.A. about five and a half years ago, and it was one of the best decisions I've made.
+",[CLS] I moved L.A. [SEP],0.58957064,The art teacher arouses myinterest in painting . , I have no art skills . , I will be bad at it . ,0
+"I moved to L.A. about five and a half years ago, and it was one of the best decisions I've made.
+",[CLS] I moved L.A. [SEP],0.59202373,I arouse my boss's interest by wearing a low-cut shirt to work . , he is known for being a womanizer . , he  will try to take sexual advantage of me . ,0
+"I wish I had more self-discipline, could eat healthier, not procrastinate, and be in a relationship.
+",[CLS][] [SEP],0.7275998,I always told my friends that I would never get married . , I didn't want it . , I will not find love . ,0
+"I wish I had more self-discipline, could eat healthier, not procrastinate, and be in a relationship.
+",[CLS][] [SEP],0.7490928,I was in line at the grocery store and the person in front of me was acting really weird . , my cat isn't acting like its normal self . , my cat is sick . ,0
